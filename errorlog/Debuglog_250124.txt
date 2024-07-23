@@ -1,1305 +1,0 @@
-10.140.36.133	25-01-2024 11:46:24 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/forgotpasswordapi.php10.140.36.133	25-01-2024 11:46:24 AM	JSON POST : {
-        "URL" : "http://10.150.146.12/tinfc1/UAT/resetpassword.php?uid=cWN1c2VyNQ==",
-        "UserId" : "qcuser5"
-    }10.140.36.133	25-01-2024 11:46:24 AM	RESPONSE FROM FORGOT PAGE: {
-    "status": 0,
-    "Message": "Reset Password Link is sent to Your Registered Email Address."
-}10.140.36.133	25-01-2024 11:50:46 AM	ui dGFuZGF0YWVudHJ5dXNlcg== and pas cmVsaWdhcmVAMTIz10.140.36.133	25-01-2024 11:50:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.133	25-01-2024 11:50:46 AM	JSON POST : Array10.140.36.133	25-01-2024 11:50:46 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "60",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "houser",
-    "UserName": "TAN Data Entry  [User-1]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.36.133	25-01-2024 11:50:46 AM	Json parting value34434510.140.36.133	25-01-2024 11:50:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.133	25-01-2024 11:50:46 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.133	25-01-2024 11:50:47 AM	Session BranchId...houser10.140.36.133	25-01-2024 11:50:47 AM	Session Type...HOUSER10.140.36.133	25-01-2024 11:50:47 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.133	25-01-2024 11:50:47 AM	JSON POST : { "UserType": "HOUSER", "UserId": "60", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.133	25-01-2024 11:50:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.133	25-01-2024 11:50:55 AM	JSON POST : 10.140.36.133	25-01-2024 11:50:58 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - 10.140.36.133	25-01-2024 11:50:58 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/OfficeInfoListAPI.php10.140.36.133	25-01-2024 11:50:58 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.133	25-01-2024 11:50:58 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.133	25-01-2024 11:51:04 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=34434510.140.36.133	25-01-2024 11:51:04 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.133	25-01-2024 11:51:04 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.133	25-01-2024 11:51:42 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=34434510.140.36.133	25-01-2024 11:51:42 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.133	25-01-2024 11:51:42 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.133	25-01-2024 11:52:57 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=34434510.140.36.133	25-01-2024 11:52:57 AM	add vendor user:http://10.150.146.12/UAT_BackEnd/General/addedituser.php---action=userCreation&type=HOUSER&editId=60&MasterCode=344345&Role=1&UserId=tandataentryuser&Email=rajuddin%40religare.com&FirstName=HO&LastName=Express&InitialPassword=test&Status=1&panAssignmentQty=010.140.36.133	25-01-2024 11:52:57 AM	RESPONCE USER FROM USER CREATION :Update Successfully10.140.36.133	25-01-2024 11:52:57 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.133	25-01-2024 11:52:57 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.133	25-01-2024 11:53:10 AM	ui dGFuZGF0YWVudHJ5dXNlcg== and pas dGVzdA==10.140.36.133	25-01-2024 11:53:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.133	25-01-2024 11:53:10 AM	JSON POST : Array10.140.36.133	25-01-2024 11:53:10 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "60",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "HOUSER",
-    "UserName": "HO  Express",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.36.133	25-01-2024 11:53:10 AM	Json parting value34434510.140.36.133	25-01-2024 11:53:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.133	25-01-2024 11:53:10 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.133	25-01-2024 11:53:11 AM	Session BranchId...HOUSER10.140.36.133	25-01-2024 11:53:11 AM	Session Type...HOUSER10.140.36.133	25-01-2024 11:53:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.133	25-01-2024 11:53:11 AM	JSON POST : { "UserType": "HOUSER", "UserId": "60", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.140.36.133	25-01-2024 11:53:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.133	25-01-2024 11:53:11 AM	JSON POST : 10.140.36.133	25-01-2024 11:53:34 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/forgotpasswordapi.php10.140.36.133	25-01-2024 11:53:34 AM	JSON POST : {
-        "URL" : "http://10.150.146.12/tinfc1/UAT/resetpassword.php?uid=dGFuZGF0YWVudHJ5dXNlcg==",
-        "UserId" : "tandataentryuser"
-    }10.140.36.133	25-01-2024 11:53:34 AM	RESPONSE FROM FORGOT PAGE: {
-    "status": 0,
-    "Message": "Reset Password Link is sent to Your Registered Email Address."
-}10.100.72.250	25-01-2024 02:41:25 PM	ui YmFja2hv and pas dGVzdA==10.100.72.250	25-01-2024 02:41:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	25-01-2024 02:41:25 PM	JSON POST : Array10.100.72.250	25-01-2024 02:41:25 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.250	25-01-2024 02:41:25 PM	Json parting value34434510.100.72.250	25-01-2024 02:41:25 PM	Session BranchId...BACKHO10.100.72.250	25-01-2024 02:41:25 PM	Session Type...BACKHO10.100.72.250	25-01-2024 02:41:25 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.250	25-01-2024 02:41:25 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"3"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"6"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"10"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"11"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"8"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"7"
-}10.100.72.250	25-01-2024 02:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.250	25-01-2024 02:41:56 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.72.250	25-01-2024 02:42:09 PM	[Info] - File location /tinfc1/UAT/addAccountName.php Message:- At begining of Call10.100.72.250	25-01-2024 02:42:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.250	25-01-2024 02:42:09 PM	JSON POST : 10.100.72.250	25-01-2024 03:01:10 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.250	25-01-2024 03:01:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	25-01-2024 03:01:10 PM	JSON POST : {
-			"userType" : "BACKHO"
-		}10.100.72.250	25-01-2024 03:02:05 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.250	25-01-2024 03:02:05 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.100.72.250	25-01-2024 03:02:05 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=&Name=Satendra+Singh+Gurjar&AddressOne=Noida+Sector+-+2&AddressTwo=&City=Noida&PinCode=201301&State=31&PrimaryPhone=9873313136&SecondaryPhone=&PrimaryEmail=satendragurjar844%40gmail.com&SecondaryEmail=satendragurjar844%40gmail.com&ContactPerson=Satendra+Singh+Gurjar&ActivationDate=25-01-2024&ClosureDate=&CenterType=2&AgentNumber=00&Region=10&PanNumber=43534dfasd&TanNumber=&GstNumber=&BranchCode=323232&FinancialCode=2342342&BankName=54&AccountNumber=345&IfscCode=34555&BranchName=355&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&FranchCode=r43534&TrainingDate=&TrainnerName=&SelfDig_Flag=0&SelfDig_Flag_TAN=0&Acceptance=&Digitization=&Incentive=&schemeName=8710.100.72.250	25-01-2024 03:02:05 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.100.72.250	25-01-2024 03:02:05 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Branch Saved Successfully10.100.72.250	25-01-2024 03:02:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	25-01-2024 03:02:05 PM	JSON POST : {
-			"userType" : "BACKHO"
-		}10.100.72.250	25-01-2024 03:06:57 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.250	25-01-2024 03:06:57 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.100.72.250	25-01-2024 03:06:57 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=&Name=Satendra+Singh+Gurjar&AddressOne=Noida+Sector+-+2&AddressTwo=&City=Noida&PinCode=201301&State=31&PrimaryPhone=9873313136&SecondaryPhone=&PrimaryEmail=satendragurjar844%40gmail.com&SecondaryEmail=satendragurjar844%40gmail.com&ContactPerson=Satendra+Singh+Gurjar&ActivationDate=25-01-2024&ClosureDate=&CenterType=2&AgentNumber=00&Region=10&PanNumber=43534dfasd&TanNumber=&GstNumber=&BranchCode=323232&FinancialCode=2342342&BankName=54&AccountNumber=345&IfscCode=34555&BranchName=355&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&FranchCode=r43534&TrainingDate=&TrainnerName=&SelfDig_Flag=0&SelfDig_Flag_TAN=0&Acceptance=&Digitization=&Incentive=&schemeName=8710.100.72.250	25-01-2024 03:06:57 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.100.72.250	25-01-2024 03:06:57 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Branch Saved Successfully10.100.72.250	25-01-2024 03:06:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	25-01-2024 03:06:57 PM	JSON POST : {
-			"userType" : "BACKHO"
-		}10.100.72.250	25-01-2024 03:08:03 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.250	25-01-2024 03:08:03 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.100.72.250	25-01-2024 03:08:03 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=&Name=Satendra+Singh+Gurjar&AddressOne=Noida+Sector+-+2&AddressTwo=&City=Noida&PinCode=201301&State=31&PrimaryPhone=9873313136&SecondaryPhone=&PrimaryEmail=satendragurjar844%40gmail.com&SecondaryEmail=satendragurjar844%40gmail.com&ContactPerson=Satendra+Singh+Gurjar&ActivationDate=25-01-2024&ClosureDate=&CenterType=2&AgentNumber=00&Region=10&PanNumber=43534dfasd&TanNumber=&GstNumber=&BranchCode=323232&FinancialCode=2342342&BankName=54&AccountNumber=345&IfscCode=34555&BranchName=355&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&FranchCode=r43534&TrainingDate=&TrainnerName=&SelfDig_Flag=0&SelfDig_Flag_TAN=0&Acceptance=&Digitization=&Incentive=&schemeName=8710.100.72.250	25-01-2024 03:08:03 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.100.72.250	25-01-2024 03:08:03 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Branch Saved Successfully10.100.72.250	25-01-2024 03:08:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	25-01-2024 03:08:03 PM	JSON POST : {
-			"userType" : "BACKHO"
-		}10.140.59.103	25-01-2024 03:57:53 PM	ui cmVqZWN0aW9uZnVsZmlsbWVudHVzZXI= and pas dGVzdA==10.140.59.103	25-01-2024 03:57:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 03:57:53 PM	JSON POST : Array10.140.59.103	25-01-2024 03:57:53 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.103	25-01-2024 03:57:53 PM	Json parting value10.140.59.103	25-01-2024 03:58:02 PM	ui cmVqZWN0aW9uZnVsZmlsbWVudHVzZXI= and pas dGVzdA==10.140.59.103	25-01-2024 03:58:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 03:58:02 PM	JSON POST : Array10.140.59.103	25-01-2024 03:58:02 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.103	25-01-2024 03:58:02 PM	Json parting value10.140.59.103	25-01-2024 04:16:50 PM	ui cWN1c2VyNQ== and pas dGVzdA==10.140.59.103	25-01-2024 04:16:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 04:16:50 PM	JSON POST : Array10.140.59.103	25-01-2024 04:16:50 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "50",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "QCP",
-    "UserName": "Surabhi Japlot  [QC]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.103	25-01-2024 04:16:50 PM	Json parting value34434510.140.59.103	25-01-2024 04:16:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:16:50 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:16:51 PM	Session BranchId...QCP10.140.59.103	25-01-2024 04:16:51 PM	Session Type...QCP10.140.59.103	25-01-2024 04:16:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:16:51 PM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.59.103	25-01-2024 04:16:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 04:16:55 PM	JSON POST : 10.140.59.103	25-01-2024 04:16:59 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:16:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:16:59 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:17:04 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:17:04 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.103	25-01-2024 04:17:04 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.103	25-01-2024 04:17:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:17:04 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:17:07 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.103	25-01-2024 04:17:07 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.103	25-01-2024 04:17:07 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.59.103	25-01-2024 04:17:07 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1204868714",
-    "SecondaryPhone": "",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-18",
-    "Created_time": "14:16:47",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "1970-01-01",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.140.59.103	25-01-2024 04:17:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:17:07 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:21:00 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.103	25-01-2024 04:21:00 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.103	25-01-2024 04:21:00 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.59.103	25-01-2024 04:21:00 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1204868714",
-    "SecondaryPhone": "",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-18",
-    "Created_time": "14:16:47",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "1970-01-01",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.140.59.103	25-01-2024 04:21:00 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.140.59.103	25-01-2024 04:21:00 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=15219&Name=NOIDA&AddressOne=Religare+Broking+Limited+2nd+floor+%2CA-6%2C+Sect+-4%2CDist+Gautam+Buddha+Nagar&AddressTwo=Adjacent+to+HDFC+Bank&City=NOIDA&PinCode=201301&State=31&PrimaryPhone=1234567890&SecondaryPhone=1234567890&PrimaryEmail=rajuddin%40religare.com&SecondaryEmail=&ContactPerson=Rajuddin&ActivationDate=2021-10-01&ClosureDate=&CenterType=1&AgentNumber=25&Region=1&PanNumber=AAAPA1234A&TanNumber=&GstNumber=&BranchCode=25536&FinancialCode=01&BankName=0&AccountNumber=0&IfscCode=0&BranchName=0&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&FranchCode=B&TrainingDate=&TrainnerName=&SelfDig_Flag=1&SelfDig_Flag_TAN=1&Acceptance=&Digitization=&Incentive=&schemeName=8710.140.59.103	25-01-2024 04:21:00 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.140.59.103	25-01-2024 04:21:00 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Branch Updated Successfully10.140.59.103	25-01-2024 04:21:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:21:00 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:21:06 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:21:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:21:06 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:21:11 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:21:11 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.103	25-01-2024 04:21:11 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.103	25-01-2024 04:21:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:21:11 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:21:14 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.103	25-01-2024 04:21:14 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.103	25-01-2024 04:21:14 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.59.103	25-01-2024 04:21:14 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1234567890",
-    "SecondaryPhone": "1234567890",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-25",
-    "Created_time": "16:21:00",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "1970-01-01",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.140.59.103	25-01-2024 04:21:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:21:14 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:23:28 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.103	25-01-2024 04:23:28 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.103	25-01-2024 04:23:28 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.59.103	25-01-2024 04:23:28 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1234567890",
-    "SecondaryPhone": "1234567890",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-25",
-    "Created_time": "16:21:00",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "1970-01-01",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.140.59.103	25-01-2024 04:23:28 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.140.59.103	25-01-2024 04:23:28 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=15219&Name=NOIDA&AddressOne=Religare+Broking+Limited+2nd+floor+%2CA-6%2C+Sect+-4%2CDist+Gautam+Buddha+Nagar&AddressTwo=Adjacent+to+HDFC+Bank&City=NOIDA&PinCode=201301&State=31&PrimaryPhone=1234567890&SecondaryPhone=1234567890&PrimaryEmail=rajuddin%40religare.com&SecondaryEmail=&ContactPerson=Rajuddin&ActivationDate=2021-10-01&ClosureDate=31-01-2024&CenterType=1&AgentNumber=25&Region=1&PanNumber=AAAPA1234A&TanNumber=&GstNumber=&BranchCode=25536&FinancialCode=01&BankName=0&AccountNumber=0&IfscCode=0&BranchName=0&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&FranchCode=B&TrainingDate=&TrainnerName=&SelfDig_Flag=1&SelfDig_Flag_TAN=1&Acceptance=&Digitization=&Incentive=&schemeName=8710.140.59.103	25-01-2024 04:23:28 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.140.59.103	25-01-2024 04:23:28 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Branch Updated Successfully10.140.59.103	25-01-2024 04:23:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:23:28 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:24:00 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:24:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:24:00 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:24:05 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:24:05 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.103	25-01-2024 04:24:05 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.103	25-01-2024 04:24:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:24:05 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:24:08 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.103	25-01-2024 04:24:08 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.103	25-01-2024 04:24:08 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.59.103	25-01-2024 04:24:08 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1234567890",
-    "SecondaryPhone": "1234567890",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-25",
-    "Created_time": "16:23:28",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "2024-01-31",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.140.59.103	25-01-2024 04:24:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:24:08 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:24:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.103	25-01-2024 04:24:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.103	25-01-2024 04:24:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.59.103	25-01-2024 04:24:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1234567890",
-    "SecondaryPhone": "1234567890",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-25",
-    "Created_time": "16:23:28",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "2024-01-31",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.140.59.103	25-01-2024 04:24:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.140.59.103	25-01-2024 04:24:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=15219&Name=NOIDA&AddressOne=Religare+Broking+Limited+2nd+floor+%2CA-6%2C+Sect+-4%2CDist+Gautam+Buddha+Nagar&AddressTwo=Adjacent+to+HDFC+Bank&City=NOIDA&PinCode=201301&State=31&PrimaryPhone=1234567890&SecondaryPhone=1234567890&PrimaryEmail=rajuddin%40religare.com&SecondaryEmail=&ContactPerson=Rajuddin&ActivationDate=2021-10-01&ClosureDate=17-01-2024&CenterType=1&AgentNumber=25&Region=1&PanNumber=AAAPA1234A&TanNumber=&GstNumber=&BranchCode=25536&FinancialCode=01&BankName=0&AccountNumber=0&IfscCode=0&BranchName=0&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&FranchCode=B&TrainingDate=&TrainnerName=&SelfDig_Flag=1&SelfDig_Flag_TAN=1&Acceptance=&Digitization=&Incentive=&schemeName=8710.140.59.103	25-01-2024 04:24:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.140.59.103	25-01-2024 04:24:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Branch Updated Successfully10.140.59.103	25-01-2024 04:24:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:24:23 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:24:45 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:24:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:24:45 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:24:49 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:24:49 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.103	25-01-2024 04:24:49 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.103	25-01-2024 04:24:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:24:49 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:24:51 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.103	25-01-2024 04:24:51 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.103	25-01-2024 04:24:51 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.59.103	25-01-2024 04:24:51 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1234567890",
-    "SecondaryPhone": "1234567890",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-25",
-    "Created_time": "16:24:23",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "2024-01-17",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.140.59.103	25-01-2024 04:24:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:24:51 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:25:32 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.103	25-01-2024 04:25:32 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.103	25-01-2024 04:25:32 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.59.103	25-01-2024 04:25:32 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1234567890",
-    "SecondaryPhone": "1234567890",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-25",
-    "Created_time": "16:24:23",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "2024-01-17",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.140.59.103	25-01-2024 04:25:32 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.140.59.103	25-01-2024 04:25:32 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=15219&Name=NOIDA&AddressOne=Religare+Broking+Limited+2nd+floor+%2CA-6%2C+Sect+-4%2CDist+Gautam+Buddha+Nagar&AddressTwo=Adjacent+to+HDFC+Bank&City=NOIDA&PinCode=201301&State=31&PrimaryPhone=1234567890&SecondaryPhone=1234567890&PrimaryEmail=rajuddin%40religare.com&SecondaryEmail=&ContactPerson=Rajuddin&ActivationDate=2021-10-01&ClosureDate=01-05-2023&CenterType=1&AgentNumber=25&Region=1&PanNumber=AAAPA1234A&TanNumber=&GstNumber=&BranchCode=25536&FinancialCode=01&BankName=0&AccountNumber=0&IfscCode=0&BranchName=0&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&FranchCode=B&TrainingDate=&TrainnerName=&SelfDig_Flag=1&SelfDig_Flag_TAN=1&Acceptance=&Digitization=&Incentive=&schemeName=8710.140.59.103	25-01-2024 04:25:32 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.140.59.103	25-01-2024 04:25:32 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Branch Updated Successfully10.140.59.103	25-01-2024 04:25:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:25:32 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:25:45 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:25:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:25:45 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:26:01 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:26:01 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.103	25-01-2024 04:26:01 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.103	25-01-2024 04:26:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:26:01 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:26:03 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.103	25-01-2024 04:26:03 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.103	25-01-2024 04:26:03 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.59.103	25-01-2024 04:26:03 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1234567890",
-    "SecondaryPhone": "1234567890",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-25",
-    "Created_time": "16:25:32",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "2023-05-01",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.140.59.103	25-01-2024 04:26:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:26:03 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:26:15 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.103	25-01-2024 04:26:15 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.103	25-01-2024 04:26:15 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.59.103	25-01-2024 04:26:15 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1234567890",
-    "SecondaryPhone": "1234567890",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-25",
-    "Created_time": "16:25:32",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "2023-05-01",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.140.59.103	25-01-2024 04:26:15 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.140.59.103	25-01-2024 04:26:15 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=15219&Name=NOIDA&AddressOne=Religare+Broking+Limited+2nd+floor+%2CA-6%2C+Sect+-4%2CDist+Gautam+Buddha+Nagar&AddressTwo=Adjacent+to+HDFC+Bank&City=NOIDA&PinCode=201301&State=31&PrimaryPhone=1234567890&SecondaryPhone=1234567890&PrimaryEmail=rajuddin%40religare.com&SecondaryEmail=&ContactPerson=Rajuddin&ActivationDate=2021-10-01&ClosureDate=01-01-2024&CenterType=1&AgentNumber=25&Region=1&PanNumber=AAAPA1234A&TanNumber=&GstNumber=&BranchCode=25536&FinancialCode=01&BankName=0&AccountNumber=0&IfscCode=0&BranchName=0&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&FranchCode=B&TrainingDate=&TrainnerName=&SelfDig_Flag=1&SelfDig_Flag_TAN=1&Acceptance=&Digitization=&Incentive=&schemeName=8710.140.59.103	25-01-2024 04:26:15 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.140.59.103	25-01-2024 04:26:15 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Branch Updated Successfully10.140.59.103	25-01-2024 04:26:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:26:15 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:30:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/forgotpasswordapi.php10.140.59.103	25-01-2024 04:30:08 PM	JSON POST : {
-        "URL" : "http://10.150.146.12/tinfc1/UAT/resetpassword.php?uid=dGFuZGF0YWVudHJ5dXNlcg==",
-        "UserId" : "tandataentryuser"
-    }10.140.59.103	25-01-2024 04:30:08 PM	RESPONSE FROM FORGOT PAGE: {
-    "status": 0,
-    "Message": "Reset Password Link is sent to Your Registered Email Address."
-}10.140.59.103	25-01-2024 04:32:54 PM	ui cWN1c2VyNQ== and pas dGVzdA==10.140.59.103	25-01-2024 04:32:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 04:32:54 PM	JSON POST : Array10.140.59.103	25-01-2024 04:32:54 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "50",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "QCP",
-    "UserName": "Surabhi Japlot  [QC]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.103	25-01-2024 04:32:54 PM	Json parting value34434510.140.59.103	25-01-2024 04:32:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:32:54 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:32:54 PM	Session BranchId...QCP10.140.59.103	25-01-2024 04:32:54 PM	Session Type...QCP10.140.59.103	25-01-2024 04:32:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:32:54 PM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.59.103	25-01-2024 04:32:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 04:32:55 PM	JSON POST : 10.140.59.103	25-01-2024 04:33:00 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:33:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:33:00 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:33:04 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:33:04 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.103	25-01-2024 04:33:04 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.103	25-01-2024 04:33:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:33:04 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:33:17 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:33:17 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.103	25-01-2024 04:33:17 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.103	25-01-2024 04:33:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:33:17 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:34:28 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.140.59.103	25-01-2024 04:34:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 04:34:28 PM	JSON POST : Array10.140.59.103	25-01-2024 04:34:28 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "2",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Test User  [Branch - 25536]",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.59.103	25-01-2024 04:34:28 PM	Json parting value2553610.140.59.103	25-01-2024 04:34:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:34:28 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:34:29 PM	Session BranchId...2553610.140.59.103	25-01-2024 04:34:29 PM	Session Type...BRANCH10.140.59.103	25-01-2024 04:34:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:34:29 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.140.59.103	25-01-2024 04:34:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 04:34:33 PM	JSON POST : 10.140.59.103	25-01-2024 04:34:50 PM	ui MjU1MzYwMg== and pas dGVzdA==10.140.59.103	25-01-2024 04:34:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 04:34:50 PM	JSON POST : Array10.140.59.103	25-01-2024 04:34:50 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "1",
-    "BranchId": "25536",
-    "Role": "2",
-    "Type": "branch",
-    "UserName": "Branch User  (2553602)",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.59.103	25-01-2024 04:34:50 PM	Json parting value2553610.140.59.103	25-01-2024 04:34:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:34:50 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:34:50 PM	Session BranchId...2553610.140.59.103	25-01-2024 04:34:50 PM	Session Type...BRANCH10.140.59.103	25-01-2024 04:34:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:34:50 PM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "2"}10.140.59.103	25-01-2024 04:34:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 04:34:52 PM	JSON POST : 10.140.59.103	25-01-2024 04:35:24 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.140.59.103	25-01-2024 04:35:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 04:35:24 PM	JSON POST : Array10.140.59.103	25-01-2024 04:35:24 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "2",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Test User  [Branch - 25536]",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.59.103	25-01-2024 04:35:24 PM	Json parting value2553610.140.59.103	25-01-2024 04:35:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:35:24 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:35:25 PM	Session BranchId...2553610.140.59.103	25-01-2024 04:35:25 PM	Session Type...BRANCH10.140.59.103	25-01-2024 04:35:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:35:25 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.140.59.103	25-01-2024 04:35:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 04:35:26 PM	JSON POST : 10.140.59.103	25-01-2024 04:36:30 PM	ui cWN1c2VyNQ== and pas dGVzdA==10.140.59.103	25-01-2024 04:36:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 04:36:30 PM	JSON POST : Array10.140.59.103	25-01-2024 04:36:30 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "50",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "QCP",
-    "UserName": "Surabhi Japlot  [QC]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.103	25-01-2024 04:36:30 PM	Json parting value34434510.140.59.103	25-01-2024 04:36:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:36:30 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:36:31 PM	Session BranchId...QCP10.140.59.103	25-01-2024 04:36:31 PM	Session Type...QCP10.140.59.103	25-01-2024 04:36:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:36:31 PM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.59.103	25-01-2024 04:36:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 04:36:31 PM	JSON POST : 10.140.59.103	25-01-2024 04:36:34 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:36:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:36:34 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:36:40 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.103	25-01-2024 04:36:40 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.103	25-01-2024 04:36:40 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.103	25-01-2024 04:36:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:36:40 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:36:43 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.103	25-01-2024 04:36:43 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.103	25-01-2024 04:36:43 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.59.103	25-01-2024 04:36:43 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1234567890",
-    "SecondaryPhone": "1234567890",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-25",
-    "Created_time": "16:26:15",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "2024-01-01",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.140.59.103	25-01-2024 04:36:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:36:43 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 04:39:30 PM	ui MjU1MzYwMg== and pas dGVzdA==10.140.59.103	25-01-2024 04:39:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 04:39:30 PM	JSON POST : Array10.140.59.103	25-01-2024 04:39:30 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "1",
-    "BranchId": "25536",
-    "Role": "2",
-    "Type": "branch",
-    "UserName": "Branch User  (2553602)",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.59.103	25-01-2024 04:39:30 PM	Json parting value2553610.140.59.103	25-01-2024 04:39:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:39:30 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:39:30 PM	Session BranchId...2553610.140.59.103	25-01-2024 04:39:30 PM	Session Type...BRANCH10.140.59.103	25-01-2024 04:39:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:39:30 PM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "2"}10.140.59.103	25-01-2024 04:39:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 04:39:31 PM	JSON POST : 10.140.59.103	25-01-2024 04:39:42 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.140.59.103	25-01-2024 04:39:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 04:39:42 PM	JSON POST : Array10.140.59.103	25-01-2024 04:39:42 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "2",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Test User  [Branch - 25536]",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.59.103	25-01-2024 04:39:42 PM	Json parting value2553610.140.59.103	25-01-2024 04:39:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:39:42 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:39:42 PM	Session BranchId...2553610.140.59.103	25-01-2024 04:39:42 PM	Session Type...BRANCH10.140.59.103	25-01-2024 04:39:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:39:42 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.140.59.103	25-01-2024 04:39:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 04:39:44 PM	JSON POST : 10.140.59.103	25-01-2024 04:40:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:40:20 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:40:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:40:52 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:40:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.59.103	25-01-2024 04:40:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.59.103	25-01-2024 04:40:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.140.59.103	25-01-2024 04:40:52 PM	Upload Type FOR PAN Branch:25536----EXPRESS10.140.59.103	25-01-2024 04:40:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: EXPRESS & UserId: 210.140.59.103	25-01-2024 04:40:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.59.103	25-01-2024 04:40:52 PM	Copy Success: 255369700484242.pdf10.140.59.103	25-01-2024 04:40:52 PM	PDF Path: /u01/uploads_uat/panpdf/255369700484242.pdf10.140.59.103	25-01-2024 04:40:52 PM	*****outside image copy foreach****10.140.59.103	25-01-2024 04:40:52 PM	THIS IS PAGE: 010.140.59.103	25-01-2024 04:40:52 PM	THIS IS PAGE: 110.140.59.103	25-01-2024 04:40:52 PM	THIS IS PAGE: 210.140.59.103	25-01-2024 04:40:52 PM	THIS IS PAGE: 310.140.59.103	25-01-2024 04:40:52 PM	THIS IS PAGE: 410.140.59.103	25-01-2024 04:40:52 PM	THIS IS PAGE: 510.140.59.103	25-01-2024 04:40:52 PM	Total Image page count: 610.140.59.103	25-01-2024 04:40:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.59.103	25-01-2024 04:40:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
-{
-    "AckNumber": "255369700484242",
-    "status": "Successfull",
-    "remark": "Successfull Upload",
-    "SequenceNo": "0"
-}10.140.59.103	25-01-2024 04:40:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.59.103	25-01-2024 04:40:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.59.103	25-01-2024 04:40:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.59.103	25-01-2024 04:40:52 PM	image path: /u01/uploads_uat/panimages/255369700484242_1.jpg10.140.59.103	25-01-2024 04:40:52 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970048424210.140.59.103	25-01-2024 04:40:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:40:52 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:41:05 PM	Image path is: /u01/uploads_uat/panimages/255369700484242_1.jpg10.140.59.103	25-01-2024 04:41:13 PM	Image path is: /u01/uploads_uat/panimages/255369700484242_1.jpg10.140.59.103	25-01-2024 04:41:21 PM	image path: /u01/uploads_uat/panimages/255369700484242_1.jpg10.140.59.103	25-01-2024 04:41:21 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970048424210.140.59.103	25-01-2024 04:41:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/cropactionapi.php10.140.59.103	25-01-2024 04:41:21 PM	JSON POST : {"hiddenphotoval":"1","hiddenimageval":"1","imageType":"Sig","aid":"255369700484242","action":"cropimage","userId":"2","ip":"10.140.59.103"}10.140.59.103	25-01-2024 04:41:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:41:21 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:41:21 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970048424210.140.59.103	25-01-2024 04:41:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:41:21 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:42:43 PM	JSON to post for cr form ----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "CR", "Role": "1", "recordlist":{ "newpanid": "JQVPS1634C", "APPLTITLE": "2", "isnamecr": "Y", "STATUSOFAPPLICANT": "P", "applicantcategorycode": "", "applicantlastname": "SINGHAL", "applicationfirstname": "AISHWARYA", "applicantmiddlename": "", "NAMETOBEPRINTED": "AISHWARYA SINGHAL", "isfathernamecr": "N", "fatherlastname": "SINGHAL", "fatherfirstname": "MANISH", "fathermiddlename": "", "isdobupdateflag": "N", "DATEOFBIRTH": "10061999", "issexupdate": "N", "SEX": "F", "isphotomismatch": "N", "issignaturemismatch": "N", "iscommaddressupdate": "Y", "COMMADDRESS": "R", "isanotheraddressupdate": "N", "resiflatorblockno": "123", "resibuildingorvillage": "ABC COLONY", "resipostoffice": "", "resiareasubdivision": "", "resitownorcountry": "NEW DELHI", "resistatecode": "8",
-"resipincode": "110033", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "istelephoneemailupdate": "N", "STDCODE": "91", "TELPHONE": "9810274885", "EMAIL": "NISHUMSL@YAHOO.COM", "oldpan1": "", "oldpan2": "", "oldpan3": "", "oldpan4": "", "oldpan5": "", "oldpan6": "", "oldpan7": "", "oldpan8": "", "numofsupporteddoc": "3", "verificationdate": "30-12-2023", "POI": "38", "POA": "44", "reuploadedtonsdl": "N", "isreprintrequest": "Y", "acknowledmentnumber": "255369700484242", "isphotoflag": "Y", "issignflag": "Y", "acknwoledmentdate": "28-12-2023", "oldacknwoledmentnum": "", "ispanproofgiven": "C", "isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "", "countryisd": "91", "ADHARNUM": "", "adharflag": "2", "verifiername": "RAJU", "verifiercapcitycode": "01", "verificationplace": "NOIDA", "officezip": "", "resizip": "", "proofofbirthdoccode": "0010", "ismothernamecr": "N", "motherlastename": "", "motherfirstname": "", "mothermiddlename": "", "fatherormothernameoncard": "F", "adharenrolmentid": "", "nameasadhar": "AISHWARYA SINGHAL", "isphysicalpanwanted": "Y", "modeofapplication": "T", "VID": "", "uidtocken": "", "adharref": "" }}10.140.59.103	25-01-2024 04:42:43 PM	Response return from cr form ----
-{
-    "status": "0",
-    "message": "Record Updated Successfully",
-    "RecordUpdated": 1,
-    "formtype": "CR",
-    "AcknowledgementNumber": "255369700484242"
-}10.140.59.103	25-01-2024 04:42:44 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970048424210.140.59.103	25-01-2024 04:42:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:42:44 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:42:46 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970048424210.140.59.103	25-01-2024 04:43:16 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970048424210.140.59.103	25-01-2024 04:43:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:43:16 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:43:32 PM	JSON to post for cr form ----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "CR", "Role": "1", "recordlist":{ "newpanid": "JQVPS1634C", "APPLTITLE": "2", "isnamecr": "Y", "STATUSOFAPPLICANT": "P", "applicantcategorycode": "", "applicantlastname": "SINGHAL", "applicationfirstname": "AISHWARYA", "applicantmiddlename": "", "NAMETOBEPRINTED": "AISHWARYA SINGHAL", "isfathernamecr": "N", "fatherlastname": "SINGHAL", "fatherfirstname": "MANISH", "fathermiddlename": "", "isdobupdateflag": "N", "DATEOFBIRTH": "10061999", "issexupdate": "N", "SEX": "F", "isphotomismatch": "N", "issignaturemismatch": "N", "iscommaddressupdate": "Y", "COMMADDRESS": "R", "isanotheraddressupdate": "N", "resiflatorblockno": "123", "resibuildingorvillage": "ABC COLONY", "resipostoffice": "", "resiareasubdivision": "", "resitownorcountry": "NEW DELHI", "resistatecode": "8",
-"resipincode": "110033", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "istelephoneemailupdate": "N", "STDCODE": "91", "TELPHONE": "9810274885", "EMAIL": "NISHUMSL@YAHOO.COM", "oldpan1": "", "oldpan2": "", "oldpan3": "", "oldpan4": "", "oldpan5": "", "oldpan6": "", "oldpan7": "", "oldpan8": "", "numofsupporteddoc": "3", "verificationdate": "30-12-2023", "POI": "38", "POA": "44", "reuploadedtonsdl": "N", "isreprintrequest": "Y", "acknowledmentnumber": "255369700484242", "isphotoflag": "Y", "issignflag": "Y", "acknwoledmentdate": "28-12-2023", "oldacknwoledmentnum": "", "ispanproofgiven": "C", "isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "", "countryisd": "91", "ADHARNUM": "", "adharflag": "2", "verifiername": "RAJU", "verifiercapcitycode": "01", "verificationplace": "NOIDA", "officezip": "", "resizip": "", "proofofbirthdoccode": "0010", "ismothernamecr": "N", "motherlastename": "", "motherfirstname": "", "mothermiddlename": "", "fatherormothernameoncard": "F", "adharenrolmentid": "", "nameasadhar": "AISHWARYA SINGHAL", "isphysicalpanwanted": "Y", "modeofapplication": "T", "VID": "", "uidtocken": "", "adharref": "" }}10.140.59.103	25-01-2024 04:43:32 PM	Response return from cr form ----
-{
-    "status": "0",
-    "message": "Record Updated Successfully",
-    "RecordUpdated": 1,
-    "formtype": "CR",
-    "AcknowledgementNumber": "255369700484242"
-}10.140.59.103	25-01-2024 04:43:32 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970048424210.140.59.103	25-01-2024 04:43:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:43:32 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 04:43:33 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970048424210.140.59.103	25-01-2024 04:45:30 PM	ui YmF0Y2h1c2VyMw== and pas dGVzdA==10.140.59.103	25-01-2024 04:45:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 04:45:30 PM	JSON POST : Array10.140.59.103	25-01-2024 04:45:30 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "51",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "BCP",
-    "UserName": "Surabhi Japlot  [Batch User-3]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.103	25-01-2024 04:45:30 PM	Json parting value34434510.140.59.103	25-01-2024 04:45:30 PM	Session BranchId...BCP10.140.59.103	25-01-2024 04:45:30 PM	Session Type...BCP10.140.59.103	25-01-2024 04:45:30 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.59.103	25-01-2024 04:45:30 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:45:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:45:30 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:49:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:49:16 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:49:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.59.103	25-01-2024 04:49:21 PM	JSON POST : {
-					"AcknowledgementNo":"255369700344485",
-					"productType":"PAN"
-				}10.140.59.103	25-01-2024 04:49:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:49:21 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:49:33 PM	Session BranchId...BCP10.140.59.103	25-01-2024 04:49:33 PM	Session Type...BCP10.140.59.103	25-01-2024 04:49:33 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.59.103	25-01-2024 04:49:33 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:49:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:49:33 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:50:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:50:59 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:51:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.59.103	25-01-2024 04:51:05 PM	JSON POST : {
-					"AcknowledgementNo":"830008600041751",
-					"productType":"PAN"
-				}10.140.59.103	25-01-2024 04:51:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:51:05 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:51:37 PM	Session BranchId...BCP10.140.59.103	25-01-2024 04:51:37 PM	Session Type...BCP10.140.59.103	25-01-2024 04:51:37 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.59.103	25-01-2024 04:51:37 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:51:38 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:51:38 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:54:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:54:02 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:54:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.59.103	25-01-2024 04:54:08 PM	JSON POST : {
-					"AcknowledgementNo":"620569700035434",
-					"productType":"PAN"
-				}10.140.59.103	25-01-2024 04:54:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:54:08 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:54:12 PM	Session BranchId...BCP10.140.59.103	25-01-2024 04:54:12 PM	Session Type...BCP10.140.59.103	25-01-2024 04:54:12 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.59.103	25-01-2024 04:54:12 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:54:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:54:12 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:54:53 PM	JSON GET ACK NUMBER FROM BATCH NUMBER: { "BatchId": "000035" }10.140.59.103	25-01-2024 04:54:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:54:53 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:55:00 PM	Session BranchId...BCP10.140.59.103	25-01-2024 04:55:00 PM	Session Type...BCP10.140.59.103	25-01-2024 04:55:00 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.59.103	25-01-2024 04:55:00 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:55:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:55:01 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:55:34 PM	JSON GET ACK NUMBER FROM BATCH NUMBER: { "BatchId": "001976" }10.140.59.103	25-01-2024 04:55:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:55:34 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:56:03 PM	JSON GET ACK NUMBER FROM BATCH NUMBER: { "BatchId": "001976" }10.140.59.103	25-01-2024 04:56:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:56:03 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:56:42 PM	JSON to post for batch re generation----{
-		"UserId":"51",
-		"ip":"10.140.59.103",
-		"ListOfACKO":[{"AcknowledgementNumber":"830028600000972"},{"AcknowledgementNumber":"830014400003983"},{"AcknowledgementNumber":"830014500000206"},{"AcknowledgementNumber":"830012100001151"},{"AcknowledgementNumber":"830028200003564"},{"AcknowledgementNumber":"830011000000346"},{"AcknowledgementNumber":"830025300001170"},{"AcknowledgementNumber":"830024400000526"},{"AcknowledgementNumber":"830028500000582"}],
-		"ReBatch":"1"
-	}10.140.59.103	25-01-2024 04:56:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:56:42 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:56:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:56:48 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:56:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:56:54 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 04:56:56 PM	Session BranchId...BCP10.140.59.103	25-01-2024 04:56:56 PM	Session Type...BCP10.140.59.103	25-01-2024 04:56:56 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.59.103	25-01-2024 04:56:56 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 04:56:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 04:56:56 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.140.59.103	25-01-2024 05:04:01 PM	ui MjU1MzYwMg== and pas dGVzdA==10.140.59.103	25-01-2024 05:04:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 05:04:01 PM	JSON POST : Array10.140.59.103	25-01-2024 05:04:01 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "1",
-    "BranchId": "25536",
-    "Role": "2",
-    "Type": "branch",
-    "UserName": "Branch User  (2553602)",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.59.103	25-01-2024 05:04:01 PM	Json parting value2553610.140.59.103	25-01-2024 05:04:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:04:01 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 05:04:01 PM	Session BranchId...2553610.140.59.103	25-01-2024 05:04:01 PM	Session Type...BRANCH10.140.59.103	25-01-2024 05:04:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 05:04:01 PM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "2"}10.140.59.103	25-01-2024 05:04:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 05:04:02 PM	JSON POST : 10.140.59.103	25-01-2024 05:04:41 PM	ui c3VyZXNoa3VtYXIwMTAxM0BnbWFpbC5jb20= and pas dGVzdA==10.140.59.103	25-01-2024 05:04:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 05:04:41 PM	JSON POST : Array10.140.59.103	25-01-2024 05:04:41 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "44",
-    "BranchId": "V01013",
-    "Role": "1",
-    "Type": "vendor",
-    "UserName": "Suresh Kumar (User-2)  [Vendor-01013]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.103	25-01-2024 05:04:41 PM	Json parting valueV0101310.140.59.103	25-01-2024 05:04:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:04:41 PM	JSON POST : {
-			"userType" : "VENDOR"
-		}10.140.59.103	25-01-2024 05:04:41 PM	Session BranchId...vendor10.140.59.103	25-01-2024 05:04:41 PM	Session Type...VENDOR10.140.59.103	25-01-2024 05:04:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 05:04:41 PM	JSON POST : { "UserType": "VENDOR", "UserId": "44", "UserTypeId": "vendor", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.140.59.103	25-01-2024 05:04:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 05:04:42 PM	JSON POST : 10.140.59.103	25-01-2024 05:04:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorDetailAPI.php10.140.59.103	25-01-2024 05:04:42 PM	JSON POST : {
-					"vendorId":"V01013",
-					"userId":"44"
-				}10.140.59.103	25-01-2024 05:04:42 PM	TOTAL UNASSIN IN BUCKET FOR VENDOR: {
-    "AckNoPool": 496,
-    "VendorLimit": "2"
-}10.140.59.103	25-01-2024 05:09:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorAssignAPI.php10.140.59.103	25-01-2024 05:09:58 PM	JSON POST : {
-			"userId":"44",
-			"CodeId":"V01013"
-		}10.140.59.103	25-01-2024 05:09:58 PM	RESPONCE RETURN VENDOR SLEF ASSIGNMENT API: {
-    "status": 0,
-    "Message": "PENDING APPLICATION FOUND"
-}10.140.59.103	25-01-2024 05:09:58 PM	Dashboard load for vendor self assignment10.140.59.103	25-01-2024 05:09:58 PM	Session BranchId...vendor10.140.59.103	25-01-2024 05:09:58 PM	Session Type...VENDOR10.140.59.103	25-01-2024 05:09:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 05:09:58 PM	JSON POST : { "UserType": "VENDOR", "UserId": "44", "UserTypeId": "vendor", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.140.59.103	25-01-2024 05:09:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 05:09:59 PM	JSON POST : 10.140.59.103	25-01-2024 05:09:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorDetailAPI.php10.140.59.103	25-01-2024 05:09:59 PM	JSON POST : {
-					"vendorId":"V01013",
-					"userId":"44"
-				}10.140.59.103	25-01-2024 05:09:59 PM	TOTAL UNASSIN IN BUCKET FOR VENDOR: {
-    "AckNoPool": 496,
-    "VendorLimit": "2"
-}10.140.59.103	25-01-2024 05:10:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorAssignAPI.php10.140.59.103	25-01-2024 05:10:04 PM	JSON POST : {
-			"userId":"44",
-			"CodeId":"V01013"
-		}10.140.59.103	25-01-2024 05:10:05 PM	RESPONCE RETURN VENDOR SLEF ASSIGNMENT API: {
-    "status": 0,
-    "Message": "PENDING APPLICATION FOUND"
-}10.140.59.103	25-01-2024 05:10:05 PM	Dashboard load for vendor self assignment10.140.59.103	25-01-2024 05:10:05 PM	Session BranchId...vendor10.140.59.103	25-01-2024 05:10:05 PM	Session Type...VENDOR10.140.59.103	25-01-2024 05:10:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 05:10:05 PM	JSON POST : { "UserType": "VENDOR", "UserId": "44", "UserTypeId": "vendor", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.140.59.103	25-01-2024 05:10:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 05:10:05 PM	JSON POST : 10.140.59.103	25-01-2024 05:10:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorDetailAPI.php10.140.59.103	25-01-2024 05:10:05 PM	JSON POST : {
-					"vendorId":"V01013",
-					"userId":"44"
-				}10.140.59.103	25-01-2024 05:10:06 PM	TOTAL UNASSIN IN BUCKET FOR VENDOR: {
-    "AckNoPool": 496,
-    "VendorLimit": "2"
-}10.140.59.103	25-01-2024 05:10:43 PM	ui cWN1c2VyNQ== and pas dGVzdA==10.140.59.103	25-01-2024 05:10:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 05:10:43 PM	JSON POST : Array10.140.59.103	25-01-2024 05:10:43 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "50",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "QCP",
-    "UserName": "Surabhi Japlot  [QC]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.103	25-01-2024 05:10:43 PM	Json parting value34434510.140.59.103	25-01-2024 05:10:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:10:43 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:10:43 PM	Session BranchId...QCP10.140.59.103	25-01-2024 05:10:43 PM	Session Type...QCP10.140.59.103	25-01-2024 05:10:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 05:10:43 PM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.59.103	25-01-2024 05:10:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 05:10:43 PM	JSON POST : 10.140.59.103	25-01-2024 05:10:48 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.140.59.103	25-01-2024 05:10:48 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.140.59.103	25-01-2024 05:10:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:10:48 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:10:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:10:52 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:10:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/productinfoList.php10.140.59.103	25-01-2024 05:10:52 PM	JSON POST : 10.140.59.103	25-01-2024 05:10:52 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listproduct.php?branchCode=&type=product10.140.59.103	25-01-2024 05:10:52 PM	response return from product mapping list : 10.140.59.103	25-01-2024 05:11:01 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.140.59.103	25-01-2024 05:11:01 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.140.59.103	25-01-2024 05:11:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:11:01 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:11:03 PM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=V0101310.140.59.103	25-01-2024 05:11:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:11:03 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:11:20 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.140.59.103	25-01-2024 05:11:20 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.140.59.103	25-01-2024 05:11:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:11:20 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:11:22 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.140.59.103	25-01-2024 05:11:22 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- Call for Retrival 10.140.59.103	25-01-2024 05:11:22 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php?editId=210.140.59.103	25-01-2024 05:11:22 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "2",
-    "Name": "Unique Data Solution",
-    "AddressOne": "S-553\/54, B-7 & B-12, Gautam Complex Part-II",
-    "AddressTwo": "School Block, Shakarpur",
-    "City": "NEW DELHI",
-    "PinCode": "110092",
-    "State": "9",
-    "PrimaryPhone": "9289911196",
-    "SecondaryPhone": "9810194248",
-    "PrimaryEmail": "pcuniquedatasolution@gmail.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Shiv Kumar",
-    "CenterType": "1",
-    "Region": "3",
-    "PanNumber": "AAAPA1111A",
-    "TanNumber": "123",
-    "GstNumber": "12131",
-    "BranchCode": "V01013",
-    "FinancialCode": "10",
-    "BankName": "",
-    "AccountNumber": "1212121212",
-    "IfscCode": "ICICI1212",
-    "BranchName": "NOIDA",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2022-02-12",
-    "Created_time": "16:50:49",
-    "Updated_date": null,
-    "Updated_time": null,
-    "MaxCapacity": "500"
-}10.140.59.103	25-01-2024 05:11:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:11:22 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:12:23 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.59.103	25-01-2024 05:12:23 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.59.103	25-01-2024 05:12:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:12:23 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:12:26 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.140.59.103	25-01-2024 05:12:26 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.140.59.103	25-01-2024 05:12:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:12:26 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:12:28 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.140.59.103	25-01-2024 05:12:28 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- Call for Retrival 10.140.59.103	25-01-2024 05:12:28 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php?editId=210.140.59.103	25-01-2024 05:12:28 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "2",
-    "Name": "Unique Data Solution",
-    "AddressOne": "S-553\/54, B-7 & B-12, Gautam Complex Part-II",
-    "AddressTwo": "School Block, Shakarpur",
-    "City": "NEW DELHI",
-    "PinCode": "110092",
-    "State": "9",
-    "PrimaryPhone": "9289911196",
-    "SecondaryPhone": "9810194248",
-    "PrimaryEmail": "pcuniquedatasolution@gmail.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Shiv Kumar",
-    "CenterType": "1",
-    "Region": "3",
-    "PanNumber": "AAAPA1111A",
-    "TanNumber": "123",
-    "GstNumber": "12131",
-    "BranchCode": "V01013",
-    "FinancialCode": "10",
-    "BankName": "",
-    "AccountNumber": "1212121212",
-    "IfscCode": "ICICI1212",
-    "BranchName": "NOIDA",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2022-02-12",
-    "Created_time": "16:50:49",
-    "Updated_date": null,
-    "Updated_time": null,
-    "MaxCapacity": "500"
-}10.140.59.103	25-01-2024 05:12:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:12:28 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:13:03 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.140.59.103	25-01-2024 05:13:03 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- Call for Retrival 10.140.59.103	25-01-2024 05:13:03 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php?editId=210.140.59.103	25-01-2024 05:13:03 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "2",
-    "Name": "Unique Data Solution",
-    "AddressOne": "S-553\/54, B-7 & B-12, Gautam Complex Part-II",
-    "AddressTwo": "School Block, Shakarpur",
-    "City": "NEW DELHI",
-    "PinCode": "110092",
-    "State": "9",
-    "PrimaryPhone": "9289911196",
-    "SecondaryPhone": "9810194248",
-    "PrimaryEmail": "pcuniquedatasolution@gmail.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Shiv Kumar",
-    "CenterType": "1",
-    "Region": "3",
-    "PanNumber": "AAAPA1111A",
-    "TanNumber": "123",
-    "GstNumber": "12131",
-    "BranchCode": "V01013",
-    "FinancialCode": "10",
-    "BankName": "",
-    "AccountNumber": "1212121212",
-    "IfscCode": "ICICI1212",
-    "BranchName": "NOIDA",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2022-02-12",
-    "Created_time": "16:50:49",
-    "Updated_date": null,
-    "Updated_time": null,
-    "MaxCapacity": "500"
-}10.140.59.103	25-01-2024 05:13:03 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Data Save ..10.140.59.103	25-01-2024 05:13:03 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Saving Data as  .. editId=2&Name=Unique+Data+Solution&AddressOne=S-553%2F54%2C+B-7+%26+B-12%2C+Gautam+Complex+Part-II&AddressTwo=School+Block%2C+Shakarpur&City=NEW+DELHI&PinCode=110092&State=9&PrimaryPhone=9289911196&SecondaryPhone=9810194248&PrimaryEmail=pcuniquedatasolution%40gmail.com&SecondaryEmail=&ContactPerson=Shiv+Kumar&CenterType=2&Region=3&PanNumber=AAAPA1111A&TanNumber=abcd1234aa&GstNumber=12131&BranchCode=V01013&FinancialCode=10&BankName=cici+bank&AccountNumber=1212121212&IfscCode=ICICI1212&BranchName=NOIDA&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&MaxCapacity=50010.140.59.103	25-01-2024 05:13:03 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addvendorbasicInfo.php10.140.59.103	25-01-2024 05:13:03 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Saving Data API Call Result  .. Vendor updated Successfully10.140.59.103	25-01-2024 05:13:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:13:03 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:13:10 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.140.59.103	25-01-2024 05:13:10 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.140.59.103	25-01-2024 05:13:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:13:10 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:13:14 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.140.59.103	25-01-2024 05:13:14 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- Call for Retrival 10.140.59.103	25-01-2024 05:13:14 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php?editId=210.140.59.103	25-01-2024 05:13:14 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "2",
-    "Name": "Unique Data Solution",
-    "AddressOne": "S-553\/54, B-7 & B-12, Gautam Complex Part-II",
-    "AddressTwo": "School Block, Shakarpur",
-    "City": "NEW DELHI",
-    "PinCode": "110092",
-    "State": "9",
-    "PrimaryPhone": "9289911196",
-    "SecondaryPhone": "9810194248",
-    "PrimaryEmail": "pcuniquedatasolution@gmail.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Shiv Kumar",
-    "CenterType": "2",
-    "Region": "3",
-    "PanNumber": "AAAPA1111A",
-    "TanNumber": "abcd1234aa",
-    "GstNumber": "12131",
-    "BranchCode": "V01013",
-    "FinancialCode": "10",
-    "BankName": "cici bank",
-    "AccountNumber": "1212121212",
-    "IfscCode": "ICICI1212",
-    "BranchName": "NOIDA",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-25",
-    "Created_time": "17:13:03",
-    "Updated_date": null,
-    "Updated_time": null,
-    "MaxCapacity": "500"
-}10.140.59.103	25-01-2024 05:13:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:13:14 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:13:36 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.140.59.103	25-01-2024 05:13:36 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- Call for Retrival 10.140.59.103	25-01-2024 05:13:36 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php?editId=210.140.59.103	25-01-2024 05:13:36 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "2",
-    "Name": "Unique Data Solution",
-    "AddressOne": "S-553\/54, B-7 & B-12, Gautam Complex Part-II",
-    "AddressTwo": "School Block, Shakarpur",
-    "City": "NEW DELHI",
-    "PinCode": "110092",
-    "State": "9",
-    "PrimaryPhone": "9289911196",
-    "SecondaryPhone": "9810194248",
-    "PrimaryEmail": "pcuniquedatasolution@gmail.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Shiv Kumar",
-    "CenterType": "2",
-    "Region": "3",
-    "PanNumber": "AAAPA1111A",
-    "TanNumber": "abcd1234aa",
-    "GstNumber": "12131",
-    "BranchCode": "V01013",
-    "FinancialCode": "10",
-    "BankName": "cici bank",
-    "AccountNumber": "1212121212",
-    "IfscCode": "ICICI1212",
-    "BranchName": "NOIDA",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2024-01-25",
-    "Created_time": "17:13:03",
-    "Updated_date": null,
-    "Updated_time": null,
-    "MaxCapacity": "500"
-}10.140.59.103	25-01-2024 05:13:36 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Data Save ..10.140.59.103	25-01-2024 05:13:36 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Saving Data as  .. editId=2&Name=Unique+Data+Solution&AddressOne=S-553%2F54%2C+B-7+%26+B-12%2C+Gautam+Complex+Part-II&AddressTwo=School+Block%2C+Shakarpur&City=NEW+DELHI&PinCode=110092&State=9&PrimaryPhone=9289911196&SecondaryPhone=9810194248&PrimaryEmail=pcuniquedatasolution%40gmail.com&SecondaryEmail=&ContactPerson=Shiv+Kumar&CenterType=2&Region=3&PanNumber=AAAPA1111A&TanNumber=abcd1234aa&GstNumber=12131&BranchCode=V01013&FinancialCode=10&BankName=cici+bank&AccountNumber=1212121212&IfscCode=ICICI1212&BranchName=NOIDA&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&MaxCapacity=50010.140.59.103	25-01-2024 05:13:36 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addvendorbasicInfo.php10.140.59.103	25-01-2024 05:13:36 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Saving Data API Call Result  .. Vendor updated Successfully10.140.59.103	25-01-2024 05:13:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:13:36 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:13:49 PM	ui c3VyZXNoa3VtYXIwMTAxM0BnbWFpbC5jb20= and pas dGVzdA==10.140.59.103	25-01-2024 05:13:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 05:13:49 PM	JSON POST : Array10.140.59.103	25-01-2024 05:13:49 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "44",
-    "BranchId": "V01013",
-    "Role": "1",
-    "Type": "vendor",
-    "UserName": "Suresh Kumar (User-2)  [Vendor-01013]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.103	25-01-2024 05:13:49 PM	Json parting valueV0101310.140.59.103	25-01-2024 05:13:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:13:49 PM	JSON POST : {
-			"userType" : "VENDOR"
-		}10.140.59.103	25-01-2024 05:13:49 PM	Session BranchId...vendor10.140.59.103	25-01-2024 05:13:49 PM	Session Type...VENDOR10.140.59.103	25-01-2024 05:13:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 05:13:49 PM	JSON POST : { "UserType": "VENDOR", "UserId": "44", "UserTypeId": "vendor", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.140.59.103	25-01-2024 05:13:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 05:13:50 PM	JSON POST : 10.140.59.103	25-01-2024 05:13:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorDetailAPI.php10.140.59.103	25-01-2024 05:13:50 PM	JSON POST : {
-					"vendorId":"V01013",
-					"userId":"44"
-				}10.140.59.103	25-01-2024 05:13:50 PM	TOTAL UNASSIN IN BUCKET FOR VENDOR: {
-    "AckNoPool": 496,
-    "VendorLimit": "2"
-}10.140.59.103	25-01-2024 05:14:13 PM	ui c2hpdmt1bWFyMDEwMTNAZ21haWwuY29t and pas dGVzdA==10.140.59.103	25-01-2024 05:14:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 05:14:13 PM	JSON POST : Array10.140.59.103	25-01-2024 05:14:13 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "43",
-    "BranchId": "V01013",
-    "Role": "1",
-    "Type": "vendor",
-    "UserName": "Shiv Kumar   (User-1)",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.103	25-01-2024 05:14:13 PM	Json parting valueV0101310.140.59.103	25-01-2024 05:14:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:14:13 PM	JSON POST : {
-			"userType" : "VENDOR"
-		}10.140.59.103	25-01-2024 05:14:14 PM	Session BranchId...vendor10.140.59.103	25-01-2024 05:14:14 PM	Session Type...VENDOR10.140.59.103	25-01-2024 05:14:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 05:14:14 PM	JSON POST : { "UserType": "VENDOR", "UserId": "43", "UserTypeId": "vendor", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.140.59.103	25-01-2024 05:14:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 05:14:14 PM	JSON POST : 10.140.59.103	25-01-2024 05:14:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorDetailAPI.php10.140.59.103	25-01-2024 05:14:14 PM	JSON POST : {
-					"vendorId":"V01013",
-					"userId":"43"
-				}10.140.59.103	25-01-2024 05:14:15 PM	TOTAL UNASSIN IN BUCKET FOR VENDOR: {
-    "AckNoPool": 496,
-    "VendorLimit": "2"
-}10.140.59.103	25-01-2024 05:14:42 PM	ui cWN1c2VyNQ== and pas dGVzdA==10.140.59.103	25-01-2024 05:14:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 05:14:42 PM	JSON POST : Array10.140.59.103	25-01-2024 05:14:42 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "50",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "QCP",
-    "UserName": "Surabhi Japlot  [QC]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.103	25-01-2024 05:14:42 PM	Json parting value34434510.140.59.103	25-01-2024 05:14:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:14:42 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.59.103	25-01-2024 05:14:43 PM	Session BranchId...QCP10.140.59.103	25-01-2024 05:14:43 PM	Session Type...QCP10.140.59.103	25-01-2024 05:14:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 05:14:43 PM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.59.103	25-01-2024 05:14:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 05:14:43 PM	JSON POST : 10.140.59.103	25-01-2024 05:17:06 PM	ui MjU1MzYwMg== and pas dGVzdA==10.140.59.103	25-01-2024 05:17:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 05:17:06 PM	JSON POST : Array10.140.59.103	25-01-2024 05:17:06 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "1",
-    "BranchId": "25536",
-    "Role": "2",
-    "Type": "branch",
-    "UserName": "Branch User  (2553602)",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.59.103	25-01-2024 05:17:06 PM	Json parting value2553610.140.59.103	25-01-2024 05:17:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:17:06 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 05:17:07 PM	Session BranchId...2553610.140.59.103	25-01-2024 05:17:07 PM	Session Type...BRANCH10.140.59.103	25-01-2024 05:17:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.103	25-01-2024 05:17:07 PM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "2"}10.140.59.103	25-01-2024 05:17:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.103	25-01-2024 05:17:08 PM	JSON POST : 10.140.59.103	25-01-2024 05:17:14 PM	Session BranchId...2553610.140.59.103	25-01-2024 05:17:14 PM	Session Type...BRANCH10.140.59.103	25-01-2024 05:17:14 PM	JSON to post dashboard data:  ----{ "UserType": "BRANCH", "UserId": "", "UserTypeId": "25536","page":"documentmanagementpage"}10.140.59.103	25-01-2024 05:17:14 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardAPI.php10.140.59.103	25-01-2024 05:17:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:17:14 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 05:18:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.103	25-01-2024 05:18:42 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.59.103	25-01-2024 05:18:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.140.59.103	25-01-2024 05:18:42 PM	JSON POST : {
-                                      "courier":"",
-                                      "page":"courierlist"
-                                    }10.140.59.103	25-01-2024 05:18:58 PM	ui YmFja2hv and pas dGVzdA==10.140.59.103	25-01-2024 05:18:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.103	25-01-2024 05:18:58 PM	JSON POST : Array10.140.59.103	25-01-2024 05:18:58 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.103	25-01-2024 05:18:58 PM	Json parting value34434510.140.59.103	25-01-2024 05:18:58 PM	Session BranchId...BACKHO10.140.59.103	25-01-2024 05:18:58 PM	Session Type...BACKHO10.140.59.103	25-01-2024 05:18:58 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.140.59.103	25-01-2024 05:18:58 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.140.59.103	25-01-2024 05:19:01 PM	[Info] - File location /tinfc1/UAT/courierreceiving.php Message:-  URL for API - 10.140.59.103	25-01-2024 05:19:01 PM	[Info] - File location /tinfc1/UAT/courierreceiving.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/Dashboards/courierDashboard.php10.140.59.103	25-01-2024 05:19:01 PM	REQUEST SENT TO COURIER LIST NULL: {
-  "courier":"",
- "fromDate":"",
- "toDate":"",
- "page":"courierlist"
-}10.140.59.103	25-01-2024 05:19:01 PM	Response return from courier list API: {
-    "Status": "0",
-    "Message": "Success",
-    "CourierList": [
-        {
-            "Courier": "1245",
-            "BunchList": [
-                {
-                    "Bunch": "25536-2022-003",
-                    "CourierdAddress": "vivek Vihar",
-                    "ReceivedBy": null,
-                    "CourierDate": "2023-10-04",
-                    "Stage": "F~BOP~DCM~CS"
-                }
-            ]
-        },
-        {
-            "Courier": "35545",
-            "BunchList": [
-                {
-                    "Bunch": "25536-2021-0010",
-                    "CourierdAddress": "test address",
-                    "ReceivedBy": null,
-                    "CourierDate": "2021-10-21",
-                    "Stage": "F~BOP~DCM~CS"
-                }
-            ]
-        }
-    ]
-}10.140.59.103	25-01-2024 05:19:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.140.59.103	25-01-2024 05:19:01 PM	JSON POST : {
-        "courier":"",
-        "page":"courierlist"
-      }10.140.59.103	25-01-2024 05:19:14 PM	 json for API - {
-		"range":"1",
-		"userId":"12749"
-	}10.140.59.103	25-01-2024 05:19:14 PM	Response return from range list API: {
-    "FromRange": "713",
-    "ToRange": "718",
-    "Message": "Range is already Occupied"
-}10.140.59.88	25-01-2024 05:35:18 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.36.179	25-01-2024 05:35:54 PM	ui YmFja2hv and pas dGVzdA==10.140.36.179	25-01-2024 05:35:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.179	25-01-2024 05:35:54 PM	JSON POST : Array10.140.36.179	25-01-2024 05:35:54 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.36.179	25-01-2024 05:35:54 PM	Json parting value34434510.140.36.179	25-01-2024 05:35:54 PM	Session BranchId...BACKHO10.140.36.179	25-01-2024 05:35:54 PM	Session Type...BACKHO10.140.36.179	25-01-2024 05:35:54 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.140.36.179	25-01-2024 05:35:54 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.140.36.179	25-01-2024 05:38:00 PM	Session BranchId...BACKHO10.140.36.179	25-01-2024 05:38:00 PM	Session Type...BACKHO10.140.36.179	25-01-2024 05:38:00 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.140.36.179	25-01-2024 05:38:00 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.140.36.179	25-01-2024 05:38:23 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
-    "fromDate":"2024-01-01",
-    "toDate":"2024-01-25"
-}10.140.36.179	25-01-2024 05:38:23 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - http://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.140.36.179	25-01-2024 05:38:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.140.36.179	25-01-2024 05:38:23 PM	JSON POST : {
-    "fromDate":"2024-01-01",
-    "toDate":"2024-01-25"
-}10.140.36.179	25-01-2024 05:38:24 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  RESPONSE RETURN FROM COLLECTION REPORT LIST API : {
-    "Status": "0",
-    "Message": "Success",
-    "TotalData": [
-        {
-            "BranchCode": "25536",
-            "ExistCode": null,
-            "BranchName": "NOIDA",
-            "BranchType": "",
-            "NoPanResident": "0",
-            "NoPanNRI": "0",
-            "PanAmount": 0,
-            "NoAppTan": "0",
-            "TanAmount": "0",
-            "Less100eTds": "0",
-            "eTds100_1000": "0",
-            "More1000eTds": "0",
-            "ReturnAmount": 0,
-            "Less100g24": "0",
-            "g24100_1000": "0",
-            "More1000g24": "0",
-            "G24Amount": 0,
-            "NomPanResident": "0",
-            "NomPanNRI": "0",
-            "MPanAmount": 0,
-            "TotalAmount": 0
-        }
-    ]
-}10.140.36.179	25-01-2024 05:38:50 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
-    "fromDate":"2023-11-01",
-    "toDate":"2024-01-25"
-}10.140.36.179	25-01-2024 05:38:50 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - http://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.140.36.179	25-01-2024 05:38:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.140.36.179	25-01-2024 05:38:50 PM	JSON POST : {
-    "fromDate":"2023-11-01",
-    "toDate":"2024-01-25"
-}10.140.36.179	25-01-2024 05:38:50 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  RESPONSE RETURN FROM COLLECTION REPORT LIST API : {
-    "Status": "0",
-    "Message": "Success",
-    "TotalData": [
-        {
-            "BranchCode": "25536",
-            "ExistCode": null,
-            "BranchName": "NOIDA",
-            "BranchType": "",
-            "NoPanResident": "0",
-            "NoPanNRI": "0",
-            "PanAmount": 0,
-            "NoAppTan": "0",
-            "TanAmount": "0",
-            "Less100eTds": "0",
-            "eTds100_1000": "0",
-            "More1000eTds": "0",
-            "ReturnAmount": 0,
-            "Less100g24": "0",
-            "g24100_1000": "0",
-            "More1000g24": "0",
-            "G24Amount": 0,
-            "NomPanResident": "0",
-            "NomPanNRI": "0",
-            "MPanAmount": 0,
-            "TotalAmount": 0
-        }
-    ]
-}10.140.36.133	25-01-2024 06:59:18 PM	Session BranchId...BACKHO10.140.36.133	25-01-2024 06:59:18 PM	Session Type...BACKHO10.140.36.133	25-01-2024 06:59:18 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.140.36.133	25-01-2024 06:59:18 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.140.36.133	25-01-2024 06:59:30 PM	Session BranchId...BACKHO10.140.36.133	25-01-2024 06:59:30 PM	Session Type...BACKHO10.140.36.133	25-01-2024 06:59:30 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.140.36.133	25-01-2024 06:59:30 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.140.36.133	25-01-2024 06:59:32 PM	Session BranchId...BACKHO10.140.36.133	25-01-2024 06:59:32 PM	Session Type...BACKHO10.140.36.133	25-01-2024 06:59:32 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.140.36.133	25-01-2024 06:59:32 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.140.36.133	25-01-2024 06:59:45 PM	Session BranchId...BACKHO10.140.36.133	25-01-2024 06:59:45 PM	Session Type...BACKHO10.140.36.133	25-01-2024 06:59:45 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.140.36.133	25-01-2024 06:59:45 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php

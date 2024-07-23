@@ -1,55 +1,0 @@
-10.140.59.134	20-03-2024 03:55:26 PM	****** upload path ****** :uploads/10.140.59.134	20-03-2024 03:55:26 PM	records .. 310.140.59.134	20-03-2024 03:55:26 PM	records ..       319900001-02-2024264879700032824PCD10.140.59.134	20-03-2024 03:55:26 PM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLAcceptedAPI.php :{
-						"Opetation":"ACC",
-						"UserId":"52",
-						"ip":"10.140.59.134",
-						"listOfData":[{
-									"AcknowledgmentNumber":"264879700032824",
-									"AcceptedDate":"01-02-2024"
-								},{
-									"AcknowledgmentNumber":"093519700449630",
-									"AcceptedDate":"01-02-2024"
-								}]
-						}10.140.59.134	20-03-2024 03:55:26 PM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 2,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "264879700032824",
-                "StageStatus": "Already Updated"
-            },
-            {
-                "AcknoNumber": "093519700449630",
-                "StageStatus": "Already Updated"
-            }
-        ]
-    }
-]10.140.59.134	20-03-2024 03:57:20 PM	****** upload path ****** :uploads/10.140.59.134	20-03-2024 03:57:20 PM	records .. 310.140.59.134	20-03-2024 03:57:20 PM	records ..       319900001-02-2024264879700032824PCD10.140.59.134	20-03-2024 03:57:20 PM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLAcceptedAPI.php :{
-						"Opetation":"ACC",
-						"UserId":"52",
-						"ip":"10.140.59.134",
-						"listOfData":[{
-									"AcknowledgmentNumber":"264879700032824",
-									"AcceptedDate":"01-02-2024"
-								},{
-									"AcknowledgmentNumber":"093519700449630",
-									"AcceptedDate":"01-02-2024"
-								}]
-						}10.140.59.134	20-03-2024 03:57:20 PM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 2,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "264879700032824",
-                "StageStatus": "Already Updated"
-            },
-            {
-                "AcknoNumber": "093519700449630",
-                "StageStatus": "Already Updated"
-            }
-        ]
-    }
-]10.140.59.134	20-03-2024 04:02:13 PM	****** upload path ****** :uploads/10.140.59.134	20-03-2024 04:02:13 PM	records .. 310.140.59.134	20-03-2024 04:02:13 PM	records ..       319900001-02-2024264879700032824PCM

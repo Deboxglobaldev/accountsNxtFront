@@ -1,32 +1,0 @@
-10.100.23.216	13-12-2023 12:35:53 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.23.216	13-12-2023 12:36:00 PM	ui YmFja2hv and pas dGVzdA==10.100.23.216	13-12-2023 12:36:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.216	13-12-2023 12:36:00 PM	JSON POST : Array10.100.23.216	13-12-2023 12:36:00 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.23.216	13-12-2023 12:36:00 PM	Json parting value34434510.100.23.216	13-12-2023 12:36:00 PM	Session BranchId...BACKHO10.100.23.216	13-12-2023 12:36:00 PM	Session Type...BACKHO10.100.23.216	13-12-2023 12:36:00 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.23.216	13-12-2023 12:36:00 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.23.216	13-12-2023 12:36:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.216	13-12-2023 12:36:04 PM	JSON POST : {
-                                                    "AccountName":"",
-                                                    "GroupId":"",
-                                                    "Status":"1"
-                                                }10.100.23.216	13-12-2023 12:36:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.23.216	13-12-2023 12:36:16 PM	JSON POST : {
-        "voucherNo":"",
-        "accountCode":"",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-12-13"
-    }10.100.23.216	13-12-2023 12:36:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.216	13-12-2023 12:36:16 PM	JSON POST : {
-                                                    "AccountName":"",
-                                                    "GroupId":"",
-                                                    "Status":"1"
-                                                }10.100.23.216	13-12-2023 12:36:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.23.216	13-12-2023 12:36:31 PM	JSON POST : {
-        "voucherNo":"",
-        "accountCode":"SLB09856",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-12-13"
-    }10.100.23.216	13-12-2023 12:36:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.216	13-12-2023 12:36:31 PM	JSON POST : {
-                                                    "AccountName":"",
-                                                    "GroupId":"",
-                                                    "Status":"1"
-                                                }

@@ -1,298 +1,0 @@
-10.100.72.250	21-03-2024 09:39:12 AM	****** upload path ****** :uploads/10.100.72.250	21-03-2024 09:39:12 AM	records .. 310.100.72.250	21-03-2024 09:39:12 AM	records .. 319900001-09-2023830008600010855PAN10.100.72.250	21-03-2024 09:39:12 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLAcceptedAPI.php :{
-						"Opetation":"ACC",
-						"UserId":"36",
-						"ip":"10.100.72.250",
-						"listOfData":[{
-									"AcknowledgmentNumber":"830008600010855",
-									"AcceptedDate":"01-09-2023"
-								},{
-									"AcknowledgmentNumber":"255369700333300",
-									"AcceptedDate":"01-09-2023"
-								}]
-						}10.100.72.250	21-03-2024 09:39:12 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 2,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830008600010855",
-                "StageStatus": "AcknowledgmentNumber not available"
-            },
-            {
-                "AcknoNumber": "255369700333300",
-                "StageStatus": "AcknowledgmentNumber not available"
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:41:11 AM	****** upload path ****** :uploads/NSDL_UPLOAD_STAGE.txt10.100.72.250	21-03-2024 09:41:11 AM	File upload Type is: 10.100.72.250	21-03-2024 09:41:11 AM	LINE NO 11 IS:       2<br>10.100.72.250	21-03-2024 09:41:11 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLStageUpload.php :{
-								"Opetation":"INS",
-								"UserId":"36",
-								"ip":"10.100.72.250",
-								"listOfData":[{ 
-							"AcknowledgmentNumber":"830028200008910",
-							"Message":"Record inserted succesfully"
-						 }]
-							}10.100.72.250	21-03-2024 09:41:11 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 1,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830028200008910",
-                "StageStatus": "AcknowledgmentNumber not available",
-                "TransferList": []
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:41:36 AM	****** upload path ****** :uploads/NSDL_UPLOAD_STAGE.txt10.100.72.250	21-03-2024 09:41:36 AM	File upload Type is: 10.100.72.250	21-03-2024 09:41:36 AM	LINE NO 11 IS:       2<br>10.100.72.250	21-03-2024 09:41:36 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLStageUpload.php :{
-								"Opetation":"INS",
-								"UserId":"36",
-								"ip":"10.100.72.250",
-								"listOfData":[{ 
-							"AcknowledgmentNumber":"830028200008910",
-							"Message":"Record inserted succesfully"
-						 }]
-							}10.100.72.250	21-03-2024 09:41:36 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 1,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830028200008910",
-                "StageStatus": "AcknowledgmentNumber not available",
-                "TransferList": []
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:41:38 AM	****** upload path ****** :uploads/NSDL_UPLOAD_STAGE.txt10.100.72.250	21-03-2024 09:41:38 AM	File upload Type is: 10.100.72.250	21-03-2024 09:41:38 AM	LINE NO 11 IS:       2<br>10.100.72.250	21-03-2024 09:41:38 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLStageUpload.php :{
-								"Opetation":"INS",
-								"UserId":"36",
-								"ip":"10.100.72.250",
-								"listOfData":[{ 
-							"AcknowledgmentNumber":"830028200008910",
-							"Message":"Record inserted succesfully"
-						 }]
-							}10.100.72.250	21-03-2024 09:41:38 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 1,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830028200008910",
-                "StageStatus": "AcknowledgmentNumber not available",
-                "TransferList": []
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:41:38 AM	****** upload path ****** :uploads/NSDL_UPLOAD_STAGE.txt10.100.72.250	21-03-2024 09:41:38 AM	File upload Type is: 10.100.72.250	21-03-2024 09:41:38 AM	LINE NO 11 IS:       2<br>10.100.72.250	21-03-2024 09:41:38 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLStageUpload.php :{
-								"Opetation":"INS",
-								"UserId":"36",
-								"ip":"10.100.72.250",
-								"listOfData":[{ 
-							"AcknowledgmentNumber":"830028200008910",
-							"Message":"Record inserted succesfully"
-						 }]
-							}10.100.72.250	21-03-2024 09:41:38 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 1,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830028200008910",
-                "StageStatus": "AcknowledgmentNumber not available",
-                "TransferList": []
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:41:39 AM	****** upload path ****** :uploads/NSDL_UPLOAD_STAGE.txt10.100.72.250	21-03-2024 09:41:39 AM	File upload Type is: 10.100.72.250	21-03-2024 09:41:39 AM	LINE NO 11 IS:       2<br>10.100.72.250	21-03-2024 09:41:39 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLStageUpload.php :{
-								"Opetation":"INS",
-								"UserId":"36",
-								"ip":"10.100.72.250",
-								"listOfData":[{ 
-							"AcknowledgmentNumber":"830028200008910",
-							"Message":"Record inserted succesfully"
-						 }]
-							}10.100.72.250	21-03-2024 09:41:39 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 1,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830028200008910",
-                "StageStatus": "AcknowledgmentNumber not available",
-                "TransferList": []
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:41:40 AM	****** upload path ****** :uploads/NSDL_UPLOAD_STAGE.txt10.100.72.250	21-03-2024 09:41:40 AM	File upload Type is: 10.100.72.250	21-03-2024 09:41:40 AM	LINE NO 11 IS:       2<br>10.100.72.250	21-03-2024 09:41:40 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLStageUpload.php :{
-								"Opetation":"INS",
-								"UserId":"36",
-								"ip":"10.100.72.250",
-								"listOfData":[{ 
-							"AcknowledgmentNumber":"830028200008910",
-							"Message":"Record inserted succesfully"
-						 }]
-							}10.100.72.250	21-03-2024 09:41:40 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 1,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830028200008910",
-                "StageStatus": "AcknowledgmentNumber not available",
-                "TransferList": []
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:41:40 AM	****** upload path ****** :uploads/NSDL_UPLOAD_STAGE.txt10.100.72.250	21-03-2024 09:41:40 AM	File upload Type is: 10.100.72.250	21-03-2024 09:41:40 AM	LINE NO 11 IS:       2<br>10.100.72.250	21-03-2024 09:41:40 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLStageUpload.php :{
-								"Opetation":"INS",
-								"UserId":"36",
-								"ip":"10.100.72.250",
-								"listOfData":[{ 
-							"AcknowledgmentNumber":"830028200008910",
-							"Message":"Record inserted succesfully"
-						 }]
-							}10.100.72.250	21-03-2024 09:41:40 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 1,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830028200008910",
-                "StageStatus": "AcknowledgmentNumber not available",
-                "TransferList": []
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:41:41 AM	****** upload path ****** :uploads/NSDL_UPLOAD_STAGE.txt10.100.72.250	21-03-2024 09:41:41 AM	File upload Type is: 10.100.72.250	21-03-2024 09:41:41 AM	LINE NO 11 IS:       2<br>10.100.72.250	21-03-2024 09:41:41 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLStageUpload.php :{
-								"Opetation":"INS",
-								"UserId":"36",
-								"ip":"10.100.72.250",
-								"listOfData":[{ 
-							"AcknowledgmentNumber":"830028200008910",
-							"Message":"Record inserted succesfully"
-						 }]
-							}10.100.72.250	21-03-2024 09:41:41 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 1,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830028200008910",
-                "StageStatus": "AcknowledgmentNumber not available",
-                "TransferList": []
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:42:48 AM	****** upload path ****** :uploads/NSDL_UPLOAD_STAGE.txt10.100.72.250	21-03-2024 09:42:48 AM	File upload Type is: 10.100.72.250	21-03-2024 09:42:48 AM	LINE NO 11 IS:       2<br>10.100.72.250	21-03-2024 09:42:48 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLStageUpload.php :{
-								"Opetation":"INS",
-								"UserId":"36",
-								"ip":"10.100.72.250",
-								"listOfData":[{ 
-							"AcknowledgmentNumber":"830028200008910",
-							"Message":"Record inserted succesfully"
-						 }]
-							}10.100.72.250	21-03-2024 09:42:48 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 1,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830028200008910",
-                "StageStatus": "AcknowledgmentNumber not available",
-                "TransferList": []
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:43:00 AM	****** upload path ****** :uploads/10.100.72.250	21-03-2024 09:43:00 AM	allotment records .. 310.100.72.250	21-03-2024 09:43:00 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/nsdlallotment.php :{
-			"Opetation":"ALC",
-			"UserId":"36",
-			"ip":"10.100.72.250",
-			"listOfData":[{ 
-						"AcknowledgmentNumber":"830008600010855",
-						"PanNumber":"PAN"
-					 },{ 
-						"AcknowledgmentNumber":"255369700333300",
-						"PanNumber":"PAN"
-					 }]
-			 }10.100.72.250	21-03-2024 09:43:00 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 2,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830008600010855",
-                "StageStatus": "AcknowledgmentNumber not avilable"
-            },
-            {
-                "AcknoNumber": "255369700333300",
-                "StageStatus": "AcknowledgmentNumber not avilable"
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:43:53 AM	****** upload path ****** :uploads/10.100.72.250	21-03-2024 09:43:53 AM	allotment records .. 310.100.72.250	21-03-2024 09:43:53 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/nsdlallotment.php :{
-			"Opetation":"ALC",
-			"UserId":"36",
-			"ip":"10.100.72.250",
-			"listOfData":[{ 
-						"AcknowledgmentNumber":"830008600010855",
-						"PanNumber":"PAN"
-					 },{ 
-						"AcknowledgmentNumber":"255369700333300",
-						"PanNumber":"PAN"
-					 }]
-			 }10.100.72.250	21-03-2024 09:43:53 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 2,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830008600010855",
-                "StageStatus": "AcknowledgmentNumber not avilable"
-            },
-            {
-                "AcknoNumber": "255369700333300",
-                "StageStatus": "AcknowledgmentNumber not avilable"
-            }
-        ]
-    }
-]10.100.72.250	21-03-2024 09:44:08 AM	****** upload path ****** :uploads/10.100.72.250	21-03-2024 09:44:08 AM	records .. 310.100.72.250	21-03-2024 09:44:08 AM	records .. 319900001-09-2023830008600010855PAN10.100.72.250	21-03-2024 09:44:08 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLAcceptedAPI.php :{
-						"Opetation":"ACC",
-						"UserId":"36",
-						"ip":"10.100.72.250",
-						"listOfData":[{
-									"AcknowledgmentNumber":"830008600010855",
-									"AcceptedDate":"01-09-2023"
-								},{
-									"AcknowledgmentNumber":"255369700333300",
-									"AcceptedDate":"01-09-2023"
-								}]
-						}10.100.72.250	21-03-2024 09:44:08 AM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 2,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830008600010855",
-                "StageStatus": "AcknowledgmentNumber not available"
-            },
-            {
-                "AcknoNumber": "255369700333300",
-                "StageStatus": "AcknowledgmentNumber not available"
-            }
-        ]
-    }
-]

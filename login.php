@@ -1,20 +1,13 @@
 <?php
-error_reporting('E_ALL');
+//error_reporting('E_ALL');
 ini_set('display_errors', 1);
 include "inc.php";
-// echo "included"; exit();
-/*if($_REQUEST['userLogin']=='')
-{
-	$data  = '{"data":"empty"}';
-	$url = $serverurlapi."General/qcSchedularAPI.php";
-	$result = postCurlData($url,$data);
-	logger("Response from qc scheduler api ".$result); 
-}*/
+
 
 if(isset($_POST['forgotPassword'])){
     $forgotuserid = trim($_POST['forgotuserid']);
     //logger('Forgot user id: '.$forgotuserid);
-    $resetlink = $serverurl.'resetpassword.php?uid='.encode($forgotuserid); 
+    $resetlink = $serverurl.'resetpassword.php?uid='.encode($forgotuserid);
     $jsonpost = '{
         "URL" : "'.$resetlink.'",
         "UserId" : "'.$forgotuserid.'"
@@ -28,126 +21,43 @@ if(isset($_POST['forgotPassword'])){
 
 
 if(isset($_REQUEST['userLogin']))
-{	
+{
 
-//$userIdV = decodeaes($_POST['userId']); //echo '<br>';
-//$passwordV = decodeaes($_POST['password']);
-    $userIdV = decryptData($_POST['userId'], $key, $iv);
-    $passwordV = decryptData($_POST['password'], $key, $iv);
+$userId = encode(trim($_POST['userId']));
+$password = encode(trim($_POST['password']));
 
-/* 
+    logger('ui '.$userId.' and pass '.$password);
 
-
-$userId = encode(trim($_POST['userId'])); 
-$password = encode(trim($_POST['password'])); */
-
-$userId = encode($userIdV); 
-$password = encode($passwordV);
-
-
-
-
-logger('ui '.$userId.' and pas '.$password);
 	$data = array(
 		 'userId' => decode($userId),
 		 'password' => decode($password)
-
 	);
-		logger ("Response from url data jaypal ".json_encode($data));
-    $url = $serverurlapi."General/userlogin.php";
 
-	$result = postCurlData($url,$data);
+    logger ("Response from url data jaypal ".json_encode($data));
+    $url = $serverurlapi."master/userlogin.php";
+
+	//$result = postCurlData($url,$data);
   	logger ("Response from url ".$url ." is: ".$result);
-	$userlogin = json_decode($result);
-//echo '<pre>';print_r($userlogin);
- ////////// SSO started ////////////
-    if ($userlogin->Status == 'Success') { 
-        //// Login API Call ///////
-        // Define the input text
-        $plainRequest = '{
-"loginId": "' . decode($userId) . '",
-"appId":"' . $appId . '"
-}';
-//echo 'plainRequest:-- '.$plainRequest;//die;
-        try {
-            $encryptedResponse = sendLoginRequest($plainRequest, $key, $iv, $apiUrl);
-            $decryptedResponse = handleResponse($encryptedResponse, $key, $iv);
-            $authToken = $decryptedResponse['authToken'];
-        } catch (Exception $e) {
-            echo "Error: " . $e->getMessage();
-        }
-        $_SESSION["jwtauthToken"] = $authToken;
+	//$userlogin = json_decode($result);
+
+    ////////// SSO started ////////////
+    //if ($userlogin->Status == 'Success') {
+    $aa = "Success";
+    if ($aa == 'Success') {
+        logger("Json parting value". $userlogin->BranchId);
+
+        $_SESSION["UserName"] = "ShivDVN Accounts";
+        //$_SESSION["UID"] = $userlogin->Id;
+        $_SESSION["UID"] = 1;
+        $_SESSION["userId"] =  decode($userId);
+        $_SESSION['sessionid'] = session_id();
+
+        echo "<script type='text/javascript'>window.location.href = 'index.php';</script>";
+        exit();
     }
-    $_SESSION["userId"] =  decode($userId);
-//echo '<pre>';print_r($_SESSION);
-//die;
-    //// SSO End //////////
 
-	
-	logger("Json parting value". $userlogin->BranchId);
 
-  $_SESSION["UserName"] = $userlogin->UserName;
-  $_SESSION["Type"] = strtoupper($userlogin->Type);
-  $_SESSION["UID"] = $userlogin->Id;
-  $_SESSION["REGIONID"] = $userlogin->RegionId;
-  $_SESSION["DIGIFlAG"] = $userlogin->SelfDigFlag;
-  $_SESSION["DIGIFlAGTAN"] = $userlogin->SelfDigFlagTan;
-  $_SESSION["BID"] = $userlogin->BranchId;
-  $_SESSION['sessionid'] = session_id();
-  $_SESSION["ROLE"] = $userlogin->Role;
-	if(strtoupper($userlogin->Type)=='BRANCH')
-        {
-	        $_SESSION["branchId"] = $userlogin->BranchId;
-		      echo "<script type='text/javascript'>window.location.href = 'index.php';</script>";
-		      exit();
 
-        }
-  elseif(strtoupper($userlogin->Type)=='QCP')
-  {
-    $_SESSION["branchId"] = $userlogin->Type;
-		      echo "<script type='text/javascript'>window.location.href = 'index.php';</script>";
-		      exit();
-  }elseif(strtoupper($userlogin->Type)=='QCF')
-  {
-    $_SESSION["branchId"] = $userlogin->Type;
-		      echo "<script type='text/javascript'>window.location.href = 'index.php';</script>";
-		      exit();
-  }elseif(strtoupper($userlogin->Type)=='BCP')
-  {
-    $_SESSION["branchId"] = $userlogin->Type;
-		      echo "<script type='text/javascript'>window.location.href = 'selecttoexport.php';</script>";
-		      exit();
-  }
-  elseif(strtoupper($userlogin->Type)=="VENDOR")
-  {
-    $_SESSION["branchId"] = $userlogin->Type;
-		      echo "<script type='text/javascript'>window.location.href = 'index.php';</script>";
-		      exit();
-  }
-  elseif(strtoupper($userlogin->Type)=="HOUSER")
-  {
-    $_SESSION["branchId"] = $userlogin->Type;
-	
-	
-		      echo "<script type='text/javascript'>window.location.href = 'index.php';</script>";
-		      exit();
-  }
-  elseif(strtoupper($userlogin->Type)=="NSD")
-  {
-    $_SESSION["branchId"] = $userlogin->Type;
-		      echo "<script type='text/javascript'>window.location.href = 'index.php';</script>";
-		      exit();
-  }elseif(strtoupper($userlogin->Type)=="BACKHO")
-  {
-    $_SESSION["branchId"] = $userlogin->Type;
-		      echo "<script type='text/javascript'>window.location.href = 'backofficedashboard.php';</script>";
-		      exit();
-  }
-  elseif(strtoupper($userlogin->Type)=="SUPER")
-  {
-    echo "<script type='text/javascript'>window.location.href = 'backofficeindex.php';</script>";
-		exit();
-  }
 }
 
 function decodeaes($encoded) {
@@ -177,7 +87,7 @@ return base64_decode(base64_decode($decoded));
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-	
+
     <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
 
    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
@@ -325,11 +235,11 @@ return base64_decode(base64_decode($decoded));
     }
     </style>
 	<script>
-    window.onload = function() {		
+    window.onload = function() {
         // Select all input elements on the page
-        var inputFields = document.querySelectorAll('input');      
+        var inputFields = document.querySelectorAll('input');
         // Loop through each input field
-        inputFields.forEach(function(input) {			
+        inputFields.forEach(function(input) {
             // Set autocomplete attribute to 'off'
             input.setAttribute('autocomplete', 'off');
         });
@@ -492,7 +402,7 @@ return base64_decode(base64_decode($decoded));
       <!--  <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script> -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
 		<script>
-		
+
 		function encode(str) {
 var encoded = "";
 str = btoa(str);
@@ -505,18 +415,18 @@ encoded = encoded+String.fromCharCode(b);
 encoded = btoa(encoded);
 return encoded;
 }
-		
-		
-function encryptCredentials111() {	
+
+
+function encryptCredentials111() {
     var userIdF = document.getElementById('userId').value;
-	var passwordF = document.getElementById("password").value;	
+	var passwordF = document.getElementById("password").value;
 	var useridValue = encode(userIdF);
-	var passwordValue = encode(passwordF);	
-	       
+	var passwordValue = encode(passwordF);
+
     document.getElementById("userId").value = useridValue;
-	 document.getElementById("password").value = passwordValue;    
+	 document.getElementById("password").value = passwordValue;
 	return false;
-	
+
 }
 
 function encryptCredentials() {

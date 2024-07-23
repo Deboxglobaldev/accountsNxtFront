@@ -1,461 +1,0 @@
-10.100.72.229	22-09-2023 10:02:04 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.59.208	22-09-2023 10:40:30 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.250	22-09-2023 11:11:21 AM	ui aG91c2VydGVzdA== and pas dGVzdA==10.100.72.250	22-09-2023 11:11:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	22-09-2023 11:11:21 AM	JSON POST : Array10.100.72.250	22-09-2023 11:11:21 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "36",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "NSD",
-    "UserName": "Response  User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.250	22-09-2023 11:11:21 AM	Json parting value34434510.100.72.250	22-09-2023 11:11:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:11:21 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:11:23 AM	Session BranchId...NSD10.100.72.250	22-09-2023 11:11:23 AM	Session Type...NSD10.100.72.250	22-09-2023 11:11:23 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	22-09-2023 11:11:23 AM	JSON POST : { "UserType": "NSD", "UserId": "36", "UserTypeId": "NSD", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "INS","Role": "1"}10.100.72.250	22-09-2023 11:11:31 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	22-09-2023 11:11:31 AM	JSON POST : 10.100.72.250	22-09-2023 11:11:45 AM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.250	22-09-2023 11:11:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	22-09-2023 11:11:45 AM	JSON POST : Array10.100.72.250	22-09-2023 11:11:45 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.72.250	22-09-2023 11:11:45 AM	Json parting value34434510.100.72.250	22-09-2023 11:11:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:11:46 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:12:03 AM	Session BranchId...houser10.100.72.250	22-09-2023 11:12:03 AM	Session Type...HOUSER10.100.72.250	22-09-2023 11:12:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	22-09-2023 11:12:03 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.250	22-09-2023 11:12:04 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	22-09-2023 11:12:04 AM	JSON POST : 10.100.72.250	22-09-2023 11:12:10 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - 10.100.72.250	22-09-2023 11:12:10 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/OfficeInfoListAPI.php10.100.72.250	22-09-2023 11:12:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:12:10 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:12:20 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=34434810.100.72.250	22-09-2023 11:12:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:12:20 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:12:22 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - 10.100.72.250	22-09-2023 11:12:22 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/OfficeInfoListAPI.php10.100.72.250	22-09-2023 11:12:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:12:22 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:12:24 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=34434510.100.72.250	22-09-2023 11:12:24 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:12:24 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:12:49 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=34434510.100.72.250	22-09-2023 11:12:49 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:12:49 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:13:29 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=34434510.100.72.250	22-09-2023 11:13:29 AM	add vendor user:http://10.150.146.12/UAT_BackEnd/General/addedituser.php---action=userCreation&type=NSD&editId=36&MasterCode=344345&Role=1&UserId=nsdluser&Email=houser%40gmail.com&FirstName=Response&LastName=User&InitialPassword=test&Status=1&panAssignmentQty=010.100.72.250	22-09-2023 11:13:29 AM	RESPONCE USER FROM USER CREATION :Update Successfully10.100.72.250	22-09-2023 11:13:29 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:13:29 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:13:54 AM	ui aG91c2VydGVzdA== and pas dGVzdA==10.100.72.250	22-09-2023 11:13:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	22-09-2023 11:13:54 AM	JSON POST : Array10.100.72.250	22-09-2023 11:13:54 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.250	22-09-2023 11:13:54 AM	Json parting value10.100.72.250	22-09-2023 11:14:05 AM	ui bnNkbHVzZXI= and pas dGVzdA==10.100.72.250	22-09-2023 11:14:05 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	22-09-2023 11:14:05 AM	JSON POST : Array10.100.72.250	22-09-2023 11:14:05 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "36",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "NSD",
-    "UserName": "Response  User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.250	22-09-2023 11:14:05 AM	Json parting value34434510.100.72.250	22-09-2023 11:14:05 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:14:05 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:14:06 AM	Session BranchId...NSD10.100.72.250	22-09-2023 11:14:06 AM	Session Type...NSD10.100.72.250	22-09-2023 11:14:06 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	22-09-2023 11:14:06 AM	JSON POST : { "UserType": "NSD", "UserId": "36", "UserTypeId": "NSD", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "INS","Role": "1"}10.100.72.250	22-09-2023 11:14:07 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	22-09-2023 11:14:07 AM	JSON POST : 10.100.72.250	22-09-2023 11:15:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:15:48 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:15:48 AM	Session BranchId...houser10.100.72.250	22-09-2023 11:15:48 AM	Session Type...HOUSER10.100.72.250	22-09-2023 11:15:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	22-09-2023 11:15:48 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.250	22-09-2023 11:15:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	22-09-2023 11:15:48 AM	JSON POST : 10.100.72.250	22-09-2023 11:15:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:15:54 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:16:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.100.72.250	22-09-2023 11:16:01 AM	JSON POST : {
-	"userGroupId" : "3"
-}10.100.72.250	22-09-2023 11:16:01 AM	RESPONSE RETURN FROM USER PAGE API: {
-    "Status": "1",
-    "DataTable": [
-        {
-            "Id": "1",
-            "PageName": "Dashboard",
-            "PageUrl": "index.php",
-            "Status": "1"
-        },
-        {
-            "Id": "2",
-            "PageName": "Bulk Upload PAN",
-            "PageUrl": "bulkuploaddata.php",
-            "Status": "0"
-        },
-        {
-            "Id": "3",
-            "PageName": "Bulk Upload TAN",
-            "PageUrl": "bulkuploaddatatan.php",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "PageName": "Branch Master",
-            "PageUrl": "listbranch.php",
-            "Status": "0"
-        },
-        {
-            "Id": "6",
-            "PageName": "Region Master",
-            "PageUrl": "listregion.php",
-            "Status": "0"
-        },
-        {
-            "Id": "7",
-            "PageName": "Rejection Reason Master",
-            "PageUrl": "listrejectionreason.php",
-            "Status": "0"
-        },
-        {
-            "Id": "8",
-            "PageName": "Vendor Master",
-            "PageUrl": "listvendors.php",
-            "Status": "1"
-        },
-        {
-            "Id": "9",
-            "PageName": "Religare Office",
-            "PageUrl": "listrloffice.php",
-            "Status": "0"
-        },
-        {
-            "Id": "10",
-            "PageName": "Export NSDL Rejection",
-            "PageUrl": "exportnsdlrejection.php",
-            "Status": "0"
-        },
-        {
-            "Id": "12",
-            "PageName": "Batch Status Report",
-            "PageUrl": "batchstatusreport.php",
-            "Status": "1"
-        },
-        {
-            "Id": "13",
-            "PageName": "Export PDF\/A-1a",
-            "PageUrl": "downloadpdf1a.php",
-            "Status": "0"
-        },
-        {
-            "Id": "14",
-            "PageName": "Batch Dashboard",
-            "PageUrl": "selecttoexport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "15",
-            "PageName": "NSDL Single Batch File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
-            "Status": "1"
-        },
-        {
-            "Id": "16",
-            "PageName": "NSDL Accecpted File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
-            "Status": "1"
-        },
-        {
-            "Id": "17",
-            "PageName": "NSDL Allotment File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
-            "Status": "1"
-        },
-        {
-            "Id": "18",
-            "PageName": "Batch Status [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
-            "Status": "1"
-        },
-        {
-            "Id": "19",
-            "PageName": "NSDL Single Batch File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
-            "Status": "1"
-        },
-        {
-            "Id": "20",
-            "PageName": "NSDL Accecpted File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
-            "Status": "1"
-        },
-        {
-            "Id": "21",
-            "PageName": "NSDL Allotment File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
-            "Status": "1"
-        },
-        {
-            "Id": "22",
-            "PageName": "Batch Status [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
-            "Status": "1"
-        },
-        {
-            "Id": "23",
-            "PageName": "Audit Trail",
-            "PageUrl": "auditTrail.php",
-            "Status": "0"
-        },
-        {
-            "Id": "11",
-            "PageName": "Rejection Intimation Report",
-            "PageUrl": "listMail.php",
-            "Status": "0"
-        },
-        {
-            "Id": "24",
-            "PageName": "Daily PAN Discrepancy Report",
-            "PageUrl": "rejectionreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "PageName": "MIS Upload PAN\/TAN",
-            "PageUrl": "missubmit.php?t=1",
-            "Status": "0"
-        },
-        {
-            "Id": "25",
-            "PageName": "PAN PDF1A Response Upload",
-            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
-            "Status": "0"
-        },
-        {
-            "Id": "26",
-            "PageName": "TAN PDF1A Response Upload",
-            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
-            "Status": "0"
-        },
-        {
-            "Id": "27",
-            "PageName": "Document Management",
-            "PageUrl": "docmanagement.php",
-            "Status": "0"
-        },
-        {
-            "Id": "28",
-            "PageName": "Courier List",
-            "PageUrl": "courierlist.php",
-            "Status": "0"
-        },
-        {
-            "Id": "29",
-            "PageName": "Courier Receiving",
-            "PageUrl": "courierreceiving.php",
-            "Status": "0"
-        },
-        {
-            "Id": "30",
-            "PageName": "MIS Upload eTDS",
-            "PageUrl": "missubmit.php?t=2",
-            "Status": "0"
-        },
-        {
-            "Id": "31",
-            "PageName": "MIS Upload 24G",
-            "PageUrl": "missubmit.php?t=3",
-            "Status": "0"
-        },
-        {
-            "Id": "32",
-            "PageName": "Mobile MIS Upload PAN",
-            "PageUrl": "mobilemissubmit.php",
-            "Status": "0"
-        },
-        {
-            "Id": "33",
-            "PageName": "Ack Wise Status Report",
-            "PageUrl": "ackwisestatusreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "34",
-            "PageName": "Query Screen Report",
-            "PageUrl": "queryscreenreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "35",
-            "PageName": "User Wise QC Report",
-            "PageUrl": "userwisereportqc.php",
-            "Status": "0"
-        },
-        {
-            "Id": "36",
-            "PageName": "Vendor Reconcilation Report",
-            "PageUrl": "vendorreconreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "37",
-            "PageName": "Download PDF\/A-1a",
-            "PageUrl": "pdf1adownloadfisher.php",
-            "Status": "0"
-        },
-        {
-            "Id": "38",
-            "PageName": "PDF\/A-1a Reports",
-            "PageUrl": "pdf1aconversion_report.php",
-            "Status": "0"
-        },
-        {
-            "Id": "39",
-            "PageName": "Status Report",
-            "PageUrl": "statusreport.php",
-            "Status": "0"
-        }
-    ]
-}10.100.72.250	22-09-2023 11:16:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:16:01 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:16:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.250	22-09-2023 11:16:20 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "3",
-		"userPageId" : "8"
-	}]
-}10.100.72.250	22-09-2023 11:16:21 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.250	22-09-2023 11:16:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:16:35 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:16:38 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:16:38 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:16:39 AM	Session BranchId...NSD10.100.72.250	22-09-2023 11:16:39 AM	Session Type...NSD10.100.72.250	22-09-2023 11:16:39 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	22-09-2023 11:16:39 AM	JSON POST : { "UserType": "NSD", "UserId": "36", "UserTypeId": "NSD", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "INS","Role": "1"}10.100.72.250	22-09-2023 11:16:40 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	22-09-2023 11:16:40 AM	JSON POST : 10.100.72.250	22-09-2023 11:17:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:17:03 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:17:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getBatchStatusReport.php10.100.72.250	22-09-2023 11:17:15 AM	JSON POST : {
-					"fromDate":"1970-01-01",
-					"toDate":"1970-01-01",
-					"productType":"PAN"
-				}10.100.72.250	22-09-2023 11:17:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:17:15 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:17:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getBatchStatusReport.php10.100.72.250	22-09-2023 11:17:20 AM	JSON POST : {
-					"fromDate":"1970-01-01",
-					"toDate":"1970-01-01",
-					"productType":"TAN"
-				}10.100.72.250	22-09-2023 11:17:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:17:20 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:17:24 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getBatchStatusReport.php10.100.72.250	22-09-2023 11:17:24 AM	JSON POST : {
-					"fromDate":"2023-09-01",
-					"toDate":"2023-09-22",
-					"productType":"TAN"
-				}10.100.72.250	22-09-2023 11:17:24 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:17:24 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:17:27 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getBatchStatusReport.php10.100.72.250	22-09-2023 11:17:27 AM	JSON POST : {
-					"fromDate":"2023-09-01",
-					"toDate":"2023-09-22",
-					"productType":"PAN"
-				}10.100.72.250	22-09-2023 11:17:27 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:17:27 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:17:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:17:54 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:17:56 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:17:56 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:17:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:17:59 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:18:10 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - 10.100.72.250	22-09-2023 11:18:10 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/OfficeInfoListAPI.php10.100.72.250	22-09-2023 11:18:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:18:10 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:18:13 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=34434510.100.72.250	22-09-2023 11:18:13 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:18:13 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:18:23 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=34434510.100.72.250	22-09-2023 11:18:23 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:18:23 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.250	22-09-2023 11:19:25 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:19:25 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:19:42 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:19:42 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:19:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:19:45 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:19:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:19:46 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:19:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:19:48 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:21:47 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:21:47 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:22:52 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:22:52 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:24:53 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:24:53 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:27:12 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:27:12 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:28:27 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:28:27 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:47:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:47:10 AM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 11:48:38 AM	ui YmF0Y2h1c2VyMDM= and pas dGVzdA==10.100.72.250	22-09-2023 11:48:38 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	22-09-2023 11:48:38 AM	JSON POST : Array10.100.72.250	22-09-2023 11:48:38 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.250	22-09-2023 11:48:38 AM	Json parting value10.100.72.250	22-09-2023 11:48:46 AM	ui YmF0Y2h1c2VyMDE= and pas dGVzdA==10.100.72.250	22-09-2023 11:48:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	22-09-2023 11:48:46 AM	JSON POST : Array10.100.72.250	22-09-2023 11:48:46 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.250	22-09-2023 11:48:46 AM	Json parting value10.100.72.250	22-09-2023 11:48:53 AM	ui YmF0Y2h1c2VyMw== and pas dGVzdA==10.100.72.250	22-09-2023 11:48:53 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	22-09-2023 11:48:53 AM	JSON POST : Array10.100.72.250	22-09-2023 11:48:53 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "51",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "BCP",
-    "UserName": "Surabhi Japlot  [Batch User-3]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.250	22-09-2023 11:48:53 AM	Json parting value34434510.100.72.250	22-09-2023 11:48:53 AM	Session BranchId...BCP10.100.72.250	22-09-2023 11:48:53 AM	Session Type...BCP10.100.72.250	22-09-2023 11:48:53 AM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.100.72.250	22-09-2023 11:48:53 AM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	22-09-2023 11:48:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:48:54 AM	JSON POST : {
-			"userType" : "BCP"
-		}10.100.72.250	22-09-2023 11:52:29 AM	Session BranchId...BCP10.100.72.250	22-09-2023 11:52:29 AM	Session Type...BCP10.100.72.250	22-09-2023 11:52:29 AM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.100.72.250	22-09-2023 11:52:29 AM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	22-09-2023 11:52:30 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:52:30 AM	JSON POST : {
-			"userType" : "BCP"
-		}10.100.72.250	22-09-2023 11:52:57 AM	JSON to post for batch generation----{
-		"UserId":"51",
-		"ip":"10.100.72.250",
-		"ListOfACKO":[{"AcknowledgementNumber":"620399700017311"}]
-	}10.100.72.250	22-09-2023 11:52:57 AM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataAPI.php10.100.72.250	22-09-2023 11:52:57 AM	Response fron batch generation api---
-{
-    "status": 0,
-    "message": "Successfull",
-    "BatchCreationResult": [
-        {
-            "BatchHeader": "1^FH^PCD^R^22092023^0002^62^1",
-            "BactID": "004954",
-            "TotalRecord": 1,
-            "BatchData": [
-                {
-                    "AcknowledgementNumber": "620399700017311",
-                    "BatchString": "2^FD^1^AQJPG9743K^1^Y^GAJJALA^RAM REDDY^^GAJJALA RAM REDDY^Y^GAJJALA^SITARAM REDDY^^Y^15101954^N^M^N^N^Y^R^N^HNO 3-72\/2^GHANPUR^^^NALGONDA^36^508257^^^^^^^^^N^91^9491654597^PANNLG12345@GMAIL.COM^^^^^^^^^4^20062023^38^14^N^Y^620399700017311^Y^Y^20062023^^C^^N^^91^^7^GAJJALA RAM REDDY^01^NALGONDA^^^0010^N^^^^F^^GAJJALA RAM REDDY^Y^T^^^",
-                    "Stage": "F~BCP~BTN~BC"
-                }
-            ]
-        }
-    ]
-}10.100.72.250	22-09-2023 11:52:57 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 11:52:57 AM	JSON POST : {
-			"userType" : "BCP"
-		}10.100.72.250	22-09-2023 12:10:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 12:10:54 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 12:10:55 PM	Session BranchId...NSD10.100.72.250	22-09-2023 12:10:55 PM	Session Type...NSD10.100.72.250	22-09-2023 12:10:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	22-09-2023 12:10:55 PM	JSON POST : { "UserType": "NSD", "UserId": "36", "UserTypeId": "NSD", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "INS","Role": "1"}10.100.72.250	22-09-2023 12:11:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	22-09-2023 12:11:03 PM	JSON POST : 10.100.72.250	22-09-2023 12:16:03 PM	[
-    {
-        "Status": "0",
-        "TotalCount": 1,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "830028200008910",
-                "StageStatus": "AcknowledgmentNumber not available",
-                "TransferList": []
-            }
-        ]
-    }
-]10.100.72.250	22-09-2023 12:29:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 12:29:33 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 12:41:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 12:41:50 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 12:42:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getBatchStatusReport.php10.100.72.250	22-09-2023 12:42:00 PM	JSON POST : {
-					"fromDate":"2022-01-01",
-					"toDate":"2023-09-22",
-					"productType":"PAN"
-				}10.100.72.250	22-09-2023 12:42:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 12:42:37 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.100.72.250	22-09-2023 12:42:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getBatchStatusReport.php10.100.72.250	22-09-2023 12:42:55 PM	JSON POST : {
-					"fromDate":"2023-01-01",
-					"toDate":"2023-09-22",
-					"productType":"PAN"
-				}10.100.72.250	22-09-2023 01:07:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 01:07:36 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.100.72.250	22-09-2023 01:07:37 PM	Session BranchId...BCP10.100.72.250	22-09-2023 01:07:37 PM	Session Type...BCP10.100.72.250	22-09-2023 01:07:37 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.100.72.250	22-09-2023 01:07:37 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	22-09-2023 01:07:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 01:07:39 PM	JSON POST : {
-			"userType" : "BCP"
-		}10.100.72.250	22-09-2023 01:19:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 01:19:24 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.250	22-09-2023 01:20:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-09-2023 01:20:24 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.110.11.15	22-09-2023 03:48:46 PM	ui c3VwZXJhZG1pbg== and pas dGVzdA==10.110.11.15	22-09-2023 03:48:46 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.110.11.15	22-09-2023 03:48:46 PM	JSON POST : Array10.110.11.15	22-09-2023 03:48:46 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "8",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "SUPER",
-    "UserName": "Super  Admin",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.110.11.15	22-09-2023 03:48:46 PM	Json parting value34434510.110.11.15	22-09-2023 03:48:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	22-09-2023 03:48:47 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.110.11.15	22-09-2023 03:49:13 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.110.11.15	22-09-2023 03:49:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.110.11.15	22-09-2023 03:49:13 PM	JSON POST : Array10.110.11.15	22-09-2023 03:49:13 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "2",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Test User  [Branch - 25536]",
-    "RegionId": "7",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.110.11.15	22-09-2023 03:49:13 PM	Json parting value2553610.110.11.15	22-09-2023 03:49:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	22-09-2023 03:49:13 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.110.11.15	22-09-2023 03:49:13 PM	Session BranchId...2553610.110.11.15	22-09-2023 03:49:13 PM	Session Type...BRANCH10.110.11.15	22-09-2023 03:49:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.110.11.15	22-09-2023 03:49:13 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.110.11.15	22-09-2023 03:49:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.110.11.15	22-09-2023 03:49:15 PM	JSON POST : 

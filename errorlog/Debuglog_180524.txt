@@ -1,300 +1,0 @@
-10.100.21.52	18-05-2024 12:37:46 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	18-05-2024 12:37:46 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.21.52	18-05-2024 12:37:47 PM	Session BranchId...2553610.100.21.52	18-05-2024 12:37:47 PM	Session Type...BRANCH10.100.21.52	18-05-2024 12:37:47 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	18-05-2024 12:37:47 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.21.52	18-05-2024 12:37:47 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	18-05-2024 12:37:47 PM	JSON POST : 10.100.21.52	18-05-2024 12:40:29 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	18-05-2024 12:40:29 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.21.52	18-05-2024 12:40:29 PM	Session BranchId...2553610.100.21.52	18-05-2024 12:40:29 PM	Session Type...BRANCH10.100.21.52	18-05-2024 12:40:29 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	18-05-2024 12:40:30 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.21.52	18-05-2024 12:40:30 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	18-05-2024 12:40:30 PM	JSON POST : 10.100.23.192	18-05-2024 05:38:46 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.23.192	18-05-2024 05:38:46 PM	Response from url data jaypal {"userId":"houser1","password":"test"}10.100.23.192	18-05-2024 05:38:46 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.23.192	18-05-2024 05:38:46 PM	JSON POST : Array10.100.23.192	18-05-2024 05:38:46 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.23.192	18-05-2024 05:38:46 PM	Json parting value34434510.100.23.192	18-05-2024 05:38:46 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.23.192	18-05-2024 05:38:46 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.192	18-05-2024 05:38:47 PM	Session BranchId...houser10.100.23.192	18-05-2024 05:38:47 PM	Session Type...HOUSER10.100.23.192	18-05-2024 05:38:47 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.192	18-05-2024 05:38:47 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.23.192	18-05-2024 05:38:47 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.23.192	18-05-2024 05:38:47 PM	JSON POST : 10.100.23.192	18-05-2024 05:41:08 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.23.192	18-05-2024 05:41:08 PM	Response from url data jaypal {"userId":"2553601","password":"test"}10.100.23.192	18-05-2024 05:41:08 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.23.192	18-05-2024 05:41:08 PM	JSON POST : Array10.100.23.192	18-05-2024 05:41:08 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "2",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Test  User",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.23.192	18-05-2024 05:41:08 PM	Json parting value2553610.100.23.192	18-05-2024 05:41:08 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.23.192	18-05-2024 05:41:08 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.23.192	18-05-2024 05:41:08 PM	Session BranchId...2553610.100.23.192	18-05-2024 05:41:08 PM	Session Type...BRANCH10.100.23.192	18-05-2024 05:41:08 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.192	18-05-2024 05:41:08 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.23.192	18-05-2024 05:41:08 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.23.192	18-05-2024 05:41:08 PM	JSON POST : 10.100.23.192	18-05-2024 06:02:22 PM	ui YmFja2hv and pas dGVzdA==10.100.23.192	18-05-2024 06:02:22 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.23.192	18-05-2024 06:02:22 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.23.192	18-05-2024 06:02:22 PM	JSON POST : Array10.100.23.192	18-05-2024 06:02:22 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.23.192	18-05-2024 06:02:22 PM	Json parting value34434510.100.23.192	18-05-2024 06:02:22 PM	Session BranchId...BACKHO10.100.23.192	18-05-2024 06:02:22 PM	Session Type...BACKHO10.100.23.192	18-05-2024 06:02:22 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.23.192	18-05-2024 06:02:22 PM	  API hit URL: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.23.192	18-05-2024 06:02:28 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.192	18-05-2024 06:02:28 PM	JSON POST : 10.100.23.192	18-05-2024 06:02:28 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        }
-    ]
-}10.110.11.15	18-05-2024 06:02:33 PM	ui YmFja2hv and pas dGVzdA==10.110.11.15	18-05-2024 06:02:33 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.110.11.15	18-05-2024 06:02:33 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.110.11.15	18-05-2024 06:02:33 PM	JSON POST : Array10.110.11.15	18-05-2024 06:02:33 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.110.11.15	18-05-2024 06:02:33 PM	Json parting value34434510.110.11.15	18-05-2024 06:02:33 PM	Session BranchId...BACKHO10.110.11.15	18-05-2024 06:02:33 PM	Session Type...BACKHO10.110.11.15	18-05-2024 06:02:33 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.110.11.15	18-05-2024 06:02:33 PM	  API hit URL: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.21.52	18-05-2024 06:03:07 PM	ui YmFja2hv and pas dGVzdA==10.100.21.52	18-05-2024 06:03:07 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.21.52	18-05-2024 06:03:07 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	18-05-2024 06:03:07 PM	JSON POST : Array10.100.21.52	18-05-2024 06:03:07 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	18-05-2024 06:03:07 PM	Json parting value34434510.100.21.52	18-05-2024 06:03:07 PM	Session BranchId...BACKHO10.100.21.52	18-05-2024 06:03:07 PM	Session Type...BACKHO10.100.21.52	18-05-2024 06:03:07 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.21.52	18-05-2024 06:03:07 PM	  API hit URL: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.110.11.15	18-05-2024 06:03:18 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:- At begining of Call10.110.11.15	18-05-2024 06:03:18 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:18 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.110.11.15	18-05-2024 06:03:19 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:19 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.110.11.15	18-05-2024 06:03:21 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:21 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.110.11.15	18-05-2024 06:03:22 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:22 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.110.11.15	18-05-2024 06:03:23 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:23 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.100.23.192	18-05-2024 06:03:23 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.23.192	18-05-2024 06:03:23 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/billInformationAPI.php10.100.23.192	18-05-2024 06:03:23 PM	JSON POST : 10.110.11.15	18-05-2024 06:03:24 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:24 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.110.11.15	18-05-2024 06:03:26 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:- At begining of Call10.110.11.15	18-05-2024 06:03:26 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:26 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.110.11.15	18-05-2024 06:03:27 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:27 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.100.23.192	18-05-2024 06:03:27 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.23.192	18-05-2024 06:03:27 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/billGenerationAPI.php10.100.23.192	18-05-2024 06:03:27 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.23.192	18-05-2024 06:03:27 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/billGenerationAPI.php10.100.23.192	18-05-2024 06:03:27 PM	JSON POST : {
-    "billPeriod":"18"
-}10.100.23.192	18-05-2024 06:03:27 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/billInformationAPI.php10.100.23.192	18-05-2024 06:03:27 PM	JSON POST : 10.110.11.15	18-05-2024 06:03:28 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:28 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.100.21.52	18-05-2024 06:03:29 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	18-05-2024 06:03:29 PM	JSON POST : 10.100.21.52	18-05-2024 06:03:29 PM	Response return from billInformationAPI: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "18",
-            "FromDate": "2024-02-22",
-            "ToDate": "2024-02-26",
-            "BillDate": "2024-02-26",
-            "DueDate": "2024-02-26",
-            "DateAdded": "2024-02-29 16:36:50",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "19",
-            "FromDate": "2024-03-17",
-            "ToDate": "2024-03-23",
-            "BillDate": "2024-03-24",
-            "DueDate": "2024-03-25",
-            "DateAdded": "2024-03-26 13:05:07",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.110.11.15	18-05-2024 06:03:30 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:30 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.110.11.15	18-05-2024 06:03:31 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:31 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.110.11.15	18-05-2024 06:03:32 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	18-05-2024 06:03:32 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.21.52	18-05-2024 06:03:32 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.21.52	18-05-2024 06:03:34 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	18-05-2024 06:03:34 PM	JSON POST : 10.100.21.52	18-05-2024 06:03:34 PM	Response return from billInformationAPI: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "18",
-            "FromDate": "2024-02-22",
-            "ToDate": "2024-02-26",
-            "BillDate": "2024-02-26",
-            "DueDate": "2024-02-26",
-            "DateAdded": "2024-02-29 16:36:50",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "19",
-            "FromDate": "2024-03-17",
-            "ToDate": "2024-03-23",
-            "BillDate": "2024-03-24",
-            "DueDate": "2024-03-25",
-            "DateAdded": "2024-03-26 13:05:07",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.21.52	18-05-2024 06:03:36 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.23.192	18-05-2024 06:03:37 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/billInformationAPI.php10.100.23.192	18-05-2024 06:03:37 PM	JSON POST : 10.100.23.192	18-05-2024 06:03:37 PM	Response return from billInformationAPI: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "18",
-            "FromDate": "2024-02-22",
-            "ToDate": "2024-02-26",
-            "BillDate": "2024-02-26",
-            "DueDate": "2024-02-26",
-            "DateAdded": "2024-02-29 16:36:50",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "19",
-            "FromDate": "2024-03-17",
-            "ToDate": "2024-03-23",
-            "BillDate": "2024-03-24",
-            "DueDate": "2024-03-25",
-            "DateAdded": "2024-03-26 13:05:07",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.21.52	18-05-2024 06:03:38 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	18-05-2024 06:03:38 PM	JSON POST : 10.100.21.52	18-05-2024 06:03:38 PM	Response return from billInformationAPI: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "18",
-            "FromDate": "2024-02-22",
-            "ToDate": "2024-02-26",
-            "BillDate": "2024-02-26",
-            "DueDate": "2024-02-26",
-            "DateAdded": "2024-02-29 16:36:50",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "19",
-            "FromDate": "2024-03-17",
-            "ToDate": "2024-03-23",
-            "BillDate": "2024-03-24",
-            "DueDate": "2024-03-25",
-            "DateAdded": "2024-03-26 13:05:07",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.23.192	18-05-2024 06:03:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.23.192	18-05-2024 06:03:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/billInformationAPI.php10.100.23.192	18-05-2024 06:03:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"18"
-}10.100.23.192	18-05-2024 06:03:40 PM	RESPONSE RETURN FROM ACCOUNT STATEMENT: 10.100.21.52	18-05-2024 06:03:40 PM	Session BranchId...BACKHO10.100.21.52	18-05-2024 06:03:40 PM	Session Type...BACKHO10.100.21.52	18-05-2024 06:03:40 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.21.52	18-05-2024 06:03:40 PM	  API hit URL: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.23.192	18-05-2024 06:03:46 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/schemeMasterAPI.php10.100.23.192	18-05-2024 06:03:46 PM	JSON POST : 10.100.21.52	18-05-2024 06:03:48 PM	[Info] - File location /tinfc1/UAT/ageingreport.php Message:-  URL for API - 10.100.21.52	18-05-2024 06:03:53 PM	Session BranchId...BACKHO10.100.21.52	18-05-2024 06:03:53 PM	Session Type...BACKHO10.100.21.52	18-05-2024 06:03:53 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.21.52	18-05-2024 06:03:53 PM	  API hit URL: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.21.52	18-05-2024 06:04:02 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/commissionInformationAPI.php10.100.21.52	18-05-2024 06:04:02 PM	JSON POST : 10.100.21.52	18-05-2024 06:04:02 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        }
-    ]
-}10.100.21.52	18-05-2024 06:04:15 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:- At begining of Call

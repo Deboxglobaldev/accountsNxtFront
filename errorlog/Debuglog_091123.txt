@@ -1,423 +1,0 @@
-10.110.11.15	09-11-2023 01:05:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	09-11-2023 01:05:55 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.110.11.15	09-11-2023 01:05:57 PM	Session BranchId...2553610.110.11.15	09-11-2023 01:05:57 PM	Session Type...BRANCH10.110.11.15	09-11-2023 01:05:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.110.11.15	09-11-2023 01:05:57 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": ""}10.110.11.15	09-11-2023 01:06:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.110.11.15	09-11-2023 01:06:04 PM	JSON POST : 10.140.36.157	09-11-2023 02:21:14 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.36.157	09-11-2023 02:21:32 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-11-2023 02:21:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-11-2023 02:21:32 PM	JSON POST : Array10.140.36.157	09-11-2023 02:21:32 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.36.157	09-11-2023 02:21:32 PM	Json parting value34434510.140.36.157	09-11-2023 02:21:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:21:32 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:21:36 PM	Session BranchId...houser10.140.36.157	09-11-2023 02:21:36 PM	Session Type...HOUSER10.140.36.157	09-11-2023 02:21:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-11-2023 02:21:36 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-11-2023 02:21:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-11-2023 02:21:40 PM	JSON POST : 10.140.36.157	09-11-2023 02:29:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:29:57 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:30:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:30:04 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:30:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:30:05 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:30:05 PM	Response return from Audit Trail EXPORT API: {
-    "Status": "0",
-    "listOfData": [
-        {
-            "AcknowledgementNo": "",
-            "UserId": null,
-            "Stage": "",
-            "Date": null,
-            "FormType": null,
-            "IPAddress": null
-        }
-    ]
-}10.140.36.157	09-11-2023 02:30:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:30:17 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:30:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:30:17 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:30:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:30:21 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:30:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:30:21 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:30:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:30:34 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"TAN"
-				}10.140.36.157	09-11-2023 02:30:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:30:34 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:30:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:30:45 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"TAN"
-				}10.140.36.157	09-11-2023 02:30:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:30:45 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:31:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:31:17 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:31:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:31:17 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:31:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:31:26 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:31:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:31:26 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:31:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:31:32 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:31:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:31:53 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:31:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:31:53 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:32:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:32:51 PM	JSON POST : {
-					"AcknowledgementNo":"830090600001530",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:32:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:32:51 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:33:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:33:09 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:33:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:33:09 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:34:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:34:29 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:34:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:34:29 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:35:04 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.36.157	09-11-2023 02:35:15 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-11-2023 02:35:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-11-2023 02:35:15 PM	JSON POST : Array10.140.36.157	09-11-2023 02:35:15 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.36.157	09-11-2023 02:35:15 PM	Json parting value34434510.140.36.157	09-11-2023 02:35:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:35:15 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:35:18 PM	Session BranchId...houser10.140.36.157	09-11-2023 02:35:18 PM	Session Type...HOUSER10.140.36.157	09-11-2023 02:35:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-11-2023 02:35:18 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-11-2023 02:35:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-11-2023 02:35:24 PM	JSON POST : 10.140.36.157	09-11-2023 02:35:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:35:27 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:35:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:35:39 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:35:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:35:39 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:35:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:35:41 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:35:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:35:41 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:35:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:35:43 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:35:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:35:43 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:35:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:35:50 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:35:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:35:50 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:35:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:35:52 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:35:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:35:52 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:35:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:35:54 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:35:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:35:54 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:35:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:35:56 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:35:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:35:56 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:35:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:35:58 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:35:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:35:58 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:36:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:36:06 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:36:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:36:06 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:37:42 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.36.157	09-11-2023 02:38:17 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-11-2023 02:38:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-11-2023 02:38:17 PM	JSON POST : Array10.140.36.157	09-11-2023 02:38:17 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.36.157	09-11-2023 02:38:17 PM	Json parting value34434510.140.36.157	09-11-2023 02:38:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:38:17 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:38:18 PM	Session BranchId...houser10.140.36.157	09-11-2023 02:38:18 PM	Session Type...HOUSER10.140.36.157	09-11-2023 02:38:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-11-2023 02:38:18 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-11-2023 02:38:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-11-2023 02:38:18 PM	JSON POST : 10.140.36.157	09-11-2023 02:38:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:38:36 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:38:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:38:45 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:38:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:38:45 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:38:58 PM	ui MjU1MzYwMg== and pas dGVzdA==10.140.36.157	09-11-2023 02:38:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-11-2023 02:38:58 PM	JSON POST : Array10.140.36.157	09-11-2023 02:38:58 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "1",
-    "BranchId": "25536",
-    "Role": "2",
-    "Type": "branch",
-    "UserName": "Branch User  (2553602)",
-    "RegionId": "7",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.36.157	09-11-2023 02:38:58 PM	Json parting value2553610.140.36.157	09-11-2023 02:38:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:38:58 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.36.157	09-11-2023 02:38:59 PM	Session BranchId...2553610.140.36.157	09-11-2023 02:38:59 PM	Session Type...BRANCH10.140.36.157	09-11-2023 02:38:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-11-2023 02:38:59 PM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "2"}10.140.36.157	09-11-2023 02:39:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-11-2023 02:39:00 PM	JSON POST : 10.140.36.157	09-11-2023 02:39:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:39:07 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.36.157	09-11-2023 02:39:28 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-11-2023 02:39:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-11-2023 02:39:28 PM	JSON POST : Array10.140.36.157	09-11-2023 02:39:28 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.36.157	09-11-2023 02:39:28 PM	Json parting value34434510.140.36.157	09-11-2023 02:39:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:39:28 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:39:28 PM	Session BranchId...houser10.140.36.157	09-11-2023 02:39:28 PM	Session Type...HOUSER10.140.36.157	09-11-2023 02:39:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-11-2023 02:39:28 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-11-2023 02:39:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-11-2023 02:39:29 PM	JSON POST : 10.140.36.157	09-11-2023 02:40:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:40:11 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:40:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:40:16 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:40:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:40:16 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:40:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:40:17 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:40:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:40:17 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:40:59 PM	ui MjU1MzYwMg== and pas dGVzdA==10.140.36.157	09-11-2023 02:40:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-11-2023 02:40:59 PM	JSON POST : Array10.140.36.157	09-11-2023 02:41:00 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "1",
-    "BranchId": "25536",
-    "Role": "2",
-    "Type": "branch",
-    "UserName": "Branch User  (2553602)",
-    "RegionId": "7",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.36.157	09-11-2023 02:41:00 PM	Json parting value2553610.140.36.157	09-11-2023 02:41:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:41:00 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.36.157	09-11-2023 02:41:00 PM	Session BranchId...2553610.140.36.157	09-11-2023 02:41:00 PM	Session Type...BRANCH10.140.36.157	09-11-2023 02:41:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-11-2023 02:41:00 PM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "2"}10.140.36.157	09-11-2023 02:41:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-11-2023 02:41:01 PM	JSON POST : 10.140.36.157	09-11-2023 02:41:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:41:14 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.36.157	09-11-2023 02:41:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:41:52 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.36.157	09-11-2023 02:42:15 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-11-2023 02:42:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-11-2023 02:42:15 PM	JSON POST : Array10.140.36.157	09-11-2023 02:42:15 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.36.157	09-11-2023 02:42:15 PM	Json parting value34434510.140.36.157	09-11-2023 02:42:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:42:15 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:42:15 PM	Session BranchId...houser10.140.36.157	09-11-2023 02:42:15 PM	Session Type...HOUSER10.140.36.157	09-11-2023 02:42:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-11-2023 02:42:15 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-11-2023 02:42:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-11-2023 02:42:19 PM	JSON POST : 10.140.36.157	09-11-2023 02:42:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:42:24 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:42:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:42:29 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:42:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:42:29 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 02:43:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 02:43:23 PM	JSON POST : {
-					"AcknowledgementNo":"830034600007804",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 02:43:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 02:43:23 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:26:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:26:09 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:26:10 PM	Session BranchId...houser10.140.36.157	09-11-2023 04:26:10 PM	Session Type...HOUSER10.140.36.157	09-11-2023 04:26:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-11-2023 04:26:10 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-11-2023 04:26:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-11-2023 04:26:17 PM	JSON POST : 10.140.36.157	09-11-2023 04:26:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:26:24 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:27:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:27:18 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:27:18 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-11-2023 04:27:18 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-11-2023 04:27:18 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-11-2023 04:27:18 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-11-2023 04:27:18 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-11-2023 04:27:18 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-11-2023 04:27:18 PM	Copy Success: 255369700476881.pdf10.140.36.157	09-11-2023 04:27:18 PM	PDF Path: /u01/uploads_uat/panpdf/255369700476881.pdf10.140.36.157	09-11-2023 04:27:18 PM	*****outside image copy foreach****10.140.36.157	09-11-2023 04:27:18 PM	THIS IS PAGE: 010.140.36.157	09-11-2023 04:27:18 PM	THIS IS PAGE: 110.140.36.157	09-11-2023 04:27:18 PM	THIS IS PAGE: 210.140.36.157	09-11-2023 04:27:18 PM	THIS IS PAGE: 310.140.36.157	09-11-2023 04:27:18 PM	THIS IS PAGE: 410.140.36.157	09-11-2023 04:27:18 PM	THIS IS PAGE: 510.140.36.157	09-11-2023 04:27:18 PM	THIS IS PAGE: 610.140.36.157	09-11-2023 04:27:18 PM	Total Image page count: 710.140.36.157	09-11-2023 04:27:18 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-11-2023 04:27:18 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
-{
-    "AckNumber": "255369700476881",
-    "status": "Already Uploaded",
-    "remark": "Already Uploaded",
-    "SequenceNo": "0"
-}10.140.36.157	09-11-2023 04:27:18 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-11-2023 04:27:18 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-11-2023 04:27:18 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-11-2023 04:27:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:27:31 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:27:46 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:27:46 PM	JSON POST : {
-					"AcknowledgementNo":"255369700476881",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:27:46 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:27:46 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:29:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:29:14 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:29:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-11-2023 04:29:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-11-2023 04:29:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-11-2023 04:29:23 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-11-2023 04:29:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-11-2023 04:29:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-11-2023 04:29:23 PM	Copy Success: 255369700476855.pdf10.140.36.157	09-11-2023 04:29:23 PM	PDF Path: /u01/uploads_uat/panpdf/255369700476855.pdf10.140.36.157	09-11-2023 04:29:23 PM	*****outside image copy foreach****10.140.36.157	09-11-2023 04:29:23 PM	THIS IS PAGE: 010.140.36.157	09-11-2023 04:29:23 PM	THIS IS PAGE: 110.140.36.157	09-11-2023 04:29:23 PM	THIS IS PAGE: 210.140.36.157	09-11-2023 04:29:23 PM	THIS IS PAGE: 310.140.36.157	09-11-2023 04:29:23 PM	THIS IS PAGE: 410.140.36.157	09-11-2023 04:29:23 PM	THIS IS PAGE: 510.140.36.157	09-11-2023 04:29:23 PM	THIS IS PAGE: 610.140.36.157	09-11-2023 04:29:23 PM	Total Image page count: 710.140.36.157	09-11-2023 04:29:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-11-2023 04:29:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
-{
-    "AckNumber": "255369700476855",
-    "status": "Already Uploaded",
-    "remark": "Already Uploaded",
-    "SequenceNo": "0"
-}10.140.36.157	09-11-2023 04:29:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-11-2023 04:29:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-11-2023 04:29:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-11-2023 04:29:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:29:23 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:30:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:30:25 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:30:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-11-2023 04:30:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-11-2023 04:30:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-11-2023 04:30:25 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-11-2023 04:30:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-11-2023 04:30:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-11-2023 04:30:25 PM	Copy Success: 830034600007804.pdf10.140.36.157	09-11-2023 04:30:25 PM	PDF Path: /u01/uploads_uat/panpdf/830034600007804.pdf10.140.36.157	09-11-2023 04:30:25 PM	*****outside image copy foreach****10.140.36.157	09-11-2023 04:30:25 PM	THIS IS PAGE: 010.140.36.157	09-11-2023 04:30:25 PM	THIS IS PAGE: 110.140.36.157	09-11-2023 04:30:25 PM	THIS IS PAGE: 210.140.36.157	09-11-2023 04:30:25 PM	THIS IS PAGE: 310.140.36.157	09-11-2023 04:30:25 PM	THIS IS PAGE: 410.140.36.157	09-11-2023 04:30:25 PM	THIS IS PAGE: 510.140.36.157	09-11-2023 04:30:25 PM	THIS IS PAGE: 610.140.36.157	09-11-2023 04:30:25 PM	Total Image page count: 710.140.36.157	09-11-2023 04:30:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-11-2023 04:30:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
-{
-    "AckNumber": "830034600007804",
-    "status": "Unable To Uplaod",
-    "remark": "Unmatched File",
-    "SequenceNo": "0"
-}10.140.36.157	09-11-2023 04:30:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-11-2023 04:30:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-11-2023 04:30:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-11-2023 04:31:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-11-2023 04:31:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-11-2023 04:31:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-11-2023 04:31:22 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-11-2023 04:31:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-11-2023 04:31:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-11-2023 04:31:22 PM	Copy Success: 255369700476903.pdf10.140.36.157	09-11-2023 04:31:22 PM	PDF Path: /u01/uploads_uat/panpdf/255369700476903.pdf10.140.36.157	09-11-2023 04:31:22 PM	*****outside image copy foreach****10.140.36.157	09-11-2023 04:31:22 PM	THIS IS PAGE: 010.140.36.157	09-11-2023 04:31:22 PM	THIS IS PAGE: 110.140.36.157	09-11-2023 04:31:22 PM	THIS IS PAGE: 210.140.36.157	09-11-2023 04:31:22 PM	THIS IS PAGE: 310.140.36.157	09-11-2023 04:31:22 PM	THIS IS PAGE: 410.140.36.157	09-11-2023 04:31:22 PM	THIS IS PAGE: 510.140.36.157	09-11-2023 04:31:22 PM	THIS IS PAGE: 610.140.36.157	09-11-2023 04:31:22 PM	Total Image page count: 710.140.36.157	09-11-2023 04:31:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-11-2023 04:31:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
-{
-    "AckNumber": "255369700476903",
-    "status": "Already Uploaded",
-    "remark": "Already Uploaded",
-    "SequenceNo": "0"
-}10.140.36.157	09-11-2023 04:31:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-11-2023 04:31:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-11-2023 04:31:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-11-2023 04:31:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:31:22 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:31:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:31:59 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:32:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-11-2023 04:32:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-11-2023 04:32:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-11-2023 04:32:00 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-11-2023 04:32:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-11-2023 04:32:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-11-2023 04:32:00 PM	Copy Success: 830090600001530.pdf10.140.36.157	09-11-2023 04:32:00 PM	PDF Path: /u01/uploads_uat/panpdf/830090600001530.pdf10.140.36.157	09-11-2023 04:32:00 PM	*****outside image copy foreach****10.140.36.157	09-11-2023 04:32:00 PM	THIS IS PAGE: 010.140.36.157	09-11-2023 04:32:00 PM	THIS IS PAGE: 110.140.36.157	09-11-2023 04:32:00 PM	THIS IS PAGE: 210.140.36.157	09-11-2023 04:32:00 PM	THIS IS PAGE: 310.140.36.157	09-11-2023 04:32:00 PM	THIS IS PAGE: 410.140.36.157	09-11-2023 04:32:00 PM	THIS IS PAGE: 510.140.36.157	09-11-2023 04:32:00 PM	THIS IS PAGE: 610.140.36.157	09-11-2023 04:32:00 PM	Total Image page count: 710.140.36.157	09-11-2023 04:32:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-11-2023 04:32:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
-{
-    "AckNumber": "830090600001530",
-    "status": "Unable To Uplaod",
-    "remark": "Unmatched File",
-    "SequenceNo": "0"
-}10.140.36.157	09-11-2023 04:32:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-11-2023 04:32:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-11-2023 04:32:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-11-2023 04:33:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-11-2023 04:33:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-11-2023 04:33:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-11-2023 04:33:21 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-11-2023 04:33:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-11-2023 04:33:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-11-2023 04:33:21 PM	Copy Success: 331969700058345.pdf10.140.36.157	09-11-2023 04:33:21 PM	PDF Path: /u01/uploads_uat/panpdf/331969700058345.pdf10.140.36.157	09-11-2023 04:33:22 PM	*****outside image copy foreach****10.140.36.157	09-11-2023 04:33:22 PM	THIS IS PAGE: 010.140.36.157	09-11-2023 04:33:22 PM	THIS IS PAGE: 110.140.36.157	09-11-2023 04:33:22 PM	THIS IS PAGE: 210.140.36.157	09-11-2023 04:33:22 PM	THIS IS PAGE: 310.140.36.157	09-11-2023 04:33:22 PM	THIS IS PAGE: 410.140.36.157	09-11-2023 04:33:22 PM	THIS IS PAGE: 510.140.36.157	09-11-2023 04:33:22 PM	THIS IS PAGE: 610.140.36.157	09-11-2023 04:33:22 PM	Total Image page count: 710.140.36.157	09-11-2023 04:33:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-11-2023 04:33:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
-{
-    "AckNumber": "331969700058345",
-    "status": "Unable To Uplaod",
-    "remark": "Unmatched File",
-    "SequenceNo": "0"
-}10.140.36.157	09-11-2023 04:33:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-11-2023 04:33:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-11-2023 04:33:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-11-2023 04:33:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:33:22 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:35:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:35:31 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:35:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:35:45 PM	JSON POST : {
-					"AcknowledgementNo":"255369700476833",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:35:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:35:45 PM	JSON POST : {
-					"AcknowledgementNo":"255369700476833",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:35:45 PM	Response return from Audit Trail EXPORT API: {
-    "Status": "0",
-    "listOfData": [
-        {
-            "AcknowledgementNo": "255369700476833",
-            "UserId": "Surabhi Japlot [QC]",
-            "Stage": "PAAM MIS Upload",
-            "Date": "2023-10-26 12:56:45",
-            "FormType": "CR",
-            "IPAddress": "10.140.36.157"
-        },
-        {
-            "AcknowledgementNo": "255369700476833",
-            "UserId": "Shatrughan [HO-User]",
-            "Stage": "Pdf Upload by Branch",
-            "Date": "2023-10-27 15:00:33",
-            "FormType": "CR",
-            "IPAddress": "10.140.36.157"
-        },
-        {
-            "AcknowledgementNo": "255369700476833",
-            "UserId": "Shatrughan [HO-User]",
-            "Stage": "Photo & Signature Cropping",
-            "Date": "2023-10-27 15:01:12",
-            "FormType": "CR",
-            "IPAddress": "10.140.36.157"
-        },
-        {
-            "AcknowledgementNo": "255369700476833",
-            "UserId": "Shatrughan [HO-User]",
-            "Stage": "Data Entry 2",
-            "Date": "2023-10-27 15:04:26",
-            "FormType": "CR",
-            "IPAddress": "10.140.36.157"
-        },
-        {
-            "AcknowledgementNo": "255369700476833",
-            "UserId": "Surender Kumar Verma (QC User)",
-            "Stage": "QC",
-            "Date": "2023-10-27 15:05:49",
-            "FormType": "CR",
-            "IPAddress": "10.140.36.157"
-        },
-        {
-            "AcknowledgementNo": "255369700476833",
-            "UserId": "Surender Verma [Batch User-1]",
-            "Stage": "QC-Batch Creation",
-            "Date": "2023-10-27 15:06:12",
-            "FormType": "CR",
-            "IPAddress": "10.140.36.157"
-        }
-    ]
-}10.140.36.157	09-11-2023 04:35:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:35:50 PM	JSON POST : {
-					"AcknowledgementNo":"255369700476833",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:35:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:35:50 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:36:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:36:00 PM	JSON POST : {
-					"AcknowledgementNo":"255369700476800",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:36:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:36:00 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:36:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:36:11 PM	JSON POST : {
-					"AcknowledgementNo":"255369700476855",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:36:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:36:11 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:36:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:36:21 PM	JSON POST : {
-					"AcknowledgementNo":"255369700476763",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:36:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:36:21 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:36:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:36:30 PM	JSON POST : {
-					"AcknowledgementNo":"255369700476774",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:36:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:36:30 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:36:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:36:55 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:36:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:36:55 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:36:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:36:57 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:36:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:36:57 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:37:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:37:02 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:37:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:37:02 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:37:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:37:35 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:37:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:37:39 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:37:40 PM	Session BranchId...houser10.140.36.157	09-11-2023 04:37:40 PM	Session Type...HOUSER10.140.36.157	09-11-2023 04:37:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-11-2023 04:37:40 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-11-2023 04:37:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-11-2023 04:37:41 PM	JSON POST : 10.140.36.157	09-11-2023 04:37:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:37:54 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:38:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:38:01 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:38:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:38:01 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:38:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:38:03 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:38:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:38:03 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:38:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:38:10 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"PAN"
-				}10.140.36.157	09-11-2023 04:38:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:38:10 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.157	09-11-2023 04:38:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-11-2023 04:38:54 PM	JSON POST : {
-					"AcknowledgementNo":"331969700058345",
-					"productType":"TAN"
-				}10.140.36.157	09-11-2023 04:38:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-11-2023 04:38:54 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}

@@ -1,25 +1,0 @@
-10.100.72.234	14-09-2023 05:46:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorRecAPI.php10.100.72.234	14-09-2023 05:46:55 PM	JSON POST : {
-    "type":"1",
-    "fromDate":"2021-01-01",
-    "toDate":"2023-09-13"
-}10.100.72.234	14-09-2023 05:50:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorRecAPI.php10.100.72.234	14-09-2023 05:50:44 PM	JSON POST : {
-    "type":"1",
-    "fromDate":"2021-01-01",
-    "toDate":"2023-09-13"
-}10.100.72.234	14-09-2023 05:53:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorRecAPI.php10.100.72.234	14-09-2023 05:53:20 PM	JSON POST : {
-    "type":"1",
-    "fromDate":"2021-01-01",
-    "toDate":"2023-09-13"
-}10.100.72.234	14-09-2023 05:53:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.234	14-09-2023 05:53:37 PM	JSON POST : {
-			"userType" : "BACKHO"
-		}10.100.72.234	14-09-2023 05:53:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorRecAPI.php10.100.72.234	14-09-2023 05:53:51 PM	JSON POST : {
-    "type":"1",
-    "fromDate":"2021-01-01",
-    "toDate":"2023-09-13"
-}10.100.72.234	14-09-2023 05:54:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorRecAPI.php10.100.72.234	14-09-2023 05:54:58 PM	JSON POST : {
-    "type":"1",
-    "fromDate":"2021-01-01",
-    "toDate":"2023-09-13"
-}10.140.59.234	14-09-2023 06:05:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.234	14-09-2023 06:05:16 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.140.36.29	14-09-2023 06:47:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.36.29	14-09-2023 06:47:01 PM	JSON POST : {"data":"empty"}10.140.36.29	14-09-2023 06:48:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.36.29	14-09-2023 06:48:05 PM	JSON POST : {"data":"empty"}

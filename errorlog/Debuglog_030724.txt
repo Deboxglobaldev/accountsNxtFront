@@ -1,303 +1,0 @@
-10.100.21.52	03-07-2024 10:19:23 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.21.52	03-07-2024 12:01:31 PM	ui ZmlubGV4Y29pbmRpYUBnbWFpbC5jb20= and pas dGVzdA==10.100.21.52	03-07-2024 12:01:31 PM	Response from url data jaypal {"userId":"finlexcoindia@gmail.com","password":"test"}10.100.21.52	03-07-2024 12:01:31 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.21.52	03-07-2024 12:01:31 PM	JSON POST : Array10.100.21.52	03-07-2024 12:01:32 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12745",
-    "BranchId": "8304239",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "SUMIT KUMAR  [BRANCH-T8304239]",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": "7",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	03-07-2024 12:01:32 PM	Json parting value830423910.100.21.52	03-07-2024 12:01:32 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	03-07-2024 12:01:32 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.21.52	03-07-2024 12:01:32 PM	Session BranchId...830423910.100.21.52	03-07-2024 12:01:32 PM	Session Type...BRANCH10.100.21.52	03-07-2024 12:01:32 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	03-07-2024 12:01:32 PM	JSON POST : { "UserType": "BRANCH", "UserId": "12745", "UserTypeId": "8304239", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.21.52	03-07-2024 12:01:32 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	03-07-2024 12:01:32 PM	JSON POST : 10.100.21.52	03-07-2024 12:02:05 PM	ui finlexcoindia@gmail.com and pas 10.100.21.52	03-07-2024 12:02:05 PM	Response from url data jaypal {"userId":"finlexcoindia@gmail.com","sso_flag":1}10.100.21.52	03-07-2024 12:02:05 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.21.52	03-07-2024 12:02:05 PM	JSON POST : Array10.100.21.52	03-07-2024 12:02:05 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12745",
-    "BranchId": "8304239",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "SUMIT KUMAR  [BRANCH-T8304239]",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": "7",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	03-07-2024 12:02:05 PM	Json parting value830423910.100.21.52	03-07-2024 12:02:05 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	03-07-2024 12:02:05 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.21.52	03-07-2024 12:02:05 PM	Session BranchId...830423910.100.21.52	03-07-2024 12:02:05 PM	Session Type...BRANCH10.100.21.52	03-07-2024 12:02:05 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	03-07-2024 12:02:05 PM	JSON POST : { "UserType": "BRANCH", "UserId": "12745", "UserTypeId": "8304239", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.21.52	03-07-2024 12:02:06 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	03-07-2024 12:02:06 PM	JSON POST : 10.100.21.52	03-07-2024 04:46:26 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.21.52	03-07-2024 04:46:29 PM	ui ZmlubGV4Y29pbmRpYUBnbWFpbC5jb20= and pas dGVzdA==10.100.21.52	03-07-2024 04:46:29 PM	Response from url data jaypal {"userId":"finlexcoindia@gmail.com","password":"test"}10.100.21.52	03-07-2024 04:46:29 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.21.52	03-07-2024 04:46:29 PM	JSON POST : Array10.100.21.52	03-07-2024 04:46:30 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12745",
-    "BranchId": "8304239",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "SUMIT KUMAR  [BRANCH-T8304239]",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": "7",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	03-07-2024 04:46:30 PM	Json parting value830423910.100.21.52	03-07-2024 04:46:30 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	03-07-2024 04:46:30 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.21.52	03-07-2024 04:46:30 PM	Session BranchId...830423910.100.21.52	03-07-2024 04:46:30 PM	Session Type...BRANCH10.100.21.52	03-07-2024 04:46:30 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	03-07-2024 04:46:30 PM	JSON POST : { "UserType": "BRANCH", "UserId": "12745", "UserTypeId": "8304239", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.21.52	03-07-2024 04:46:30 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	03-07-2024 04:46:30 PM	JSON POST : 10.100.21.52	03-07-2024 04:52:36 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	03-07-2024 04:52:36 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.21.52	03-07-2024 04:52:37 PM	Session BranchId...830423910.100.21.52	03-07-2024 04:52:37 PM	Session Type...BRANCH10.100.21.52	03-07-2024 04:52:37 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	03-07-2024 04:52:37 PM	JSON POST : { "UserType": "BRANCH", "UserId": "12745", "UserTypeId": "8304239", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.21.52	03-07-2024 04:52:37 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	03-07-2024 04:52:37 PM	JSON POST : 10.100.21.52	03-07-2024 04:52:44 PM	ui YmFja2hv and pas dGVzdA==10.100.21.52	03-07-2024 04:52:44 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.21.52	03-07-2024 04:52:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.21.52	03-07-2024 04:52:44 PM	JSON POST : Array10.100.21.52	03-07-2024 04:52:44 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	03-07-2024 04:52:44 PM	Json parting value34434510.100.21.52	03-07-2024 04:52:44 PM	Session BranchId...BACKHO10.100.21.52	03-07-2024 04:52:44 PM	Session Type...BACKHO10.100.21.52	03-07-2024 04:52:44 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.21.52	03-07-2024 04:52:44 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.21.52	03-07-2024 04:52:49 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.21.52	03-07-2024 04:52:49 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	03-07-2024 04:52:49 PM	JSON POST : 10.100.21.52	03-07-2024 04:52:52 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.21.52	03-07-2024 04:52:52 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	03-07-2024 04:52:52 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.21.52	03-07-2024 04:52:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	03-07-2024 04:52:52 PM	JSON POST : {
-    "billPeriod":"18"
-}10.100.21.52	03-07-2024 04:52:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	03-07-2024 04:52:52 PM	JSON POST : 10.100.21.52	03-07-2024 04:52:55 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.21.52	03-07-2024 04:52:55 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	03-07-2024 04:52:55 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.21.52	03-07-2024 04:52:55 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	03-07-2024 04:52:55 PM	JSON POST : {
-    "billPeriod":"19"
-}10.100.21.52	03-07-2024 04:52:57 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	03-07-2024 04:52:57 PM	JSON POST : 10.100.21.52	03-07-2024 04:53:11 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.21.52	03-07-2024 04:53:11 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	03-07-2024 04:53:11 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.21.52	03-07-2024 04:53:11 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	03-07-2024 04:53:11 PM	JSON POST : {
-    "billPeriod":"19"
-}10.100.21.52	03-07-2024 04:53:13 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	03-07-2024 04:53:13 PM	JSON POST : 10.100.21.52	03-07-2024 05:35:30 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	03-07-2024 05:35:30 PM	JSON POST : {
-			"userType" : "BACKHO"
-		}10.100.21.52	03-07-2024 05:35:30 PM	Session BranchId...BACKHO10.100.21.52	03-07-2024 05:35:30 PM	Session Type...BACKHO10.100.21.52	03-07-2024 05:35:30 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	03-07-2024 05:35:30 PM	JSON POST : { "UserType": "BACKHO", "UserId": "12749", "UserTypeId": "BACKHO", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.21.52	03-07-2024 05:35:30 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	03-07-2024 05:35:30 PM	JSON POST : 10.100.21.52	03-07-2024 05:52:37 PM	ui YmFja2hv and pas dGVzdA==10.100.21.52	03-07-2024 05:52:37 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.21.52	03-07-2024 05:52:37 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.21.52	03-07-2024 05:52:37 PM	JSON POST : Array10.100.21.52	03-07-2024 05:52:37 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	03-07-2024 05:52:38 PM	Json parting value34434510.100.21.52	03-07-2024 05:52:38 PM	Session BranchId...BACKHO10.100.21.52	03-07-2024 05:52:38 PM	Session Type...BACKHO10.100.21.52	03-07-2024 05:52:38 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.21.52	03-07-2024 05:52:38 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.21.52	03-07-2024 05:52:40 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.21.52	03-07-2024 05:52:40 PM	JSON POST : 10.100.21.52	03-07-2024 05:52:41 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        }
-    ]
-}10.100.21.52	03-07-2024 05:52:49 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:- At begining of Call10.100.21.52	03-07-2024 06:09:06 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:- At begining of Call10.100.23.149	03-07-2024 07:15:32 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.23.149	03-07-2024 07:15:32 PM	Response from url data jaypal {"userId":"2553601","password":"test"}10.100.23.149	03-07-2024 07:15:32 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.149	03-07-2024 07:15:32 PM	JSON POST : Array10.100.23.149	03-07-2024 07:15:32 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "2",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Test  User",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.23.149	03-07-2024 07:15:32 PM	Json parting value2553610.100.23.149	03-07-2024 07:15:32 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.149	03-07-2024 07:15:32 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.23.149	03-07-2024 07:15:32 PM	Session BranchId...2553610.100.23.149	03-07-2024 07:15:32 PM	Session Type...BRANCH10.100.23.149	03-07-2024 07:15:32 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.149	03-07-2024 07:15:32 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.23.149	03-07-2024 07:15:32 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.23.149	03-07-2024 07:15:32 PM	JSON POST : 10.100.23.149	03-07-2024 07:15:42 PM	ui YmFja2hv and pas dGVzdA==10.100.23.149	03-07-2024 07:15:42 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.23.149	03-07-2024 07:15:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.149	03-07-2024 07:15:42 PM	JSON POST : Array10.100.23.149	03-07-2024 07:15:42 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.23.149	03-07-2024 07:15:42 PM	Json parting value34434510.100.23.149	03-07-2024 07:15:42 PM	Session BranchId...BACKHO10.100.23.149	03-07-2024 07:15:42 PM	Session Type...BACKHO10.100.23.149	03-07-2024 07:15:42 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.23.149	03-07-2024 07:15:42 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.23.149	03-07-2024 07:15:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.149	03-07-2024 07:15:50 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.23.149	03-07-2024 07:15:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.149	03-07-2024 07:15:50 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.23.149	03-07-2024 07:15:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.149	03-07-2024 07:15:50 PM	JSON POST : {
-    "accountGroup":"3"
-}10.100.23.149	03-07-2024 07:15:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.149	03-07-2024 07:15:50 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.23.149	03-07-2024 07:15:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.149	03-07-2024 07:15:50 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.23.149	03-07-2024 07:15:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:15:50 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.23.149	03-07-2024 07:15:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:15:50 PM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.23.149	03-07-2024 07:15:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:15:50 PM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.23.149	03-07-2024 07:15:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:15:50 PM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.23.149	03-07-2024 07:15:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:15:51 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.23.149	03-07-2024 07:15:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:15:51 PM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.23.149	03-07-2024 07:15:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:15:51 PM	JSON POST : {
-    "accountGroup":"6"
-}10.100.23.149	03-07-2024 07:15:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:15:51 PM	JSON POST : {
-    "accountGroup":"10"
-}10.100.23.149	03-07-2024 07:15:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:15:51 PM	JSON POST : {
-    "accountGroup":"11"
-}10.100.23.149	03-07-2024 07:15:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:15:51 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.23.149	03-07-2024 07:15:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:15:51 PM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.23.149	03-07-2024 07:15:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:15:51 PM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.23.149	03-07-2024 07:15:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:15:51 PM	JSON POST : {
-    "accountGroup":"8"
-}10.100.23.149	03-07-2024 07:15:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:15:51 PM	JSON POST : {
-    "accountGroup":"7"
-}10.100.23.149	03-07-2024 07:15:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:15:51 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.23.149	03-07-2024 07:49:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.149	03-07-2024 07:49:54 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.23.149	03-07-2024 07:49:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.149	03-07-2024 07:49:54 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.23.149	03-07-2024 07:49:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.149	03-07-2024 07:49:54 PM	JSON POST : {
-    "accountGroup":"3"
-}10.100.23.149	03-07-2024 07:49:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.149	03-07-2024 07:49:54 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.23.149	03-07-2024 07:49:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.149	03-07-2024 07:49:54 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.23.149	03-07-2024 07:49:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:49:54 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.23.149	03-07-2024 07:49:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:49:54 PM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.23.149	03-07-2024 07:49:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:49:54 PM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.23.149	03-07-2024 07:49:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:49:54 PM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.23.149	03-07-2024 07:49:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:49:56 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.23.149	03-07-2024 07:49:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:49:56 PM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.23.149	03-07-2024 07:49:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:49:56 PM	JSON POST : {
-    "accountGroup":"6"
-}10.100.23.149	03-07-2024 07:49:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:49:56 PM	JSON POST : {
-    "accountGroup":"10"
-}10.100.23.149	03-07-2024 07:49:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:49:56 PM	JSON POST : {
-    "accountGroup":"11"
-}10.100.23.149	03-07-2024 07:49:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:49:56 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.23.149	03-07-2024 07:49:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:49:56 PM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.23.149	03-07-2024 07:49:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.149	03-07-2024 07:49:56 PM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.23.149	03-07-2024 07:49:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:49:56 PM	JSON POST : {
-    "accountGroup":"8"
-}10.100.23.149	03-07-2024 07:49:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:49:56 PM	JSON POST : {
-    "accountGroup":"7"
-}10.100.23.149	03-07-2024 07:49:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.149	03-07-2024 07:49:56 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.23.149	03-07-2024 07:50:51 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.23.149	03-07-2024 07:50:51 PM	Response from url data jaypal {"userId":"2553601","password":"test"}10.100.23.149	03-07-2024 07:50:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.149	03-07-2024 07:50:51 PM	JSON POST : Array10.100.23.149	03-07-2024 07:50:51 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "2",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Test  User",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.23.149	03-07-2024 07:50:51 PM	Json parting value2553610.100.23.149	03-07-2024 07:50:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.149	03-07-2024 07:50:51 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.23.149	03-07-2024 07:50:51 PM	Session BranchId...2553610.100.23.149	03-07-2024 07:50:51 PM	Session Type...BRANCH10.100.23.149	03-07-2024 07:50:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.149	03-07-2024 07:50:51 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.23.149	03-07-2024 07:50:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.23.149	03-07-2024 07:50:51 PM	JSON POST : 10.100.23.149	03-07-2024 07:51:09 PM	ui YmFja2hv and pas dGVzdA==10.100.23.149	03-07-2024 07:51:09 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.23.149	03-07-2024 07:51:09 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.149	03-07-2024 07:51:09 PM	JSON POST : Array10.100.23.149	03-07-2024 07:51:09 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.23.149	03-07-2024 07:51:09 PM	Json parting value34434510.100.23.149	03-07-2024 07:51:09 PM	Session BranchId...BACKHO10.100.23.149	03-07-2024 07:51:09 PM	Session Type...BACKHO10.100.23.149	03-07-2024 07:51:09 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.23.149	03-07-2024 07:51:09 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.23.149	03-07-2024 07:51:50 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
-    "fromDate":"2024-07-01",
-    "toDate":"2024-07-03"
-}10.100.23.149	03-07-2024 07:51:50 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.149	03-07-2024 07:51:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.149	03-07-2024 07:51:50 PM	JSON POST : {
-    "fromDate":"2024-07-01",
-    "toDate":"2024-07-03"
-}10.100.23.149	03-07-2024 07:54:07 PM	ui aG9leHByZXNzdXNlcjM= and pas dGVzdA==10.100.23.149	03-07-2024 07:54:07 PM	Response from url data jaypal {"userId":"hoexpressuser3","password":"test"}10.100.23.149	03-07-2024 07:54:07 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.149	03-07-2024 07:54:07 PM	JSON POST : Array10.100.23.149	03-07-2024 07:54:08 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "48",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "houser",
-    "UserName": "HO Express  [User-3]",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.23.149	03-07-2024 07:54:08 PM	Json parting value34434510.100.23.149	03-07-2024 07:54:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.149	03-07-2024 07:54:08 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.149	03-07-2024 07:54:08 PM	Session BranchId...houser10.100.23.149	03-07-2024 07:54:08 PM	Session Type...HOUSER10.100.23.149	03-07-2024 07:54:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.149	03-07-2024 07:54:08 PM	JSON POST : { "UserType": "HOUSER", "UserId": "48", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.23.149	03-07-2024 07:54:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.23.149	03-07-2024 07:54:08 PM	JSON POST : 10.100.23.149	03-07-2024 07:54:17 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.149	03-07-2024 07:54:17 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.149	03-07-2024 07:55:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.149	03-07-2024 07:55:10 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.149	03-07-2024 07:56:12 PM	***  Inside misuploadfile.php 10.100.23.149	03-07-2024 07:56:12 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 4810.100.23.149	03-07-2024 07:56:12 PM	****** upload path ****** :uploads/10.100.23.149	03-07-2024 07:56:12 PM	URL HIT BY MIS UPLOAD FOR PAN :https://10.150.146.12/UAT_BackEnd/General/misupload.php?UserId=48&ip=10.100.23.14910.100.23.149	03-07-2024 07:56:14 PM	{
-    "Status": "Successes",
-    "TotalRecordProcessed": 14841,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.23.149	03-07-2024 07:56:52 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
-    "fromDate":"2024-07-01",
-    "toDate":"2024-07-03"
-}10.100.23.149	03-07-2024 07:56:52 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.149	03-07-2024 07:56:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.149	03-07-2024 07:56:52 PM	JSON POST : {
-    "fromDate":"2024-07-01",
-    "toDate":"2024-07-03"
-}10.100.23.149	03-07-2024 07:57:16 PM	ui YmFja2hv and pas dGVzdA==10.100.23.149	03-07-2024 07:57:16 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.23.149	03-07-2024 07:57:16 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.149	03-07-2024 07:57:16 PM	JSON POST : Array10.100.23.149	03-07-2024 07:57:16 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.23.149	03-07-2024 07:57:16 PM	Json parting value34434510.100.23.149	03-07-2024 07:57:16 PM	Session BranchId...BACKHO10.100.23.149	03-07-2024 07:57:16 PM	Session Type...BACKHO10.100.23.149	03-07-2024 07:57:16 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.23.149	03-07-2024 07:57:16 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.23.149	03-07-2024 07:57:27 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
-    "fromDate":"2024-07-01",
-    "toDate":"2024-07-03"
-}10.100.23.149	03-07-2024 07:57:27 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.149	03-07-2024 07:57:27 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.149	03-07-2024 07:57:27 PM	JSON POST : {
-    "fromDate":"2024-07-01",
-    "toDate":"2024-07-03"
-}10.100.23.149	03-07-2024 07:57:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.149	03-07-2024 07:57:42 PM	JSON POST : 10.100.23.149	03-07-2024 07:57:45 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.23.149	03-07-2024 07:58:04 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.149	03-07-2024 07:58:04 PM	JSON POST : 10.100.23.149	03-07-2024 07:58:07 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.23.149	03-07-2024 08:00:18 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
-    "fromDate":"2024-07-01",
-    "toDate":"2024-07-03"
-}10.100.23.149	03-07-2024 08:00:18 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.149	03-07-2024 08:00:18 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.149	03-07-2024 08:00:18 PM	JSON POST : {
-    "fromDate":"2024-07-01",
-    "toDate":"2024-07-03"
-}

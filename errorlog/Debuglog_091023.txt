@@ -1,56 +1,0 @@
-10.140.59.235	09-10-2023 11:25:44 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.59.235	09-10-2023 11:25:52 AM	ui YmFja2hv and pas dGVzdA==10.140.59.235	09-10-2023 11:25:52 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.235	09-10-2023 11:25:52 AM	JSON POST : Array10.140.59.235	09-10-2023 11:25:52 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.235	09-10-2023 11:25:52 AM	Json parting value34434510.140.59.235	09-10-2023 11:25:52 AM	Session BranchId...BACKHO10.140.59.235	09-10-2023 11:25:52 AM	Session Type...BACKHO10.140.59.235	09-10-2023 11:25:52 AM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.140.59.235	09-10-2023 11:25:52 AM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.140.59.235	09-10-2023 01:20:34 PM	Session BranchId...BACKHO10.140.59.235	09-10-2023 01:20:34 PM	Session Type...BACKHO10.140.59.235	09-10-2023 01:20:34 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.140.59.235	09-10-2023 01:20:34 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.140.59.235	09-10-2023 01:27:38 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.140.59.235	09-10-2023 01:27:38 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.140.59.235	09-10-2023 01:27:38 PM	JSON POST : 10.140.59.235	09-10-2023 01:27:42 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.140.59.235	09-10-2023 01:27:42 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.140.59.235	09-10-2023 01:27:42 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  Value for API - 10.140.59.235	09-10-2023 01:27:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.140.59.235	09-10-2023 01:27:42 PM	JSON POST : {
-    "commissionPeriod":"3"
-}10.140.59.235	09-10-2023 01:27:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.140.59.235	09-10-2023 01:27:43 PM	JSON POST : 10.140.59.235	09-10-2023 01:27:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.140.59.235	09-10-2023 01:27:58 PM	JSON POST : 10.140.59.235	09-10-2023 01:27:58 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        }
-    ]
-}10.140.59.235	09-10-2023 01:29:30 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - 10.140.59.235	09-10-2023 01:29:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.235	09-10-2023 01:29:30 PM	JSON POST : 

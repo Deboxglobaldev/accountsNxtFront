@@ -1,517 +1,0 @@
-10.100.72.25	26-03-2024 10:26:47 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.25	26-03-2024 10:26:54 AM	ui MjU1MzYwMg== and pas dGVzdA==10.100.72.25	26-03-2024 10:26:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	26-03-2024 10:26:54 AM	JSON POST : Array10.100.72.25	26-03-2024 10:26:55 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "1",
-    "BranchId": "25536",
-    "Role": "2",
-    "Type": "branch",
-    "UserName": "Branch User  (2553602)",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.72.25	26-03-2024 10:26:55 AM	Json parting value2553610.100.72.25	26-03-2024 10:26:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 10:26:55 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.25	26-03-2024 10:26:58 AM	Session BranchId...2553610.100.72.25	26-03-2024 10:26:58 AM	Session Type...BRANCH10.100.72.25	26-03-2024 10:26:58 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.25	26-03-2024 10:26:58 AM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "2"}10.100.72.25	26-03-2024 10:26:58 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.25	26-03-2024 10:26:58 AM	JSON POST : 10.100.72.25	26-03-2024 10:37:16 AM	ui aG91c2VydGVzdA== and pas dGVzdA==10.100.72.25	26-03-2024 10:37:16 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	26-03-2024 10:37:16 AM	JSON POST : Array10.100.72.25	26-03-2024 10:37:16 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.25	26-03-2024 10:37:16 AM	Json parting value10.100.72.25	26-03-2024 10:37:22 AM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.25	26-03-2024 10:37:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	26-03-2024 10:37:22 AM	JSON POST : Array10.100.72.25	26-03-2024 10:37:22 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.72.25	26-03-2024 10:37:22 AM	Json parting value34434510.100.72.25	26-03-2024 10:37:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 10:37:22 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 10:37:23 AM	Session BranchId...houser10.100.72.25	26-03-2024 10:37:23 AM	Session Type...HOUSER10.100.72.25	26-03-2024 10:37:23 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.25	26-03-2024 10:37:23 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.25	26-03-2024 10:37:23 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.25	26-03-2024 10:37:23 AM	JSON POST : 10.100.72.25	26-03-2024 10:37:32 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 10:37:32 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 10:37:36 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 10:37:36 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 10:41:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 10:41:35 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 10:41:56 AM	***  Inside misuploadfile.php 10.100.72.25	26-03-2024 10:41:56 AM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 10:41:56 AM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 10:41:56 AM	URL HIT BY MIS UPLOAD FOR 135155151 :http://10.150.146.12/UAT_BackEnd/General/misuploadetds.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 10:41:56 AM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 977,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 10:44:57 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 10:44:57 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 10:45:47 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 10:45:47 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 12:58:36 PM	***  Inside misuploadfile.php 10.100.72.25	26-03-2024 12:58:36 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 12:58:36 PM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 12:58:36 PM	URL HIT BY MIS UPLOAD FOR 135155151 :http://10.150.146.12/UAT_BackEnd/General/misuploadetds.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 12:58:36 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 977,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 01:04:24 PM	ui YmFja2hv and pas dGVzdA==10.100.72.25	26-03-2024 01:04:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	26-03-2024 01:04:24 PM	JSON POST : Array10.100.72.25	26-03-2024 01:04:24 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.25	26-03-2024 01:04:24 PM	Json parting value34434510.100.72.25	26-03-2024 01:04:25 PM	Session BranchId...BACKHO10.100.72.25	26-03-2024 01:04:25 PM	Session Type...BACKHO10.100.72.25	26-03-2024 01:04:25 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.25	26-03-2024 01:04:25 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.25	26-03-2024 01:04:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	26-03-2024 01:04:31 PM	JSON POST : 10.100.72.25	26-03-2024 01:04:31 PM	Response return from billInformationAPI: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "8",
-            "FromDate": "2020-01-01",
-            "ToDate": "2020-12-31",
-            "BillDate": "2020-12-01",
-            "DueDate": "2020-12-01",
-            "DateAdded": "2022-09-06 15:01:37",
-            "AddedBy": "1",
-            "Status": "0"
-        },
-        {
-            "Id": "7",
-            "FromDate": "2021-01-01",
-            "ToDate": "2021-12-31",
-            "BillDate": "2019-01-01",
-            "DueDate": "2021-12-01",
-            "DateAdded": "2022-08-23 18:16:39",
-            "AddedBy": "1",
-            "Status": "0"
-        },
-        {
-            "Id": "1",
-            "FromDate": "2022-01-01",
-            "ToDate": "2022-12-31",
-            "BillDate": "2022-01-01",
-            "DueDate": "2022-12-01",
-            "DateAdded": "2022-08-09 12:15:15",
-            "AddedBy": "1",
-            "Status": "0"
-        },
-        {
-            "Id": "9",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-01",
-            "BillDate": "1970-01-01",
-            "DueDate": "1970-01-01",
-            "DateAdded": "2022-12-15 10:56:45",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "10",
-            "FromDate": "2023-01-02",
-            "ToDate": "2023-01-04",
-            "BillDate": "2023-01-02",
-            "DueDate": "2023-01-02",
-            "DateAdded": "2023-01-04 14:56:17",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "11",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "BillDate": "2023-03-01",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-07 13:35:57",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "12",
-            "FromDate": "2023-04-01",
-            "ToDate": "2023-06-30",
-            "BillDate": "2023-04-01",
-            "DueDate": "2023-06-30",
-            "DateAdded": "2023-11-23 15:07:45",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "13",
-            "FromDate": "2023-07-01",
-            "ToDate": "2023-09-30",
-            "BillDate": "2023-07-01",
-            "DueDate": "2023-09-30",
-            "DateAdded": "2023-11-23 15:08:23",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "14",
-            "FromDate": "2023-10-01",
-            "ToDate": "2023-12-31",
-            "BillDate": "2023-10-01",
-            "DueDate": "2023-12-31",
-            "DateAdded": "2023-11-23 15:08:52",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "15",
-            "FromDate": "2024-01-01",
-            "ToDate": "2024-01-12",
-            "BillDate": "2024-01-12",
-            "DueDate": "2024-01-12",
-            "DateAdded": "2024-01-12 16:28:20",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "16",
-            "FromDate": "2024-01-13",
-            "ToDate": "2024-01-31",
-            "BillDate": "2024-01-31",
-            "DueDate": "2024-01-31",
-            "DateAdded": "2024-01-30 13:16:15",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "17",
-            "FromDate": "2024-02-01",
-            "ToDate": "2024-02-07",
-            "BillDate": "2024-02-07",
-            "DueDate": "2024-02-07",
-            "DateAdded": "2024-02-21 10:41:56",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "18",
-            "FromDate": "2024-02-22",
-            "ToDate": "2024-02-26",
-            "BillDate": "2024-02-26",
-            "DueDate": "2024-02-26",
-            "DateAdded": "2024-02-29 16:36:50",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.25	26-03-2024 01:04:50 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.25	26-03-2024 01:05:07 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.25	26-03-2024 01:05:07 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.72.25	26-03-2024 01:05:07 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.72.25	26-03-2024 01:05:07 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-03-17&toDate=2024-03-23&billDate=2024-03-24&dueDate=2024-03-25&addedBy=1274910.100.72.25	26-03-2024 01:05:07 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. Insert Data Successfully10.100.72.25	26-03-2024 01:05:07 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. Insert Data Successfully10.100.72.25	26-03-2024 01:05:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	26-03-2024 01:05:09 PM	JSON POST : 10.100.72.25	26-03-2024 01:05:09 PM	Response return from billInformationAPI: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "8",
-            "FromDate": "2020-01-01",
-            "ToDate": "2020-12-31",
-            "BillDate": "2020-12-01",
-            "DueDate": "2020-12-01",
-            "DateAdded": "2022-09-06 15:01:37",
-            "AddedBy": "1",
-            "Status": "0"
-        },
-        {
-            "Id": "7",
-            "FromDate": "2021-01-01",
-            "ToDate": "2021-12-31",
-            "BillDate": "2019-01-01",
-            "DueDate": "2021-12-01",
-            "DateAdded": "2022-08-23 18:16:39",
-            "AddedBy": "1",
-            "Status": "0"
-        },
-        {
-            "Id": "1",
-            "FromDate": "2022-01-01",
-            "ToDate": "2022-12-31",
-            "BillDate": "2022-01-01",
-            "DueDate": "2022-12-01",
-            "DateAdded": "2022-08-09 12:15:15",
-            "AddedBy": "1",
-            "Status": "0"
-        },
-        {
-            "Id": "9",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-01",
-            "BillDate": "1970-01-01",
-            "DueDate": "1970-01-01",
-            "DateAdded": "2022-12-15 10:56:45",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "10",
-            "FromDate": "2023-01-02",
-            "ToDate": "2023-01-04",
-            "BillDate": "2023-01-02",
-            "DueDate": "2023-01-02",
-            "DateAdded": "2023-01-04 14:56:17",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "11",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "BillDate": "2023-03-01",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-07 13:35:57",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "12",
-            "FromDate": "2023-04-01",
-            "ToDate": "2023-06-30",
-            "BillDate": "2023-04-01",
-            "DueDate": "2023-06-30",
-            "DateAdded": "2023-11-23 15:07:45",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "13",
-            "FromDate": "2023-07-01",
-            "ToDate": "2023-09-30",
-            "BillDate": "2023-07-01",
-            "DueDate": "2023-09-30",
-            "DateAdded": "2023-11-23 15:08:23",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "14",
-            "FromDate": "2023-10-01",
-            "ToDate": "2023-12-31",
-            "BillDate": "2023-10-01",
-            "DueDate": "2023-12-31",
-            "DateAdded": "2023-11-23 15:08:52",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "15",
-            "FromDate": "2024-01-01",
-            "ToDate": "2024-01-12",
-            "BillDate": "2024-01-12",
-            "DueDate": "2024-01-12",
-            "DateAdded": "2024-01-12 16:28:20",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "16",
-            "FromDate": "2024-01-13",
-            "ToDate": "2024-01-31",
-            "BillDate": "2024-01-31",
-            "DueDate": "2024-01-31",
-            "DateAdded": "2024-01-30 13:16:15",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "17",
-            "FromDate": "2024-02-01",
-            "ToDate": "2024-02-07",
-            "BillDate": "2024-02-07",
-            "DueDate": "2024-02-07",
-            "DateAdded": "2024-02-21 10:41:56",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "18",
-            "FromDate": "2024-02-22",
-            "ToDate": "2024-02-26",
-            "BillDate": "2024-02-26",
-            "DueDate": "2024-02-26",
-            "DateAdded": "2024-02-29 16:36:50",
-            "AddedBy": "12749",
-            "Status": "0"
-        },
-        {
-            "Id": "19",
-            "FromDate": "2024-03-17",
-            "ToDate": "2024-03-23",
-            "BillDate": "2024-03-24",
-            "DueDate": "2024-03-25",
-            "DateAdded": "2024-03-26 13:05:07",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.25	26-03-2024 01:50:50 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.25	26-03-2024 01:50:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	26-03-2024 01:50:50 PM	JSON POST : Array10.100.72.25	26-03-2024 01:50:50 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.72.25	26-03-2024 01:50:50 PM	Json parting value34434510.100.72.25	26-03-2024 01:50:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 01:50:50 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 01:50:51 PM	Session BranchId...houser10.100.72.25	26-03-2024 01:50:51 PM	Session Type...HOUSER10.100.72.25	26-03-2024 01:50:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.25	26-03-2024 01:50:51 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.25	26-03-2024 01:50:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.25	26-03-2024 01:50:51 PM	JSON POST : 10.100.72.25	26-03-2024 01:50:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 01:50:58 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 01:51:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 01:51:03 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 01:51:17 PM	***  Inside misuploadfile.php 10.100.72.25	26-03-2024 01:51:17 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 01:51:17 PM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 01:51:17 PM	URL HIT BY MIS UPLOAD FOR 135155151 :http://10.150.146.12/UAT_BackEnd/General/misuploadetds.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 01:51:17 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 977,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 02:48:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 02:48:10 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 02:48:55 PM	***  Inside misuploadfile.php 10.100.72.25	26-03-2024 02:48:55 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 02:48:55 PM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 02:48:55 PM	URL HIT BY MIS UPLOAD FOR 135155151 :http://10.150.146.12/UAT_BackEnd/General/misuploadetds.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 02:48:55 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 977,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 02:54:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 02:54:26 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 02:54:34 PM	***  Inside misuploadfile.php 10.100.72.25	26-03-2024 02:54:34 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 02:54:34 PM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 02:54:34 PM	URL HIT BY MIS UPLOAD FOR 135155151 :http://10.150.146.12/UAT_BackEnd/General/misuploadetds.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 02:54:34 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 977,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 03:29:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 03:29:34 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 03:29:41 PM	***  Inside misuploadfile.php 10.100.72.25	26-03-2024 03:29:41 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 03:29:41 PM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 03:29:41 PM	URL HIT BY MIS UPLOAD FOR 135155151 :http://10.150.146.12/UAT_BackEnd/General/misuploadetds.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 03:29:41 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 977,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 03:31:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 03:31:18 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 03:41:14 PM	ui YmFja2hv and pas dGVzdA==10.100.72.25	26-03-2024 03:41:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	26-03-2024 03:41:14 PM	JSON POST : Array10.100.72.25	26-03-2024 03:41:14 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.25	26-03-2024 03:41:14 PM	Json parting value34434510.100.72.25	26-03-2024 03:41:14 PM	Session BranchId...BACKHO10.100.72.25	26-03-2024 03:41:14 PM	Session Type...BACKHO10.100.72.25	26-03-2024 03:41:14 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.25	26-03-2024 03:41:14 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.25	26-03-2024 03:41:18 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	26-03-2024 03:41:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	26-03-2024 03:41:18 PM	JSON POST : 10.100.72.25	26-03-2024 03:41:23 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	26-03-2024 03:41:23 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	26-03-2024 03:41:23 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.72.25	26-03-2024 03:41:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	26-03-2024 03:41:23 PM	JSON POST : {
-    "billPeriod":"19"
-}10.100.72.25	26-03-2024 03:41:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	26-03-2024 03:41:24 PM	JSON POST : 10.100.72.25	26-03-2024 03:42:22 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	26-03-2024 03:42:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	26-03-2024 03:42:22 PM	JSON POST : 10.100.72.25	26-03-2024 03:53:15 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	26-03-2024 03:53:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	26-03-2024 03:53:15 PM	JSON POST : 10.100.72.25	26-03-2024 03:53:27 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.25	26-03-2024 03:53:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	26-03-2024 03:53:27 PM	JSON POST : Array10.100.72.25	26-03-2024 03:53:27 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.72.25	26-03-2024 03:53:27 PM	Json parting value34434510.100.72.25	26-03-2024 03:53:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 03:53:27 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 03:53:28 PM	Session BranchId...houser10.100.72.25	26-03-2024 03:53:28 PM	Session Type...HOUSER10.100.72.25	26-03-2024 03:53:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.25	26-03-2024 03:53:28 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.25	26-03-2024 03:53:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.25	26-03-2024 03:53:28 PM	JSON POST : 10.100.72.25	26-03-2024 03:53:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 03:53:36 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 04:03:12 PM	***  Inside misuploadfile.php 10.100.72.25	26-03-2024 04:03:12 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 04:03:12 PM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 04:03:12 PM	URL HIT BY MIS UPLOAD FOR PAN :http://10.150.146.12/UAT_BackEnd/General/misupload.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 04:03:14 PM	{
-    "Status": "Successes",
-    "TotalRecordProcessed": 14603,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 04:48:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 04:48:05 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 04:48:17 PM	***  Inside misuploadfile.php 10.100.72.25	26-03-2024 04:48:17 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 04:48:17 PM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 04:48:17 PM	URL HIT BY MIS UPLOAD FOR TAN :http://10.150.146.12/UAT_BackEnd/General/misuploadtan.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 04:48:17 PM	{
-    "Status": "Successes",
-    "TotalRecordProcessed": 247,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 04:49:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 04:49:41 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 04:49:48 PM	***  Inside misuploadfile.php 10.100.72.25	26-03-2024 04:49:48 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 04:49:48 PM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 04:49:48 PM	URL HIT BY MIS UPLOAD FOR TAN :http://10.150.146.12/UAT_BackEnd/General/misuploadtan.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 04:49:48 PM	{
-    "Status": "Successes",
-    "TotalRecordProcessed": 247,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 05:20:11 PM	ui YmFja2hv and pas dGVzdA==10.100.72.25	26-03-2024 05:20:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	26-03-2024 05:20:11 PM	JSON POST : Array10.100.72.25	26-03-2024 05:20:11 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.25	26-03-2024 05:20:11 PM	Json parting value34434510.100.72.25	26-03-2024 05:20:11 PM	Session BranchId...BACKHO10.100.72.25	26-03-2024 05:20:11 PM	Session Type...BACKHO10.100.72.25	26-03-2024 05:20:11 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.25	26-03-2024 05:20:11 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.25	26-03-2024 05:20:23 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
-    "fromDate":"2024-03-17",
-    "toDate":"2024-03-20"
-}10.100.72.25	26-03-2024 05:20:23 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - http://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.72.25	26-03-2024 05:20:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.72.25	26-03-2024 05:20:23 PM	JSON POST : {
-    "fromDate":"2024-03-17",
-    "toDate":"2024-03-20"
-}10.100.72.25	26-03-2024 05:30:27 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.25	26-03-2024 05:30:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	26-03-2024 05:30:27 PM	JSON POST : Array10.100.72.25	26-03-2024 05:30:27 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.72.25	26-03-2024 05:30:27 PM	Json parting value34434510.100.72.25	26-03-2024 05:30:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 05:30:27 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 05:30:28 PM	Session BranchId...houser10.100.72.25	26-03-2024 05:30:28 PM	Session Type...HOUSER10.100.72.25	26-03-2024 05:30:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.25	26-03-2024 05:30:28 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.25	26-03-2024 05:30:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.25	26-03-2024 05:30:28 PM	JSON POST : 10.100.72.25	26-03-2024 05:30:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 05:30:34 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 05:30:47 PM	***  Inside misuploadfile.php 10.100.72.25	26-03-2024 05:30:47 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 05:30:47 PM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 05:30:47 PM	URL HIT BY MIS UPLOAD FOR 24G :http://10.150.146.12/UAT_BackEnd/General/misupload24g.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 05:30:47 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 35,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 05:38:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 05:38:57 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 05:40:04 PM	***  Inside mobile misuploadfile.php 10.100.72.25	26-03-2024 05:40:04 PM	***  Inside mobile misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 05:40:04 PM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 05:40:04 PM	URL HIT BY MIS UPLOAD FOR mobile PAN :http://10.150.146.12/UAT_BackEnd/General/mismobileupload.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 05:40:04 PM	{
-    "Status": "Successes",
-    "TotalRecordProcessed": 549,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 05:43:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	26-03-2024 05:43:36 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	26-03-2024 05:43:50 PM	***  Inside misuploadfile.php 10.100.72.25	26-03-2024 05:43:50 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	26-03-2024 05:43:50 PM	****** upload path ****** :uploads/10.100.72.25	26-03-2024 05:43:50 PM	URL HIT BY MIS UPLOAD FOR 135155151 :http://10.150.146.12/UAT_BackEnd/General/misuploadetds.php?UserId=35&ip=10.100.72.2510.100.72.25	26-03-2024 05:43:50 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 977,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	26-03-2024 05:44:05 PM	ui YmFja2hv and pas dGVzdA==10.100.72.25	26-03-2024 05:44:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	26-03-2024 05:44:05 PM	JSON POST : Array10.100.72.25	26-03-2024 05:44:05 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.25	26-03-2024 05:44:05 PM	Json parting value34434510.100.72.25	26-03-2024 05:44:05 PM	Session BranchId...BACKHO10.100.72.25	26-03-2024 05:44:05 PM	Session Type...BACKHO10.100.72.25	26-03-2024 05:44:05 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.25	26-03-2024 05:44:05 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.25	26-03-2024 05:44:09 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	26-03-2024 05:44:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	26-03-2024 05:44:09 PM	JSON POST : 10.100.72.25	26-03-2024 05:44:14 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	26-03-2024 05:44:14 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	26-03-2024 05:44:14 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.72.25	26-03-2024 05:44:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	26-03-2024 05:44:14 PM	JSON POST : {
-    "billPeriod":"19"
-}10.100.72.25	26-03-2024 05:44:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	26-03-2024 05:44:22 PM	JSON POST : 10.100.72.25	26-03-2024 05:46:16 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
-    "fromDate":"2024-03-19",
-    "toDate":"2024-03-19"
-}10.100.72.25	26-03-2024 05:46:16 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - http://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.72.25	26-03-2024 05:46:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.72.25	26-03-2024 05:46:16 PM	JSON POST : {
-    "fromDate":"2024-03-19",
-    "toDate":"2024-03-19"
-}10.100.72.25	26-03-2024 05:54:08 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	26-03-2024 05:54:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	26-03-2024 05:54:08 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	26-03-2024 05:54:19 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	26-03-2024 05:54:19 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API post - http://10.150.146.12/UAT_BackEnd/General/ledgerAPI.php10.100.72.25	26-03-2024 05:54:19 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  Value for API post list- {
-    "Type":"Religare",
-    "Branch":"SLB09063",
-	"fromDate":"1970-01-01",
-	"toDate":"1970-01-01"
-}10.100.72.25	26-03-2024 05:54:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	26-03-2024 05:54:19 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}

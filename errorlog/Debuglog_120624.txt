@@ -1,458 +1,0 @@
-10.100.72.162	12-06-2024 09:31:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 09:31:14 AM	JSON POST : 10.100.72.162	12-06-2024 09:55:55 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 09:55:55 AM	JSON POST : 10.100.72.162	12-06-2024 09:56:36 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 09:56:36 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 09:56:36 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 09:56:36 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-07",
-            "DateAdded": "2024-06-07 16:12:40",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 09:56:48 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 09:56:48 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.72.162	12-06-2024 09:56:48 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.72.162	12-06-2024 09:56:48 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-06-01&toDate=2024-06-07&billDate=2024-06-06&dueDate=2024-06-07&addedBy=1274910.100.72.162	12-06-2024 09:56:48 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. noSome Error Try Again!10.100.72.162	12-06-2024 09:56:48 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. noSome Error Try Again!10.100.72.162	12-06-2024 09:56:48 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 09:56:48 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 09:56:48 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-07",
-            "DateAdded": "2024-06-07 16:12:40",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:44:56 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:44:56 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.72.162	12-06-2024 10:44:56 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.72.162	12-06-2024 10:44:56 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-06-01&toDate=2024-06-07&billDate=2024-06-06&dueDate=2024-06-07&addedBy=1274910.100.72.162	12-06-2024 10:44:56 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. noSome Error Try Again!10.100.72.162	12-06-2024 10:44:56 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. noSome Error Try Again!10.100.72.162	12-06-2024 10:44:56 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:44:56 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:44:56 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-07",
-            "DateAdded": "2024-06-07 16:12:40",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:45:01 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:45:01 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.72.162	12-06-2024 10:45:01 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.72.162	12-06-2024 10:45:01 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-06-01&toDate=2024-06-07&billDate=2024-06-06&dueDate=2024-06-08&addedBy=1274910.100.72.162	12-06-2024 10:45:01 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. noSome Error Try Again!10.100.72.162	12-06-2024 10:45:01 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. noSome Error Try Again!10.100.72.162	12-06-2024 10:45:01 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:45:01 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:45:01 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-07",
-            "DateAdded": "2024-06-07 16:12:40",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:45:47 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.162	12-06-2024 10:45:47 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:45:47 AM	JSON POST : 10.100.72.162	12-06-2024 10:45:54 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.72.162	12-06-2024 10:45:54 AM	JSON POST : 10.100.72.162	12-06-2024 10:45:54 AM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:46:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.72.162	12-06-2024 10:46:02 AM	JSON POST : {
-    "accountGroup":"1"
-}10.100.72.162	12-06-2024 10:46:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.72.162	12-06-2024 10:46:02 AM	JSON POST : {
-    "accountGroup":"2"
-}10.100.72.162	12-06-2024 10:46:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.72.162	12-06-2024 10:46:02 AM	JSON POST : {
-    "accountGroup":"3"
-}10.100.72.162	12-06-2024 10:46:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.72.162	12-06-2024 10:46:02 AM	JSON POST : {
-    "accountGroup":"4"
-}10.100.72.162	12-06-2024 10:46:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.72.162	12-06-2024 10:46:02 AM	JSON POST : {
-    "accountGroup":"5"
-}10.100.72.162	12-06-2024 10:46:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.162	12-06-2024 10:46:02 AM	JSON POST : {
-    "accountGroup":"1"
-}10.100.72.162	12-06-2024 10:46:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.162	12-06-2024 10:46:02 AM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.72.162	12-06-2024 10:46:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.162	12-06-2024 10:46:02 AM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.72.162	12-06-2024 10:46:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.162	12-06-2024 10:46:02 AM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.72.162	12-06-2024 10:46:03 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.162	12-06-2024 10:46:03 AM	JSON POST : {
-    "accountGroup":"4"
-}10.100.72.162	12-06-2024 10:46:03 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.162	12-06-2024 10:46:03 AM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.72.162	12-06-2024 10:46:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.162	12-06-2024 10:46:04 AM	JSON POST : {
-    "accountGroup":"6"
-}10.100.72.162	12-06-2024 10:46:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.162	12-06-2024 10:46:04 AM	JSON POST : {
-    "accountGroup":"10"
-}10.100.72.162	12-06-2024 10:46:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.162	12-06-2024 10:46:04 AM	JSON POST : {
-    "accountGroup":"11"
-}10.100.72.162	12-06-2024 10:46:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.162	12-06-2024 10:46:04 AM	JSON POST : {
-    "accountGroup":"2"
-}10.100.72.162	12-06-2024 10:46:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.162	12-06-2024 10:46:04 AM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.72.162	12-06-2024 10:46:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.162	12-06-2024 10:46:04 AM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.72.162	12-06-2024 10:46:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.162	12-06-2024 10:46:04 AM	JSON POST : {
-    "accountGroup":"8"
-}10.100.72.162	12-06-2024 10:46:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.162	12-06-2024 10:46:04 AM	JSON POST : {
-    "accountGroup":"7"
-}10.100.72.162	12-06-2024 10:46:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.72.162	12-06-2024 10:46:04 AM	JSON POST : {
-    "accountGroup":"5"
-}10.100.72.162	12-06-2024 10:46:25 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:46:25 AM	JSON POST : 10.100.72.162	12-06-2024 10:46:30 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:46:30 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:46:30 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:46:30 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-07",
-            "DateAdded": "2024-06-07 16:12:40",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:52:30 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:52:30 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:52:30 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:52:30 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-07",
-            "DateAdded": "2024-06-07 16:12:40",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:52:34 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:52:34 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.72.162	12-06-2024 10:52:34 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.72.162	12-06-2024 10:52:34 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-06-01&toDate=2024-06-07&billDate=2024-06-06&dueDate=2024-06-09&addedBy=1274910.100.72.162	12-06-2024 10:52:34 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. noSome Error Try Again!10.100.72.162	12-06-2024 10:52:34 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. noSome Error Try Again!10.100.72.162	12-06-2024 10:52:34 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:52:34 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:52:34 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-07",
-            "DateAdded": "2024-06-07 16:12:40",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:52:56 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:52:56 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:52:56 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:52:56 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-07",
-            "DateAdded": "2024-06-07 16:12:40",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:53:03 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:53:03 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.72.162	12-06-2024 10:53:03 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.72.162	12-06-2024 10:53:03 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-06-01&toDate=2024-06-07&billDate=2024-06-06&dueDate=2024-06-09&addedBy=1274910.100.72.162	12-06-2024 10:53:03 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. noSome Error Try Again!10.100.72.162	12-06-2024 10:53:03 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. noSome Error Try Again!10.100.72.162	12-06-2024 10:53:03 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:53:03 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:53:03 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-07",
-            "DateAdded": "2024-06-07 16:12:40",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:53:05 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:53:05 AM	JSON POST : 10.100.72.162	12-06-2024 10:54:59 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:54:59 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:54:59 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:54:59 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-07",
-            "DateAdded": "2024-06-07 16:12:40",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:55:02 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:55:02 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.72.162	12-06-2024 10:55:02 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.72.162	12-06-2024 10:55:02 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-06-01&toDate=2024-06-07&billDate=2024-06-06&dueDate=2024-06-11&addedBy=1274910.100.72.162	12-06-2024 10:55:02 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. Some Error Try Again!10.100.72.162	12-06-2024 10:55:02 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. Some Error Try Again!10.100.72.162	12-06-2024 10:55:02 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:55:02 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:55:02 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-11",
-            "DateAdded": "2024-06-12 10:55:02",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:55:21 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:55:21 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.72.162	12-06-2024 10:55:21 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.72.162	12-06-2024 10:55:21 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-06-01&toDate=2024-06-07&billDate=2024-06-06&dueDate=2024-06-11&addedBy=1274910.100.72.162	12-06-2024 10:55:21 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. noSome Error Try Again!10.100.72.162	12-06-2024 10:55:21 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. noSome Error Try Again!10.100.72.162	12-06-2024 10:55:21 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:55:21 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:55:21 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-11",
-            "DateAdded": "2024-06-12 10:55:21",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:56:32 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:56:32 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:56:32 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:56:32 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-11",
-            "DateAdded": "2024-06-12 10:55:21",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:56:35 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:56:35 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.72.162	12-06-2024 10:56:35 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.72.162	12-06-2024 10:56:35 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-06-01&toDate=2024-06-07&billDate=2024-06-06&dueDate=2024-06-09&addedBy=1274910.100.72.162	12-06-2024 10:56:35 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. Update Data Successfully10.100.72.162	12-06-2024 10:56:35 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. Update Data Successfully10.100.72.162	12-06-2024 10:56:35 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:56:35 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:56:35 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-09",
-            "DateAdded": "2024-06-12 10:56:35",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:56:38 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:56:38 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:56:38 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:56:38 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-09",
-            "DateAdded": "2024-06-12 10:56:35",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.72.162	12-06-2024 10:56:45 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.72.162	12-06-2024 10:56:45 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.72.162	12-06-2024 10:56:45 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.72.162	12-06-2024 10:56:45 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-06-01&toDate=2024-06-07&billDate=2024-06-06&dueDate=2024-06-09&addedBy=1274910.100.72.162	12-06-2024 10:56:46 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. Update Data Successfully10.100.72.162	12-06-2024 10:56:46 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. Update Data Successfully10.100.72.162	12-06-2024 10:56:46 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.162	12-06-2024 10:56:46 AM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
-    "bid":"20"
-}10.100.72.162	12-06-2024 10:56:46 AM	RESPONSE RETURN FROM ACCOUNT STATEMENT: {
-    "status": 0,
-    "billPeriod": [
-        {
-            "Id": "20",
-            "FromDate": "2024-06-01",
-            "ToDate": "2024-06-07",
-            "BillDate": "2024-06-06",
-            "DueDate": "2024-06-09",
-            "DateAdded": "2024-06-12 10:56:46",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.140.59.246	12-06-2024 05:08:07 PM	ui YmFja2hv and pas dGVzdA==10.140.59.246	12-06-2024 05:08:07 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.140.59.246	12-06-2024 05:08:07 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.246	12-06-2024 05:08:07 PM	JSON POST : Array10.140.59.246	12-06-2024 05:08:07 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.246	12-06-2024 05:08:07 PM	Json parting value34434510.140.59.246	12-06-2024 05:08:07 PM	Session BranchId...BACKHO10.140.59.246	12-06-2024 05:08:07 PM	Session Type...BACKHO10.140.59.246	12-06-2024 05:08:07 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.140.59.246	12-06-2024 05:08:07 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.140.59.246	12-06-2024 05:14:33 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:14:33 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:14:33 PM	JSON POST : 10.140.59.246	12-06-2024 05:14:36 PM	Session BranchId...BACKHO10.140.59.246	12-06-2024 05:14:36 PM	Session Type...BACKHO10.140.59.246	12-06-2024 05:14:36 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.140.59.246	12-06-2024 05:14:36 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.140.59.246	12-06-2024 05:14:45 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:14:45 PM	JSON POST : 10.140.59.246	12-06-2024 05:17:27 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:17:27 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:17:27 PM	JSON POST : 10.140.59.246	12-06-2024 05:18:45 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:18:45 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.140.59.246	12-06-2024 05:18:45 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.140.59.246	12-06-2024 05:18:45 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.140.59.246	12-06-2024 05:18:45 PM	JSON POST : {
-    "billPeriod":"18"
-}10.140.59.246	12-06-2024 05:18:45 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:18:45 PM	JSON POST : 10.140.59.246	12-06-2024 05:20:00 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:20:00 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:20:00 PM	JSON POST : 10.140.59.246	12-06-2024 05:21:35 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:21:35 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billSummaryReportAPI.php10.140.59.246	12-06-2024 05:21:35 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  Value for API - 10.140.59.246	12-06-2024 05:21:35 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billSummaryReportAPI.php10.140.59.246	12-06-2024 05:21:35 PM	JSON POST : {
-    "billPeriod":"19"
-}10.140.59.246	12-06-2024 05:21:45 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:21:45 PM	JSON POST : 10.140.59.246	12-06-2024 05:21:45 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:21:45 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billSummaryReportAPI.php10.140.59.246	12-06-2024 05:21:45 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  Value for API - 10.140.59.246	12-06-2024 05:21:45 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billSummaryReportAPI.php10.140.59.246	12-06-2024 05:21:45 PM	JSON POST : {
-    "billPeriod":"18"
-}10.140.59.246	12-06-2024 05:21:45 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:21:45 PM	JSON POST : 10.140.59.246	12-06-2024 05:21:50 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:21:50 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billSummaryReportAPI.php10.140.59.246	12-06-2024 05:21:50 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  Value for API - 10.140.59.246	12-06-2024 05:21:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billSummaryReportAPI.php10.140.59.246	12-06-2024 05:21:50 PM	JSON POST : {
-    "billPeriod":"19"
-}10.140.59.246	12-06-2024 05:21:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:21:59 PM	JSON POST : 10.140.59.246	12-06-2024 05:22:15 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:22:15 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:22:15 PM	JSON POST : 10.140.59.246	12-06-2024 05:22:19 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:22:19 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.140.59.246	12-06-2024 05:22:19 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.140.59.246	12-06-2024 05:22:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.140.59.246	12-06-2024 05:22:19 PM	JSON POST : {
-    "billPeriod":"18"
-}10.140.59.246	12-06-2024 05:22:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:22:19 PM	JSON POST : 10.140.59.246	12-06-2024 05:22:22 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:22:22 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.140.59.246	12-06-2024 05:22:22 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.140.59.246	12-06-2024 05:22:22 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.140.59.246	12-06-2024 05:22:22 PM	JSON POST : {
-    "billPeriod":"19"
-}10.140.59.246	12-06-2024 05:22:23 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:22:23 PM	JSON POST : 10.140.59.246	12-06-2024 05:22:26 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:22:26 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.140.59.246	12-06-2024 05:22:26 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.140.59.246	12-06-2024 05:22:26 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.140.59.246	12-06-2024 05:22:26 PM	JSON POST : {
-    "billPeriod":"20"
-}10.140.59.246	12-06-2024 05:22:26 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:22:26 PM	JSON POST : 10.140.59.246	12-06-2024 05:23:17 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:23:17 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.140.59.246	12-06-2024 05:23:17 PM	JSON POST : 10.140.59.246	12-06-2024 05:24:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.140.59.246	12-06-2024 05:24:56 PM	JSON POST : 10.140.59.246	12-06-2024 05:24:56 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        }
-    ]
-}10.140.59.246	12-06-2024 05:26:54 PM	[Info] - File location /tinfc1/UAT/commissionSummary.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:26:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.140.59.246	12-06-2024 05:26:54 PM	JSON POST : 10.140.59.246	12-06-2024 05:27:00 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.140.59.246	12-06-2024 05:27:00 PM	JSON POST : 10.140.59.246	12-06-2024 05:27:00 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        }
-    ]
-}10.140.59.246	12-06-2024 05:27:47 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:27:47 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.140.59.246	12-06-2024 05:27:47 PM	JSON POST : 10.140.59.246	12-06-2024 05:27:51 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.140.59.246	12-06-2024 05:27:51 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.140.59.246	12-06-2024 05:27:51 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  Value for API - 10.140.59.246	12-06-2024 05:27:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.140.59.246	12-06-2024 05:27:51 PM	JSON POST : {
-    "commissionPeriod":"3"
-}10.140.59.246	12-06-2024 05:27:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.140.59.246	12-06-2024 05:27:51 PM	JSON POST : 10.140.59.246	12-06-2024 05:31:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/schemeMasterAPI.php10.140.59.246	12-06-2024 05:31:59 PM	JSON POST : 10.140.59.246	12-06-2024 05:33:02 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.140.59.246	12-06-2024 05:33:02 PM	JSON POST : {
-  "SchemeId":"87"
-}10.140.59.246	12-06-2024 05:38:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.140.59.246	12-06-2024 05:38:59 PM	JSON POST : {
-  "SchemeId":"87"
-}

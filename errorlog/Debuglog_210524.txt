@@ -1,23 +1,0 @@
-10.110.11.15	21-05-2024 03:25:42 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.25	21-05-2024 05:12:33 PM	ui YmFja2hv and pas dGVzdA==10.100.72.25	21-05-2024 05:12:33 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.72.25	21-05-2024 05:12:33 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.72.25	21-05-2024 05:12:33 PM	JSON POST : Array10.100.72.25	21-05-2024 05:12:33 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.25	21-05-2024 05:12:33 PM	Json parting value34434510.100.72.25	21-05-2024 05:12:33 PM	Session BranchId...BACKHO10.100.72.25	21-05-2024 05:12:33 PM	Session Type...BACKHO10.100.72.25	21-05-2024 05:12:33 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.25	21-05-2024 05:12:33 PM	  API hit URL: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.25	21-05-2024 05:13:02 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	21-05-2024 05:13:02 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	21-05-2024 05:13:02 PM	JSON POST : 10.100.72.25	21-05-2024 05:13:09 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	21-05-2024 05:13:09 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	21-05-2024 05:13:09 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	21-05-2024 05:13:28 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	21-05-2024 05:13:28 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API post - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/ledgerAPI.php10.100.72.25	21-05-2024 05:13:28 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  Value for API post list- {
-    "Type":"Religare",
-    "Branch":"SLB25536",
-	"fromDate":"1970-01-01",
-	"toDate":"1970-01-01"
-}10.100.72.25	21-05-2024 05:13:28 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	21-05-2024 05:13:28 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}

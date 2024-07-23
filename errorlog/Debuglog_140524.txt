@@ -1,384 +1,0 @@
-10.100.21.52	14-05-2024 10:54:24 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.21.52	14-05-2024 10:55:00 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.21.52	14-05-2024 11:01:15 AM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.21.52	14-05-2024 11:01:15 AM	Response from url data jaypal {"userId":"2553601","password":"test"}10.100.21.52	14-05-2024 11:01:15 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 11:01:15 AM	JSON POST : Array10.100.21.52	14-05-2024 11:01:15 AM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "2",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Test  User",
-    "RegionId": "1",
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.21.52	14-05-2024 11:01:15 AM	Json parting value2553610.100.21.52	14-05-2024 11:01:15 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:01:15 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.21.52	14-05-2024 11:01:16 AM	Session BranchId...2553610.100.21.52	14-05-2024 11:01:16 AM	Session Type...BRANCH10.100.21.52	14-05-2024 11:01:16 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	14-05-2024 11:01:16 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.21.52	14-05-2024 11:01:16 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	14-05-2024 11:01:16 AM	JSON POST : 10.100.21.52	14-05-2024 11:02:13 AM	ui c3VwZXJhZG1pbg== and pas dGVzdA==10.100.21.52	14-05-2024 11:02:13 AM	Response from url data jaypal {"userId":"superadmin","password":"test"}10.100.21.52	14-05-2024 11:02:13 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 11:02:13 AM	JSON POST : Array10.100.21.52	14-05-2024 11:02:13 AM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "8",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "SUPER",
-    "UserName": "Super  Admin",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	14-05-2024 11:02:13 AM	Json parting value34434510.100.21.52	14-05-2024 11:02:13 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:02:13 AM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 11:02:35 AM	ui aG91c2VyMQ== and pas dGVzdA==10.100.21.52	14-05-2024 11:02:35 AM	Response from url data jaypal {"userId":"houser1","password":"test"}10.100.21.52	14-05-2024 11:02:35 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 11:02:35 AM	JSON POST : Array10.100.21.52	14-05-2024 11:02:35 AM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.21.52	14-05-2024 11:02:35 AM	Json parting value34434510.100.21.52	14-05-2024 11:02:35 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:02:35 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 11:02:35 AM	Session BranchId...houser10.100.21.52	14-05-2024 11:02:35 AM	Session Type...HOUSER10.100.21.52	14-05-2024 11:02:35 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	14-05-2024 11:02:35 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.21.52	14-05-2024 11:02:35 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	14-05-2024 11:02:35 AM	JSON POST : 10.100.21.52	14-05-2024 11:04:13 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 11:04:13 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:04:13 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 11:04:15 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.21.52	14-05-2024 11:04:15 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:04:15 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 11:12:11 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 11:12:11 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 11:12:11 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:12:11 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 11:12:16 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 11:12:16 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 11:12:16 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:12:16 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 11:12:18 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 11:12:18 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 11:12:18 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:12:18 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 11:12:20 AM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.100.21.52	14-05-2024 11:12:20 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:12:20 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 11:22:47 AM	Session BranchId...houser10.100.21.52	14-05-2024 11:22:47 AM	Session Type...HOUSER10.100.21.52	14-05-2024 11:22:47 AM	JSON to post dashboard data:  ----{ "UserType": "HOUSER", "UserId": "", "UserTypeId": "houser","page":"documentmanagementpage"}10.100.21.52	14-05-2024 11:22:47 AM	  API hit URL: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/BackOfficeDashboardAPI.php10.100.21.52	14-05-2024 11:22:47 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:22:47 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 11:23:41 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:23:41 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 11:23:44 AM	[Info] - File location /tinfc1/UAT/listMail.php Message:-  URL for API - {
-  "fromDate":"1970-01-01",
-    "toDate":"1970-01-01"
-}10.100.21.52	14-05-2024 11:23:44 AM	[Info] - File location /tinfc1/UAT/listMail.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/HOOperation/mailDataAPI.php10.100.21.52	14-05-2024 11:23:44 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:23:44 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 11:23:46 AM	[Info] - File location /tinfc1/UAT/listMail.php Message:-  URL for API - {
-  "fromDate":"1970-01-01",
-    "toDate":"1970-01-01"
-}10.100.21.52	14-05-2024 11:23:46 AM	[Info] - File location /tinfc1/UAT/listMail.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/HOOperation/mailDataAPI.php10.100.21.52	14-05-2024 11:23:46 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:23:46 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 11:24:08 AM	ui cWN1c2VyNQ== and pas dGVzdA==10.100.21.52	14-05-2024 11:24:08 AM	Response from url data jaypal {"userId":"qcuser5","password":"test"}10.100.21.52	14-05-2024 11:24:08 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 11:24:08 AM	JSON POST : Array10.100.21.52	14-05-2024 11:24:08 AM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "50",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "QCP",
-    "UserName": "Surabhi Japlot  [QC]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	14-05-2024 11:24:08 AM	Json parting value34434510.100.21.52	14-05-2024 11:24:08 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:24:08 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 11:24:08 AM	Session BranchId...QCP10.100.21.52	14-05-2024 11:24:08 AM	Session Type...QCP10.100.21.52	14-05-2024 11:24:08 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	14-05-2024 11:24:08 AM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.100.21.52	14-05-2024 11:24:09 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	14-05-2024 11:24:09 AM	JSON POST : 10.100.21.52	14-05-2024 11:28:21 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 11:28:21 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 11:28:21 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:28:21 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 11:28:24 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 11:28:24 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 11:28:24 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:28:24 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 11:28:25 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 11:28:25 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 11:28:25 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:28:25 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 11:28:27 AM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.100.21.52	14-05-2024 11:28:27 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:28:27 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 11:28:45 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:28:45 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 11:28:52 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:28:52 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 11:31:11 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 11:31:11 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:31:11 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 11:57:25 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 11:57:25 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 11:57:26 AM	Session BranchId...QCP10.100.21.52	14-05-2024 11:57:26 AM	Session Type...QCP10.100.21.52	14-05-2024 11:57:26 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	14-05-2024 11:57:26 AM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.100.21.52	14-05-2024 11:57:26 AM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	14-05-2024 11:57:26 AM	JSON POST : 10.100.21.52	14-05-2024 12:42:56 PM	ui cWN1c2VyNQ== and pas dGVzdA==10.100.21.52	14-05-2024 12:42:56 PM	Response from url data jaypal {"userId":"qcuser5","password":"test"}10.100.21.52	14-05-2024 12:42:56 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 12:42:56 PM	JSON POST : Array10.100.21.52	14-05-2024 12:42:56 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "50",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "QCP",
-    "UserName": "Surabhi Japlot  [QC]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	14-05-2024 12:42:56 PM	Json parting value34434510.100.21.52	14-05-2024 12:42:56 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 12:42:56 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 12:42:56 PM	Session BranchId...QCP10.100.21.52	14-05-2024 12:42:56 PM	Session Type...QCP10.100.21.52	14-05-2024 12:42:56 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	14-05-2024 12:42:56 PM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.100.21.52	14-05-2024 12:42:56 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	14-05-2024 12:42:56 PM	JSON POST : 10.100.21.52	14-05-2024 12:43:28 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 12:43:28 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 12:44:16 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 12:44:16 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 12:44:16 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 12:46:40 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 12:46:40 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 12:46:40 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 12:46:40 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 12:46:40 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 12:46:55 PM	 URL for API - 10.100.21.52	14-05-2024 12:46:55 PM	 URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/rejectioninfoList.php10.100.21.52	14-05-2024 12:46:55 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 12:46:55 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 12:47:00 PM	 URL for API - 10.100.21.52	14-05-2024 12:47:00 PM	 URL for API - {"ProductType":"''","FormType":"''"}10.100.21.52	14-05-2024 12:47:00 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 12:47:00 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 12:47:08 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 12:47:08 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 12:47:11 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 12:47:11 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 12:47:11 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 12:47:11 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 12:47:20 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 12:47:20 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 12:47:20 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 12:47:20 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 01:00:11 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 01:00:11 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 01:00:11 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 01:00:11 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 02:09:51 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 02:09:51 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 02:09:51 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 02:09:51 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 02:09:55 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 02:09:55 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 02:09:55 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 02:09:55 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 02:09:56 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 02:09:56 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 02:09:56 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 02:09:56 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 02:09:57 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 02:09:57 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 02:09:57 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 02:09:57 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 02:49:41 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 02:49:41 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 02:49:41 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 02:49:41 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 02:49:42 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 02:49:42 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 02:49:42 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 02:49:42 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 03:14:54 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 03:14:54 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 03:14:54 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:14:54 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 03:20:58 PM	ui cWN1c2VyNQ== and pas dGVzdA==10.100.21.52	14-05-2024 03:20:58 PM	Response from url data jaypal {"userId":"qcuser5","password":"test"}10.100.21.52	14-05-2024 03:20:58 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 03:20:58 PM	JSON POST : Array10.100.21.52	14-05-2024 03:20:58 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "50",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "QCP",
-    "UserName": "Surabhi Japlot  [QC]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	14-05-2024 03:20:58 PM	Json parting value34434510.100.21.52	14-05-2024 03:20:58 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:20:58 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 03:20:58 PM	Session BranchId...QCP10.100.21.52	14-05-2024 03:20:58 PM	Session Type...QCP10.100.21.52	14-05-2024 03:20:58 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	14-05-2024 03:20:58 PM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.100.21.52	14-05-2024 03:20:58 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	14-05-2024 03:20:58 PM	JSON POST : 10.100.21.52	14-05-2024 03:21:04 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 03:21:04 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:21:04 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 03:21:07 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 03:21:07 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 03:21:07 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 03:21:07 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:21:07 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 03:21:12 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 03:21:12 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 03:21:12 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 03:21:12 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:21:12 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 03:21:21 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 03:21:21 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 03:21:21 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 03:21:21 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:21:21 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.21.52	14-05-2024 03:21:35 PM	ui aG91c2VyNQ== and pas dGVzdA==10.100.21.52	14-05-2024 03:21:35 PM	Response from url data jaypal {"userId":"houser5","password":"test"}10.100.21.52	14-05-2024 03:21:35 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 03:21:35 PM	JSON POST : Array10.100.21.52	14-05-2024 03:21:35 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.21.52	14-05-2024 03:21:35 PM	Json parting value10.100.21.52	14-05-2024 03:21:46 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.21.52	14-05-2024 03:21:46 PM	Response from url data jaypal {"userId":"houser1","password":"test"}10.100.21.52	14-05-2024 03:21:46 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 03:21:46 PM	JSON POST : Array10.100.21.52	14-05-2024 03:21:46 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.21.52	14-05-2024 03:21:46 PM	Json parting value34434510.100.21.52	14-05-2024 03:21:46 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:21:46 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 03:21:47 PM	Session BranchId...houser10.100.21.52	14-05-2024 03:21:47 PM	Session Type...HOUSER10.100.21.52	14-05-2024 03:21:47 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	14-05-2024 03:21:47 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.21.52	14-05-2024 03:21:47 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	14-05-2024 03:21:47 PM	JSON POST : 10.100.21.52	14-05-2024 03:21:50 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 03:21:50 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:21:50 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 03:21:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 03:21:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 03:21:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 03:21:52 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:21:52 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 03:22:00 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 03:22:00 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 03:22:00 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 03:22:00 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:22:00 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 03:22:52 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:22:52 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 03:22:52 PM	Session BranchId...houser10.100.21.52	14-05-2024 03:22:52 PM	Session Type...HOUSER10.100.21.52	14-05-2024 03:22:52 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	14-05-2024 03:22:52 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.21.52	14-05-2024 03:22:52 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	14-05-2024 03:22:52 PM	JSON POST : 10.100.21.52	14-05-2024 03:25:49 PM	ui c3VwZXJhZG1pbg== and pas dGVzdA==10.100.21.52	14-05-2024 03:25:49 PM	Response from url data jaypal {"userId":"superadmin","password":"test"}10.100.21.52	14-05-2024 03:25:49 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 03:25:49 PM	JSON POST : Array10.100.21.52	14-05-2024 03:25:49 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "8",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "SUPER",
-    "UserName": "Super  Admin",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	14-05-2024 03:25:49 PM	Json parting value34434510.100.21.52	14-05-2024 03:25:49 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:25:49 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 03:25:55 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:25:55 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 03:26:03 PM	Response from setting api: 10.100.21.52	14-05-2024 03:26:03 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:26:03 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 03:26:20 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:26:20 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 03:26:31 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 03:26:31 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 03:26:31 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:26:31 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 03:26:33 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 03:26:33 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 03:26:33 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:26:33 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 03:26:43 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 03:26:43 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 03:26:43 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:26:43 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 03:26:45 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.100.21.52	14-05-2024 03:26:45 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:26:45 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 03:26:50 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 03:26:50 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:26:50 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 03:26:59 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.21.52	14-05-2024 03:26:59 PM	Response from url data jaypal {"userId":"houser1","password":"test"}10.100.21.52	14-05-2024 03:26:59 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 03:26:59 PM	JSON POST : Array10.100.21.52	14-05-2024 03:26:59 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.21.52	14-05-2024 03:26:59 PM	Json parting value34434510.100.21.52	14-05-2024 03:26:59 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:26:59 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 03:27:00 PM	Session BranchId...houser10.100.21.52	14-05-2024 03:27:00 PM	Session Type...HOUSER10.100.21.52	14-05-2024 03:27:00 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	14-05-2024 03:27:00 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.21.52	14-05-2024 03:27:00 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	14-05-2024 03:27:00 PM	JSON POST : 10.100.21.52	14-05-2024 03:27:04 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 03:27:04 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:28 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:28 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:28 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:30 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:30 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:13:30 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:13:30 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:30 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:32 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:32 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:13:32 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:13:32 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:32 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:34 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:34 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:13:34 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:13:34 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:34 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:36 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:36 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:36 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:37 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:37 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:13:37 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:13:37 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:37 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:38 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:38 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:13:38 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:13:38 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:38 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:39 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:39 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:13:39 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:13:39 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:39 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:39 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:39 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:13:39 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:13:39 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:39 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:42 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:42 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:44 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:44 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 04:13:44 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:44 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:45 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:45 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 04:13:45 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:45 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:46 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:46 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/vendorinfoList.php10.100.21.52	14-05-2024 04:13:46 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:46 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:53 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:53 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:53 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:55 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:55 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/regioninfoList.php10.100.21.52	14-05-2024 04:13:55 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:55 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:56 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:56 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/regioninfoList.php10.100.21.52	14-05-2024 04:13:56 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:56 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:57 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:57 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:57 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:13:59 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:13:59 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:13:59 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:13:59 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:13:59 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:14:00 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:14:00 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:14:00 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:14:00 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:14:00 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:14:02 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:14:02 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:14:02 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:14:02 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:14:02 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:14:07 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:14:07 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:14:07 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:14:08 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:14:08 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:14:08 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:14:08 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:14:08 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:14:10 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:14:10 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:14:10 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:14:10 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:14:10 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:14:11 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:14:11 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:14:11 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:14:11 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:14:11 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:15:01 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:15:01 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:15:01 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:15:04 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:15:04 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:15:04 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:15:04 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:15:04 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:15:05 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:15:05 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:15:05 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:15:06 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:15:06 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:15:06 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:15:06 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:15:06 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:15:06 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:15:06 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:15:07 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:15:07 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:15:07 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:15:07 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:15:07 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:15:08 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:15:08 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:15:08 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:15:08 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:15:08 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.50.150	14-05-2024 04:15:29 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.50.150	14-05-2024 04:15:29 PM	Response from url data jaypal {"userId":"houser1","password":"test"}10.100.50.150	14-05-2024 04:15:29 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.50.150	14-05-2024 04:15:29 PM	JSON POST : Array10.100.50.150	14-05-2024 04:15:29 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.50.150	14-05-2024 04:15:29 PM	Json parting value34434510.100.50.150	14-05-2024 04:15:29 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	14-05-2024 04:15:29 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.50.150	14-05-2024 04:15:29 PM	Session BranchId...houser10.100.50.150	14-05-2024 04:15:29 PM	Session Type...HOUSER10.100.50.150	14-05-2024 04:15:29 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.150	14-05-2024 04:15:29 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.50.150	14-05-2024 04:15:29 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/Dashboards/countAPI.php10.100.50.150	14-05-2024 04:15:29 PM	JSON POST : 10.100.50.150	14-05-2024 04:15:41 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.50.150	14-05-2024 04:15:41 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	14-05-2024 04:15:41 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.50.150	14-05-2024 04:15:47 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.50.150	14-05-2024 04:15:47 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.50.150	14-05-2024 04:15:47 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.50.150	14-05-2024 04:15:47 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	14-05-2024 04:15:47 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:15:49 PM	ui c3VwZXJhZG1pbg== and pas dGVzdA==10.100.21.52	14-05-2024 04:15:49 PM	Response from url data jaypal {"userId":"superadmin","password":"test"}10.100.21.52	14-05-2024 04:15:49 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 04:15:49 PM	JSON POST : Array10.100.21.52	14-05-2024 04:15:49 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "8",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "SUPER",
-    "UserName": "Super  Admin",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	14-05-2024 04:15:49 PM	Json parting value34434510.100.21.52	14-05-2024 04:15:49 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:15:49 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.50.150	14-05-2024 04:15:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.50.150	14-05-2024 04:15:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.50.150	14-05-2024 04:15:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.50.150	14-05-2024 04:15:52 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	14-05-2024 04:15:52 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:15:53 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:15:53 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:15:53 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 04:15:55 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.21.52	14-05-2024 04:15:55 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.21.52	14-05-2024 04:15:55 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.21.52	14-05-2024 04:15:55 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:15:55 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.50.150	14-05-2024 04:15:57 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.50.150	14-05-2024 04:15:57 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - https://tinexpertuat.religareonline.com/UAT_BackEnd/General/branchinfoList.php10.100.50.150	14-05-2024 04:15:57 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.50.150	14-05-2024 04:15:57 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	14-05-2024 04:15:57 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.21.52	14-05-2024 04:35:04 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 04:35:04 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 04:35:04 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:35:04 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 04:35:06 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 04:35:06 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 04:35:06 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 04:35:06 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 05:01:46 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.21.52	14-05-2024 05:01:46 PM	JSON POST : {
-  "fromDate":"",
-  "toDate":"",
-  "productType":"",
-  "BranchCode":"All"
-}10.100.21.52	14-05-2024 05:01:46 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 05:01:46 PM	JSON POST : {
-			"userType" : "SUPER"
-		}10.100.21.52	14-05-2024 05:34:57 PM	ui c3VwZXJhZG1pbg== and pas dGVzdA==10.100.21.52	14-05-2024 05:34:57 PM	Response from url data jaypal {"userId":"superadmin","password":"test"}10.100.21.52	14-05-2024 05:34:57 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php10.100.21.52	14-05-2024 05:34:57 PM	JSON POST : Array10.100.21.52	14-05-2024 05:34:57 PM	Response from url https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "8",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "SUPER",
-    "UserName": "Super  Admin",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	14-05-2024 05:34:57 PM	Json parting value34434510.100.21.52	14-05-2024 05:34:57 PM	POST API URL HIT: https://tinexpertuat.religareonline.com/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	14-05-2024 05:34:57 PM	JSON POST : {
-			"userType" : "SUPER"
-		}

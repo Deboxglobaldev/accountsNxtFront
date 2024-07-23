@@ -1,7 +1,7 @@
 <?php
 ob_start();
 session_start();
-$systemName = "Accounts System | Debox Global";
+$systemName = "Accounts | Debox Global";
 include 'function.php';
 error_reporting(0);
 

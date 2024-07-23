@@ -1,83 +1,0 @@
-10.100.72.67	20-07-2023 03:03:10 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	20-07-2023 03:03:10 PM	JSON POST : {"data":"empty"}10.100.72.67	20-07-2023 03:04:27 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	20-07-2023 03:04:27 PM	JSON POST : {"data":"empty"}10.100.72.67	20-07-2023 03:04:29 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.67	20-07-2023 03:04:29 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php10.100.72.67	20-07-2023 03:04:29 PM	JSON POST : Array10.100.72.67	20-07-2023 03:04:29 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.67	20-07-2023 03:04:29 PM	Json parting value10.100.72.67	20-07-2023 03:04:36 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	20-07-2023 03:04:36 PM	JSON POST : {"data":"empty"}10.100.72.67	20-07-2023 03:04:39 PM	ui aG91c2VyMDE= and pas dGVzdA==10.100.72.67	20-07-2023 03:04:39 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php10.100.72.67	20-07-2023 03:04:39 PM	JSON POST : Array10.100.72.67	20-07-2023 03:04:39 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.67	20-07-2023 03:04:39 PM	Json parting value10.100.72.67	20-07-2023 03:04:45 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	20-07-2023 03:04:45 PM	JSON POST : {"data":"empty"}10.100.72.67	20-07-2023 03:04:47 PM	ui aG91c2VyMDM= and pas dGVzdA==10.100.72.67	20-07-2023 03:04:47 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php10.100.72.67	20-07-2023 03:04:47 PM	JSON POST : Array10.100.72.67	20-07-2023 03:04:47 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.67	20-07-2023 03:04:47 PM	Json parting value10.100.72.67	20-07-2023 03:04:55 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	20-07-2023 03:04:55 PM	JSON POST : {"data":"empty"}10.100.72.67	20-07-2023 03:04:57 PM	ui aG91c2VyMw== and pas dGVzdA==10.100.72.67	20-07-2023 03:04:57 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php10.100.72.67	20-07-2023 03:04:57 PM	JSON POST : Array10.100.72.67	20-07-2023 03:04:57 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.67	20-07-2023 03:04:57 PM	Json parting value10.100.72.67	20-07-2023 03:05:08 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	20-07-2023 03:05:08 PM	JSON POST : {"data":"empty"}10.100.72.67	20-07-2023 03:05:10 PM	ui aG91c2VyMDE= and pas dGVzdA==10.100.72.67	20-07-2023 03:05:10 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php10.100.72.67	20-07-2023 03:05:10 PM	JSON POST : Array10.100.72.67	20-07-2023 03:05:10 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.67	20-07-2023 03:05:10 PM	Json parting value10.100.72.67	20-07-2023 03:05:21 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	20-07-2023 03:05:21 PM	JSON POST : {"data":"empty"}10.100.72.67	20-07-2023 03:05:23 PM	ui aG91c2VydGVzdA== and pas dGVzdA==10.100.72.67	20-07-2023 03:05:23 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php10.100.72.67	20-07-2023 03:05:23 PM	JSON POST : Array10.100.72.67	20-07-2023 03:05:23 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "36",
-    "BranchId": "12321",
-    "Role": "1",
-    "Type": "NSD",
-    "UserName": "HO User  ",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.67	20-07-2023 03:05:23 PM	Json parting value1232110.100.72.67	20-07-2023 03:05:24 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:05:24 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:05:26 PM	Session BranchId...NSD10.100.72.67	20-07-2023 03:05:26 PM	Session Type...NSD10.100.72.67	20-07-2023 03:05:26 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.67	20-07-2023 03:05:26 PM	JSON POST : { "UserType": "NSD", "UserId": "36", "UserTypeId": "NSD", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "INS","Role": "1"}10.100.72.67	20-07-2023 03:05:29 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php10.100.72.67	20-07-2023 03:05:29 PM	JSON POST : 10.100.72.67	20-07-2023 03:07:51 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.67	20-07-2023 03:07:51 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:07:51 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:07:53 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.67	20-07-2023 03:07:53 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:07:53 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:09:41 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.67	20-07-2023 03:09:41 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:09:41 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:09:46 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.67	20-07-2023 03:09:46 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:09:46 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:09:48 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.67	20-07-2023 03:09:48 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:09:48 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:09:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.67	20-07-2023 03:09:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://192.168.210.82/UAT_BackEnd/General/branchinfoList.php10.100.72.67	20-07-2023 03:09:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.67	20-07-2023 03:09:52 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:09:52 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:09:56 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.67	20-07-2023 03:09:56 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.100.72.67	20-07-2023 03:09:56 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://192.168.210.82/UAT_BackEnd/General/branchinfoList.php?editId=510.100.72.67	20-07-2023 03:09:56 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "5",
-    "Name": "Religare Broking Limited",
-    "AddressOne": "123",
-    "AddressTwo": "abc colony new delhi",
-    "City": "Noida",
-    "PinCode": "110025",
-    "State": "9",
-    "PrimaryPhone": "9990015763",
-    "SecondaryPhone": "",
-    "PrimaryEmail": "rajusaifi2008@gmail.com",
-    "SecondaryEmail": "rajusaifi@yahoo.com",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "2",
-    "PanNumber": "AAAPA1111A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "sbi",
-    "AccountNumber": "34343333333",
-    "IfscCode": "ICICI00234",
-    "BranchName": "RAJUDDIN",
-    "Status": "1",
-    "JsonItem": "{\"0\":{\"item\":\"\",\"description\":\"\"},\"1\":{\"item\":\"item1\",\"description\":\"666\"}}",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2022-10-13",
-    "Created_time": "15:44:01",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "0",
-    "ActivationDate": "2022-01-01",
-    "ClosureDate": "2022-05-28",
-    "TrainingDate": "2022-05-27",
-    "TrainerName": "",
-    "FranchiseCode": "01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "11"
-}10.100.72.67	20-07-2023 03:09:56 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:09:56 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:18:29 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.67	20-07-2023 03:18:29 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:18:29 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:18:32 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.67	20-07-2023 03:18:32 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://192.168.210.82/UAT_BackEnd/General/branchinfoList.php10.100.72.67	20-07-2023 03:18:32 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.67	20-07-2023 03:18:32 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:18:32 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:18:35 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:18:35 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:18:35 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/productinfoList.php10.100.72.67	20-07-2023 03:18:35 PM	JSON POST : 10.100.72.67	20-07-2023 03:18:35 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/General/listproduct.php?branchCode=&type=product10.100.72.67	20-07-2023 03:18:35 PM	response return from product mapping list : 10.100.72.67	20-07-2023 03:18:39 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.67	20-07-2023 03:18:39 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:18:39 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:18:42 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:18:42 PM	JSON POST : {
-			"userType" : "NSD"
-		}10.100.72.67	20-07-2023 03:49:09 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	20-07-2023 03:49:09 PM	JSON POST : {
-			"userType" : "NSD"
-		}192.168.102.17	20-07-2023 05:22:36 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php192.168.102.17	20-07-2023 05:22:36 PM	JSON POST : {"data":"empty"}10.110.11.15	20-07-2023 08:19:27 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.110.11.15	20-07-2023 08:19:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.110.11.15	20-07-2023 08:19:27 PM	JSON POST : {"data":"empty"}10.110.11.15	20-07-2023 08:51:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.110.11.15	20-07-2023 08:51:16 PM	JSON POST : {"data":"empty"}10.110.11.15	20-07-2023 09:23:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.110.11.15	20-07-2023 09:23:08 PM	JSON POST : {"data":"empty"}10.110.11.15	20-07-2023 09:54:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.110.11.15	20-07-2023 09:54:55 PM	JSON POST : {"data":"empty"}

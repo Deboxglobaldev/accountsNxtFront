@@ -1,353 +1,0 @@
-10.140.36.132	26-12-2023 11:33:11 AM	ui cWN1c2VyNQ== and pas dGVzdA==10.140.36.132	26-12-2023 11:33:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.132	26-12-2023 11:33:11 AM	JSON POST : Array10.140.36.132	26-12-2023 11:33:11 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "50",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "QCP",
-    "UserName": "Surabhi Japlot  [QC]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.36.132	26-12-2023 11:33:11 AM	Json parting value34434510.140.36.132	26-12-2023 11:33:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:33:11 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:33:13 AM	Session BranchId...QCP10.140.36.132	26-12-2023 11:33:13 AM	Session Type...QCP10.140.36.132	26-12-2023 11:33:13 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.132	26-12-2023 11:33:13 AM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.132	26-12-2023 11:33:16 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.132	26-12-2023 11:33:16 AM	JSON POST : 10.140.36.132	26-12-2023 11:33:20 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	26-12-2023 11:33:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:33:20 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:33:27 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	26-12-2023 11:33:27 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	26-12-2023 11:33:27 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.36.132	26-12-2023 11:33:27 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:33:27 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:33:29 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=2553610.140.36.132	26-12-2023 11:33:29 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:33:29 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:36:04 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:36:04 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:36:08 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.132	26-12-2023 11:36:08 AM	JSON POST : {
-					"AcknowledgementNo":"255369700483424",
-					"productType":"PAN"
-				}10.140.36.132	26-12-2023 11:36:08 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:36:08 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:39:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:39:22 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:39:25 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.132	26-12-2023 11:39:25 AM	JSON POST : {
-					"AcknowledgementNo":"255369700483402",
-					"productType":"PAN"
-				}10.140.36.132	26-12-2023 11:39:25 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:39:25 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:41:35 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	26-12-2023 11:41:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:41:35 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:41:41 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	26-12-2023 11:41:41 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	26-12-2023 11:41:41 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.36.132	26-12-2023 11:41:41 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:41:41 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:41:44 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.132	26-12-2023 11:41:44 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.36.132	26-12-2023 11:41:44 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=2238910.140.36.132	26-12-2023 11:41:44 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "22389",
-    "Name": "NOIDA",
-    "AddressOne": "PLOT NO. 10\/11",
-    "AddressTwo": "NOIDA",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "9999999999",
-    "SecondaryPhone": "9999999999",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "83",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "9999999",
-    "FinancialCode": "01",
-    "BankName": "ICICI BANK",
-    "AccountNumber": "123",
-    "IfscCode": "ICICI123",
-    "BranchName": "NOIDA",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2023-12-23",
-    "Created_time": "12:32:31",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "0",
-    "ActivationDate": "2023-12-23",
-    "ClosureDate": "1970-01-01",
-    "TrainerName": "Rajuddin",
-    "FranchiseCode": "Franchisee",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "0",
-    "SchemeId": "87"
-}10.140.36.132	26-12-2023 11:41:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:41:44 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:41:55 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	26-12-2023 11:41:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:41:55 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:42:00 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	26-12-2023 11:42:00 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	26-12-2023 11:42:00 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.36.132	26-12-2023 11:42:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:42:00 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:42:49 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.132	26-12-2023 11:42:49 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.36.132	26-12-2023 11:42:49 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=2238910.140.36.132	26-12-2023 11:42:49 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "22389",
-    "Name": "NOIDA",
-    "AddressOne": "PLOT NO. 10\/11",
-    "AddressTwo": "NOIDA",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "9999999999",
-    "SecondaryPhone": "9999999999",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "83",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "9999999",
-    "FinancialCode": "01",
-    "BankName": "ICICI BANK",
-    "AccountNumber": "123",
-    "IfscCode": "ICICI123",
-    "BranchName": "NOIDA",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2023-12-23",
-    "Created_time": "12:32:31",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "0",
-    "ActivationDate": "2023-12-23",
-    "ClosureDate": "1970-01-01",
-    "TrainerName": "Rajuddin",
-    "FranchiseCode": "Franchisee",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "0",
-    "SchemeId": "87"
-}10.140.36.132	26-12-2023 11:42:49 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:42:49 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:45:53 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.132	26-12-2023 11:45:53 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.36.132	26-12-2023 11:45:53 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=2238910.140.36.132	26-12-2023 11:45:53 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "22389",
-    "Name": "NOIDA",
-    "AddressOne": "PLOT NO. 10\/11",
-    "AddressTwo": "NOIDA",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "9999999999",
-    "SecondaryPhone": "9999999999",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "83",
-    "Region": "1",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "9999999",
-    "FinancialCode": "01",
-    "BankName": "ICICI BANK",
-    "AccountNumber": "123",
-    "IfscCode": "ICICI123",
-    "BranchName": "NOIDA",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2023-12-23",
-    "Created_time": "12:32:31",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "0",
-    "ActivationDate": "2023-12-23",
-    "ClosureDate": "1970-01-01",
-    "TrainerName": "Rajuddin",
-    "FranchiseCode": "Franchisee",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "0",
-    "SchemeId": "87"
-}10.140.36.132	26-12-2023 11:45:53 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.140.36.132	26-12-2023 11:45:53 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=22389&Name=NOIDA&AddressOne=PLOT+NO.+10%2F11&AddressTwo=NOIDA&City=NOIDA&PinCode=201301&State=31&PrimaryPhone=9999999999&SecondaryPhone=9999999999&PrimaryEmail=rajuddin%40religare.com&SecondaryEmail=&ContactPerson=Rajuddin&ActivationDate=2023-12-23&ClosureDate=&CenterType=1&AgentNumber=83&Region=6&PanNumber=AAAPA1234A&TanNumber=&GstNumber=&BranchCode=9999999&FinancialCode=01&BankName=ICICI+BANK&AccountNumber=123&IfscCode=ICICI123&BranchName=NOIDA&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=%7B%220%22%3A%7B%22item%22%3A%22item1%22%2C%22description%22%3A%22Location%22%7D%2C%221%22%3A%7B%22item%22%3A%22item1%22%2C%22description%22%3A%22Meeting%22%7D%7D&FranchCode=Franchisee&TrainingDate=&TrainnerName=&SelfDig_Flag=0&SelfDig_Flag_TAN=0&Acceptance=&Digitization=&Incentive=&schemeName=8710.140.36.132	26-12-2023 11:45:53 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.140.36.132	26-12-2023 11:45:53 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Update Successfully10.140.36.132	26-12-2023 11:45:53 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:45:53 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:46:00 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	26-12-2023 11:46:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:46:00 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:46:08 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	26-12-2023 11:46:08 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	26-12-2023 11:46:08 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.36.132	26-12-2023 11:46:08 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:46:08 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:46:11 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.132	26-12-2023 11:46:11 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.36.132	26-12-2023 11:46:11 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=2238910.140.36.132	26-12-2023 11:46:11 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "22389",
-    "Name": "NOIDA",
-    "AddressOne": "PLOT NO. 10\/11",
-    "AddressTwo": "NOIDA",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "9999999999",
-    "SecondaryPhone": "9999999999",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "83",
-    "Region": "6",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "9999999",
-    "FinancialCode": "01",
-    "BankName": "ICICI BANK",
-    "AccountNumber": "123",
-    "IfscCode": "ICICI123",
-    "BranchName": "NOIDA",
-    "Status": "1",
-    "JsonItem": "{\"0\":{\"item\":\"item1\",\"description\":\"Location\"},\"1\":{\"item\":\"item1\",\"description\":\"Meeting\"}}",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2023-12-26",
-    "Created_time": "11:45:53",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "0",
-    "ActivationDate": "2023-12-23",
-    "ClosureDate": "1970-01-01",
-    "TrainerName": "",
-    "FranchiseCode": "Franchisee",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "0",
-    "SchemeId": "87"
-}10.140.36.132	26-12-2023 11:46:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:46:11 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:48:21 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.132	26-12-2023 11:48:21 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.36.132	26-12-2023 11:48:21 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=2238910.140.36.132	26-12-2023 11:48:21 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "22389",
-    "Name": "NOIDA",
-    "AddressOne": "PLOT NO. 10\/11",
-    "AddressTwo": "NOIDA",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "9999999999",
-    "SecondaryPhone": "9999999999",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "83",
-    "Region": "6",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "9999999",
-    "FinancialCode": "01",
-    "BankName": "ICICI BANK",
-    "AccountNumber": "123",
-    "IfscCode": "ICICI123",
-    "BranchName": "NOIDA",
-    "Status": "1",
-    "JsonItem": "{\"0\":{\"item\":\"item1\",\"description\":\"Location\"},\"1\":{\"item\":\"item1\",\"description\":\"Meeting\"}}",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2023-12-26",
-    "Created_time": "11:45:53",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "0",
-    "ActivationDate": "2023-12-23",
-    "ClosureDate": "1970-01-01",
-    "TrainerName": "",
-    "FranchiseCode": "Franchisee",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "0",
-    "SchemeId": "87"
-}10.140.36.132	26-12-2023 11:48:21 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.140.36.132	26-12-2023 11:48:21 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=22389&Name=NOIDA&AddressOne=PLOT+NO.+10%2F11&AddressTwo=NOIDA&City=NOIDA&PinCode=201301&State=31&PrimaryPhone=9999999999&SecondaryPhone=9999999999&PrimaryEmail=rajuddin%40religare.com&SecondaryEmail=&ContactPerson=Rajuddin&ActivationDate=2023-12-23&ClosureDate=&CenterType=1&AgentNumber=83&Region=6&PanNumber=AAAPA1234A&TanNumber=&GstNumber=&BranchCode=9999999&FinancialCode=01&BankName=ICICI+BANK&AccountNumber=123&IfscCode=ICICI123&BranchName=NOIDA&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=%7B%220%22%3A%7B%22item%22%3A%22item1%22%2C%22description%22%3A%22Location%22%7D%2C%221%22%3A%7B%22item%22%3A%22item1%22%2C%22description%22%3A%22Meeting%22%7D%7D&FranchCode=Franchisee&TrainingDate=&TrainnerName=&SelfDig_Flag=0&SelfDig_Flag_TAN=0&Acceptance=&Digitization=&Incentive=&schemeName=8710.140.36.132	26-12-2023 11:48:21 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.140.36.132	26-12-2023 11:48:21 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Update Successfully10.140.36.132	26-12-2023 11:48:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:48:21 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:48:23 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	26-12-2023 11:48:23 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:48:23 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:48:25 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	26-12-2023 11:48:25 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	26-12-2023 11:48:25 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.36.132	26-12-2023 11:48:25 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:48:25 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.140.36.132	26-12-2023 11:48:27 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.132	26-12-2023 11:48:27 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.36.132	26-12-2023 11:48:27 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=2238910.140.36.132	26-12-2023 11:48:27 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "22389",
-    "Name": "NOIDA",
-    "AddressOne": "PLOT NO. 10\/11",
-    "AddressTwo": "NOIDA",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "9999999999",
-    "SecondaryPhone": "9999999999",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "83",
-    "Region": "6",
-    "PanNumber": "AAAPA1234A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "9999999",
-    "FinancialCode": "01",
-    "BankName": "ICICI BANK",
-    "AccountNumber": "123",
-    "IfscCode": "ICICI123",
-    "BranchName": "NOIDA",
-    "Status": "1",
-    "JsonItem": "{\"0\":{\"item\":\"item1\",\"description\":\"Location\"},\"1\":{\"item\":\"item1\",\"description\":\"Meeting\"}}",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2023-12-26",
-    "Created_time": "11:48:21",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "0",
-    "ActivationDate": "2023-12-23",
-    "ClosureDate": "1970-01-01",
-    "TrainerName": "",
-    "FranchiseCode": "Franchisee",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "0",
-    "SchemeId": "87"
-}10.140.36.132	26-12-2023 11:48:27 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	26-12-2023 11:48:27 AM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.23.129	26-12-2023 12:00:24 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.23.129	26-12-2023 12:00:40 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.23.129	26-12-2023 12:00:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.129	26-12-2023 12:00:40 PM	JSON POST : Array10.100.23.129	26-12-2023 12:00:40 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.23.129	26-12-2023 12:00:40 PM	Json parting value34434510.100.23.129	26-12-2023 12:00:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.129	26-12-2023 12:00:40 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.129	26-12-2023 12:00:41 PM	Session BranchId...houser10.100.23.129	26-12-2023 12:00:41 PM	Session Type...HOUSER10.100.23.129	26-12-2023 12:00:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.129	26-12-2023 12:00:41 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.23.129	26-12-2023 12:00:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.23.129	26-12-2023 12:00:45 PM	JSON POST : 10.100.23.129	26-12-2023 12:01:02 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.23.129	26-12-2023 12:01:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.129	26-12-2023 12:01:02 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.129	26-12-2023 12:08:13 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.23.129	26-12-2023 12:08:13 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.23.129	26-12-2023 12:08:13 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.23.129	26-12-2023 12:08:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.129	26-12-2023 12:08:14 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.129	26-12-2023 12:08:34 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.23.129	26-12-2023 12:08:34 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.23.129	26-12-2023 12:08:34 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.23.129	26-12-2023 12:08:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.129	26-12-2023 12:08:34 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.129	26-12-2023 12:08:41 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.23.129	26-12-2023 12:08:41 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.23.129	26-12-2023 12:08:41 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.23.129	26-12-2023 12:08:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.129	26-12-2023 12:08:41 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.129	26-12-2023 12:08:46 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.23.129	26-12-2023 12:08:46 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.23.129	26-12-2023 12:08:46 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.23.129	26-12-2023 12:08:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.129	26-12-2023 12:08:47 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.129	26-12-2023 12:30:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.129	26-12-2023 12:30:24 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.129	26-12-2023 12:30:24 PM	Session BranchId...houser10.100.23.129	26-12-2023 12:30:24 PM	Session Type...HOUSER10.100.23.129	26-12-2023 12:30:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.129	26-12-2023 12:30:24 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.23.129	26-12-2023 12:30:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.23.129	26-12-2023 12:30:25 PM	JSON POST : 

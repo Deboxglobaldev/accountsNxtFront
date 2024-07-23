@@ -1,12 +1,0 @@
-10.100.50.150	27-12-2023 05:21:22 PM	ui cWN1c2VyNQ== and pas dGVzdA==10.100.50.150	27-12-2023 05:21:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.50.150	27-12-2023 05:21:22 PM	JSON POST : Array10.100.50.150	27-12-2023 05:21:23 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "50",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "QCP",
-    "UserName": "Surabhi Japlot  [QC]",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.50.150	27-12-2023 05:21:23 PM	Json parting value34434510.100.50.150	27-12-2023 05:21:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	27-12-2023 05:21:23 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.50.150	27-12-2023 05:21:29 PM	Session BranchId...QCP10.100.50.150	27-12-2023 05:21:29 PM	Session Type...QCP10.100.50.150	27-12-2023 05:21:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.150	27-12-2023 05:21:29 PM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.100.50.150	27-12-2023 05:21:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.150	27-12-2023 05:21:32 PM	JSON POST : 

@@ -1,83 +1,0 @@
-10.140.59.103	01-02-2024 04:14:51 PM	****** upload path ****** :uploads/Select Acknowledgement No Response File( PAN ).txt10.140.59.103	01-02-2024 04:14:51 PM	File upload Type is: 10.140.59.103	01-02-2024 04:15:52 PM	****** upload path ****** :uploads/10.140.59.103	01-02-2024 04:15:52 PM	records .. 410.140.59.103	01-02-2024 04:15:52 PM	WISDA NO LENGTH IS:7 AND NO# IS: 319947710.140.59.103	01-02-2024 04:15:52 PM	WISDA NO LENGTH IS:7 AND NO# IS: 319947710.140.59.103	01-02-2024 04:15:52 PM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLBatchStatusUpdateAPI.php :{
-			"productType":"PAN",
-			"UserId":"52",
-			"ip":"10.140.59.103",
-			"listOfData":[{ 
-							"BatchNumber":"000257",
-							"WisdaRefNo":"3199477",
-							"Status":"Accepted",
-							"Date":"01-02-2024" 
-					},{ 
-							"BatchNumber":"000258",
-							"WisdaRefNo":"3199477",
-							"Status":"Accepted",
-							"Date":"01-02-2024" 
-					}]
-			}10.140.59.103	01-02-2024 04:15:52 PM	Final Response:  [
-    {
-        "Status": "0",
-        "listOfData": [
-            {
-                "DataTable": [],
-                "AcknoNumber": "000257",
-                "StageStatus": "Update Successfull"
-            },
-            {
-                "DataTable": [],
-                "AcknoNumber": "000258",
-                "StageStatus": "Update Successfull"
-            }
-        ]
-    }
-]10.140.59.103	01-02-2024 04:16:50 PM	****** upload path ****** :uploads/10.140.59.103	01-02-2024 04:16:50 PM	records .. 310.140.59.103	01-02-2024 04:17:35 PM	****** upload path ****** :uploads/10.140.59.103	01-02-2024 04:17:35 PM	records .. 310.140.59.103	01-02-2024 04:19:38 PM	****** upload path ****** :uploads/10.140.59.103	01-02-2024 04:19:38 PM	records .. 310.140.59.103	01-02-2024 04:21:21 PM	****** upload path ****** :uploads/10.140.59.103	01-02-2024 04:21:21 PM	records .. 310.140.59.103	01-02-2024 04:23:22 PM	****** upload path ****** :uploads/Select Acknowledgement No Response File( PAN ).txt10.140.59.103	01-02-2024 04:23:22 PM	File upload Type is: 10.140.59.103	01-02-2024 04:23:51 PM	****** upload path ****** :uploads/10.140.59.103	01-02-2024 04:23:51 PM	allotment records .. 310.140.59.103	01-02-2024 04:23:51 PM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/nsdlallotment.php :{
-			"Opetation":"ALC",
-			"UserId":"52",
-			"ip":"10.140.59.103",
-			"listOfData":[{ 
-						"AcknowledgmentNumber":"093519700449630",
-						"PanNumber":"DDAPP5960A"
-					 }]
-			 }10.140.59.103	01-02-2024 04:23:51 PM	Final Response:  [
-    {
-        "Status": "0",
-        "TotalCount": 1,
-        "UpdatedCount": 0,
-        "listOfData": [
-            {
-                "AcknoNumber": "093519700449630",
-                "StageStatus": "Batch Response\/Acceptance File not Uploaded"
-            }
-        ]
-    }
-]10.140.59.103	01-02-2024 04:25:58 PM	****** upload path ****** :uploads/10.140.59.103	01-02-2024 04:25:58 PM	records .. 410.140.59.103	01-02-2024 04:25:58 PM	WISDA NO LENGTH IS:7 AND NO# IS: 319947710.140.59.103	01-02-2024 04:25:58 PM	WISDA NO LENGTH IS:7 AND NO# IS: 319947710.140.59.103	01-02-2024 04:25:58 PM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLBatchStatusUpdateAPI.php :{
-			"productType":"PAN",
-			"UserId":"52",
-			"ip":"10.140.59.103",
-			"listOfData":[{ 
-							"BatchNumber":"000257",
-							"WisdaRefNo":"3199477",
-							"Status":"Accepted",
-							"Date":"01-02-2024" 
-					},{ 
-							"BatchNumber":"000258",
-							"WisdaRefNo":"3199477",
-							"Status":"Accepted",
-							"Date":"01-02-2024" 
-					}]
-			}10.140.59.103	01-02-2024 04:25:58 PM	Final Response:  [
-    {
-        "Status": "0",
-        "listOfData": [
-            {
-                "DataTable": [],
-                "AcknoNumber": "000257",
-                "StageStatus": "Update Successfull"
-            },
-            {
-                "DataTable": [],
-                "AcknoNumber": "000258",
-                "StageStatus": "Update Successfull"
-            }
-        ]
-    }
-]

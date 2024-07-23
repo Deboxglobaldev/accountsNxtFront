@@ -1,4067 +1,0 @@
-10.100.72.229	21-09-2023 10:09:29 AM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.229	21-09-2023 10:09:29 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.229	21-09-2023 10:09:29 AM	JSON POST : Array10.100.72.229	21-09-2023 10:09:29 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.72.229	21-09-2023 10:09:29 AM	Json parting value34434510.100.72.229	21-09-2023 10:09:30 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.229	21-09-2023 10:09:30 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.229	21-09-2023 10:09:30 AM	Session BranchId...houser10.100.72.229	21-09-2023 10:09:30 AM	Session Type...HOUSER10.100.72.229	21-09-2023 10:09:30 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.229	21-09-2023 10:09:30 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.229	21-09-2023 10:09:38 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.229	21-09-2023 10:09:38 AM	JSON POST : 10.100.72.229	21-09-2023 10:24:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.229	21-09-2023 10:24:15 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.229	21-09-2023 10:24:16 AM	Session BranchId...houser10.100.72.229	21-09-2023 10:24:16 AM	Session Type...HOUSER10.100.72.229	21-09-2023 10:24:16 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.229	21-09-2023 10:24:16 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "7", "uploadType": "1"}10.100.72.229	21-09-2023 10:24:16 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.229	21-09-2023 10:24:16 AM	JSON POST : 10.140.59.208	21-09-2023 11:29:28 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.59.208	21-09-2023 11:29:34 AM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.208	21-09-2023 11:29:34 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.208	21-09-2023 11:29:34 AM	JSON POST : Array10.140.59.208	21-09-2023 11:29:34 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.59.208	21-09-2023 11:29:34 AM	Json parting value34434510.140.59.208	21-09-2023 11:29:34 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:29:34 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:29:35 AM	Session BranchId...houser10.140.59.208	21-09-2023 11:29:35 AM	Session Type...HOUSER10.140.59.208	21-09-2023 11:29:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.208	21-09-2023 11:29:35 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.59.208	21-09-2023 11:29:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.208	21-09-2023 11:29:35 AM	JSON POST : 10.140.59.208	21-09-2023 11:29:41 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:29:41 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:37:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:37:21 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2022-12-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:37:43 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:37:43 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:38:14 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:38:14 AM	JSON POST : {
-    "type":"1",
-    "BranchCode":"all",
-    "fromDate":"2022-12-01",
-    "toDate":"2023-09-21",
-    "DateType":"1",
-    "AckNo":"",
-    "ProductType":"PAN"
-    
-}10.140.59.208	21-09-2023 11:41:47 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:41:47 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"8301073",
-        "fromDate":"2023-09-21",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:41:47 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:41:47 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:41:57 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:41:57 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"8301073",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:41:58 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:41:58 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:42:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:42:21 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"80597",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:42:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:42:22 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:42:36 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:42:36 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"8301073",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:42:36 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:42:36 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:43:02 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:43:02 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"8303122",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:43:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:43:03 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:43:12 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:43:12 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"79051",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:43:13 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:43:13 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:43:32 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:43:32 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"8303417",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:43:33 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:43:33 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:45:30 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:45:30 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"632419700087081",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:45:30 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:45:30 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:46:14 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:46:14 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"812799700004445",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:46:14 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:46:14 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:46:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:46:50 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"98279700721521",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:46:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:46:50 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:47:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:47:10 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"830008600045376",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:47:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:47:10 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:47:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:47:21 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"830000800003771",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:47:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:47:21 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:47:24 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:47:24 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"830000800003771",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:47:24 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:47:24 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:47:30 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:47:30 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"3",
-        "AckNo":"830000800003771",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:47:30 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:47:30 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:47:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:47:35 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"3",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:47:36 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:47:36 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:47:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:47:48 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:48:09 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:48:09 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:49:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:49:15 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"269649700002270",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:49:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:49:15 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:49:47 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:49:47 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"80597",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:49:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:49:48 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:49:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:49:59 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"8303122",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:49:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:49:59 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:50:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.208	21-09-2023 11:50:20 AM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "DateType":"1",
-        "AckNo":"830312200000975",
-        "ProductType":"PAN"
-        
-    }10.140.59.208	21-09-2023 11:50:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:50:20 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:51:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 11:51:46 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 11:54:29 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/queryScreenPANAPI.php10.140.59.208	21-09-2023 11:54:29 AM	JSON POST : {
-    "type":"1",
-    "fromDate":"2023-04-01",
-    "toDate":"2023-09-21",
-    "Branch":"all",
-    "Filter":"",
-    "FilterCond":"=",
-    "FilterName":""
-}10.100.72.234	21-09-2023 12:18:01 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.234	21-09-2023 12:18:06 PM	ui YmFja2hv and pas dGVzdA==10.100.72.234	21-09-2023 12:18:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.234	21-09-2023 12:18:06 PM	JSON POST : Array10.100.72.234	21-09-2023 12:18:06 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.234	21-09-2023 12:18:06 PM	Json parting value34434510.100.72.234	21-09-2023 12:18:06 PM	Session BranchId...BACKHO10.100.72.234	21-09-2023 12:18:06 PM	Session Type...BACKHO10.100.72.234	21-09-2023 12:18:06 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.234	21-09-2023 12:18:06 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.234	21-09-2023 12:18:34 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:- At begining of Call10.100.72.234	21-09-2023 12:18:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 12:18:34 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 12:18:34 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.234	21-09-2023 12:18:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 12:18:34 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 12:18:34 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.234	21-09-2023 12:18:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 12:18:34 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 12:18:34 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.234	21-09-2023 12:18:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 12:18:34 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 12:18:34 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.234	21-09-2023 12:18:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 12:18:34 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 12:18:34 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.234	21-09-2023 12:18:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 12:18:34 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 12:18:34 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:19:59 PM	ui YmFja2hv and pas dGVzdA==10.100.72.250	21-09-2023 12:19:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	21-09-2023 12:19:59 PM	JSON POST : Array10.100.72.250	21-09-2023 12:19:59 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.250	21-09-2023 12:19:59 PM	Json parting value34434510.100.72.250	21-09-2023 12:19:59 PM	Session BranchId...BACKHO10.100.72.250	21-09-2023 12:19:59 PM	Session Type...BACKHO10.100.72.250	21-09-2023 12:19:59 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.250	21-09-2023 12:19:59 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.250	21-09-2023 12:22:27 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:- At begining of Call10.100.72.250	21-09-2023 12:22:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:22:27 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:22:27 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:22:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:22:27 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:22:27 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:22:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:22:27 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:22:27 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:22:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:22:27 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:22:27 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:22:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:22:27 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:22:27 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:22:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:22:27 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:22:27 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:07 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:- At begining of Call10.100.72.250	21-09-2023 12:27:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:07 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:07 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:07 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:07 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:07 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:07 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:53 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:- At begining of Call10.100.72.250	21-09-2023 12:27:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:53 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:53 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:53 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:53 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:53 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:27:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:27:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:27:53 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.234	21-09-2023 12:29:00 PM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:- At begining of Call10.100.72.234	21-09-2023 12:29:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 12:29:00 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 12:29:00 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.234	21-09-2023 12:29:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 12:29:00 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 12:29:00 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.234	21-09-2023 12:29:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 12:29:00 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 12:29:00 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.234	21-09-2023 12:29:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 12:29:00 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 12:29:00 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.234	21-09-2023 12:29:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 12:29:00 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 12:29:00 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:14 PM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:- At begining of Call10.100.72.250	21-09-2023 12:29:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:14 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:14 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:14 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:14 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:14 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:14 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:14 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:14 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:14 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:14 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:21 PM	[Info] - File location /tinfc1/UAT/addBankPayment.php Message:- At begining of Call10.100.72.250	21-09-2023 12:29:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:21 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:21 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:21 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:21 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:21 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:21 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:21 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:21 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:21 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:21 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:21 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:21 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:29:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:29:21 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:29:21 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:31:28 PM	[Info] - File location /tinfc1/UAT/addBankPayment.php Message:- At begining of Call10.100.72.250	21-09-2023 12:31:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:31:28 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:31:28 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:31:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:31:28 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:31:28 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:31:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:31:28 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:31:28 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:31:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:31:28 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:31:28 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:31:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:31:28 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:31:28 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:31:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:31:28 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:31:28 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:31:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	21-09-2023 12:31:28 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 12:31:28 PM	Response return from account Name API: {
-    "status": 0,
-    "AccountNameData": [
-        {
-            "Id": "SLB0006",
-            "AccountName": "NSDL",
-            "SubGroupName": "Sundry Creditors",
-            "SubGroupId": "LB0006",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0007",
-            "AccountName": "HDFC Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0008",
-            "AccountName": "ICICI Bank",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB0012",
-            "AccountName": "AXIS BANK",
-            "SubGroupName": "Bank Accounts",
-            "SubGroupId": "LB0004",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB09856",
-            "AccountName": "09856",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        },
-        {
-            "Id": "SLB19146",
-            "AccountName": "19146",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB25536",
-            "AccountName": "25536",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": "1",
-            "Status": "1"
-        },
-        {
-            "Id": "SLB62015",
-            "AccountName": "62015",
-            "SubGroupName": "Sundry Debtors",
-            "SubGroupId": "LB0005",
-            "GroupType": null,
-            "Status": "1"
-        }
-    ]
-}10.140.59.208	21-09-2023 12:52:06 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.250	21-09-2023 12:52:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listBranchRechargeAPI.php10.100.72.250	21-09-2023 12:52:34 PM	JSON POST : {
-  	"branchCode":"25536",
-    "voucherNo":"",
-    "fromDate":"1970-01-01",
-    "toDate":"1970-01-01"
-}10.100.72.250	21-09-2023 12:52:34 PM	Response return from listBranchRechargeAPI: {
-    "status": 0,
-    "WalletData": []
-}10.100.72.250	21-09-2023 12:53:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listBranchRechargeAPI.php10.100.72.250	21-09-2023 12:53:02 PM	JSON POST : {
-  	"branchCode":"25536",
-    "voucherNo":"",
-    "fromDate":"1970-01-01",
-    "toDate":"1970-01-01"
-}10.100.72.250	21-09-2023 12:53:02 PM	Response return from listBranchRechargeAPI: {
-    "status": 0,
-    "WalletData": []
-}10.100.72.250	21-09-2023 12:53:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listBranchRechargeAPI.php10.100.72.250	21-09-2023 12:53:28 PM	JSON POST : {
-  	"branchCode":"",
-    "voucherNo":"",
-    "fromDate":"2021-10-01",
-    "toDate":"2023-09-21"
-}10.100.72.250	21-09-2023 12:53:29 PM	Response return from listBranchRechargeAPI: {
-    "status": 0,
-    "WalletData": [
-        {
-            "Number": 1,
-            "Id": "30",
-            "VoucherNo": "RVR-291122-11",
-            "BankAccount": "124578895445",
-            "VoucherDate": "2022-11-29 17:33:33",
-            "BranchCode": "",
-            "Credit": "2000",
-            "Cheque": "215487",
-            "ChequeDate": "2022-11-29",
-            "Narration": "test",
-            "BankName": "ICICI Bank",
-            "Attachment": "",
-            "Status": "0",
-            "WalletFlag": "0",
-            "ReligareBankName": "HDFC Bank",
-            "AddedBy": "Branch User (2553602)",
-            "AddedDate": "2022-11-29 17:33:33",
-            "ApprovedBy": "Shashikant [Branch]",
-            "ApprovedDate": "2022-12-01 12:36:53"
-        }
-    ]
-}10.100.72.234	21-09-2023 12:54:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listBranchRechargeAPI.php10.100.72.234	21-09-2023 12:54:02 PM	JSON POST : {
-  	"branchCode":"",
-    "voucherNo":"",
-    "fromDate":"2021-02-01",
-    "toDate":"2023-09-21"
-}10.100.72.234	21-09-2023 12:54:02 PM	Response return from listBranchRechargeAPI: {
-    "status": 0,
-    "WalletData": [
-        {
-            "Number": 1,
-            "Id": "30",
-            "VoucherNo": "RVR-291122-11",
-            "BankAccount": "124578895445",
-            "VoucherDate": "2022-11-29 17:33:33",
-            "BranchCode": "",
-            "Credit": "2000",
-            "Cheque": "215487",
-            "ChequeDate": "2022-11-29",
-            "Narration": "test",
-            "BankName": "ICICI Bank",
-            "Attachment": "",
-            "Status": "0",
-            "WalletFlag": "0",
-            "ReligareBankName": "HDFC Bank",
-            "AddedBy": "Branch User (2553602)",
-            "AddedDate": "2022-11-29 17:33:33",
-            "ApprovedBy": "Shashikant [Branch]",
-            "ApprovedDate": "2022-12-01 12:36:53"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:56:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/updateRechargeAPI.php10.100.72.250	21-09-2023 12:56:26 PM	JSON POST : {
-		"UserId": "12749",
-    "ip":"10.100.72.250",
-		"ListOfVoucher":[{
-				"voucherNumber":"RVR-291122-11"
-			}]
-	}10.100.72.250	21-09-2023 12:56:27 PM	RESPONCE RETURN from Recharge approve API: {
-    "Status": "1",
-    "Message": "Update Not Successful",
-    "Insertflag": "Insert Not Successful",
-    "BalanceUpdated": false
-}10.100.72.250	21-09-2023 12:58:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listBranchRechargeAPI.php10.100.72.250	21-09-2023 12:58:57 PM	JSON POST : {
-  	"branchCode":"",
-    "voucherNo":"RVR-291122-11",
-    "fromDate":"1970-01-01",
-    "toDate":"1970-01-01"
-}10.100.72.250	21-09-2023 12:58:57 PM	Response return from listBranchRechargeAPI: {
-    "status": 0,
-    "WalletData": [
-        {
-            "Number": 1,
-            "Id": "30",
-            "VoucherNo": "RVR-291122-11",
-            "BankAccount": "124578895445",
-            "VoucherDate": "2022-11-29 17:33:33",
-            "BranchCode": "",
-            "Credit": "2000",
-            "Cheque": "215487",
-            "ChequeDate": "2022-11-29",
-            "Narration": "test",
-            "BankName": "ICICI Bank",
-            "Attachment": "",
-            "Status": "0",
-            "WalletFlag": "0",
-            "ReligareBankName": "HDFC Bank",
-            "AddedBy": "Branch User (2553602)",
-            "AddedDate": "2022-11-29 17:33:33",
-            "ApprovedBy": "Shashikant [Branch]",
-            "ApprovedDate": "2022-12-01 12:36:53"
-        }
-    ]
-}10.100.72.250	21-09-2023 12:59:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/updateRechargeAPI.php10.100.72.250	21-09-2023 12:59:11 PM	JSON POST : {
-		"userId": "12749",
-    "ip":"10.100.72.250",
-		"ListOfVoucher":[{
-				"voucherNumber":"RVR-291122-11"
-			}]
-	}10.100.72.250	21-09-2023 12:59:11 PM	RESPONCE RETURN from Recharge approve API: {
-    "Status": "0",
-    "Message": "Update Successful",
-    "Insertflag": "Insert Successful",
-    "BalanceUpdated": false
-}10.100.72.250	21-09-2023 01:03:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listBranchRechargeAPI.php10.100.72.250	21-09-2023 01:03:49 PM	JSON POST : {
-  	"branchCode":"",
-    "voucherNo":"RVR-291122-11",
-    "fromDate":"1970-01-01",
-    "toDate":"1970-01-01"
-}10.100.72.250	21-09-2023 01:03:49 PM	Response return from listBranchRechargeAPI: {
-    "status": 0,
-    "WalletData": []
-}10.100.72.234	21-09-2023 01:28:55 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:- At begining of Call10.100.72.234	21-09-2023 01:28:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:28:55 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 01:28:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:28:55 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 01:28:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:28:55 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 01:28:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:28:55 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 01:28:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:28:55 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 01:28:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:28:55 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 01:29:35 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:- At begining of Call10.100.72.234	21-09-2023 01:29:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/addJournalVoucherAPI.php10.100.72.234	21-09-2023 01:29:35 PM	JSON POST : {
-	"VoucherDate":"2023-09-21",
-	"EntryDate":"2023-09-21",
-	"UserId":"12749",
-	"ip":"10.100.72.234",
-	"ListOfTransaction":[{
-				"AccountName":"SLB25536",
-				"Credit":"0",
-				"Debit":"200",
-				"Narration":"test"
-			},{
-				"AccountName":"SLB0008",
-				"Credit":"200",
-				"Debit":"0",
-				"Narration":"test1"
-			}]
-	
-}10.100.72.234	21-09-2023 01:29:35 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:-  Saving addJournalEntryAPI.. Saved Successfull10.100.72.234	21-09-2023 01:29:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:29:35 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 01:29:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:29:35 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 01:29:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:29:35 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 01:29:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:29:35 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 01:29:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:29:35 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 01:29:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 01:29:35 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.250	21-09-2023 02:56:18 PM	Session BranchId...BACKHO10.100.72.250	21-09-2023 02:56:18 PM	Session Type...BACKHO10.100.72.250	21-09-2023 02:56:18 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.250	21-09-2023 02:56:18 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.234	21-09-2023 02:57:20 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.234	21-09-2023 02:57:24 PM	ui YmFja2hv and pas dGVzdA==10.100.72.234	21-09-2023 02:57:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.234	21-09-2023 02:57:24 PM	JSON POST : Array10.100.72.234	21-09-2023 02:57:24 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.234	21-09-2023 02:57:24 PM	Json parting value34434510.100.72.234	21-09-2023 02:57:24 PM	Session BranchId...BACKHO10.100.72.234	21-09-2023 02:57:24 PM	Session Type...BACKHO10.100.72.234	21-09-2023 02:57:24 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.234	21-09-2023 02:57:24 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.234	21-09-2023 04:14:33 PM	Session BranchId...BACKHO10.100.72.234	21-09-2023 04:14:33 PM	Session Type...BACKHO10.100.72.234	21-09-2023 04:14:33 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.234	21-09-2023 04:14:33 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.234	21-09-2023 04:14:38 PM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:- At begining of Call10.100.72.234	21-09-2023 04:14:38 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:14:38 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:14:38 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:14:38 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:14:38 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:14:38 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:14:38 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:14:38 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:14:38 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:14:38 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:15:07 PM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:- At begining of Call10.100.72.234	21-09-2023 04:15:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/addBankReceiptAPI.php10.100.72.234	21-09-2023 04:15:07 PM	JSON POST : {
-	"VoucherDate":"2023-09-21",
-	"EntryDate":"2023-09-21",
-	"UserId":"12749",
-	"ip":"10.100.72.234",
-	"BankAccount":"SLB0007",
-	"ListOfTransaction":[{
-				"AccountName":"SLB25536",
-				"Credit":"500",
-				"Narration":"test"
-			}]
-	
-}10.100.72.234	21-09-2023 04:15:07 PM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:-  Saving addBankReceiptAPI.. Saved Successfull10.100.72.234	21-09-2023 04:15:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:15:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:15:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:15:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:15:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:15:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:15:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:15:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:15:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:15:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:22:53 PM	[Info] - File location /tinfc1/UAT/addBankPayment.php Message:- At begining of Call10.100.72.234	21-09-2023 04:22:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:22:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:22:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:22:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:22:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:22:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:22:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:22:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:22:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:22:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:22:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:22:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:22:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:22:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:23:39 PM	[Info] - File location /tinfc1/UAT/addBankPayment.php Message:- At begining of Call10.100.72.234	21-09-2023 04:23:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/addBankPaymentAPI.php10.100.72.234	21-09-2023 04:23:39 PM	JSON POST : {
-	"VoucherDate":"2023-09-21",
-	"EntryDate":"2023-09-21",
-	"UserId":"12749",
-	"ip":"10.100.72.234",
-	"BankAccount":"SLB0008",
-	"ListOfTransaction":[{
-				"AccountName":"SLB25536",
-				"Debit":"250",
-				"Narration":"test"
-			},{
-				"AccountName":"SLB62015",
-				"Debit":"300",
-				"Narration":"test1"
-			}]
-	
-}10.100.72.234	21-09-2023 04:23:39 PM	[Info] - File location /tinfc1/UAT/addBankPayment.php Message:-  Saving addBankPaymentAPI.. Saved Successfull10.100.72.234	21-09-2023 04:23:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:23:39 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:23:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:23:39 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:23:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:23:39 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:23:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:23:39 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:23:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:23:39 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:23:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:23:39 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.234	21-09-2023 04:23:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.234	21-09-2023 04:23:39 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.140.59.208	21-09-2023 05:36:59 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.59.208	21-09-2023 05:37:06 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.208	21-09-2023 05:37:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.208	21-09-2023 05:37:06 PM	JSON POST : Array10.140.59.208	21-09-2023 05:37:07 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.59.208	21-09-2023 05:37:07 PM	Json parting value34434510.140.59.208	21-09-2023 05:37:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:37:07 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:37:07 PM	Session BranchId...houser10.140.59.208	21-09-2023 05:37:07 PM	Session Type...HOUSER10.140.59.208	21-09-2023 05:37:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.208	21-09-2023 05:37:07 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.59.208	21-09-2023 05:37:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.208	21-09-2023 05:37:15 PM	JSON POST : 10.140.59.208	21-09-2023 05:37:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:37:26 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:38:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/statusReportAPI.php10.140.59.208	21-09-2023 05:38:55 PM	JSON POST : {
-        "type":"1",
-        "fromDate":"2023-03-01",
-        "toDate":"2023-09-21",
-        "ProductType":"PAN"
-    }10.140.59.208	21-09-2023 05:42:32 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.208	21-09-2023 05:42:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:42:32 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:42:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.208	21-09-2023 05:42:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.208	21-09-2023 05:42:52 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.208	21-09-2023 05:42:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:42:52 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:43:54 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.208	21-09-2023 05:43:54 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.208	21-09-2023 05:43:54 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.208	21-09-2023 05:43:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:43:54 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:45:01 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.59.208	21-09-2023 05:45:01 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.59.208	21-09-2023 05:45:01 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1708410.140.59.208	21-09-2023 05:45:01 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "17084",
-    "Name": "Bhubaneswar",
-    "AddressOne": "Religare Broking Limited Office Unit No-541, East Wing, 5th Floor",
-    "AddressTwo": "Esplanade Business Park, Esplanade Mall",
-    "City": "Bhubaneswar",
-    "PinCode": "751010",
-    "State": null,
-    "PrimaryPhone": "8093176585",
-    "SecondaryPhone": "8093176585",
-    "PrimaryEmail": "ca.nkpradhan@gmail.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Narendra Kumar Pradhan                                                                                                                                                                                  ",
-    "CenterType": "1",
-    "AgentNumber": "33",
-    "Region": "4",
-    "PanNumber": "APXPP8663C",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "33918",
-    "FinancialCode": "",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": null,
-    "BankName2": null,
-    "AccountNumber2": null,
-    "IfscCode2": null,
-    "BranchName2": null,
-    "Created_by": null,
-    "Updated_by": null,
-    "Created_date": null,
-    "Created_time": null,
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2020-09-06",
-    "ClosureDate": null,
-    "TrainerName": null,
-    "FranchiseCode": "B",
-    "TrainingDate": null,
-    "SelfDig_FlagTan": "1"
-}10.140.59.208	21-09-2023 05:45:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:45:01 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:45:33 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.208	21-09-2023 05:45:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:45:33 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:49:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:49:16 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:49:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/statusReportAPI.php10.140.59.208	21-09-2023 05:49:27 PM	JSON POST : {
-        "type":"1",
-        "fromDate":"2022-07-01",
-        "toDate":"2023-09-21",
-        "ProductType":"PAN"
-    }10.140.59.208	21-09-2023 05:49:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/statusReportAPI.php10.140.59.208	21-09-2023 05:49:39 PM	JSON POST : {
-        "type":"1",
-        "fromDate":"2022-07-01",
-        "toDate":"2023-09-21",
-        "ProductType":"PAN"
-    }10.140.59.208	21-09-2023 05:51:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:51:11 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:51:12 PM	Session BranchId...houser10.140.59.208	21-09-2023 05:51:12 PM	Session Type...HOUSER10.140.59.208	21-09-2023 05:51:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.208	21-09-2023 05:51:12 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.59.208	21-09-2023 05:51:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.208	21-09-2023 05:51:12 PM	JSON POST : 10.140.59.208	21-09-2023 05:51:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:51:18 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:52:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/statusReportAPI.php10.140.59.208	21-09-2023 05:52:00 PM	JSON POST : {
-        "type":"1",
-        "fromDate":"2019-04-01",
-        "toDate":"2023-09-21",
-        "ProductType":"PAN"
-    }10.140.59.208	21-09-2023 05:52:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:52:49 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:52:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/statusReportAPI.php10.140.59.208	21-09-2023 05:52:59 PM	JSON POST : {
-        "type":"1",
-        "fromDate":"2023-01-01",
-        "toDate":"2023-09-21",
-        "ProductType":"PAN"
-    }10.140.59.208	21-09-2023 05:55:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 05:55:24 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 05:55:25 PM	Session BranchId...houser10.140.59.208	21-09-2023 05:55:25 PM	Session Type...HOUSER10.140.59.208	21-09-2023 05:55:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.208	21-09-2023 05:55:25 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.59.208	21-09-2023 05:55:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.208	21-09-2023 05:55:26 PM	JSON POST : 10.140.59.208	21-09-2023 06:22:26 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.208	21-09-2023 06:22:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 06:22:26 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 06:22:33 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.208	21-09-2023 06:22:33 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.208	21-09-2023 06:22:33 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.208	21-09-2023 06:22:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 06:22:33 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 06:22:43 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.59.208	21-09-2023 06:22:43 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.208	21-09-2023 06:22:43 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.59.208	21-09-2023 06:22:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 06:22:43 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 06:32:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 06:32:16 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 06:32:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorRecAPI.php10.140.59.208	21-09-2023 06:32:37 PM	JSON POST : {
-        "type":"0",
-        "fromDate":"2023-04-01",
-        "toDate":"2023-09-21"
-    }10.140.59.208	21-09-2023 06:32:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 06:32:37 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 06:32:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorRecAPI.php10.140.59.208	21-09-2023 06:32:39 PM	JSON POST : {
-    "type":"1",
-    "fromDate":"2023-04-01",
-    "toDate":"2023-09-21"
-}10.140.59.208	21-09-2023 06:33:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorRecAPI.php10.140.59.208	21-09-2023 06:33:05 PM	JSON POST : {
-        "type":"0",
-        "fromDate":"2020-01-01",
-        "toDate":"2023-09-21"
-    }10.140.59.208	21-09-2023 06:33:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 06:33:07 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 06:33:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/vendorRecAPI.php10.140.59.208	21-09-2023 06:33:09 PM	JSON POST : {
-    "type":"1",
-    "fromDate":"2020-01-01",
-    "toDate":"2023-09-21"
-}10.140.59.208	21-09-2023 06:39:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 06:39:53 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 06:40:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/UserWiseQcAPI.php10.140.59.208	21-09-2023 06:40:00 PM	JSON POST : {
-        "type":"0",
-        "ProductType":"PAN"
-    }10.140.59.208	21-09-2023 06:40:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 06:40:01 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.208	21-09-2023 06:40:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/UserWiseQcAPI.php10.140.59.208	21-09-2023 06:40:03 PM	JSON POST : {
-    "type":"1",
-    "ProductType":"PAN"
-}10.140.59.208	21-09-2023 06:44:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.208	21-09-2023 06:44:21 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}

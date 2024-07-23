@@ -1,2429 +1,0 @@
-10.100.72.207	17-08-2023 10:26:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.100.72.207	17-08-2023 10:26:54 AM	JSON POST : {
-	"userGroupId" : "2"
-}10.100.72.207	17-08-2023 10:26:55 AM	RESPONSE RETURN FROM USER PAGE API: {
-    "Status": "1",
-    "DataTable": [
-        {
-            "Id": "1",
-            "PageName": "Dashboard",
-            "PageUrl": "index.php",
-            "Status": "1"
-        },
-        {
-            "Id": "2",
-            "PageName": "Bulk Upload PAN",
-            "PageUrl": "bulkuploaddata.php",
-            "Status": "1"
-        },
-        {
-            "Id": "3",
-            "PageName": "Bulk Upload TAN",
-            "PageUrl": "bulkuploaddatatan.php",
-            "Status": "1"
-        },
-        {
-            "Id": "5",
-            "PageName": "Branch Master",
-            "PageUrl": "listbranch.php",
-            "Status": "1"
-        },
-        {
-            "Id": "6",
-            "PageName": "Region Master",
-            "PageUrl": "listregion.php",
-            "Status": "1"
-        },
-        {
-            "Id": "7",
-            "PageName": "Rejection Reason Master",
-            "PageUrl": "listrejectionreason.php",
-            "Status": "1"
-        },
-        {
-            "Id": "8",
-            "PageName": "Vendor Master",
-            "PageUrl": "listvendors.php",
-            "Status": "1"
-        },
-        {
-            "Id": "9",
-            "PageName": "Religare Office",
-            "PageUrl": "listrloffice.php",
-            "Status": "1"
-        },
-        {
-            "Id": "10",
-            "PageName": "Export NSDL Rejection",
-            "PageUrl": "exportnsdlrejection.php",
-            "Status": "0"
-        },
-        {
-            "Id": "12",
-            "PageName": "Batch Status Report",
-            "PageUrl": "batchstatusreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "13",
-            "PageName": "Export PDF\/A-1a",
-            "PageUrl": "downloadpdf1a.php",
-            "Status": "0"
-        },
-        {
-            "Id": "14",
-            "PageName": "Batch Dashboard",
-            "PageUrl": "selecttoexport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "15",
-            "PageName": "NSDL Single Batch File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
-            "Status": "0"
-        },
-        {
-            "Id": "16",
-            "PageName": "NSDL Accecpted File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
-            "Status": "0"
-        },
-        {
-            "Id": "17",
-            "PageName": "NSDL Allotment File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
-            "Status": "0"
-        },
-        {
-            "Id": "18",
-            "PageName": "Batch Status [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
-            "Status": "0"
-        },
-        {
-            "Id": "19",
-            "PageName": "NSDL Single Batch File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
-            "Status": "0"
-        },
-        {
-            "Id": "20",
-            "PageName": "NSDL Accecpted File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
-            "Status": "0"
-        },
-        {
-            "Id": "21",
-            "PageName": "NSDL Allotment File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
-            "Status": "0"
-        },
-        {
-            "Id": "22",
-            "PageName": "Batch Status [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
-            "Status": "0"
-        },
-        {
-            "Id": "23",
-            "PageName": "Audit Trail",
-            "PageUrl": "auditTrail.php",
-            "Status": "0"
-        },
-        {
-            "Id": "11",
-            "PageName": "Rejection Intimation Report",
-            "PageUrl": "listMail.php",
-            "Status": "0"
-        },
-        {
-            "Id": "24",
-            "PageName": "Daily PAN Discrepancy Report",
-            "PageUrl": "rejectionreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "PageName": "MIS Upload PAN\/TAN",
-            "PageUrl": "missubmit.php?t=1",
-            "Status": "0"
-        },
-        {
-            "Id": "25",
-            "PageName": "PAN PDF1A Response Upload",
-            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
-            "Status": "0"
-        },
-        {
-            "Id": "26",
-            "PageName": "TAN PDF1A Response Upload",
-            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
-            "Status": "0"
-        },
-        {
-            "Id": "27",
-            "PageName": "Document Management",
-            "PageUrl": "docmanagement.php",
-            "Status": "0"
-        },
-        {
-            "Id": "28",
-            "PageName": "Courier List",
-            "PageUrl": "courierlist.php",
-            "Status": "0"
-        },
-        {
-            "Id": "29",
-            "PageName": "Courier Receiving",
-            "PageUrl": "courierreceiving.php",
-            "Status": "0"
-        },
-        {
-            "Id": "30",
-            "PageName": "MIS Upload eTDS",
-            "PageUrl": "missubmit.php?t=2",
-            "Status": "0"
-        },
-        {
-            "Id": "31",
-            "PageName": "MIS Upload 24G",
-            "PageUrl": "missubmit.php?t=3",
-            "Status": "0"
-        },
-        {
-            "Id": "32",
-            "PageName": "Mobile MIS Upload PAN",
-            "PageUrl": "mobilemissubmit.php",
-            "Status": "0"
-        },
-        {
-            "Id": "33",
-            "PageName": "Ack Wise Status Report",
-            "PageUrl": "ackwisestatusreport.php",
-            "Status": "1"
-        },
-        {
-            "Id": "34",
-            "PageName": "Query Screen Report",
-            "PageUrl": "queryscreenreport.php",
-            "Status": "1"
-        },
-        {
-            "Id": "35",
-            "PageName": "User Wise QC Report",
-            "PageUrl": "userwisereportqc.php",
-            "Status": "1"
-        },
-        {
-            "Id": "36",
-            "PageName": "Vendor Reconcilation Report",
-            "PageUrl": "vendorreconreport.php",
-            "Status": "1"
-        },
-        {
-            "Id": "37",
-            "PageName": "Download PDF\/A-1a",
-            "PageUrl": "pdf1adownloadfisher.php",
-            "Status": "1"
-        },
-        {
-            "Id": "38",
-            "PageName": "PDF\/A-1a Reports",
-            "PageUrl": "pdf1aconversion_report.php",
-            "Status": "1"
-        },
-        {
-            "Id": "39",
-            "PageName": "Status Report",
-            "PageUrl": "statusreport.php",
-            "Status": "1"
-        }
-    ]
-}10.100.72.207	17-08-2023 10:26:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:26:55 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:27:02 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 10:27:02 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "2",
-		"userPageId" : "9"
-	}]
-}10.100.72.207	17-08-2023 10:27:03 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 10:27:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 10:27:10 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "2",
-		"userPageId" : "6"
-	}]
-}10.100.72.207	17-08-2023 10:27:10 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 10:27:13 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 10:27:13 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "2",
-		"userPageId" : "7"
-	}]
-}10.100.72.207	17-08-2023 10:27:13 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 10:30:35 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.207	17-08-2023 10:30:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:30:35 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:30:38 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.207	17-08-2023 10:30:38 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:30:38 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:38:39 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.207	17-08-2023 10:38:39 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:38:39 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:38:43 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.207	17-08-2023 10:38:43 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.207	17-08-2023 10:38:43 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.207	17-08-2023 10:38:43 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:38:43 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:38:46 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.207	17-08-2023 10:38:46 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.100.72.207	17-08-2023 10:38:46 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=510.100.72.207	17-08-2023 10:38:46 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "5",
-    "Name": "Religare Broking Limited",
-    "AddressOne": "123",
-    "AddressTwo": "abc colony new delhi",
-    "City": "Noida",
-    "PinCode": "110025",
-    "State": "9",
-    "PrimaryPhone": "9990015763",
-    "SecondaryPhone": "",
-    "PrimaryEmail": "rajusaifi2008@gmail.com",
-    "SecondaryEmail": "rajusaifi@yahoo.com",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "2",
-    "PanNumber": "AAAPA1111A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "sbi",
-    "AccountNumber": "34343333333",
-    "IfscCode": "ICICI00234",
-    "BranchName": "RAJUDDIN",
-    "Status": "1",
-    "JsonItem": "{\"0\":{\"item\":\"\",\"description\":\"\"},\"1\":{\"item\":\"item1\",\"description\":\"666\"}}",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2022-10-13",
-    "Created_time": "15:44:01",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "0",
-    "ActivationDate": "2022-01-01",
-    "ClosureDate": "2022-05-28",
-    "TrainingDate": "2022-05-27",
-    "TrainerName": "",
-    "FranchiseCode": "01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.100.72.207	17-08-2023 10:38:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:38:46 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:42:34 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.207	17-08-2023 10:42:34 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.100.72.207	17-08-2023 10:42:34 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=510.100.72.207	17-08-2023 10:42:34 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "5",
-    "Name": "Religare Broking Limited",
-    "AddressOne": "123",
-    "AddressTwo": "abc colony new delhi",
-    "City": "Noida",
-    "PinCode": "110025",
-    "State": "9",
-    "PrimaryPhone": "9990015763",
-    "SecondaryPhone": "",
-    "PrimaryEmail": "rajusaifi2008@gmail.com",
-    "SecondaryEmail": "rajusaifi@yahoo.com",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "2",
-    "PanNumber": "AAAPA1111A",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "sbi",
-    "AccountNumber": "34343333333",
-    "IfscCode": "ICICI00234",
-    "BranchName": "RAJUDDIN",
-    "Status": "1",
-    "JsonItem": "{\"0\":{\"item\":\"\",\"description\":\"\"},\"1\":{\"item\":\"item1\",\"description\":\"666\"}}",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2022-10-13",
-    "Created_time": "15:44:01",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "0",
-    "ActivationDate": "2022-01-01",
-    "ClosureDate": "2022-05-28",
-    "TrainingDate": "2022-05-27",
-    "TrainerName": "",
-    "FranchiseCode": "01",
-    "SelfDig_FlagTan": "1",
-    "SchemeId": "87"
-}10.100.72.207	17-08-2023 10:42:34 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:42:34 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:46:29 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.207	17-08-2023 10:46:29 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.207	17-08-2023 10:46:29 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.207	17-08-2023 10:46:29 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:46:29 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:46:32 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=2553610.100.72.207	17-08-2023 10:46:32 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:46:32 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:51:27 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.207	17-08-2023 10:51:27 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.100.72.207	17-08-2023 10:51:27 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:51:27 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:51:32 AM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.100.72.207	17-08-2023 10:51:32 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:51:32 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:55:46 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.207	17-08-2023 10:55:46 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.100.72.207	17-08-2023 10:55:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:55:46 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:55:49 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=VD12210.100.72.207	17-08-2023 10:55:49 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:55:49 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:56:03 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.207	17-08-2023 10:56:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:56:03 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:56:09 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.207	17-08-2023 10:56:09 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.207	17-08-2023 10:56:09 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.207	17-08-2023 10:56:09 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:56:09 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:56:13 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=2553610.100.72.207	17-08-2023 10:56:13 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:56:13 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:59:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 10:59:44 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "1",
-		"userGroupId" : "2",
-		"userPageId" : "6"
-	}]
-}10.100.72.207	17-08-2023 10:59:44 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 10:59:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 10:59:44 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "1",
-		"userGroupId" : "2",
-		"userPageId" : "7"
-	}]
-}10.100.72.207	17-08-2023 10:59:44 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 10:59:46 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=VD12210.100.72.207	17-08-2023 10:59:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:59:46 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:59:48 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.100.72.207	17-08-2023 10:59:48 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.100.72.207	17-08-2023 10:59:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:59:48 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 10:59:50 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.100.72.207	17-08-2023 10:59:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 10:59:50 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:02:14 AM	 URL for API - 10.100.72.207	17-08-2023 11:02:14 AM	 URL for API - http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.100.72.207	17-08-2023 11:02:14 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:02:14 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:02:22 AM	 URL for API - 10.100.72.207	17-08-2023 11:02:22 AM	 URL for API - {"ProductType":"'TAN'","FormType":"''"}10.100.72.207	17-08-2023 11:02:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:02:22 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:02:26 AM	 URL for API - 10.100.72.207	17-08-2023 11:02:26 AM	 URL for API - {"ProductType":"'PAN'","FormType":"''"}10.100.72.207	17-08-2023 11:02:26 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:02:26 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:02:28 AM	 URL for API - 10.100.72.207	17-08-2023 11:02:28 AM	 URL for API - {"ProductType":"'PAN'","FormType":"'49A'"}10.100.72.207	17-08-2023 11:02:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:02:28 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:02:31 AM	 URL for API - 10.100.72.207	17-08-2023 11:02:31 AM	 URL for API - {"ProductType":"'PAN'","FormType":"''"}10.100.72.207	17-08-2023 11:02:31 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:02:31 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:02:35 AM	 URL for API - {"ProductType":"'PAN'","FormType":"'49A'"}10.100.72.207	17-08-2023 11:02:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:02:35 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:02:43 AM	JSON to post for ReqestId----{"ReqestId":33}10.100.72.207	17-08-2023 11:02:43 AM	URL to hit on API----http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.100.72.207	17-08-2023 11:02:43 AM	JSON to post for ReqestId----{
-    "Status": "0",
-    "Message": "Success",
-    "Rejectionlist": [
-        {
-            "ProductType": "PAN",
-            "FormType": "49A",
-            "FieldList": [
-                {
-                    "Masterid": "33",
-                    "FieldName": "Basis of Supporting document",
-                    "Status": "1",
-                    "RejectionReason": [
-                        {
-                            "id": "P4BAS_3358",
-                            "NsdlId": "TF12",
-                            "description": "DEATH CERTIFICATE NOT PROVIDED FOR DECEASED APPLICANT     "
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF27",
-                            "description": "PROOF OF FATHER'S NAME NOT PROVIDED\/ NOT VALID"
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF28",
-                            "description": "PROOF OF IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3369",
-                            "NsdlId": "TF34",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE ADDRESS NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3370",
-                            "NsdlId": "TF35",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3395",
-                            "NsdlId": "TF36",
-                            "description": "PROOF OF RESIDENTIAL ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF \/ BOI \/ AOP\/ AJP)     "
-                        },
-                        {
-                            "id": "P4BAS_3373",
-                            "NsdlId": "TF47",
-                            "description": "PROOF OF OFFICE ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF)     "
-                        },
-                        {
-                            "id": "P4BAS_33106",
-                            "NsdlId": "TF49",
-                            "description": "PROOF OF AADHAAR IS NOT PROVIDED FOR THE AADHAAR MENTIONED IN THE APPLICATION APPLICANT STATUS INDIVIDUAL "
-                        },
-                        {
-                            "id": "P4BAS_3387",
-                            "NsdlId": "TF51",
-                            "description": "PROOF OF DATE OF BIRTH NOT ATTACHED. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_3382",
-                            "NsdlId": "TF52",
-                            "description": "PROOF OF DATE OF BIRTH INVALID. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}10.100.72.207	17-08-2023 11:03:25 AM	JSON to post for ReqestId----{"ReqestId":32}10.100.72.207	17-08-2023 11:03:25 AM	URL to hit on API----http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.100.72.207	17-08-2023 11:03:25 AM	JSON to post for ReqestId----{
-    "Status": "0",
-    "Message": "Success",
-    "Rejectionlist": [
-        {
-            "ProductType": "PAN",
-            "FormType": "49A",
-            "FieldList": [
-                {
-                    "Masterid": "32",
-                    "FieldName": "Basis of Application",
-                    "Status": "1",
-                    "RejectionReason": [
-                        {
-                            "id": "P4BAS_3239",
-                            "NsdlId": "TF01",
-                            "description": "ADDRESS FOR COMMUNICATION NOT MENTIONED"
-                        },
-                        {
-                            "id": "P4BAS_3240",
-                            "NsdlId": "TF02",
-                            "description": "AO CODE NOT MENTIONED\/MISMATCH\/NOT VALID"
-                        },
-                        {
-                            "id": "P4BAS_3229",
-                            "NsdlId": "TF03",
-                            "description": "APPLICANT STATUS NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3261",
-                            "NsdlId": "TF04",
-                            "description": "APPLICANTS NAME TO BE PRINTED ON CARD MORE THAN 75 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3245",
-                            "NsdlId": "TF05",
-                            "description": "APPLICANT'S FIRST NAME\/LAST NAME NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3280",
-                            "NsdlId": "TF06",
-                            "description": "APPLICANT'S FIRST NAME\/MIDDLE NAME\/LAST NAME CONTAIN INITIALS\/SPECIAL CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3287",
-                            "NsdlId": "TF07",
-                            "description": "APPLICANT'S FIRST NAME\/MIDDLE NAME\/LAST NAME MISMATCH WITH \"NAME TO BE PRINTED ON CARD\""
-                        },
-                        {
-                            "id": "P4BAS_3268",
-                            "NsdlId": "TF08",
-                            "description": "APPLICANT'S FIRST NAME\/MIDDLE NAME\/LAST NAME MORE THAN 25 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3243",
-                            "NsdlId": "TF09",
-                            "description": "APPLICANT'S NAME AND FATHER'S NAME ARE SAME"
-                        },
-                        {
-                            "id": "P4BAS_3247",
-                            "NsdlId": "TF10",
-                            "description": "APPLICATION FORM INCOMPLETE\/NOT PROPERLY FILLED"
-                        },
-                        {
-                            "id": "P4BAS_3253",
-                            "NsdlId": "TF11",
-                            "description": "DATE OF BIRTH\/INCORPORATION\/FORMATION NOT GIVEN\/WRONG"
-                        },
-                        {
-                            "id": "P4BAS_3243",
-                            "NsdlId": "TF13",
-                            "description": "FATHER'S FIRST NAME\/LAST NAME NOT MENTIONED"
-                        },
-                        {
-                            "id": "P4BAS_3277",
-                            "NsdlId": "TF14",
-                            "description": "FATHER'S FIRST NAME\/MIDDLE NAME\/LAST NAME CONTAIN INITIALS\/SPECIAL CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3265",
-                            "NsdlId": "TF15",
-                            "description": "FATHER'S FIRST NAME\/MIDDLE NAME\/LAST NAME MORE THAN 25 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3263",
-                            "NsdlId": "TF16",
-                            "description": "FORM NOT SIGNED\/SIGNATURE NOT PROPER\/SIGNATURE NOT IN BLACK INK"
-                        },
-                        {
-                            "id": "P4BAS_3261",
-                            "NsdlId": "TF17",
-                            "description": "OFFICE ADDRESS NOT PROVIDED (COMPANY \/ FIRM \/ AOP TRUST \/ LA)"
-                        },
-                        {
-                            "id": "P4BAS_3249",
-                            "NsdlId": "TF18",
-                            "description": "OFFICE ADDRESS NOT PROVIDED FOR SALARIED EMPLOYEE"
-                        },
-                        {
-                            "id": "P4BAS_3246",
-                            "NsdlId": "TF19",
-                            "description": "OFFICE NAME NOT PROVIDED FOR SALARIED EMPLOYEE"
-                        },
-                        {
-                            "id": "P4BAS_3246",
-                            "NsdlId": "TF20",
-                            "description": "ORGANISATION NAME MISMATCH WITH OFFICE ADDRESS"
-                        },
-                        {
-                            "id": "P4BAS_3234",
-                            "NsdlId": "TF23",
-                            "description": "PHOTOGRAPH NOT PROVIDED\/NOT PROPER"
-                        },
-                        {
-                            "id": "P4BAS_3221",
-                            "NsdlId": "TF24",
-                            "description": "PIN CODE NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3232",
-                            "NsdlId": "TF37",
-                            "description": "REGISTRATION NUMBER NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3270",
-                            "NsdlId": "TF38",
-                            "description": "REPRESENTATIVE ASSESSEE DETAILS NOT GIVEN FOR MINOR\/DECEASED APPLICANT"
-                        },
-                        {
-                            "id": "P4BAS_3260",
-                            "NsdlId": "TF39",
-                            "description": "REPRESENTATIVE ASSESSEE'S FIRST NAME\/LAST NAME NOT MENTIONED"
-                        },
-                        {
-                            "id": "P4BAS_3294",
-                            "NsdlId": "TF40",
-                            "description": "REPRESENTATIVE ASSESSEE'S FIRST NAME\/MIDDLE NAME\/LAST NAME CONTAIN INITIALS\/SPECIAL CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3282",
-                            "NsdlId": "TF41",
-                            "description": "REPRESENTATIVE ASSESSEE'S FIRST NAME\/MIDDLE NAME\/LAST NAME MORE THAN 25 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3260",
-                            "NsdlId": "TF42",
-                            "description": "REPRESENTATIVE ASSESSEE'S NAME AND APPLICANT'S NAME ARE SAME"
-                        },
-                        {
-                            "id": "P4BAS_3269",
-                            "NsdlId": "TF43",
-                            "description": "RESIDENTIAL ADDRESS NOT PROVIDED (INDIVIDUALS \/ HUF \/ BOI \/ AOP\/ AJP)"
-                        },
-                        {
-                            "id": "P4BAS_3227",
-                            "NsdlId": "TF44",
-                            "description": "STD \/ ISD CODE NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3229",
-                            "NsdlId": "TF45",
-                            "description": "THUMB IMPRESSION NOT ATTESTED"
-                        },
-                        {
-                            "id": "P4BAS_3230",
-                            "NsdlId": "TF46",
-                            "description": "WRONG FORM FILLED BY APPLICANT"
-                        },
-                        {
-                            "id": "P4BAS_32129",
-                            "NsdlId": "TF48",
-                            "description": "OFFICE ADDRESS HAS BEEN SELECTED AS COMMUNICATION ADDRESS. HOWEVER, THE SAME IS NOT PROVIDED IN THE APPLICATION (INDIVIDUALS\/HUF)"
-                        },
-                        {
-                            "id": "P4BAS_32138",
-                            "NsdlId": "TF50",
-                            "description": "AADHAAR NO MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE AADHAAR NO NAME APPEARING IN AADHAAR ALLOTMENT LETTER SUBMITTED BY YOU"
-                        },
-                        {
-                            "id": "P4BAS_32168",
-                            "NsdlId": "TF53",
-                            "description": "APPLICANT NAME MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME APPEARING IN PROOF OF IDENTITY SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32191",
-                            "NsdlId": "TF54",
-                            "description": "APPLICANT NAME AND ADDRESS MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME AND ADDRESS APPEARING IN PROOF OF ADDRESS SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32206",
-                            "NsdlId": "TF55",
-                            "description": "NAME AND DATE OF BIRTH MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE DATE OF BIRTH AND NAME APPEARING IN PROOF OF DATE OF BIRTH SUBMITTED BY YOU APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32175",
-                            "NsdlId": "TF56",
-                            "description": "APPLICANT\u2019S NAME MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME APPEARING IN PROOF OF DATE OF BIRTH SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32181",
-                            "NsdlId": "TF57",
-                            "description": "DATE OF BIRTH MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE DATE OF BIRTH APPEARING IN PROOF OF DATE OF BIRTH SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32169",
-                            "NsdlId": "TF58",
-                            "description": "APPLICANT\u2019S NAME MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME APPEARING IN PROOF OF ADDRESS SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32163",
-                            "NsdlId": "TF59",
-                            "description": "ADDRESS MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE ADDRESS APPEARING IN PROOF OF ADDRESS SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}10.100.72.207	17-08-2023 11:03:42 AM	JSON to post for ReqestId----{"ReqestId":33}10.100.72.207	17-08-2023 11:03:42 AM	URL to hit on API----http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.100.72.207	17-08-2023 11:03:42 AM	JSON to post for ReqestId----{
-    "Status": "0",
-    "Message": "Success",
-    "Rejectionlist": [
-        {
-            "ProductType": "PAN",
-            "FormType": "49A",
-            "FieldList": [
-                {
-                    "Masterid": "33",
-                    "FieldName": "Basis of Supporting document",
-                    "Status": "1",
-                    "RejectionReason": [
-                        {
-                            "id": "P4BAS_3358",
-                            "NsdlId": "TF12",
-                            "description": "DEATH CERTIFICATE NOT PROVIDED FOR DECEASED APPLICANT     "
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF27",
-                            "description": "PROOF OF FATHER'S NAME NOT PROVIDED\/ NOT VALID"
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF28",
-                            "description": "PROOF OF IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3369",
-                            "NsdlId": "TF34",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE ADDRESS NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3370",
-                            "NsdlId": "TF35",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3395",
-                            "NsdlId": "TF36",
-                            "description": "PROOF OF RESIDENTIAL ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF \/ BOI \/ AOP\/ AJP)     "
-                        },
-                        {
-                            "id": "P4BAS_3373",
-                            "NsdlId": "TF47",
-                            "description": "PROOF OF OFFICE ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF)     "
-                        },
-                        {
-                            "id": "P4BAS_33106",
-                            "NsdlId": "TF49",
-                            "description": "PROOF OF AADHAAR IS NOT PROVIDED FOR THE AADHAAR MENTIONED IN THE APPLICATION APPLICANT STATUS INDIVIDUAL "
-                        },
-                        {
-                            "id": "P4BAS_3387",
-                            "NsdlId": "TF51",
-                            "description": "PROOF OF DATE OF BIRTH NOT ATTACHED. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_3382",
-                            "NsdlId": "TF52",
-                            "description": "PROOF OF DATE OF BIRTH INVALID. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}10.100.72.207	17-08-2023 11:13:21 AM	JSON to post for ReqestId----{"ReqestId":33}10.100.72.207	17-08-2023 11:13:21 AM	URL to hit on API----http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.100.72.207	17-08-2023 11:13:21 AM	JSON to post for ReqestId----{
-    "Status": "0",
-    "Message": "Success",
-    "Rejectionlist": [
-        {
-            "ProductType": "PAN",
-            "FormType": "49A",
-            "FieldList": [
-                {
-                    "Masterid": "33",
-                    "FieldName": "Basis of Supporting document",
-                    "Status": "1",
-                    "RejectionReason": [
-                        {
-                            "id": "P4BAS_3358",
-                            "NsdlId": "TF12",
-                            "description": "DEATH CERTIFICATE NOT PROVIDED FOR DECEASED APPLICANT     "
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF27",
-                            "description": "PROOF OF FATHER'S NAME NOT PROVIDED\/ NOT VALID"
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF28",
-                            "description": "PROOF OF IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3369",
-                            "NsdlId": "TF34",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE ADDRESS NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3370",
-                            "NsdlId": "TF35",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3395",
-                            "NsdlId": "TF36",
-                            "description": "PROOF OF RESIDENTIAL ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF \/ BOI \/ AOP\/ AJP)     "
-                        },
-                        {
-                            "id": "P4BAS_3373",
-                            "NsdlId": "TF47",
-                            "description": "PROOF OF OFFICE ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF)     "
-                        },
-                        {
-                            "id": "P4BAS_33106",
-                            "NsdlId": "TF49",
-                            "description": "PROOF OF AADHAAR IS NOT PROVIDED FOR THE AADHAAR MENTIONED IN THE APPLICATION APPLICANT STATUS INDIVIDUAL "
-                        },
-                        {
-                            "id": "P4BAS_3387",
-                            "NsdlId": "TF51",
-                            "description": "PROOF OF DATE OF BIRTH NOT ATTACHED. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_3382",
-                            "NsdlId": "TF52",
-                            "description": "PROOF OF DATE OF BIRTH INVALID. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}10.100.72.207	17-08-2023 11:16:25 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:16:25 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "1",
-		"userGroupId" : "2",
-		"userPageId" : "9"
-	}]
-}10.100.72.207	17-08-2023 11:16:25 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:16:26 AM	 URL for API - {"ProductType":"'PAN'","FormType":"'49A'"}10.100.72.207	17-08-2023 11:16:26 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:16:26 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:16:31 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - 10.100.72.207	17-08-2023 11:16:31 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/OfficeInfoListAPI.php10.100.72.207	17-08-2023 11:16:31 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:16:31 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:16:37 AM	[Info] - File location /tinfc1/UAT/addrloffice.php Message:- At begining of Call10.100.72.207	17-08-2023 11:16:37 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:16:37 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:18:20 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - 10.100.72.207	17-08-2023 11:18:20 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/OfficeInfoListAPI.php10.100.72.207	17-08-2023 11:18:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:18:20 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:18:22 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=34434510.100.72.207	17-08-2023 11:18:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:18:22 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:19:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:19:03 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "2",
-		"userPageId" : "9"
-	}]
-}10.100.72.207	17-08-2023 11:19:03 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:19:04 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:19:04 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "2",
-		"userPageId" : "8"
-	}]
-}10.100.72.207	17-08-2023 11:19:04 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:19:07 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:19:07 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "2",
-		"userPageId" : "6"
-	}]
-}10.100.72.207	17-08-2023 11:19:07 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:19:07 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:19:07 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "2",
-		"userPageId" : "7"
-	}]
-}10.100.72.207	17-08-2023 11:19:07 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:19:12 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=34434510.100.72.207	17-08-2023 11:19:12 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:19:12 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:19:26 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:19:26 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:19:27 AM	Session BranchId...HOUSER10.100.72.207	17-08-2023 11:19:27 AM	Session Type...HOUSER10.100.72.207	17-08-2023 11:19:27 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.207	17-08-2023 11:19:27 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.100.72.207	17-08-2023 11:19:32 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.207	17-08-2023 11:19:32 AM	JSON POST : 10.100.72.207	17-08-2023 11:19:51 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.207	17-08-2023 11:19:51 AM	JSON POST : {"data":"empty"}10.100.72.207	17-08-2023 11:19:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.207	17-08-2023 11:19:59 AM	JSON POST : {"data":"empty"}10.100.72.207	17-08-2023 11:19:59 AM	ui MjU1MzUwMg== and pas dGVzdA==10.100.72.207	17-08-2023 11:19:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.207	17-08-2023 11:19:59 AM	JSON POST : Array10.100.72.207	17-08-2023 11:19:59 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.207	17-08-2023 11:19:59 AM	Json parting value10.100.72.207	17-08-2023 11:20:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.207	17-08-2023 11:20:10 AM	JSON POST : {"data":"empty"}10.100.72.207	17-08-2023 11:20:10 AM	ui MjU1MzYwMg== and pas dGVzdA==10.100.72.207	17-08-2023 11:20:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.207	17-08-2023 11:20:10 AM	JSON POST : Array10.100.72.207	17-08-2023 11:20:10 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "1",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Branch User  (2553602)",
-    "RegionId": "2",
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.72.207	17-08-2023 11:20:10 AM	Json parting value2553610.100.72.207	17-08-2023 11:20:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:20:10 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:20:11 AM	Session BranchId...2553610.100.72.207	17-08-2023 11:20:11 AM	Session Type...BRANCH10.100.72.207	17-08-2023 11:20:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.207	17-08-2023 11:20:11 AM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.72.207	17-08-2023 11:20:13 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.207	17-08-2023 11:20:13 AM	JSON POST : 10.100.72.207	17-08-2023 11:22:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:22:35 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:22:35 AM	Session BranchId...2553610.100.72.207	17-08-2023 11:22:35 AM	Session Type...BRANCH10.100.72.207	17-08-2023 11:22:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.207	17-08-2023 11:22:35 AM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.72.207	17-08-2023 11:22:37 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.207	17-08-2023 11:22:37 AM	JSON POST : 10.100.72.207	17-08-2023 11:22:58 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:22:58 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:25:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:25:03 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:26:56 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:26:56 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:28:13 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:28:13 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:28:43 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:28:43 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "2",
-		"userPageId" : "5"
-	}]
-}10.100.72.207	17-08-2023 11:28:43 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:28:43 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:28:43 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "1",
-		"userGroupId" : "2",
-		"userPageId" : "5"
-	}]
-}10.100.72.207	17-08-2023 11:28:43 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:28:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:28:46 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "2",
-		"userPageId" : "5"
-	}]
-}10.100.72.207	17-08-2023 11:28:46 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:28:53 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.207	17-08-2023 11:28:53 AM	JSON POST : {"data":"empty"}10.100.72.207	17-08-2023 11:29:04 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.207	17-08-2023 11:29:04 AM	JSON POST : {"data":"empty"}10.100.72.207	17-08-2023 11:29:05 AM	ui MjU1MzYwMg== and pas dGVzdA==10.100.72.207	17-08-2023 11:29:05 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.207	17-08-2023 11:29:05 AM	JSON POST : Array10.100.72.207	17-08-2023 11:29:05 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "1",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Branch User  (2553602)",
-    "RegionId": "2",
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.72.207	17-08-2023 11:29:05 AM	Json parting value2553610.100.72.207	17-08-2023 11:29:05 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:29:05 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:29:10 AM	Session BranchId...2553610.100.72.207	17-08-2023 11:29:10 AM	Session Type...BRANCH10.100.72.207	17-08-2023 11:29:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.207	17-08-2023 11:29:10 AM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.72.207	17-08-2023 11:29:12 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.207	17-08-2023 11:29:12 AM	JSON POST : 10.100.72.207	17-08-2023 11:30:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:30:20 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:33:09 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.207	17-08-2023 11:33:09 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:33:09 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:33:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.100.72.207	17-08-2023 11:33:11 AM	JSON POST : {
-	"userGroupId" : "2"
-}10.100.72.207	17-08-2023 11:33:11 AM	RESPONSE RETURN FROM USER PAGE API: {
-    "Status": "1",
-    "DataTable": [
-        {
-            "Id": "1",
-            "PageName": "Dashboard",
-            "PageUrl": "index.php",
-            "Status": "1"
-        },
-        {
-            "Id": "2",
-            "PageName": "Bulk Upload PAN",
-            "PageUrl": "bulkuploaddata.php",
-            "Status": "1"
-        },
-        {
-            "Id": "3",
-            "PageName": "Bulk Upload TAN",
-            "PageUrl": "bulkuploaddatatan.php",
-            "Status": "1"
-        },
-        {
-            "Id": "5",
-            "PageName": "Branch Master",
-            "PageUrl": "listbranch.php",
-            "Status": "0"
-        },
-        {
-            "Id": "6",
-            "PageName": "Region Master",
-            "PageUrl": "listregion.php",
-            "Status": "0"
-        },
-        {
-            "Id": "7",
-            "PageName": "Rejection Reason Master",
-            "PageUrl": "listrejectionreason.php",
-            "Status": "0"
-        },
-        {
-            "Id": "8",
-            "PageName": "Vendor Master",
-            "PageUrl": "listvendors.php",
-            "Status": "0"
-        },
-        {
-            "Id": "9",
-            "PageName": "Religare Office",
-            "PageUrl": "listrloffice.php",
-            "Status": "0"
-        },
-        {
-            "Id": "10",
-            "PageName": "Export NSDL Rejection",
-            "PageUrl": "exportnsdlrejection.php",
-            "Status": "0"
-        },
-        {
-            "Id": "12",
-            "PageName": "Batch Status Report",
-            "PageUrl": "batchstatusreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "13",
-            "PageName": "Export PDF\/A-1a",
-            "PageUrl": "downloadpdf1a.php",
-            "Status": "0"
-        },
-        {
-            "Id": "14",
-            "PageName": "Batch Dashboard",
-            "PageUrl": "selecttoexport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "15",
-            "PageName": "NSDL Single Batch File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
-            "Status": "0"
-        },
-        {
-            "Id": "16",
-            "PageName": "NSDL Accecpted File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
-            "Status": "0"
-        },
-        {
-            "Id": "17",
-            "PageName": "NSDL Allotment File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
-            "Status": "0"
-        },
-        {
-            "Id": "18",
-            "PageName": "Batch Status [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
-            "Status": "0"
-        },
-        {
-            "Id": "19",
-            "PageName": "NSDL Single Batch File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
-            "Status": "0"
-        },
-        {
-            "Id": "20",
-            "PageName": "NSDL Accecpted File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
-            "Status": "0"
-        },
-        {
-            "Id": "21",
-            "PageName": "NSDL Allotment File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
-            "Status": "0"
-        },
-        {
-            "Id": "22",
-            "PageName": "Batch Status [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
-            "Status": "0"
-        },
-        {
-            "Id": "23",
-            "PageName": "Audit Trail",
-            "PageUrl": "auditTrail.php",
-            "Status": "0"
-        },
-        {
-            "Id": "11",
-            "PageName": "Rejection Intimation Report",
-            "PageUrl": "listMail.php",
-            "Status": "0"
-        },
-        {
-            "Id": "24",
-            "PageName": "Daily PAN Discrepancy Report",
-            "PageUrl": "rejectionreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "PageName": "MIS Upload PAN\/TAN",
-            "PageUrl": "missubmit.php?t=1",
-            "Status": "0"
-        },
-        {
-            "Id": "25",
-            "PageName": "PAN PDF1A Response Upload",
-            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
-            "Status": "0"
-        },
-        {
-            "Id": "26",
-            "PageName": "TAN PDF1A Response Upload",
-            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
-            "Status": "0"
-        },
-        {
-            "Id": "27",
-            "PageName": "Document Management",
-            "PageUrl": "docmanagement.php",
-            "Status": "0"
-        },
-        {
-            "Id": "28",
-            "PageName": "Courier List",
-            "PageUrl": "courierlist.php",
-            "Status": "0"
-        },
-        {
-            "Id": "29",
-            "PageName": "Courier Receiving",
-            "PageUrl": "courierreceiving.php",
-            "Status": "0"
-        },
-        {
-            "Id": "30",
-            "PageName": "MIS Upload eTDS",
-            "PageUrl": "missubmit.php?t=2",
-            "Status": "0"
-        },
-        {
-            "Id": "31",
-            "PageName": "MIS Upload 24G",
-            "PageUrl": "missubmit.php?t=3",
-            "Status": "0"
-        },
-        {
-            "Id": "32",
-            "PageName": "Mobile MIS Upload PAN",
-            "PageUrl": "mobilemissubmit.php",
-            "Status": "0"
-        },
-        {
-            "Id": "33",
-            "PageName": "Ack Wise Status Report",
-            "PageUrl": "ackwisestatusreport.php",
-            "Status": "1"
-        },
-        {
-            "Id": "34",
-            "PageName": "Query Screen Report",
-            "PageUrl": "queryscreenreport.php",
-            "Status": "1"
-        },
-        {
-            "Id": "35",
-            "PageName": "User Wise QC Report",
-            "PageUrl": "userwisereportqc.php",
-            "Status": "1"
-        },
-        {
-            "Id": "36",
-            "PageName": "Vendor Reconcilation Report",
-            "PageUrl": "vendorreconreport.php",
-            "Status": "1"
-        },
-        {
-            "Id": "37",
-            "PageName": "Download PDF\/A-1a",
-            "PageUrl": "pdf1adownloadfisher.php",
-            "Status": "1"
-        },
-        {
-            "Id": "38",
-            "PageName": "PDF\/A-1a Reports",
-            "PageUrl": "pdf1aconversion_report.php",
-            "Status": "1"
-        },
-        {
-            "Id": "39",
-            "PageName": "Status Report",
-            "PageUrl": "statusreport.php",
-            "Status": "1"
-        }
-    ]
-}10.100.72.207	17-08-2023 11:33:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:33:11 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:33:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:33:15 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:33:29 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.100.72.207	17-08-2023 11:33:29 AM	JSON POST : {
-	"userGroupId" : "2"
-}10.100.72.207	17-08-2023 11:33:29 AM	RESPONSE RETURN FROM USER PAGE API: {
-    "Status": "1",
-    "DataTable": [
-        {
-            "Id": "1",
-            "PageName": "Dashboard",
-            "PageUrl": "index.php",
-            "Status": "1"
-        },
-        {
-            "Id": "2",
-            "PageName": "Bulk Upload PAN",
-            "PageUrl": "bulkuploaddata.php",
-            "Status": "1"
-        },
-        {
-            "Id": "3",
-            "PageName": "Bulk Upload TAN",
-            "PageUrl": "bulkuploaddatatan.php",
-            "Status": "1"
-        },
-        {
-            "Id": "5",
-            "PageName": "Branch Master",
-            "PageUrl": "listbranch.php",
-            "Status": "0"
-        },
-        {
-            "Id": "6",
-            "PageName": "Region Master",
-            "PageUrl": "listregion.php",
-            "Status": "0"
-        },
-        {
-            "Id": "7",
-            "PageName": "Rejection Reason Master",
-            "PageUrl": "listrejectionreason.php",
-            "Status": "0"
-        },
-        {
-            "Id": "8",
-            "PageName": "Vendor Master",
-            "PageUrl": "listvendors.php",
-            "Status": "0"
-        },
-        {
-            "Id": "9",
-            "PageName": "Religare Office",
-            "PageUrl": "listrloffice.php",
-            "Status": "0"
-        },
-        {
-            "Id": "10",
-            "PageName": "Export NSDL Rejection",
-            "PageUrl": "exportnsdlrejection.php",
-            "Status": "0"
-        },
-        {
-            "Id": "12",
-            "PageName": "Batch Status Report",
-            "PageUrl": "batchstatusreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "13",
-            "PageName": "Export PDF\/A-1a",
-            "PageUrl": "downloadpdf1a.php",
-            "Status": "0"
-        },
-        {
-            "Id": "14",
-            "PageName": "Batch Dashboard",
-            "PageUrl": "selecttoexport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "15",
-            "PageName": "NSDL Single Batch File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
-            "Status": "0"
-        },
-        {
-            "Id": "16",
-            "PageName": "NSDL Accecpted File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
-            "Status": "0"
-        },
-        {
-            "Id": "17",
-            "PageName": "NSDL Allotment File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
-            "Status": "0"
-        },
-        {
-            "Id": "18",
-            "PageName": "Batch Status [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
-            "Status": "0"
-        },
-        {
-            "Id": "19",
-            "PageName": "NSDL Single Batch File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
-            "Status": "0"
-        },
-        {
-            "Id": "20",
-            "PageName": "NSDL Accecpted File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
-            "Status": "0"
-        },
-        {
-            "Id": "21",
-            "PageName": "NSDL Allotment File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
-            "Status": "0"
-        },
-        {
-            "Id": "22",
-            "PageName": "Batch Status [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
-            "Status": "0"
-        },
-        {
-            "Id": "23",
-            "PageName": "Audit Trail",
-            "PageUrl": "auditTrail.php",
-            "Status": "0"
-        },
-        {
-            "Id": "11",
-            "PageName": "Rejection Intimation Report",
-            "PageUrl": "listMail.php",
-            "Status": "0"
-        },
-        {
-            "Id": "24",
-            "PageName": "Daily PAN Discrepancy Report",
-            "PageUrl": "rejectionreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "PageName": "MIS Upload PAN\/TAN",
-            "PageUrl": "missubmit.php?t=1",
-            "Status": "0"
-        },
-        {
-            "Id": "25",
-            "PageName": "PAN PDF1A Response Upload",
-            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
-            "Status": "0"
-        },
-        {
-            "Id": "26",
-            "PageName": "TAN PDF1A Response Upload",
-            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
-            "Status": "0"
-        },
-        {
-            "Id": "27",
-            "PageName": "Document Management",
-            "PageUrl": "docmanagement.php",
-            "Status": "0"
-        },
-        {
-            "Id": "28",
-            "PageName": "Courier List",
-            "PageUrl": "courierlist.php",
-            "Status": "0"
-        },
-        {
-            "Id": "29",
-            "PageName": "Courier Receiving",
-            "PageUrl": "courierreceiving.php",
-            "Status": "0"
-        },
-        {
-            "Id": "30",
-            "PageName": "MIS Upload eTDS",
-            "PageUrl": "missubmit.php?t=2",
-            "Status": "0"
-        },
-        {
-            "Id": "31",
-            "PageName": "MIS Upload 24G",
-            "PageUrl": "missubmit.php?t=3",
-            "Status": "0"
-        },
-        {
-            "Id": "32",
-            "PageName": "Mobile MIS Upload PAN",
-            "PageUrl": "mobilemissubmit.php",
-            "Status": "0"
-        },
-        {
-            "Id": "33",
-            "PageName": "Ack Wise Status Report",
-            "PageUrl": "ackwisestatusreport.php",
-            "Status": "1"
-        },
-        {
-            "Id": "34",
-            "PageName": "Query Screen Report",
-            "PageUrl": "queryscreenreport.php",
-            "Status": "1"
-        },
-        {
-            "Id": "35",
-            "PageName": "User Wise QC Report",
-            "PageUrl": "userwisereportqc.php",
-            "Status": "1"
-        },
-        {
-            "Id": "36",
-            "PageName": "Vendor Reconcilation Report",
-            "PageUrl": "vendorreconreport.php",
-            "Status": "1"
-        },
-        {
-            "Id": "37",
-            "PageName": "Download PDF\/A-1a",
-            "PageUrl": "pdf1adownloadfisher.php",
-            "Status": "1"
-        },
-        {
-            "Id": "38",
-            "PageName": "PDF\/A-1a Reports",
-            "PageUrl": "pdf1aconversion_report.php",
-            "Status": "1"
-        },
-        {
-            "Id": "39",
-            "PageName": "Status Report",
-            "PageUrl": "statusreport.php",
-            "Status": "1"
-        }
-    ]
-}10.100.72.207	17-08-2023 11:33:29 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:33:29 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:33:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:33:35 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "1",
-		"userGroupId" : "2",
-		"userPageId" : "5"
-	}]
-}10.100.72.207	17-08-2023 11:33:35 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:33:37 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:33:37 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:33:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.207	17-08-2023 11:33:48 AM	JSON POST : {"data":"empty"}10.100.72.207	17-08-2023 11:33:53 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.207	17-08-2023 11:33:53 AM	JSON POST : {"data":"empty"}10.100.72.207	17-08-2023 11:33:54 AM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.207	17-08-2023 11:33:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.207	17-08-2023 11:33:54 AM	JSON POST : Array10.100.72.207	17-08-2023 11:33:54 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "HOUSER",
-    "UserName": "HO User [1]  ",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.207	17-08-2023 11:33:54 AM	Json parting value34434510.100.72.207	17-08-2023 11:33:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:33:54 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:33:54 AM	Session BranchId...HOUSER10.100.72.207	17-08-2023 11:33:54 AM	Session Type...HOUSER10.100.72.207	17-08-2023 11:33:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.207	17-08-2023 11:33:54 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.100.72.207	17-08-2023 11:33:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.207	17-08-2023 11:33:55 AM	JSON POST : 10.100.72.207	17-08-2023 11:34:00 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.207	17-08-2023 11:34:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:34:00 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:34:41 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.207	17-08-2023 11:34:41 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.207	17-08-2023 11:34:41 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.207	17-08-2023 11:34:41 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:34:41 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:38:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:38:54 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "1",
-		"userGroupId" : "2",
-		"userPageId" : "8"
-	}]
-}10.100.72.207	17-08-2023 11:38:54 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:39:01 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.207	17-08-2023 11:39:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:39:01 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:39:06 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.207	17-08-2023 11:39:06 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.100.72.207	17-08-2023 11:39:06 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:39:06 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:42:37 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:42:37 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "1",
-		"userGroupId" : "2",
-		"userPageId" : "9"
-	}]
-}10.100.72.207	17-08-2023 11:42:37 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:42:39 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.207	17-08-2023 11:42:39 AM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.100.72.207	17-08-2023 11:42:39 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:42:39 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:43:47 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - 10.100.72.207	17-08-2023 11:43:47 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/OfficeInfoListAPI.php10.100.72.207	17-08-2023 11:43:47 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:43:47 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:46:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:46:35 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "2",
-		"userPageId" : "8"
-	}]
-}10.100.72.207	17-08-2023 11:46:35 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:46:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:46:44 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "0",
-		"userGroupId" : "2",
-		"userPageId" : "9"
-	}]
-}10.100.72.207	17-08-2023 11:46:44 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:46:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:46:48 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "1",
-		"userGroupId" : "2",
-		"userPageId" : "6"
-	}]
-}10.100.72.207	17-08-2023 11:46:48 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.207	17-08-2023 11:46:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.100.72.207	17-08-2023 11:46:48 AM	JSON POST : {
-	"Status" : "single",
-	"listOfData" : [{
-		"Status" : "1",
-		"userGroupId" : "2",
-		"userPageId" : "7"
-	}]
-}10.100.72.207	17-08-2023 11:46:48 AM	Response return CHANGE PERMISSION API: {
-    "Status": "1"
-}10.100.72.135	17-08-2023 11:46:50 AM	 URL for API - 10.100.72.135	17-08-2023 11:46:50 AM	 URL for API - {"ProductType":"'PAN'","FormType":"'49A'"}10.100.72.135	17-08-2023 11:46:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 11:46:50 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:46:50 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - 10.100.72.207	17-08-2023 11:46:50 AM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/OfficeInfoListAPI.php10.100.72.207	17-08-2023 11:46:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:46:50 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:46:54 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.100.72.207	17-08-2023 11:46:54 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.100.72.207	17-08-2023 11:46:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:46:54 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:48:37 AM	 URL for API - 10.100.72.207	17-08-2023 11:48:37 AM	 URL for API - http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.100.72.207	17-08-2023 11:48:37 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:48:37 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:48:59 AM	 URL for API - {"ProductType":"'PAN'","FormType":"'49A'"}10.100.72.207	17-08-2023 11:48:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:48:59 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:50:49 AM	JSON to post for ReqestId----{"ReqestId":33}10.100.72.207	17-08-2023 11:50:49 AM	URL to hit on API----http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.100.72.207	17-08-2023 11:50:49 AM	JSON to post for ReqestId----{
-    "Status": "0",
-    "Message": "Success",
-    "Rejectionlist": [
-        {
-            "ProductType": "PAN",
-            "FormType": "49A",
-            "FieldList": [
-                {
-                    "Masterid": "33",
-                    "FieldName": "Basis of Supporting document",
-                    "Status": "1",
-                    "RejectionReason": [
-                        {
-                            "id": "P4BAS_3358",
-                            "NsdlId": "TF12",
-                            "description": "DEATH CERTIFICATE NOT PROVIDED FOR DECEASED APPLICANT     "
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF27",
-                            "description": "PROOF OF FATHER'S NAME NOT PROVIDED\/ NOT VALID"
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF28",
-                            "description": "PROOF OF IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3369",
-                            "NsdlId": "TF34",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE ADDRESS NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3370",
-                            "NsdlId": "TF35",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3395",
-                            "NsdlId": "TF36",
-                            "description": "PROOF OF RESIDENTIAL ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF \/ BOI \/ AOP\/ AJP)     "
-                        },
-                        {
-                            "id": "P4BAS_3373",
-                            "NsdlId": "TF47",
-                            "description": "PROOF OF OFFICE ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF)     "
-                        },
-                        {
-                            "id": "P4BAS_33106",
-                            "NsdlId": "TF49",
-                            "description": "PROOF OF AADHAAR IS NOT PROVIDED FOR THE AADHAAR MENTIONED IN THE APPLICATION APPLICANT STATUS INDIVIDUAL "
-                        },
-                        {
-                            "id": "P4BAS_3387",
-                            "NsdlId": "TF51",
-                            "description": "PROOF OF DATE OF BIRTH NOT ATTACHED. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_3382",
-                            "NsdlId": "TF52",
-                            "description": "PROOF OF DATE OF BIRTH INVALID. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}10.100.72.207	17-08-2023 11:50:54 AM	 URL for API - 10.100.72.207	17-08-2023 11:50:54 AM	 URL for API - http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.100.72.207	17-08-2023 11:50:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:50:54 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:50:57 AM	 URL for API - {"ProductType":"'PAN'","FormType":"'49A'"}10.100.72.207	17-08-2023 11:50:57 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:50:57 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 11:51:07 AM	JSON to post for ReqestId----{"ReqestId":33}10.100.72.207	17-08-2023 11:51:07 AM	URL to hit on API----http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.100.72.207	17-08-2023 11:51:07 AM	JSON to post for ReqestId----{
-    "Status": "0",
-    "Message": "Success",
-    "Rejectionlist": [
-        {
-            "ProductType": "PAN",
-            "FormType": "49A",
-            "FieldList": [
-                {
-                    "Masterid": "33",
-                    "FieldName": "Basis of Supporting document",
-                    "Status": "1",
-                    "RejectionReason": [
-                        {
-                            "id": "P4BAS_3358",
-                            "NsdlId": "TF12",
-                            "description": "DEATH CERTIFICATE NOT PROVIDED FOR DECEASED APPLICANT     "
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF27",
-                            "description": "PROOF OF FATHER'S NAME NOT PROVIDED\/ NOT VALID"
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF28",
-                            "description": "PROOF OF IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3369",
-                            "NsdlId": "TF34",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE ADDRESS NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3370",
-                            "NsdlId": "TF35",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3395",
-                            "NsdlId": "TF36",
-                            "description": "PROOF OF RESIDENTIAL ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF \/ BOI \/ AOP\/ AJP)     "
-                        },
-                        {
-                            "id": "P4BAS_3373",
-                            "NsdlId": "TF47",
-                            "description": "PROOF OF OFFICE ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF)     "
-                        },
-                        {
-                            "id": "P4BAS_33106",
-                            "NsdlId": "TF49",
-                            "description": "PROOF OF AADHAAR IS NOT PROVIDED FOR THE AADHAAR MENTIONED IN THE APPLICATION APPLICANT STATUS INDIVIDUAL "
-                        },
-                        {
-                            "id": "P4BAS_3387",
-                            "NsdlId": "TF51",
-                            "description": "PROOF OF DATE OF BIRTH NOT ATTACHED. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_3382",
-                            "NsdlId": "TF52",
-                            "description": "PROOF OF DATE OF BIRTH INVALID. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}10.100.72.135	17-08-2023 11:52:03 AM	 URL for API - {"ProductType":"'PAN'","FormType":"'49A'"}10.100.72.135	17-08-2023 11:52:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 11:52:03 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 11:53:38 AM	JSON to post for ReqestId----{"ReqestId":33}10.100.72.135	17-08-2023 11:53:38 AM	URL to hit on API----http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.100.72.135	17-08-2023 11:53:38 AM	JSON to post for ReqestId----{
-    "Status": "0",
-    "Message": "Success",
-    "Rejectionlist": [
-        {
-            "ProductType": "PAN",
-            "FormType": "49A",
-            "FieldList": [
-                {
-                    "Masterid": "33",
-                    "FieldName": "Basis of Supporting document",
-                    "Status": "1",
-                    "RejectionReason": [
-                        {
-                            "id": "P4BAS_3358",
-                            "NsdlId": "TF12",
-                            "description": "DEATH CERTIFICATE NOT PROVIDED FOR DECEASED APPLICANT     "
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF27",
-                            "description": "PROOF OF FATHER'S NAME NOT PROVIDED\/ NOT VALID"
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF28",
-                            "description": "PROOF OF IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3369",
-                            "NsdlId": "TF34",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE ADDRESS NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3370",
-                            "NsdlId": "TF35",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3395",
-                            "NsdlId": "TF36",
-                            "description": "PROOF OF RESIDENTIAL ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF \/ BOI \/ AOP\/ AJP)     "
-                        },
-                        {
-                            "id": "P4BAS_3373",
-                            "NsdlId": "TF47",
-                            "description": "PROOF OF OFFICE ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF)     "
-                        },
-                        {
-                            "id": "P4BAS_33106",
-                            "NsdlId": "TF49",
-                            "description": "PROOF OF AADHAAR IS NOT PROVIDED FOR THE AADHAAR MENTIONED IN THE APPLICATION APPLICANT STATUS INDIVIDUAL "
-                        },
-                        {
-                            "id": "P4BAS_3387",
-                            "NsdlId": "TF51",
-                            "description": "PROOF OF DATE OF BIRTH NOT ATTACHED. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_3382",
-                            "NsdlId": "TF52",
-                            "description": "PROOF OF DATE OF BIRTH INVALID. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}10.100.72.207	17-08-2023 11:53:49 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 11:53:49 AM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 11:53:50 AM	Session BranchId...2553610.100.72.207	17-08-2023 11:53:50 AM	Session Type...BRANCH10.100.72.207	17-08-2023 11:53:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.207	17-08-2023 11:53:50 AM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.72.207	17-08-2023 11:53:52 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.207	17-08-2023 11:53:52 AM	JSON POST : 10.100.72.135	17-08-2023 11:55:23 AM	[Info] - File location /tinfc1/UAT/rejectionreasonpost.php Message:-  data post from ajax 49APAN33[{"id":"P4BAS_3358","NsdlId":"TF12","description":"DEATH CERTIFICATE NOT PROVIDED FOR DECEASED APPLICANT     "},{"id":"P4BAS_3346","NsdlId":"TF27","description":"PROOF OF FATHER'S NAME NOT PROVIDED/ NOT VALID"},{"id":"P4BAS_3346","NsdlId":"TF28","description":"PROOF OF IDENTITY NOT PROVIDED/ NOT VALID     "},{"id":"P4BAS_3369","NsdlId":"TF34","description":"PROOF OF REPRESENTATIVE ASSESSEE ADDRESS NOT PROVIDED/ NOT VALID     "},{"id":"P4BAS_3370","NsdlId":"TF35","description":"PROOF OF REPRESENTATIVE ASSESSEE IDENTITY NOT PROVIDED/ NOT VALID     "},{"id":"P4BAS_3395","NsdlId":"TF36","description":"PROOF OF RESIDENTIAL ADDRESS NOT PROVIDED / NOT VALID (INDIVIDUALS / HUF / BOI / AOP/ AJP)     "},{"id":"P4BAS_3373","NsdlId":"TF47","description":"PROOF OF OFFICE ADDRESS NOT PROVIDED / NOT VALID (INDIVIDUALS / HUF)     "},{"id":"P4BAS_33106","NsdlId":"TF49","description":"PROOF OF AADHAAR IS NOT PROVIDED FOR THE AADHAAR MENTIONED IN THE APPLICATION APPLICANT STATUS INDIVIDUAL "},{"id":"P4BAS_3387","NsdlId":"TF51","description":"PROOF OF DATE OF BIRTH NOT ATTACHED. APPLICANT STATUS INDIVIDUAL/HINDU UNDIVIDED FAMILY"},{"id":"P4BAS_3382","NsdlId":"TF52","description":"PROOF OF DATE OF BIRTH INVALID. APPLICANT STATUS INDIVIDUAL/HINDU UNDIVIDED FAMILY"},{"id":"P4BAS_3346","NsdlId":"TF99","description":"PROOF OF MOTHER'S NAME NOT PROVIDED/ NOT VALID"}]10.100.72.135	17-08-2023 11:55:23 AM	JSON to post for rejection reason form ----{
-		"id":"33",
-		"RejectionReason":[{"id":"P4BAS_3358","NsdlId":"TF12","description":"DEATH CERTIFICATE NOT PROVIDED FOR DECEASED APPLICANT     "},{"id":"P4BAS_3346","NsdlId":"TF27","description":"PROOF OF FATHER'S NAME NOT PROVIDED/ NOT VALID"},{"id":"P4BAS_3346","NsdlId":"TF28","description":"PROOF OF IDENTITY NOT PROVIDED/ NOT VALID     "},{"id":"P4BAS_3369","NsdlId":"TF34","description":"PROOF OF REPRESENTATIVE ASSESSEE ADDRESS NOT PROVIDED/ NOT VALID     "},{"id":"P4BAS_3370","NsdlId":"TF35","description":"PROOF OF REPRESENTATIVE ASSESSEE IDENTITY NOT PROVIDED/ NOT VALID     "},{"id":"P4BAS_3395","NsdlId":"TF36","description":"PROOF OF RESIDENTIAL ADDRESS NOT PROVIDED / NOT VALID (INDIVIDUALS / HUF / BOI / AOP/ AJP)     "},{"id":"P4BAS_3373","NsdlId":"TF47","description":"PROOF OF OFFICE ADDRESS NOT PROVIDED / NOT VALID (INDIVIDUALS / HUF)     "},{"id":"P4BAS_33106","NsdlId":"TF49","description":"PROOF OF AADHAAR IS NOT PROVIDED FOR THE AADHAAR MENTIONED IN THE APPLICATION APPLICANT STATUS INDIVIDUAL "},{"id":"P4BAS_3387","NsdlId":"TF51","description":"PROOF OF DATE OF BIRTH NOT ATTACHED. APPLICANT STATUS INDIVIDUAL/HINDU UNDIVIDED FAMILY"},{"id":"P4BAS_3382","NsdlId":"TF52","description":"PROOF OF DATE OF BIRTH INVALID. APPLICANT STATUS INDIVIDUAL/HINDU UNDIVIDED FAMILY"},{"id":"P4BAS_3346","NsdlId":"TF99","description":"PROOF OF MOTHER'S NAME NOT PROVIDED/ NOT VALID"}]
-}10.100.72.135	17-08-2023 11:55:23 AM	 URL for API - {"ProductType":"'PAN'","FormType":"'49A'"}10.100.72.135	17-08-2023 11:55:23 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 11:55:23 AM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 12:01:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:01:29 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.135	17-08-2023 12:04:23 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.100.72.135	17-08-2023 12:04:23 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.100.72.135	17-08-2023 12:04:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 12:04:23 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 12:05:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:05:23 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:05:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.100.72.207	17-08-2023 12:05:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.100.72.207	17-08-2023 12:05:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.100.72.207	17-08-2023 12:05:25 PM	Upload Type FOR PAN Branch:25536----SELF_DIGI10.100.72.207	17-08-2023 12:05:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: SELF_DIGI & UserId: 110.100.72.207	17-08-2023 12:05:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.100.72.207	17-08-2023 12:05:25 PM	Copy Success: 255369700380841.pdf10.100.72.207	17-08-2023 12:05:25 PM	PDF Path: /u01/uploads_uat/panpdf/255369700380841.pdf10.100.72.207	17-08-2023 12:05:25 PM	*****outside image copy foreach****10.100.72.207	17-08-2023 12:05:25 PM	THIS IS PAGE: 010.100.72.207	17-08-2023 12:05:25 PM	THIS IS PAGE: 110.100.72.207	17-08-2023 12:05:25 PM	THIS IS PAGE: 210.100.72.207	17-08-2023 12:05:25 PM	THIS IS PAGE: 310.100.72.207	17-08-2023 12:05:25 PM	Total Image page count: 410.100.72.207	17-08-2023 12:05:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.100.72.207	17-08-2023 12:05:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
-{
-    "AckNumber": "255369700380841",
-    "status": "Successfull",
-    "remark": "Successfull Upload",
-    "SequenceNo": "0"
-}10.100.72.207	17-08-2023 12:05:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.100.72.207	17-08-2023 12:05:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.100.72.207	17-08-2023 12:05:25 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.100.72.207	17-08-2023 12:05:25 PM	image path: /u01/uploads_uat/panimages/255369700380841_1.jpg10.100.72.207	17-08-2023 12:05:25 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 12:05:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:05:25 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:05:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:05:33 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:05:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:05:41 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:07:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:07:49 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:07:50 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.100.72.207	17-08-2023 12:07:50 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.100.72.207	17-08-2023 12:07:50 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.100.72.207	17-08-2023 12:07:50 PM	Upload Type FOR PAN Branch:25536----SELF_DIGI10.100.72.207	17-08-2023 12:07:50 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: SELF_DIGI & UserId: 110.100.72.207	17-08-2023 12:07:50 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.100.72.207	17-08-2023 12:07:50 PM	Copy Success: 255369700380841.pdf10.100.72.207	17-08-2023 12:07:50 PM	PDF Path: /u01/uploads_uat/panpdf/255369700380841.pdf10.100.72.207	17-08-2023 12:07:50 PM	*****outside image copy foreach****10.100.72.207	17-08-2023 12:07:50 PM	THIS IS PAGE: 010.100.72.207	17-08-2023 12:07:50 PM	THIS IS PAGE: 110.100.72.207	17-08-2023 12:07:50 PM	THIS IS PAGE: 210.100.72.207	17-08-2023 12:07:50 PM	THIS IS PAGE: 310.100.72.207	17-08-2023 12:07:50 PM	Total Image page count: 410.100.72.207	17-08-2023 12:07:50 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.100.72.207	17-08-2023 12:07:50 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
-{
-    "AckNumber": "255369700380841",
-    "status": "Successfull",
-    "remark": "Successfull Upload",
-    "SequenceNo": "0"
-}10.100.72.207	17-08-2023 12:07:50 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.100.72.207	17-08-2023 12:07:50 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.100.72.207	17-08-2023 12:07:50 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.100.72.207	17-08-2023 12:07:50 PM	image path: /u01/uploads_uat/panimages/255369700380841_1.jpg10.100.72.207	17-08-2023 12:07:50 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 12:07:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:07:50 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:11:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:11:34 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:11:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:11:37 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:11:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.100.72.207	17-08-2023 12:11:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.100.72.207	17-08-2023 12:11:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.100.72.207	17-08-2023 12:11:46 PM	Upload Type FOR PAN Branch:25536----SELF_DIGI10.100.72.207	17-08-2023 12:11:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: SELF_DIGI & UserId: 110.100.72.207	17-08-2023 12:11:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.100.72.207	17-08-2023 12:11:46 PM	Copy Success: 255369700380841.pdf10.100.72.207	17-08-2023 12:11:46 PM	PDF Path: /u01/uploads_uat/panpdf/255369700380841.pdf10.100.72.207	17-08-2023 12:11:46 PM	*****outside image copy foreach****10.100.72.207	17-08-2023 12:11:46 PM	THIS IS PAGE: 010.100.72.207	17-08-2023 12:11:46 PM	THIS IS PAGE: 110.100.72.207	17-08-2023 12:11:46 PM	THIS IS PAGE: 210.100.72.207	17-08-2023 12:11:46 PM	THIS IS PAGE: 310.100.72.207	17-08-2023 12:11:46 PM	Total Image page count: 410.100.72.207	17-08-2023 12:11:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.100.72.207	17-08-2023 12:11:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
-{
-    "AckNumber": "255369700380841",
-    "status": "Successfull",
-    "remark": "Successfull Upload",
-    "SequenceNo": "0"
-}10.100.72.207	17-08-2023 12:11:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.100.72.207	17-08-2023 12:11:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.100.72.207	17-08-2023 12:11:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.100.72.207	17-08-2023 12:11:46 PM	image path: /u01/uploads_uat/panimages/255369700380841_1.jpg10.100.72.207	17-08-2023 12:11:46 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 12:11:46 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:11:46 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:11:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:11:51 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:19:34 PM	image path: /u01/uploads_uat/panimages/255369700380841_1.jpg10.100.72.207	17-08-2023 12:19:34 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 12:19:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:19:34 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 12:19:52 PM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.100.72.135	17-08-2023 12:19:52 PM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.100.72.135	17-08-2023 12:19:52 PM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=310.100.72.135	17-08-2023 12:19:52 PM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.100.72.135	17-08-2023 12:19:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 12:19:52 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 12:20:52 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.100.72.135	17-08-2023 12:20:52 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.100.72.135	17-08-2023 12:20:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 12:20:52 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 12:20:55 PM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.100.72.135	17-08-2023 12:20:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 12:20:55 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 12:22:09 PM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.100.72.135	17-08-2023 12:22:09 PM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Data Save ..10.100.72.135	17-08-2023 12:22:09 PM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data as  .. editId=&Name=Punjab&Code=152&Status=110.100.72.135	17-08-2023 12:22:09 PM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addregionbasicInfo.php10.100.72.135	17-08-2023 12:22:09 PM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data API Call Result  .. Insert Data Successfully10.100.72.135	17-08-2023 12:22:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 12:22:09 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 12:22:12 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.100.72.135	17-08-2023 12:22:12 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.100.72.135	17-08-2023 12:22:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 12:22:12 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 12:25:00 PM	Image path is: /u01/uploads_uat/panimages/255369700380841_1.jpg10.100.72.135	17-08-2023 12:29:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	17-08-2023 12:29:31 PM	JSON POST : {"data":"empty"}10.100.72.135	17-08-2023 12:29:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	17-08-2023 12:29:41 PM	JSON POST : {"data":"empty"}10.100.72.135	17-08-2023 12:29:42 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.135	17-08-2023 12:29:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.135	17-08-2023 12:29:42 PM	JSON POST : Array10.100.72.135	17-08-2023 12:29:42 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "HOUSER",
-    "UserName": "HO User [1]  ",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.135	17-08-2023 12:29:42 PM	Json parting value34434510.100.72.135	17-08-2023 12:29:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 12:29:42 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 12:29:42 PM	Session BranchId...HOUSER10.100.72.135	17-08-2023 12:29:42 PM	Session Type...HOUSER10.100.72.135	17-08-2023 12:29:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.135	17-08-2023 12:29:42 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.100.72.135	17-08-2023 12:29:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.135	17-08-2023 12:29:43 PM	JSON POST : 10.100.72.135	17-08-2023 12:29:50 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.135	17-08-2023 12:29:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 12:29:50 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 12:29:56 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.135	17-08-2023 12:29:56 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.135	17-08-2023 12:29:56 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.135	17-08-2023 12:29:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 12:29:56 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 12:29:59 PM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=2553610.100.72.135	17-08-2023 12:29:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 12:29:59 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 12:32:35 PM	Image path is: /u01/uploads_uat/panimages/255369700380841_1.jpg10.100.72.207	17-08-2023 12:32:43 PM	Image path is: /u01/uploads_uat/panimages/255369700380841_1.jpg10.100.72.207	17-08-2023 12:32:45 PM	image path: /u01/uploads_uat/panimages/255369700380841_1.jpg10.100.72.207	17-08-2023 12:32:45 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 12:32:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/cropactionapi.php10.100.72.207	17-08-2023 12:32:45 PM	JSON POST : {"hiddenphotoval":"1","hiddenimageval":"1","imageType":"Sig","aid":"255369700380841","action":"cropimage","userId":"1","ip":"10.100.72.207"}10.100.72.207	17-08-2023 12:32:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:32:45 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:33:45 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 12:33:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:33:45 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 12:35:07 PM	image path: /u01/uploads_uat/panimages/255369700380841_1.jpg10.100.72.207	17-08-2023 12:35:07 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 12:35:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:35:07 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 12:35:19 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 12:35:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 12:35:19 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 12:35:50 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.135	17-08-2023 12:35:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 12:35:50 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 01:00:11 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.135	17-08-2023 01:00:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 01:00:11 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 01:00:19 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.135	17-08-2023 01:00:19 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.135	17-08-2023 01:00:19 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.135	17-08-2023 01:00:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 01:00:19 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 01:00:22 PM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=2553610.100.72.135	17-08-2023 01:00:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 01:00:22 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 01:10:34 PM	JSON to post for dataenrty form 1----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "KNP", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "95", "applicanttitlecode": "2", "applicantlastname": "DEVI", "applicationfirstname": "REKHA", "applicantmiddlename": " ", "NAMETOBEPRINTED": "REKHA DEVI", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "F","fatherlastname": "LAL", "fatherfirstname": "MOHAN", "fathermiddlename": " ", "resiflatorblockno": "FLAT 123", "resibuildingorvillage": "HOUSE NO 77 D", "resipostoffice": "JIWAJI", "resiareasubdivision": "NAGAR", "resitownorcountry": "NOIDA", "resistatecode": "31", "resipincode": "201301", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "10061989",  "acknowledmentnumber": "255369700380841","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "COMMADDRESS": "", "countryisd": "", "STDCODE": "", "TELPHONE": "9917623692", "EMAIL": "JASPAL.SINGH@RELIGARE.COM", "REGNUM": "", "INDIANCITIZEN": "I", "ADHARNUM": "", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "REKHA DEVI", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": "", "orgname": "", "isbusinessorprofession": "", "businessorprfessioncode": "", "anotherincomesrctypecode": "", "ratitlecode": "", "ralastname": "", "rafistname": "", "ramiddlename": "", "raflatorblock": "", "rabuildingorvillage": "", "streetorpostoffice": "", "raareasubdivision": "", "ratownorcountry": "", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "044", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "","verifiername": "","verifiercapcitycode": "","verificationplace": "","verificationdate": "","modeofapplication": "","acknowledmentnumber": "255369700380841", "officezip": "" }}10.100.72.207	17-08-2023 01:10:34 PM	URL to hit on dataenrty form 1----http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.100.72.207	17-08-2023 01:10:34 PM	Response return from dataentry page 1 ----
-{
-    "status": "0",
-    "message": "Record Updated Successfully",
-    "RecordUpdated": 1,
-    "formtype": "49A",
-    "AcknowledgementNumber": "255369700380841"
-}10.100.72.207	17-08-2023 01:10:34 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:10:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 01:10:35 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 01:10:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 01:10:40 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 01:10:42 PM	Session BranchId...2553610.100.72.207	17-08-2023 01:10:42 PM	Session Type...BRANCH10.100.72.207	17-08-2023 01:10:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.207	17-08-2023 01:10:42 PM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.72.207	17-08-2023 01:10:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.207	17-08-2023 01:10:44 PM	JSON POST : 10.100.72.207	17-08-2023 01:10:48 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:10:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 01:10:48 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 01:11:02 PM	JSON to post for dataenrty form 1----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "KNP", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "95", "applicanttitlecode": "2", "applicantlastname": "DEVI", "applicationfirstname": "REKHA", "applicantmiddlename": " ", "NAMETOBEPRINTED": "REKHA DEVI", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "F","fatherlastname": "LAL", "fatherfirstname": "MOHAN", "fathermiddlename": " ", "resiflatorblockno": "FLAT 123", "resibuildingorvillage": "HOUSE NO 77 D", "resipostoffice": "JIWAJI", "resiareasubdivision": "NAGAR", "resitownorcountry": "NOIDA", "resistatecode": "31", "resipincode": "201301", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "10061989",  "acknowledmentnumber": "255369700380841","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "COMMADDRESS": "", "countryisd": "", "STDCODE": "", "TELPHONE": "9917623692", "EMAIL": "JASPAL.SINGH@RELIGARE.COM", "REGNUM": "", "INDIANCITIZEN": "I", "ADHARNUM": "", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "REKHA DEVI", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": "", "orgname": "", "isbusinessorprofession": "", "businessorprfessioncode": "", "anotherincomesrctypecode": "", "ratitlecode": "", "ralastname": "", "rafistname": "", "ramiddlename": "", "raflatorblock": "", "rabuildingorvillage": "", "streetorpostoffice": "", "raareasubdivision": "", "ratownorcountry": "", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "044", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "","verifiername": "","verifiercapcitycode": "","verificationplace": "","verificationdate": "","modeofapplication": "","acknowledmentnumber": "255369700380841", "officezip": "" }}10.100.72.207	17-08-2023 01:11:02 PM	URL to hit on dataenrty form 1----http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.100.72.207	17-08-2023 01:11:02 PM	Response return from dataentry page 1 ----
-{
-    "status": "0",
-    "message": "Record Updated Successfully",
-    "RecordUpdated": 1,
-    "formtype": "49A",
-    "AcknowledgementNumber": "255369700380841"
-}10.100.72.207	17-08-2023 01:11:03 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:11:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 01:11:03 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 01:13:44 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "KNP", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "95", "applicanttitlecode": "2", "applicantlastname": "DEVI", "applicationfirstname": "REKHA", "applicantmiddlename": " ", "NAMETOBEPRINTED": "REKHA DEVI", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "F","fatherlastname": "LAL", "fatherfirstname": "MOHAN", "fathermiddlename": " ", "resiflatorblockno": "FLAT 123", "resibuildingorvillage": "HOUSE NO 77 D", "resipostoffice": "JIWAJI", "resiareasubdivision": "NAGAR", "resitownorcountry": "NOIDA", "resistatecode": "31", "resipincode": "201301", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "10061989",  "acknowledmentnumber": "255369700380841","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": " ", "officeflatorblock": " ", "officebuildingorvillage": " ", "officestreeorpostoffice": " ", "officeareaorsubdivision": " ", "officetownorcontry": " ", "officestatecode": "", "officepincode": "", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "53534", "TELPHONE": "9917623692", "EMAIL": "JASPAL.SINGH@RELIGARE.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "REKHA DEVI", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "044", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "17082023", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "SELF","verifiercapcitycode": "01","verificationplace": "NOIDA","verificationdate": "17-08-2023","modeofapplication": "T","acknowledmentnumber": "255369700380841", "officezip": "" }}10.100.72.207	17-08-2023 01:13:44 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.100.72.207	17-08-2023 01:13:44 PM	Response return from dataentry page 2 ----
-{
-    "status": "0",
-    "message": "Record Updated Successfully",
-    "RecordUpdated": 1,
-    "formtype": "49A",
-    "AcknowledgementNumber": "255369700380841"
-}10.100.72.207	17-08-2023 01:13:44 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:13:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 01:13:44 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 01:13:47 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:13:51 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:13:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 01:13:51 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 01:15:29 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "KNP", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "95", "applicanttitlecode": "2", "applicantlastname": "DEVI", "applicationfirstname": "REKHA", "applicantmiddlename": " ", "NAMETOBEPRINTED": "REKHA DEVI", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "F","fatherlastname": "LAL", "fatherfirstname": "MOHAN", "fathermiddlename": " ", "resiflatorblockno": "FLAT 123", "resibuildingorvillage": "HOUSE NO 77 D", "resipostoffice": "JIWAJI", "resiareasubdivision": "NAGAR", "resitownorcountry": "NOIDA", "resistatecode": "31", "resipincode": "201301", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "10061989",  "acknowledmentnumber": "255369700380841","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": " ", "officeflatorblock": " ", "officebuildingorvillage": " ", "officestreeorpostoffice": " ", "officeareaorsubdivision": " ", "officetownorcontry": " ", "officestatecode": "", "officepincode": "", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "53534", "TELPHONE": "9917623692", "EMAIL": "JASPAL.SINGH@RELIGARE.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "REKHA DEVI", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "044", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "17082023", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "SELF","verifiercapcitycode": "01","verificationplace": "NOIDA","verificationdate": "17-08-2023","modeofapplication": "T","acknowledmentnumber": "255369700380841", "officezip": "" }}10.100.72.207	17-08-2023 01:15:29 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.100.72.207	17-08-2023 01:15:29 PM	Response return from dataentry page 2 ----
-{
-    "status": "0",
-    "message": "Record Updated Successfully",
-    "RecordUpdated": 1,
-    "formtype": "49A",
-    "AcknowledgementNumber": "255369700380841"
-}10.100.72.207	17-08-2023 01:15:29 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:15:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 01:15:29 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 01:15:32 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:15:59 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:15:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 01:15:59 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 01:19:32 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:19:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 01:19:32 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 01:19:35 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:20:01 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:20:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 01:20:01 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 01:20:05 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:26:13 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 01:26:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 01:26:13 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 01:29:41 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.135	17-08-2023 01:29:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 01:29:41 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 01:29:44 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.135	17-08-2023 01:29:44 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.135	17-08-2023 01:29:44 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.135	17-08-2023 01:29:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 01:29:44 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 01:29:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 01:29:47 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 01:29:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/productinfoList.php10.100.72.135	17-08-2023 01:29:47 PM	JSON POST : 10.100.72.135	17-08-2023 01:29:47 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listproduct.php?branchCode=&type=product10.100.72.135	17-08-2023 01:29:47 PM	response return from product mapping list : 10.100.72.135	17-08-2023 01:29:54 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.135	17-08-2023 01:29:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 01:29:54 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.135	17-08-2023 01:30:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 01:30:58 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.50.146	17-08-2023 01:59:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	17-08-2023 01:59:01 PM	JSON POST : {"data":"empty"}10.100.50.146	17-08-2023 01:59:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	17-08-2023 01:59:13 PM	JSON POST : {"data":"empty"}10.100.50.146	17-08-2023 01:59:13 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.50.146	17-08-2023 01:59:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.50.146	17-08-2023 01:59:13 PM	JSON POST : Array10.100.50.146	17-08-2023 01:59:13 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "2",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Branch User  [Branch - 25536]",
-    "RegionId": "2",
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.50.146	17-08-2023 01:59:13 PM	Json parting value2553610.100.50.146	17-08-2023 01:59:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 01:59:14 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 01:59:15 PM	Session BranchId...2553610.100.50.146	17-08-2023 01:59:15 PM	Session Type...BRANCH10.100.50.146	17-08-2023 01:59:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.146	17-08-2023 01:59:15 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.146	17-08-2023 01:59:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.146	17-08-2023 01:59:17 PM	JSON POST : 10.100.50.146	17-08-2023 01:59:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 01:59:39 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 01:59:40 PM	Session BranchId...2553610.100.50.146	17-08-2023 01:59:40 PM	Session Type...BRANCH10.100.50.146	17-08-2023 01:59:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.146	17-08-2023 01:59:40 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.146	17-08-2023 01:59:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.146	17-08-2023 01:59:42 PM	JSON POST : 10.100.72.135	17-08-2023 02:14:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.100.72.135	17-08-2023 02:14:59 PM	JSON POST : {
-	"userGroupId" : "1"
-}10.100.72.135	17-08-2023 02:14:59 PM	RESPONSE RETURN FROM USER PAGE API: {
-    "Status": "1",
-    "DataTable": [
-        {
-            "Id": "1",
-            "PageName": "Dashboard",
-            "PageUrl": "index.php",
-            "Status": "1"
-        },
-        {
-            "Id": "2",
-            "PageName": "Bulk Upload PAN",
-            "PageUrl": "bulkuploaddata.php",
-            "Status": "0"
-        },
-        {
-            "Id": "3",
-            "PageName": "Bulk Upload TAN",
-            "PageUrl": "bulkuploaddatatan.php",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "PageName": "Branch Master",
-            "PageUrl": "listbranch.php",
-            "Status": "0"
-        },
-        {
-            "Id": "6",
-            "PageName": "Region Master",
-            "PageUrl": "listregion.php",
-            "Status": "0"
-        },
-        {
-            "Id": "7",
-            "PageName": "Rejection Reason Master",
-            "PageUrl": "listrejectionreason.php",
-            "Status": "0"
-        },
-        {
-            "Id": "8",
-            "PageName": "Vendor Master",
-            "PageUrl": "listvendors.php",
-            "Status": "0"
-        },
-        {
-            "Id": "9",
-            "PageName": "Religare Office",
-            "PageUrl": "listrloffice.php",
-            "Status": "0"
-        },
-        {
-            "Id": "10",
-            "PageName": "Export NSDL Rejection",
-            "PageUrl": "exportnsdlrejection.php",
-            "Status": "0"
-        },
-        {
-            "Id": "12",
-            "PageName": "Batch Status Report",
-            "PageUrl": "batchstatusreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "13",
-            "PageName": "Export PDF\/A-1a",
-            "PageUrl": "downloadpdf1a.php",
-            "Status": "0"
-        },
-        {
-            "Id": "14",
-            "PageName": "Batch Dashboard",
-            "PageUrl": "selecttoexport.php",
-            "Status": "1"
-        },
-        {
-            "Id": "15",
-            "PageName": "NSDL Single Batch File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
-            "Status": "0"
-        },
-        {
-            "Id": "16",
-            "PageName": "NSDL Accecpted File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
-            "Status": "0"
-        },
-        {
-            "Id": "17",
-            "PageName": "NSDL Allotment File Upload [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
-            "Status": "0"
-        },
-        {
-            "Id": "18",
-            "PageName": "Batch Status [PAN]",
-            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
-            "Status": "0"
-        },
-        {
-            "Id": "19",
-            "PageName": "NSDL Single Batch File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
-            "Status": "0"
-        },
-        {
-            "Id": "20",
-            "PageName": "NSDL Accecpted File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
-            "Status": "0"
-        },
-        {
-            "Id": "21",
-            "PageName": "NSDL Allotment File Upload [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
-            "Status": "0"
-        },
-        {
-            "Id": "22",
-            "PageName": "Batch Status [TAN]",
-            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
-            "Status": "0"
-        },
-        {
-            "Id": "23",
-            "PageName": "Audit Trail",
-            "PageUrl": "auditTrail.php",
-            "Status": "1"
-        },
-        {
-            "Id": "11",
-            "PageName": "Rejection Intimation Report",
-            "PageUrl": "listMail.php",
-            "Status": "0"
-        },
-        {
-            "Id": "24",
-            "PageName": "Daily PAN Discrepancy Report",
-            "PageUrl": "rejectionreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "PageName": "MIS Upload PAN\/TAN",
-            "PageUrl": "missubmit.php?t=1",
-            "Status": "0"
-        },
-        {
-            "Id": "25",
-            "PageName": "PAN PDF1A Response Upload",
-            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
-            "Status": "0"
-        },
-        {
-            "Id": "26",
-            "PageName": "TAN PDF1A Response Upload",
-            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
-            "Status": "0"
-        },
-        {
-            "Id": "27",
-            "PageName": "Document Management",
-            "PageUrl": "docmanagement.php",
-            "Status": "0"
-        },
-        {
-            "Id": "28",
-            "PageName": "Courier List",
-            "PageUrl": "courierlist.php",
-            "Status": "0"
-        },
-        {
-            "Id": "29",
-            "PageName": "Courier Receiving",
-            "PageUrl": "courierreceiving.php",
-            "Status": "0"
-        },
-        {
-            "Id": "30",
-            "PageName": "MIS Upload eTDS",
-            "PageUrl": "missubmit.php?t=2",
-            "Status": "0"
-        },
-        {
-            "Id": "31",
-            "PageName": "MIS Upload 24G",
-            "PageUrl": "missubmit.php?t=3",
-            "Status": "0"
-        },
-        {
-            "Id": "32",
-            "PageName": "Mobile MIS Upload PAN",
-            "PageUrl": "mobilemissubmit.php",
-            "Status": "0"
-        },
-        {
-            "Id": "33",
-            "PageName": "Ack Wise Status Report",
-            "PageUrl": "ackwisestatusreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "34",
-            "PageName": "Query Screen Report",
-            "PageUrl": "queryscreenreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "35",
-            "PageName": "User Wise QC Report",
-            "PageUrl": "userwisereportqc.php",
-            "Status": "0"
-        },
-        {
-            "Id": "36",
-            "PageName": "Vendor Reconcilation Report",
-            "PageUrl": "vendorreconreport.php",
-            "Status": "0"
-        },
-        {
-            "Id": "37",
-            "PageName": "Download PDF\/A-1a",
-            "PageUrl": "pdf1adownloadfisher.php",
-            "Status": "0"
-        },
-        {
-            "Id": "38",
-            "PageName": "PDF\/A-1a Reports",
-            "PageUrl": "pdf1aconversion_report.php",
-            "Status": "0"
-        },
-        {
-            "Id": "39",
-            "PageName": "Status Report",
-            "PageUrl": "statusreport.php",
-            "Status": "0"
-        }
-    ]
-}10.100.72.135	17-08-2023 02:14:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 02:14:59 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.50.146	17-08-2023 02:16:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	17-08-2023 02:16:00 PM	JSON POST : {"data":"empty"}10.100.50.146	17-08-2023 02:16:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	17-08-2023 02:16:07 PM	JSON POST : {"data":"empty"}10.100.50.146	17-08-2023 02:16:07 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.50.146	17-08-2023 02:16:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.50.146	17-08-2023 02:16:07 PM	JSON POST : Array10.100.50.146	17-08-2023 02:16:07 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "2",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Branch User  [Branch - 25536]",
-    "RegionId": "2",
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.50.146	17-08-2023 02:16:07 PM	Json parting value2553610.100.50.146	17-08-2023 02:16:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 02:16:07 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 02:16:09 PM	Session BranchId...2553610.100.50.146	17-08-2023 02:16:09 PM	Session Type...BRANCH10.100.50.146	17-08-2023 02:16:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.146	17-08-2023 02:16:09 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.146	17-08-2023 02:16:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.146	17-08-2023 02:16:10 PM	JSON POST : 10.100.50.146	17-08-2023 02:16:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 02:16:22 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 02:16:23 PM	Session BranchId...2553610.100.50.146	17-08-2023 02:16:23 PM	Session Type...BRANCH10.100.50.146	17-08-2023 02:16:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.146	17-08-2023 02:16:23 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.146	17-08-2023 02:16:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.146	17-08-2023 02:16:26 PM	JSON POST : 10.100.72.207	17-08-2023 02:34:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 02:34:57 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 02:35:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 02:35:19 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 02:35:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.100.72.207	17-08-2023 02:35:35 PM	JSON POST : {
-					"AcknowledgementNo":"255369700380841",
-					"productType":"PAN"
-				}10.100.72.207	17-08-2023 02:35:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 02:35:35 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 02:53:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 02:53:04 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.50.146	17-08-2023 02:55:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 02:55:56 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 03:23:54 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 03:24:01 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 03:24:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 03:24:01 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 03:24:04 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.50.146	17-08-2023 03:35:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 03:35:17 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 03:38:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 03:38:08 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 03:51:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 03:51:40 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 03:59:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 03:59:40 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.135	17-08-2023 04:02:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	17-08-2023 04:02:57 PM	JSON POST : {"data":"empty"}10.100.72.135	17-08-2023 04:03:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	17-08-2023 04:03:08 PM	JSON POST : {"data":"empty"}10.100.72.135	17-08-2023 04:03:08 PM	ui MjU1MzYwMg== and pas dGVzdA==10.100.72.135	17-08-2023 04:03:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.135	17-08-2023 04:03:08 PM	JSON POST : Array10.100.72.135	17-08-2023 04:03:08 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "1",
-    "BranchId": "25536",
-    "Role": "1",
-    "Type": "branch",
-    "UserName": "Branch User  (2553602)",
-    "RegionId": "2",
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.72.135	17-08-2023 04:03:08 PM	Json parting value2553610.100.72.135	17-08-2023 04:03:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 04:03:09 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.135	17-08-2023 04:03:10 PM	Session BranchId...2553610.100.72.135	17-08-2023 04:03:10 PM	Session Type...BRANCH10.100.72.135	17-08-2023 04:03:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.135	17-08-2023 04:03:10 PM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.72.135	17-08-2023 04:03:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.135	17-08-2023 04:03:11 PM	JSON POST : 10.100.72.135	17-08-2023 04:03:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 04:03:19 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.135	17-08-2023 04:03:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 04:03:52 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.135	17-08-2023 04:03:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 04:03:57 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 04:07:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 04:07:10 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 04:09:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 04:09:00 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.207	17-08-2023 04:11:36 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.72.207	17-08-2023 04:11:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	17-08-2023 04:11:36 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.207	17-08-2023 04:11:39 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970038084110.100.50.146	17-08-2023 04:32:10 PM	[Info] - File location /tinfc1/UAT/rejectionreport.php Message:-  URL for API - {
-	"fromDate":"1970-01-01",
-    "toDate":"1970-01-01",
-    "productType":"PAN",
-  "BranchCode":"25536"
-}10.100.50.146	17-08-2023 04:32:10 PM	[Info] - File location /tinfc1/UAT/rejectionreport.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.50.146	17-08-2023 04:32:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 04:32:10 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.135	17-08-2023 04:33:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 04:33:50 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.135	17-08-2023 04:34:23 PM	***  Inside misuploadfile.php 10.100.72.135	17-08-2023 04:34:23 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 110.100.72.135	17-08-2023 04:34:23 PM	****** upload path ****** :uploads/10.100.72.135	17-08-2023 04:34:23 PM	URL HIT BY MIS UPLOAD FOR PAN :http://10.150.146.12/UAT_BackEnd/General/misupload.php?UserId=1&ip=10.100.72.13510.100.72.135	17-08-2023 04:34:23 PM	{
-    "Status": "Successes",
-    "TotalRecordProcessed": 792,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.135	17-08-2023 04:37:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 04:37:23 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.135	17-08-2023 04:50:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.100.72.135	17-08-2023 04:50:00 PM	JSON POST : {
-					"AcknowledgementNo":"255369700437552",
-					"productType":"PAN"
-				}10.100.72.135	17-08-2023 04:50:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 04:50:00 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:02:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:02:29 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:02:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:02:36 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:03:45 PM	Session BranchId...2553610.100.50.146	17-08-2023 05:03:45 PM	Session Type...BRANCH10.100.50.146	17-08-2023 05:03:45 PM	JSON to post dashboard data:  ----{ "UserType": "BRANCH", "UserId": "", "UserTypeId": "25536","page":"documentmanagementpage"}10.100.50.146	17-08-2023 05:03:45 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardAPI.php10.100.50.146	17-08-2023 05:03:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:03:45 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:07:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:07:09 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:07:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.100.50.146	17-08-2023 05:07:09 PM	JSON POST : {
-                                      "courier":"",
-                                      "page":"courierlist"
-                                    }10.100.50.146	17-08-2023 05:07:33 PM	Session BranchId...2553610.100.50.146	17-08-2023 05:07:33 PM	Session Type...BRANCH10.100.50.146	17-08-2023 05:07:33 PM	JSON to post dashboard data:  ----{ "UserType": "BRANCH", "UserId": "", "UserTypeId": "25536","page":"documentmanagementpage"}10.100.50.146	17-08-2023 05:07:33 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardAPI.php10.100.50.146	17-08-2023 05:07:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:07:33 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:07:37 PM	JSON to post create bunch:  ----{
-		"ListOfACKO":[{"AcknowledgementNumber":"098279700717494"}]
-	}10.100.50.146	17-08-2023 05:07:37 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/General/CreateBunchAPI.php10.100.50.146	17-08-2023 05:07:37 PM	Response return from BUNCH API: 10.100.50.146	17-08-2023 05:07:37 PM	Session BranchId...2553610.100.50.146	17-08-2023 05:07:37 PM	Session Type...BRANCH10.100.50.146	17-08-2023 05:07:37 PM	JSON to post dashboard data:  ----{ "UserType": "BRANCH", "UserId": "", "UserTypeId": "25536","page":"documentmanagementpage"}10.100.50.146	17-08-2023 05:07:37 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardAPI.php10.100.50.146	17-08-2023 05:07:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:07:37 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:07:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:07:41 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:07:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.100.50.146	17-08-2023 05:07:41 PM	JSON POST : {
-                                      "courier":"",
-                                      "page":"courierlist"
-                                    }10.100.50.146	17-08-2023 05:13:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierDashboard.php10.100.50.146	17-08-2023 05:13:08 PM	JSON POST : {
-   		"courier":"123456",
-      "fromDate":"",
-      "toDate":"",
-		  "page":"courierlist"
-	}10.100.50.146	17-08-2023 05:13:08 PM	data from courier list: {
-    "Status": "0",
-    "Message": "Success",
-    "CourierList": [
-        {
-            "Courier": "123456",
-            "BunchList": [
-                {
-                    "Bunch": "25536-2023-0021733",
-                    "CourierdAddress": "noida sector-4",
-                    "ReceivedBy": null,
-                    "CourierDate": "2023-03-06",
-                    "Stage": "F~BOP~DCM~CS"
-                }
-            ]
-        }
-    ]
-}10.100.50.146	17-08-2023 05:13:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:13:08 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:13:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.100.50.146	17-08-2023 05:13:08 PM	JSON POST : {
-                                      "courier":"",
-                                      "page":"courierlist"
-                                    }10.100.50.146	17-08-2023 05:13:17 PM	JSON to get ack number:  ----{
-   "ListData":[
-      {
-         "BunchNumber":"25536-2023-0021733"
-      }
-   ]
-}10.100.50.146	17-08-2023 05:13:17 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/General/getAckNoforBunchNo.php10.100.50.146	17-08-2023 05:13:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:13:17 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:13:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierDashboard.php10.100.50.146	17-08-2023 05:13:20 PM	JSON POST : {
-   		"courier":"123456",
-      "fromDate":"",
-      "toDate":"",
-		  "page":"courierlist"
-	}10.100.50.146	17-08-2023 05:13:20 PM	data from courier list: {
-    "Status": "0",
-    "Message": "Success",
-    "CourierList": [
-        {
-            "Courier": "123456",
-            "BunchList": [
-                {
-                    "Bunch": "25536-2023-0021733",
-                    "CourierdAddress": "noida sector-4",
-                    "ReceivedBy": null,
-                    "CourierDate": "2023-03-06",
-                    "Stage": "F~BOP~DCM~CS"
-                }
-            ]
-        }
-    ]
-}10.100.50.146	17-08-2023 05:13:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:13:20 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:13:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.100.50.146	17-08-2023 05:13:20 PM	JSON POST : {
-                                      "courier":"",
-                                      "page":"courierlist"
-                                    }10.100.50.146	17-08-2023 05:13:23 PM	JSON to get ack number:  ----{
-   "ListData":[
-      {
-         "BunchNumber":"25536-2023-0021733"
-      }
-   ]
-}10.100.50.146	17-08-2023 05:13:23 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/General/getAckNoforBunchNo.php10.100.50.146	17-08-2023 05:13:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:13:23 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.135	17-08-2023 05:32:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 05:32:39 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:37:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 05:37:59 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.50.146	17-08-2023 05:37:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.100.50.146	17-08-2023 05:37:59 PM	JSON POST : {
-                                      "courier":"",
-                                      "page":"courierlist"
-                                    }10.140.59.77	17-08-2023 06:07:29 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.59.77	17-08-2023 06:07:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.77	17-08-2023 06:07:29 PM	JSON POST : {"data":"empty"}10.140.59.77	17-08-2023 06:07:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.77	17-08-2023 06:07:39 PM	JSON POST : {"data":"empty"}10.140.59.77	17-08-2023 06:07:39 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.77	17-08-2023 06:07:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.77	17-08-2023 06:07:39 PM	JSON POST : Array10.140.59.77	17-08-2023 06:07:39 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "HOUSER",
-    "UserName": "HO User [1]  ",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.140.59.77	17-08-2023 06:07:39 PM	Json parting value34434510.140.59.77	17-08-2023 06:07:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.77	17-08-2023 06:07:39 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.59.77	17-08-2023 06:07:40 PM	Session BranchId...HOUSER10.140.59.77	17-08-2023 06:07:40 PM	Session Type...HOUSER10.140.59.77	17-08-2023 06:07:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.77	17-08-2023 06:07:40 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.140.59.77	17-08-2023 06:07:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.77	17-08-2023 06:07:41 PM	JSON POST : 10.100.72.135	17-08-2023 06:07:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 06:07:42 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}10.100.72.135	17-08-2023 06:07:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	17-08-2023 06:07:52 PM	JSON POST : {"data":"empty"}10.100.72.135	17-08-2023 06:07:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	17-08-2023 06:07:58 PM	JSON POST : {"data":"empty"}10.100.72.135	17-08-2023 06:07:59 PM	ui cWN1c2VyMQ== and pas dGVzdA==10.100.72.135	17-08-2023 06:07:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.135	17-08-2023 06:07:59 PM	JSON POST : Array10.100.72.135	17-08-2023 06:07:59 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "3",
-    "BranchId": "09114",
-    "Role": "1",
-    "Type": "QCP",
-    "UserName": "satendra1  QC",
-    "RegionId": "2",
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.135	17-08-2023 06:07:59 PM	Json parting value0911410.100.72.135	17-08-2023 06:07:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 06:07:59 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.72.135	17-08-2023 06:08:00 PM	Session BranchId...QCP10.100.72.135	17-08-2023 06:08:00 PM	Session Type...QCP10.100.72.135	17-08-2023 06:08:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.135	17-08-2023 06:08:00 PM	JSON POST : { "UserType": "QCP", "UserId": "3", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.72.135	17-08-2023 06:08:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.135	17-08-2023 06:08:01 PM	JSON POST : 10.100.72.135	17-08-2023 06:08:06 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.135	17-08-2023 06:08:06 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.100.72.135	17-08-2023 06:08:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 06:08:06 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.72.135	17-08-2023 06:08:13 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.100.72.135	17-08-2023 06:08:13 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- Call for Retrival 10.100.72.135	17-08-2023 06:08:13 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php?editId=210.100.72.135	17-08-2023 06:08:13 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "2",
-    "Name": "Vendor B",
-    "AddressOne": "Noida Sector - 2",
-    "AddressTwo": "",
-    "City": "Niwari",
-    "PinCode": "201301",
-    "State": "21",
-    "PrimaryPhone": "+919873313136",
-    "SecondaryPhone": "",
-    "PrimaryEmail": "satendragurjar844@gmail.com",
-    "SecondaryEmail": "satendragurjar844@gmail.com",
-    "ContactPerson": "",
-    "CenterType": "1",
-    "Region": "3",
-    "PanNumber": "",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "VD122",
-    "FinancialCode": "",
-    "BankName": "",
-    "AccountNumber": "",
-    "IfscCode": "",
-    "BranchName": "",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2022-04-08",
-    "Created_time": "08:46:04",
-    "Updated_date": null,
-    "Updated_time": null,
-    "MaxCapacity": "0"
-}10.100.72.135	17-08-2023 06:08:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 06:08:13 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.72.135	17-08-2023 06:08:15 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.135	17-08-2023 06:08:15 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.100.72.135	17-08-2023 06:08:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 06:08:15 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.72.135	17-08-2023 06:08:16 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.100.72.135	17-08-2023 06:08:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 06:08:16 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.72.135	17-08-2023 06:08:36 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.135	17-08-2023 06:08:36 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/vendorinfoList.php10.100.72.135	17-08-2023 06:08:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 06:08:36 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.72.135	17-08-2023 06:08:52 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.100.72.135	17-08-2023 06:08:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	17-08-2023 06:08:52 PM	JSON POST : {
-			"userType" : "QCP"
-		}10.100.50.146	17-08-2023 06:59:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	17-08-2023 06:59:49 PM	JSON POST : {
-			"userType" : "BRANCH"
-		}

@@ -1,1255 +1,0 @@
-10.100.21.52	08-07-2024 10:31:29 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	08-07-2024 10:31:29 AM	JSON POST : {
-			"userType" : "BACKHO"
-		}10.100.21.52	08-07-2024 10:31:29 AM	Session BranchId...BACKHO10.100.21.52	08-07-2024 10:31:29 AM	Session Type...BACKHO10.100.21.52	08-07-2024 10:31:29 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	08-07-2024 10:31:29 AM	JSON POST : { "UserType": "BACKHO", "UserId": "12749", "UserTypeId": "BACKHO", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.21.52	08-07-2024 10:31:29 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	08-07-2024 10:31:29 AM	JSON POST : 10.100.21.52	08-07-2024 10:31:37 AM	ui YmFja2hv and pas dGVzdA==10.100.21.52	08-07-2024 10:31:37 AM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.21.52	08-07-2024 10:31:37 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.21.52	08-07-2024 10:31:37 AM	JSON POST : Array10.100.21.52	08-07-2024 10:31:37 AM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.21.52	08-07-2024 10:31:37 AM	Json parting value34434510.100.21.52	08-07-2024 10:31:37 AM	Session BranchId...BACKHO10.100.21.52	08-07-2024 10:31:37 AM	Session Type...BACKHO10.100.21.52	08-07-2024 10:31:37 AM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.21.52	08-07-2024 10:31:37 AM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.21.52	08-07-2024 10:31:43 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:31:43 AM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 10:31:43 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:31:43 AM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 10:31:43 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:31:43 AM	JSON POST : {
-    "accountGroup":"3"
-}10.100.21.52	08-07-2024 10:31:43 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:31:43 AM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 10:31:43 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:31:43 AM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 10:31:43 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:31:43 AM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 10:31:43 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:31:43 AM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.21.52	08-07-2024 10:31:43 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:31:43 AM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.21.52	08-07-2024 10:31:43 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:31:43 AM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.21.52	08-07-2024 10:31:44 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:31:44 AM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 10:31:44 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:31:44 AM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.21.52	08-07-2024 10:31:44 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:31:44 AM	JSON POST : {
-    "accountGroup":"6"
-}10.100.21.52	08-07-2024 10:31:44 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:31:44 AM	JSON POST : {
-    "accountGroup":"10"
-}10.100.21.52	08-07-2024 10:31:44 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:31:44 AM	JSON POST : {
-    "accountGroup":"11"
-}10.100.21.52	08-07-2024 10:31:44 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:31:44 AM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 10:31:44 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:31:44 AM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.21.52	08-07-2024 10:31:44 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:31:44 AM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.21.52	08-07-2024 10:31:44 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:31:44 AM	JSON POST : {
-    "accountGroup":"8"
-}10.100.21.52	08-07-2024 10:31:44 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:31:44 AM	JSON POST : {
-    "accountGroup":"7"
-}10.100.21.52	08-07-2024 10:31:44 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:31:44 AM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 10:32:09 AM	[Info] - File location /tinfc1/UAT/addAccountSubGroup.php Message:- At begining of Call10.100.21.52	08-07-2024 10:32:09 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:32:09 AM	JSON POST : 10.100.21.52	08-07-2024 10:32:09 AM	Response return from Group Name API: {
-    "status": 0,
-    "AccountGroupData": [
-        {
-            "Number": 1,
-            "Id": "1",
-            "Name": "Current Assets",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 2,
-            "Id": "2",
-            "Name": "Current Liabilities",
-            "TypeName": "Liability",
-            "TypeId": "2"
-        },
-        {
-            "Number": 3,
-            "Id": "4",
-            "Name": "Capital Account",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 4,
-            "Id": "5",
-            "Name": "Direct Expenses",
-            "TypeName": "Expenses",
-            "TypeId": "5"
-        },
-        {
-            "Number": 5,
-            "Id": "6",
-            "Name": "Fixed Assets",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 6,
-            "Id": "7",
-            "Name": "Direct Income",
-            "TypeName": "Income",
-            "TypeId": "4"
-        },
-        {
-            "Number": 7,
-            "Id": "8",
-            "Name": "Loans",
-            "TypeName": "Liability",
-            "TypeId": "2"
-        },
-        {
-            "Number": 8,
-            "Id": "10",
-            "Name": "ICICI BANK 760",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 9,
-            "Id": "11",
-            "Name": "ICICI BANK 760",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        }
-    ]
-}10.100.21.52	08-07-2024 10:32:13 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:32:13 AM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 10:32:13 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:32:13 AM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 10:32:13 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:32:13 AM	JSON POST : {
-    "accountGroup":"3"
-}10.100.21.52	08-07-2024 10:32:13 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:32:13 AM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 10:32:13 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:32:13 AM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 10:32:13 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:32:13 AM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 10:32:13 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:32:13 AM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.21.52	08-07-2024 10:32:13 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:32:13 AM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.21.52	08-07-2024 10:32:13 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:32:13 AM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.21.52	08-07-2024 10:32:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:32:14 AM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 10:32:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:32:14 AM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.21.52	08-07-2024 10:32:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:32:14 AM	JSON POST : {
-    "accountGroup":"6"
-}10.100.21.52	08-07-2024 10:32:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:32:14 AM	JSON POST : {
-    "accountGroup":"10"
-}10.100.21.52	08-07-2024 10:32:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:32:14 AM	JSON POST : {
-    "accountGroup":"11"
-}10.100.21.52	08-07-2024 10:32:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:32:14 AM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 10:32:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:32:14 AM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.21.52	08-07-2024 10:32:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:32:14 AM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.21.52	08-07-2024 10:32:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:32:14 AM	JSON POST : {
-    "accountGroup":"8"
-}10.100.21.52	08-07-2024 10:32:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:32:14 AM	JSON POST : {
-    "accountGroup":"7"
-}10.100.21.52	08-07-2024 10:32:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:32:14 AM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 10:33:13 AM	[Info] - File location /tinfc1/UAT/addAccountSubGroup.php Message:- At begining of Call10.100.21.52	08-07-2024 10:33:13 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:33:13 AM	JSON POST : 10.100.21.52	08-07-2024 10:33:13 AM	Response return from Group Name API: {
-    "status": 0,
-    "AccountGroupData": [
-        {
-            "Number": 1,
-            "Id": "1",
-            "Name": "Current Assets",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 2,
-            "Id": "2",
-            "Name": "Current Liabilities",
-            "TypeName": "Liability",
-            "TypeId": "2"
-        },
-        {
-            "Number": 3,
-            "Id": "4",
-            "Name": "Capital Account",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 4,
-            "Id": "5",
-            "Name": "Direct Expenses",
-            "TypeName": "Expenses",
-            "TypeId": "5"
-        },
-        {
-            "Number": 5,
-            "Id": "6",
-            "Name": "Fixed Assets",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 6,
-            "Id": "7",
-            "Name": "Direct Income",
-            "TypeName": "Income",
-            "TypeId": "4"
-        },
-        {
-            "Number": 7,
-            "Id": "8",
-            "Name": "Loans",
-            "TypeName": "Liability",
-            "TypeId": "2"
-        },
-        {
-            "Number": 8,
-            "Id": "10",
-            "Name": "ICICI BANK 760",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 9,
-            "Id": "11",
-            "Name": "ICICI BANK 760",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        }
-    ]
-}10.100.21.52	08-07-2024 10:33:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:33:14 AM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 10:33:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:33:14 AM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 10:33:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:33:14 AM	JSON POST : {
-    "accountGroup":"3"
-}10.100.21.52	08-07-2024 10:33:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:33:14 AM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 10:33:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 10:33:14 AM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 10:33:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:33:14 AM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 10:33:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:33:14 AM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.21.52	08-07-2024 10:33:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:33:14 AM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.21.52	08-07-2024 10:33:14 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:33:14 AM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.21.52	08-07-2024 10:33:15 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:33:15 AM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 10:33:15 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:33:15 AM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.21.52	08-07-2024 10:33:15 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:33:15 AM	JSON POST : {
-    "accountGroup":"6"
-}10.100.21.52	08-07-2024 10:33:15 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:33:15 AM	JSON POST : {
-    "accountGroup":"10"
-}10.100.21.52	08-07-2024 10:33:15 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:33:15 AM	JSON POST : {
-    "accountGroup":"11"
-}10.100.21.52	08-07-2024 10:33:15 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:33:15 AM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 10:33:15 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:33:15 AM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.21.52	08-07-2024 10:33:15 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 10:33:15 AM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.21.52	08-07-2024 10:33:16 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:33:16 AM	JSON POST : {
-    "accountGroup":"8"
-}10.100.21.52	08-07-2024 10:33:16 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:33:16 AM	JSON POST : {
-    "accountGroup":"7"
-}10.100.21.52	08-07-2024 10:33:16 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 10:33:16 AM	JSON POST : {
-    "accountGroup":"5"
-}10.110.11.15	08-07-2024 10:42:34 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.110.11.15	08-07-2024 10:42:34 AM	JSON POST : {
-    "accountGroup":"1"
-}10.110.11.15	08-07-2024 10:42:34 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.110.11.15	08-07-2024 10:42:34 AM	JSON POST : {
-    "accountGroup":"2"
-}10.110.11.15	08-07-2024 10:42:34 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.110.11.15	08-07-2024 10:42:34 AM	JSON POST : {
-    "accountGroup":"3"
-}10.110.11.15	08-07-2024 10:42:34 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.110.11.15	08-07-2024 10:42:34 AM	JSON POST : {
-    "accountGroup":"4"
-}10.110.11.15	08-07-2024 10:42:34 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.110.11.15	08-07-2024 10:42:34 AM	JSON POST : {
-    "accountGroup":"5"
-}10.110.11.15	08-07-2024 10:42:34 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.110.11.15	08-07-2024 10:42:34 AM	JSON POST : {
-    "accountGroup":"1"
-}10.110.11.15	08-07-2024 10:42:34 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	08-07-2024 10:42:34 AM	JSON POST : {
-    "GroupId":"LB0001"
-}10.110.11.15	08-07-2024 10:42:34 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	08-07-2024 10:42:34 AM	JSON POST : {
-    "GroupId":"LB0004"
-}10.110.11.15	08-07-2024 10:42:34 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	08-07-2024 10:42:34 AM	JSON POST : {
-    "GroupId":"LB0005"
-}10.110.11.15	08-07-2024 10:42:35 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.110.11.15	08-07-2024 10:42:35 AM	JSON POST : {
-    "accountGroup":"4"
-}10.110.11.15	08-07-2024 10:42:35 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	08-07-2024 10:42:35 AM	JSON POST : {
-    "GroupId":"LB0002"
-}10.110.11.15	08-07-2024 10:42:35 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.110.11.15	08-07-2024 10:42:35 AM	JSON POST : {
-    "accountGroup":"6"
-}10.110.11.15	08-07-2024 10:42:35 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.110.11.15	08-07-2024 10:42:35 AM	JSON POST : {
-    "accountGroup":"10"
-}10.110.11.15	08-07-2024 10:42:35 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.110.11.15	08-07-2024 10:42:35 AM	JSON POST : {
-    "accountGroup":"11"
-}10.110.11.15	08-07-2024 10:42:35 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.110.11.15	08-07-2024 10:42:35 AM	JSON POST : {
-    "accountGroup":"2"
-}10.110.11.15	08-07-2024 10:42:35 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	08-07-2024 10:42:35 AM	JSON POST : {
-    "GroupId":"LB0003"
-}10.110.11.15	08-07-2024 10:42:35 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.110.11.15	08-07-2024 10:42:35 AM	JSON POST : {
-    "GroupId":"LB0006"
-}10.110.11.15	08-07-2024 10:42:35 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.110.11.15	08-07-2024 10:42:35 AM	JSON POST : {
-    "accountGroup":"8"
-}10.110.11.15	08-07-2024 10:42:35 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.110.11.15	08-07-2024 10:42:35 AM	JSON POST : {
-    "accountGroup":"7"
-}10.110.11.15	08-07-2024 10:42:35 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.110.11.15	08-07-2024 10:42:35 AM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 10:43:15 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	08-07-2024 10:43:15 AM	JSON POST : 10.100.21.52	08-07-2024 10:43:22 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.21.52	08-07-2024 10:43:22 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	08-07-2024 10:43:22 AM	JSON POST : 10.100.21.52	08-07-2024 10:43:26 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.21.52	08-07-2024 10:43:26 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	08-07-2024 10:43:26 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.21.52	08-07-2024 10:43:26 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	08-07-2024 10:43:26 AM	JSON POST : {
-    "billPeriod":"20"
-}10.100.21.52	08-07-2024 10:43:27 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	08-07-2024 10:43:27 AM	JSON POST : 10.100.21.52	08-07-2024 10:43:31 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.21.52	08-07-2024 10:43:31 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	08-07-2024 10:43:31 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.21.52	08-07-2024 10:43:31 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	08-07-2024 10:43:31 AM	JSON POST : {
-    "billPeriod":"21"
-}10.100.21.52	08-07-2024 10:43:33 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	08-07-2024 10:43:33 AM	JSON POST : 10.100.21.52	08-07-2024 10:47:28 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.21.52	08-07-2024 10:47:28 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	08-07-2024 10:47:28 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.21.52	08-07-2024 10:47:28 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	08-07-2024 10:47:28 AM	JSON POST : {
-    "billPeriod":"21"
-}10.100.21.52	08-07-2024 10:47:30 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	08-07-2024 10:47:30 AM	JSON POST : 10.100.21.52	08-07-2024 10:47:32 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.21.52	08-07-2024 10:47:32 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	08-07-2024 10:47:32 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.21.52	08-07-2024 10:47:32 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.21.52	08-07-2024 10:47:32 AM	JSON POST : {
-    "billPeriod":"21"
-}10.100.21.52	08-07-2024 10:47:34 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	08-07-2024 10:47:34 AM	JSON POST : 10.100.23.151	08-07-2024 12:53:00 PM	ui aG9leHByZXNzdXNlcjM= and pas dGVzdA==10.100.23.151	08-07-2024 12:53:00 PM	Response from url data jaypal {"userId":"hoexpressuser3","password":"test"}10.100.23.151	08-07-2024 12:53:00 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.151	08-07-2024 12:53:00 PM	JSON POST : Array10.100.23.151	08-07-2024 12:53:00 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "48",
-    "BranchId": "344345",
-    "Role": "",
-    "Type": "houser",
-    "UserName": "HO Express  [User-3]",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.23.151	08-07-2024 12:53:00 PM	Json parting value34434510.100.23.151	08-07-2024 12:53:00 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.151	08-07-2024 12:53:00 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.151	08-07-2024 12:53:01 PM	Session BranchId...houser10.100.23.151	08-07-2024 12:53:01 PM	Session Type...HOUSER10.100.23.151	08-07-2024 12:53:01 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.151	08-07-2024 12:53:01 PM	JSON POST : { "UserType": "HOUSER", "UserId": "48", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.23.151	08-07-2024 12:53:01 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.23.151	08-07-2024 12:53:01 PM	JSON POST : 10.100.23.151	08-07-2024 12:53:11 PM	ui YmFja2hv and pas dGVzdA==10.100.23.151	08-07-2024 12:53:11 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.23.151	08-07-2024 12:53:11 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.151	08-07-2024 12:53:11 PM	JSON POST : Array10.100.23.151	08-07-2024 12:53:11 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "ErrorCode": "00",
-    "Status": "Success",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.23.151	08-07-2024 12:53:11 PM	Json parting value34434510.100.23.151	08-07-2024 12:53:11 PM	Session BranchId...BACKHO10.100.23.151	08-07-2024 12:53:11 PM	Session Type...BACKHO10.100.23.151	08-07-2024 12:53:11 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.23.151	08-07-2024 12:53:11 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.23.151	08-07-2024 12:53:33 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 12:53:33 PM	JSON POST : 10.100.23.151	08-07-2024 12:53:35 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        }
-    ]
-}10.100.23.151	08-07-2024 12:53:50 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:- At begining of Call10.100.23.151	08-07-2024 12:53:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.151	08-07-2024 12:53:52 PM	JSON POST : 10.100.23.151	08-07-2024 12:54:01 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.23.151	08-07-2024 12:54:01 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 12:54:01 PM	JSON POST : 10.100.23.151	08-07-2024 12:54:08 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.23.151	08-07-2024 12:54:08 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 12:54:08 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  Value for API - 10.100.23.151	08-07-2024 12:54:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 12:54:08 PM	JSON POST : {
-    "commissionPeriod":"5"
-}10.100.23.151	08-07-2024 12:54:11 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 12:54:11 PM	JSON POST : 10.100.23.151	08-07-2024 12:54:22 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 12:54:22 PM	JSON POST : 10.100.23.151	08-07-2024 12:54:22 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        }
-    ]
-}10.100.23.151	08-07-2024 12:54:24 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:- At begining of Call10.100.23.151	08-07-2024 12:54:35 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.151	08-07-2024 12:54:35 PM	JSON POST : 10.100.23.151	08-07-2024 12:54:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 12:54:44 PM	JSON POST : 10.100.23.151	08-07-2024 12:54:44 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        }
-    ]
-}10.100.23.151	08-07-2024 12:54:46 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:- At begining of Call10.100.23.151	08-07-2024 12:55:03 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:- At begining of Call10.100.23.151	08-07-2024 12:55:03 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:-  Data Save ..10.100.23.151	08-07-2024 12:55:03 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addCommissionInformationAPI.php10.100.23.151	08-07-2024 12:55:03 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:-  Saving Data as  .. fromDate=2024-06-30&toDate=2024-07-07&commissionDate=2024-07-01&dueDate=2024-07-07&addedBy=1274910.100.23.151	08-07-2024 12:55:03 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:-  Saving Data API Call Result  .. Insert Data Successfully10.100.23.151	08-07-2024 12:55:03 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:-  Saving addCommissionInformationAPI.. Insert Data Successfully10.100.23.151	08-07-2024 12:55:09 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.23.151	08-07-2024 12:55:09 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 12:55:09 PM	JSON POST : 10.100.23.151	08-07-2024 12:55:14 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.23.151	08-07-2024 12:55:14 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 12:55:14 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  Value for API - 10.100.23.151	08-07-2024 12:55:14 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 12:55:14 PM	JSON POST : {
-    "commissionPeriod":"6"
-}10.100.23.151	08-07-2024 12:55:14 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 12:55:14 PM	JSON POST : 10.100.23.151	08-07-2024 12:55:18 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.23.151	08-07-2024 12:55:18 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 12:55:18 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  Value for API - 10.100.23.151	08-07-2024 12:55:18 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 12:55:18 PM	JSON POST : {
-    "commissionPeriod":"6"
-}10.100.23.151	08-07-2024 12:55:18 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 12:55:18 PM	JSON POST : 10.100.23.151	08-07-2024 12:55:31 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/schemeMasterAPI.php10.100.23.151	08-07-2024 12:55:31 PM	JSON POST : 10.100.23.151	08-07-2024 12:55:45 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/addSchemeMasterAPI.php10.100.23.151	08-07-2024 12:55:45 PM	JSON POST : {
-					"SchemeName": "HO",
-					"Status": "1",
-					"CreatedBy": "12749",
-					"CreatedDate": "2024-07-08"
-				}10.100.23.151	08-07-2024 12:55:45 PM	RESPONCE RETURN ADD SCHEME API: Added Successfuly10.100.23.151	08-07-2024 12:55:45 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/schemeMasterAPI.php10.100.23.151	08-07-2024 12:55:45 PM	JSON POST : 10.100.23.151	08-07-2024 12:55:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 12:55:52 PM	JSON POST : {
-  "SchemeId":"89"
-}10.100.23.151	08-07-2024 12:56:04 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 12:56:04 PM	JSON POST : 10.100.23.151	08-07-2024 12:56:04 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "6",
-            "FromDate": "2024-06-30",
-            "ToDate": "2024-07-07",
-            "CommissionDate": "2024-07-01",
-            "DueDate": "2024-07-07",
-            "DateAdded": "2024-07-08 12:55:03",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.23.151	08-07-2024 12:56:16 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.23.151	08-07-2024 12:56:16 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.151	08-07-2024 12:56:16 PM	JSON POST : 10.100.23.151	08-07-2024 12:56:19 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.23.151	08-07-2024 12:56:19 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.23.151	08-07-2024 12:56:19 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.23.151	08-07-2024 12:56:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.23.151	08-07-2024 12:56:19 PM	JSON POST : {
-    "billPeriod":"21"
-}10.100.23.151	08-07-2024 12:56:21 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.151	08-07-2024 12:56:21 PM	JSON POST : 10.100.23.151	08-07-2024 12:56:47 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/schemeMasterAPI.php10.100.23.151	08-07-2024 12:56:47 PM	JSON POST : 10.100.23.151	08-07-2024 12:56:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 12:56:56 PM	JSON POST : {
-  "SchemeId":"87"
-}10.100.23.151	08-07-2024 12:57:24 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 12:57:24 PM	JSON POST : {
-			"SchemeId":"87",
-			"RateId":"18"
-		  }10.100.23.151	08-07-2024 12:57:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 12:57:52 PM	JSON POST : {
-			"SchemeId":"87",
-			"RateId":"18"
-		  }10.100.23.151	08-07-2024 12:58:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 12:58:20 PM	JSON POST : {
-			"SchemeId":"87",
-			"RateId":"18"
-		  }10.100.23.151	08-07-2024 12:58:31 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/addCommissionRateAPI.php10.100.23.151	08-07-2024 12:58:31 PM	JSON POST : {
-					"fromDate": "2023-03-28",
-					"toDate": "2025-07-07",
-					"SchemeId": "87",
-					"Type": "7",
-					"AppFrom": "1",
-					"AppTo": "75",
-					"Validity": "3",
-					"Amount": "250",
-					"Status": "0",
-					"RateId": "18",
-					"CreatedBy": "12749"
-				}10.100.23.151	08-07-2024 12:58:31 PM	RESPONCE RETURN FROM ADD SCHEME DATA API: Updated Successfuly10.100.23.151	08-07-2024 12:58:31 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 12:58:31 PM	JSON POST : {
-  "SchemeId":"87"
-}10.100.23.151	08-07-2024 12:58:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 12:58:54 PM	JSON POST : {
-			"SchemeId":"87",
-			"RateId":"22"
-		  }10.100.23.151	08-07-2024 12:59:06 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/schemeMasterAPI.php10.100.23.151	08-07-2024 12:59:06 PM	JSON POST : 10.100.23.151	08-07-2024 12:59:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 12:59:08 PM	JSON POST : {
-  "SchemeId":"87"
-}10.100.23.151	08-07-2024 12:59:21 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 12:59:21 PM	JSON POST : {
-			"SchemeId":"87",
-			"RateId":"18"
-		  }10.100.23.151	08-07-2024 12:59:39 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/addCommissionRateAPI.php10.100.23.151	08-07-2024 12:59:39 PM	JSON POST : {
-					"fromDate": "2023-03-28",
-					"toDate": "2025-07-07",
-					"SchemeId": "87",
-					"Type": "7",
-					"AppFrom": "1",
-					"AppTo": "75",
-					"Validity": "3",
-					"Amount": "250",
-					"Status": "1",
-					"RateId": "18",
-					"CreatedBy": "12749"
-				}10.100.23.151	08-07-2024 12:59:39 PM	RESPONCE RETURN FROM ADD SCHEME DATA API: Updated Successfuly10.100.23.151	08-07-2024 12:59:39 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 12:59:39 PM	JSON POST : {
-  "SchemeId":"87"
-}10.100.23.151	08-07-2024 01:01:09 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/addCommissionRateAPI.php10.100.23.151	08-07-2024 01:01:09 PM	JSON POST : {
-					"fromDate": "2024-06-30",
-					"toDate": "2024-07-08",
-					"SchemeId": "87",
-					"Type": "7",
-					"AppFrom": "1",
-					"AppTo": "75",
-					"Validity": "7",
-					"Amount": "10",
-					"Status": "1",
-					"RateId": "",
-					"CreatedBy": "12749"
-				}10.100.23.151	08-07-2024 01:01:09 PM	RESPONCE RETURN FROM ADD SCHEME DATA API: Added Successfuly10.100.23.151	08-07-2024 01:01:09 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 01:01:09 PM	JSON POST : {
-  "SchemeId":"87"
-}10.100.23.151	08-07-2024 01:01:26 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 01:01:26 PM	JSON POST : 10.100.23.151	08-07-2024 01:01:26 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "6",
-            "FromDate": "2024-06-30",
-            "ToDate": "2024-07-07",
-            "CommissionDate": "2024-07-01",
-            "DueDate": "2024-07-07",
-            "DateAdded": "2024-07-08 12:55:03",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.23.151	08-07-2024 01:01:33 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 01:01:33 PM	JSON POST : 10.100.23.151	08-07-2024 01:01:33 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "6",
-            "FromDate": "2024-06-30",
-            "ToDate": "2024-07-07",
-            "CommissionDate": "2024-07-01",
-            "DueDate": "2024-07-07",
-            "DateAdded": "2024-07-08 12:55:03",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.23.151	08-07-2024 01:01:41 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.23.151	08-07-2024 01:01:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 01:01:41 PM	JSON POST : 10.100.23.151	08-07-2024 01:01:44 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.23.151	08-07-2024 01:01:44 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 01:01:44 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  Value for API - 10.100.23.151	08-07-2024 01:01:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 01:01:44 PM	JSON POST : {
-    "commissionPeriod":"6"
-}10.100.23.151	08-07-2024 01:01:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 01:01:44 PM	JSON POST : 10.100.23.151	08-07-2024 01:01:51 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.23.151	08-07-2024 01:01:51 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 01:01:51 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  Value for API - 10.100.23.151	08-07-2024 01:01:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 01:01:51 PM	JSON POST : {
-    "commissionPeriod":"6"
-}10.100.23.151	08-07-2024 01:01:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 01:01:51 PM	JSON POST : 10.100.23.151	08-07-2024 01:01:53 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.23.151	08-07-2024 01:01:53 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 01:01:53 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  Value for API - 10.100.23.151	08-07-2024 01:01:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.23.151	08-07-2024 01:01:53 PM	JSON POST : {
-    "commissionPeriod":"5"
-}10.100.23.151	08-07-2024 01:01:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.151	08-07-2024 01:01:56 PM	JSON POST : 10.100.23.151	08-07-2024 01:02:40 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.151	08-07-2024 01:02:40 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.23.151	08-07-2024 01:02:40 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.151	08-07-2024 01:02:40 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.23.151	08-07-2024 01:02:40 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.151	08-07-2024 01:02:40 PM	JSON POST : {
-    "accountGroup":"3"
-}10.100.23.151	08-07-2024 01:02:40 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.151	08-07-2024 01:02:40 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.23.151	08-07-2024 01:02:40 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.23.151	08-07-2024 01:02:40 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.23.151	08-07-2024 01:02:40 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.151	08-07-2024 01:02:40 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.23.151	08-07-2024 01:02:40 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:02:40 PM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.23.151	08-07-2024 01:02:40 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:02:40 PM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.23.151	08-07-2024 01:02:40 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:02:40 PM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.23.151	08-07-2024 01:02:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.151	08-07-2024 01:02:41 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.23.151	08-07-2024 01:02:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:02:42 PM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.23.151	08-07-2024 01:02:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.151	08-07-2024 01:02:42 PM	JSON POST : {
-    "accountGroup":"6"
-}10.100.23.151	08-07-2024 01:02:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.151	08-07-2024 01:02:42 PM	JSON POST : {
-    "accountGroup":"10"
-}10.100.23.151	08-07-2024 01:02:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.151	08-07-2024 01:02:42 PM	JSON POST : {
-    "accountGroup":"11"
-}10.100.23.151	08-07-2024 01:02:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.151	08-07-2024 01:02:42 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.23.151	08-07-2024 01:02:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:02:42 PM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.23.151	08-07-2024 01:02:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:02:42 PM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.23.151	08-07-2024 01:02:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.151	08-07-2024 01:02:42 PM	JSON POST : {
-    "accountGroup":"8"
-}10.100.23.151	08-07-2024 01:02:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.151	08-07-2024 01:02:42 PM	JSON POST : {
-    "accountGroup":"7"
-}10.100.23.151	08-07-2024 01:02:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.151	08-07-2024 01:02:42 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.23.151	08-07-2024 01:02:48 PM	[Info] - File location /tinfc1/UAT/addAccountName.php Message:- At begining of Call10.100.23.151	08-07-2024 01:02:48 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.23.151	08-07-2024 01:02:48 PM	JSON POST : 10.100.23.151	08-07-2024 01:02:58 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.23.151	08-07-2024 01:02:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:02:58 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:33:49 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:- At begining of Call10.100.23.151	08-07-2024 01:33:49 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:33:49 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:33:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:33:50 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:33:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:33:51 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:33:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:33:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:33:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:33:54 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"notGroupId":"LB0004",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:33:55 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:33:55 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:35:47 PM	[Info] - File location /tinfc1/UAT/addBankPayment.php Message:- At begining of Call10.100.23.151	08-07-2024 01:35:47 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:35:47 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:35:47 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:35:47 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:35:49 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:35:49 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:35:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:35:50 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:35:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:35:51 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:35:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:35:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:35:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.23.151	08-07-2024 01:35:54 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.23.151	08-07-2024 01:48:33 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.151	08-07-2024 01:48:33 PM	JSON POST : 10.100.23.151	08-07-2024 01:48:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/schemeMasterAPI.php10.100.23.151	08-07-2024 01:48:53 PM	JSON POST : 10.100.23.151	08-07-2024 01:48:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 01:48:58 PM	JSON POST : {
-  "SchemeId":"87"
-}10.100.21.52	08-07-2024 02:44:45 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.21.52	08-07-2024 02:44:45 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	08-07-2024 02:44:45 PM	JSON POST : 10.100.21.52	08-07-2024 02:44:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 02:44:52 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 02:44:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 02:44:52 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 02:44:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 02:44:52 PM	JSON POST : {
-    "accountGroup":"3"
-}10.100.21.52	08-07-2024 02:44:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 02:44:52 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 02:44:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 02:44:52 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 02:44:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 02:44:52 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 02:44:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 02:44:52 PM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.21.52	08-07-2024 02:44:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 02:44:52 PM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.21.52	08-07-2024 02:44:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 02:44:52 PM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.21.52	08-07-2024 02:44:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 02:44:53 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 02:44:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 02:44:53 PM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.21.52	08-07-2024 02:44:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 02:44:53 PM	JSON POST : {
-    "accountGroup":"6"
-}10.100.21.52	08-07-2024 02:44:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 02:44:53 PM	JSON POST : {
-    "accountGroup":"10"
-}10.100.21.52	08-07-2024 02:44:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 02:44:53 PM	JSON POST : {
-    "accountGroup":"11"
-}10.100.21.52	08-07-2024 02:44:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 02:44:53 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 02:44:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 02:44:53 PM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.21.52	08-07-2024 02:44:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 02:44:53 PM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.21.52	08-07-2024 02:44:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 02:44:53 PM	JSON POST : {
-    "accountGroup":"8"
-}10.100.21.52	08-07-2024 02:44:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 02:44:53 PM	JSON POST : {
-    "accountGroup":"7"
-}10.100.21.52	08-07-2024 02:44:53 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 02:44:53 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 02:52:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.21.52	08-07-2024 02:52:59 PM	JSON POST : 10.100.21.52	08-07-2024 02:52:59 PM	Response return from commissionInformationAPI: {
-    "status": 0,
-    "commissionPeriod": [
-        {
-            "Id": "3",
-            "FromDate": "2022-07-08",
-            "ToDate": "2022-08-31",
-            "CommissionDate": "2022-07-07",
-            "DueDate": "2022-08-10",
-            "DateAdded": "2022-10-19 15:17:59",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "2",
-            "FromDate": "2022-09-15",
-            "ToDate": "2022-12-15",
-            "CommissionDate": "2022-09-14",
-            "DueDate": "2022-09-14",
-            "DateAdded": "2022-10-19 14:56:25",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "4",
-            "FromDate": "2023-01-01",
-            "ToDate": "2023-01-04",
-            "CommissionDate": "2023-01-04",
-            "DueDate": "2023-01-04",
-            "DateAdded": "2023-01-04 14:58:47",
-            "AddedBy": "35",
-            "Status": "0"
-        },
-        {
-            "Id": "5",
-            "FromDate": "2023-03-01",
-            "ToDate": "2023-03-31",
-            "CommissionDate": "2023-03-15",
-            "DueDate": "2023-03-31",
-            "DateAdded": "2023-03-14 13:05:56",
-            "AddedBy": "38",
-            "Status": "0"
-        },
-        {
-            "Id": "6",
-            "FromDate": "2024-06-30",
-            "ToDate": "2024-07-07",
-            "CommissionDate": "2024-07-01",
-            "DueDate": "2024-07-07",
-            "DateAdded": "2024-07-08 12:55:03",
-            "AddedBy": "12749",
-            "Status": "0"
-        }
-    ]
-}10.100.21.52	08-07-2024 02:53:07 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.21.52	08-07-2024 02:53:07 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.21.52	08-07-2024 02:53:07 PM	JSON POST : 10.100.21.52	08-07-2024 02:53:11 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.21.52	08-07-2024 02:53:11 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.21.52	08-07-2024 02:53:11 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  Value for API - 10.100.21.52	08-07-2024 02:53:11 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.21.52	08-07-2024 02:53:11 PM	JSON POST : {
-    "commissionPeriod":"4"
-}10.100.21.52	08-07-2024 02:53:11 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.21.52	08-07-2024 02:53:11 PM	JSON POST : 10.100.21.52	08-07-2024 02:53:13 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - 10.100.21.52	08-07-2024 02:53:13 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.21.52	08-07-2024 02:53:13 PM	[Info] - File location /tinfc1/UAT/commissionGeneration.php Message:-  Value for API - 10.100.21.52	08-07-2024 02:53:13 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionGenerationAPI.php10.100.21.52	08-07-2024 02:53:13 PM	JSON POST : {
-    "commissionPeriod":"5"
-}10.100.21.52	08-07-2024 02:53:16 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.21.52	08-07-2024 02:53:16 PM	JSON POST : 10.100.21.52	08-07-2024 04:19:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:19:41 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 04:19:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:19:41 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 04:19:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:19:41 PM	JSON POST : {
-    "accountGroup":"3"
-}10.100.21.52	08-07-2024 04:19:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:19:41 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 04:19:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:19:41 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 04:19:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:41 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 04:19:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:41 PM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.21.52	08-07-2024 04:19:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:41 PM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.21.52	08-07-2024 04:19:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:41 PM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.21.52	08-07-2024 04:19:43 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:43 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 04:19:43 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:43 PM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.21.52	08-07-2024 04:19:43 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:43 PM	JSON POST : {
-    "accountGroup":"6"
-}10.100.21.52	08-07-2024 04:19:43 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:43 PM	JSON POST : {
-    "accountGroup":"10"
-}10.100.21.52	08-07-2024 04:19:43 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:43 PM	JSON POST : {
-    "accountGroup":"11"
-}10.100.21.52	08-07-2024 04:19:43 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:43 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 04:19:43 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:43 PM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.21.52	08-07-2024 04:19:43 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:43 PM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.21.52	08-07-2024 04:19:43 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:43 PM	JSON POST : {
-    "accountGroup":"8"
-}10.100.21.52	08-07-2024 04:19:43 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:43 PM	JSON POST : {
-    "accountGroup":"7"
-}10.100.21.52	08-07-2024 04:19:43 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:43 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 04:19:54 PM	[Info] - File location /tinfc1/UAT/addAccountSubGroup.php Message:- At begining of Call10.100.21.52	08-07-2024 04:19:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:19:54 PM	JSON POST : 10.100.21.52	08-07-2024 04:19:54 PM	Response return from Group Name API: {
-    "status": 0,
-    "AccountGroupData": [
-        {
-            "Number": 1,
-            "Id": "1",
-            "Name": "Current Assets",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 2,
-            "Id": "2",
-            "Name": "Current Liabilities",
-            "TypeName": "Liability",
-            "TypeId": "2"
-        },
-        {
-            "Number": 3,
-            "Id": "4",
-            "Name": "Capital Account",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 4,
-            "Id": "5",
-            "Name": "Direct Expenses",
-            "TypeName": "Expenses",
-            "TypeId": "5"
-        },
-        {
-            "Number": 5,
-            "Id": "6",
-            "Name": "Fixed Assets",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 6,
-            "Id": "7",
-            "Name": "Direct Income",
-            "TypeName": "Income",
-            "TypeId": "4"
-        },
-        {
-            "Number": 7,
-            "Id": "8",
-            "Name": "Loans",
-            "TypeName": "Liability",
-            "TypeId": "2"
-        },
-        {
-            "Number": 8,
-            "Id": "10",
-            "Name": "ICICI BANK 760",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 9,
-            "Id": "11",
-            "Name": "ICICI BANK 760",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        }
-    ]
-}10.100.21.52	08-07-2024 04:19:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:19:58 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 04:19:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:19:58 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 04:19:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:19:58 PM	JSON POST : {
-    "accountGroup":"3"
-}10.100.21.52	08-07-2024 04:19:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:19:58 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 04:19:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:19:58 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 04:19:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:58 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 04:19:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:58 PM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.21.52	08-07-2024 04:19:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:58 PM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.21.52	08-07-2024 04:19:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:58 PM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.21.52	08-07-2024 04:19:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:59 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 04:19:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:59 PM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.21.52	08-07-2024 04:19:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:59 PM	JSON POST : {
-    "accountGroup":"6"
-}10.100.21.52	08-07-2024 04:19:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:59 PM	JSON POST : {
-    "accountGroup":"10"
-}10.100.21.52	08-07-2024 04:19:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:59 PM	JSON POST : {
-    "accountGroup":"11"
-}10.100.21.52	08-07-2024 04:19:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:59 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 04:19:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:59 PM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.21.52	08-07-2024 04:19:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:19:59 PM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.21.52	08-07-2024 04:19:59 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:19:59 PM	JSON POST : {
-    "accountGroup":"8"
-}10.100.21.52	08-07-2024 04:20:00 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:20:00 PM	JSON POST : {
-    "accountGroup":"7"
-}10.100.21.52	08-07-2024 04:20:00 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:20:00 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 04:20:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:20:08 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 04:20:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:20:08 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 04:20:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:20:08 PM	JSON POST : {
-    "accountGroup":"3"
-}10.100.21.52	08-07-2024 04:20:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:20:08 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 04:20:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 04:20:08 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 04:20:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:20:08 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 04:20:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:20:08 PM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.21.52	08-07-2024 04:20:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:20:08 PM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.21.52	08-07-2024 04:20:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:20:08 PM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.21.52	08-07-2024 04:20:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:20:10 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 04:20:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:20:10 PM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.21.52	08-07-2024 04:20:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:20:10 PM	JSON POST : {
-    "accountGroup":"6"
-}10.100.21.52	08-07-2024 04:20:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:20:10 PM	JSON POST : {
-    "accountGroup":"10"
-}10.100.21.52	08-07-2024 04:20:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:20:10 PM	JSON POST : {
-    "accountGroup":"11"
-}10.100.21.52	08-07-2024 04:20:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:20:10 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 04:20:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:20:10 PM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.21.52	08-07-2024 04:20:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 04:20:10 PM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.21.52	08-07-2024 04:20:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:20:10 PM	JSON POST : {
-    "accountGroup":"8"
-}10.100.21.52	08-07-2024 04:20:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:20:10 PM	JSON POST : {
-    "accountGroup":"7"
-}10.100.21.52	08-07-2024 04:20:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 04:20:10 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 05:43:33 PM	[Info] - File location /tinfc1/UAT/addAccountGroup.php Message:- At begining of Call10.100.21.52	08-07-2024 05:48:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 05:48:42 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 05:48:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 05:48:42 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 05:48:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 05:48:42 PM	JSON POST : {
-    "accountGroup":"3"
-}10.100.21.52	08-07-2024 05:48:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 05:48:42 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 05:48:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 05:48:42 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 05:48:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:48:42 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 05:48:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:48:42 PM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.21.52	08-07-2024 05:48:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:48:42 PM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.21.52	08-07-2024 05:48:42 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:48:42 PM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.21.52	08-07-2024 05:48:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:48:44 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 05:48:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:48:44 PM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.21.52	08-07-2024 05:48:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:48:44 PM	JSON POST : {
-    "accountGroup":"6"
-}10.100.21.52	08-07-2024 05:48:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:48:44 PM	JSON POST : {
-    "accountGroup":"10"
-}10.100.21.52	08-07-2024 05:48:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:48:44 PM	JSON POST : {
-    "accountGroup":"11"
-}10.100.21.52	08-07-2024 05:48:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:48:44 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 05:48:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:48:44 PM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.21.52	08-07-2024 05:48:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:48:44 PM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.21.52	08-07-2024 05:48:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:48:44 PM	JSON POST : {
-    "accountGroup":"8"
-}10.100.21.52	08-07-2024 05:48:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:48:44 PM	JSON POST : {
-    "accountGroup":"7"
-}10.100.21.52	08-07-2024 05:48:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:48:44 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 05:49:18 PM	[Info] - File location /tinfc1/UAT/addAccountSubGroup.php Message:- At begining of Call10.100.21.52	08-07-2024 05:49:18 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 05:49:18 PM	JSON POST : 10.100.21.52	08-07-2024 05:49:18 PM	Response return from Group Name API: {
-    "status": 0,
-    "AccountGroupData": [
-        {
-            "Number": 1,
-            "Id": "1",
-            "Name": "Current Assets",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 2,
-            "Id": "2",
-            "Name": "Current Liabilities",
-            "TypeName": "Liability",
-            "TypeId": "2"
-        },
-        {
-            "Number": 3,
-            "Id": "4",
-            "Name": "Capital Account",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 4,
-            "Id": "5",
-            "Name": "Direct Expenses",
-            "TypeName": "Expenses",
-            "TypeId": "5"
-        },
-        {
-            "Number": 5,
-            "Id": "6",
-            "Name": "Fixed Assets",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 6,
-            "Id": "7",
-            "Name": "Direct Income",
-            "TypeName": "Income",
-            "TypeId": "4"
-        },
-        {
-            "Number": 7,
-            "Id": "8",
-            "Name": "Loans",
-            "TypeName": "Liability",
-            "TypeId": "2"
-        },
-        {
-            "Number": 8,
-            "Id": "10",
-            "Name": "ICICI BANK 760",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        },
-        {
-            "Number": 9,
-            "Id": "11",
-            "Name": "ICICI BANK 760",
-            "TypeName": "Assets",
-            "TypeId": "1"
-        }
-    ]
-}10.100.21.52	08-07-2024 05:53:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 05:53:19 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 05:53:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 05:53:19 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 05:53:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 05:53:19 PM	JSON POST : {
-    "accountGroup":"3"
-}10.100.21.52	08-07-2024 05:53:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 05:53:19 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 05:53:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountGroupAPI.php10.100.21.52	08-07-2024 05:53:19 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 05:53:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:53:19 PM	JSON POST : {
-    "accountGroup":"1"
-}10.100.21.52	08-07-2024 05:53:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:53:19 PM	JSON POST : {
-    "GroupId":"LB0001"
-}10.100.21.52	08-07-2024 05:53:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:53:19 PM	JSON POST : {
-    "GroupId":"LB0004"
-}10.100.21.52	08-07-2024 05:53:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:53:19 PM	JSON POST : {
-    "GroupId":"LB0005"
-}10.100.21.52	08-07-2024 05:53:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:53:20 PM	JSON POST : {
-    "accountGroup":"4"
-}10.100.21.52	08-07-2024 05:53:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:53:20 PM	JSON POST : {
-    "GroupId":"LB0002"
-}10.100.21.52	08-07-2024 05:53:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:53:20 PM	JSON POST : {
-    "accountGroup":"6"
-}10.100.21.52	08-07-2024 05:53:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:53:20 PM	JSON POST : {
-    "accountGroup":"10"
-}10.100.21.52	08-07-2024 05:53:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:53:20 PM	JSON POST : {
-    "accountGroup":"11"
-}10.100.21.52	08-07-2024 05:53:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:53:20 PM	JSON POST : {
-    "accountGroup":"2"
-}10.100.21.52	08-07-2024 05:53:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:53:20 PM	JSON POST : {
-    "GroupId":"LB0003"
-}10.100.21.52	08-07-2024 05:53:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.21.52	08-07-2024 05:53:20 PM	JSON POST : {
-    "GroupId":"LB0006"
-}10.100.21.52	08-07-2024 05:53:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:53:20 PM	JSON POST : {
-    "accountGroup":"8"
-}10.100.21.52	08-07-2024 05:53:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:53:20 PM	JSON POST : {
-    "accountGroup":"7"
-}10.100.21.52	08-07-2024 05:53:20 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountSubGroupAPI.php10.100.21.52	08-07-2024 05:53:20 PM	JSON POST : {
-    "accountGroup":"5"
-}10.100.21.52	08-07-2024 06:06:24 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	08-07-2024 06:06:24 PM	JSON POST : {
-			"userType" : "BACKHO"
-		}10.100.21.52	08-07-2024 06:06:24 PM	Session BranchId...BACKHO10.100.21.52	08-07-2024 06:06:24 PM	Session Type...BACKHO10.100.21.52	08-07-2024 06:06:24 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	08-07-2024 06:06:24 PM	JSON POST : { "UserType": "BACKHO", "UserId": "12749", "UserTypeId": "BACKHO", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.21.52	08-07-2024 06:06:24 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	08-07-2024 06:06:24 PM	JSON POST : 10.100.23.151	08-07-2024 07:36:56 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.151	08-07-2024 07:36:56 PM	JSON POST : {
-  "SchemeId":"87"
-}

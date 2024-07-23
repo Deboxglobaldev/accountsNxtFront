@@ -1,371 +1,0 @@
-10.100.23.163	02-04-2024 12:38:54 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.23.163	02-04-2024 12:38:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.163	02-04-2024 12:38:54 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	02-04-2024 12:40:56 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.25	02-04-2024 12:41:09 PM	ui YmFja2hv and pas dGVzdA==10.100.72.25	02-04-2024 12:41:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	02-04-2024 12:41:09 PM	JSON POST : Array10.100.72.25	02-04-2024 12:41:10 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "12749",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "BACKHO",
-    "UserName": "Backend  HO User",
-    "RegionId": null,
-    "SelfDigFlag": "SELF_DIGI",
-    "SelfDigFlagTan": "SELF_DIGI"
-}10.100.72.25	02-04-2024 12:41:10 PM	Json parting value34434510.100.72.25	02-04-2024 12:41:10 PM	Session BranchId...BACKHO10.100.72.25	02-04-2024 12:41:10 PM	Session Type...BACKHO10.100.72.25	02-04-2024 12:41:10 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.25	02-04-2024 12:41:10 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.25	02-04-2024 12:41:51 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:- At begining of Call10.100.72.25	02-04-2024 12:41:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:41:51 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:41:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:41:52 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:41:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:41:54 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:41:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:41:55 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:41:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:41:56 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:41:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:41:57 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:05 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:- At begining of Call10.100.72.25	02-04-2024 12:43:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/addJournalVoucherAPI.php10.100.72.25	02-04-2024 12:43:05 PM	JSON POST : {
-	"VoucherDate":"2024-04-02",
-	"EntryDate":"2024-04-02",
-	"UserId":"12749",
-	"ip":"10.100.72.25",
-	"ListOfTransaction":[{
-				"AccountName":"SLB25536",
-				"Credit":"0",
-				"Debit":"1500",
-				"Narration":"test"
-			},{
-				"AccountName":"SLB0007",
-				"Credit":"1500",
-				"Debit":"0",
-				"Narration":"test"
-			}]
-	
-}10.100.72.25	02-04-2024 12:43:05 PM	[Info] - File location /tinfc1/UAT/addJournalEntry.php Message:-  Saving addJournalEntryAPI.. Saved Successfull10.100.72.25	02-04-2024 12:43:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:05 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:06 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:07 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:08 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:10 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:11 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:24 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	02-04-2024 12:43:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:24 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:35 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	02-04-2024 12:43:35 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API post - http://10.150.146.12/UAT_BackEnd/General/ledgerAPI.php10.100.72.25	02-04-2024 12:43:35 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  Value for API post list- {
-    "Type":"Religare",
-    "Branch":"SLB25536",
-	"fromDate":"1970-01-01",
-	"toDate":"1970-01-01"
-}10.100.72.25	02-04-2024 12:43:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:35 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:54 PM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:- At begining of Call10.100.72.25	02-04-2024 12:43:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:54 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:54 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:55 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:56 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:43:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:43:58 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:44:53 PM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:- At begining of Call10.100.72.25	02-04-2024 12:44:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/addBankReceiptAPI.php10.100.72.25	02-04-2024 12:44:53 PM	JSON POST : {
-	"VoucherDate":"2024-04-02",
-	"EntryDate":"2024-04-02",
-	"UserId":"12749",
-	"ip":"10.100.72.25",
-	"BankAccount":"SLB0007",
-	"ListOfTransaction":[{
-				"AccountName":"SLB25536",
-				"Credit":"8900",
-				"Narration":"test"
-			},{
-				"AccountName":"SLB09046",
-				"Credit":"5200",
-				"Narration":"test"
-			}]
-	
-}10.100.72.25	02-04-2024 12:44:53 PM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:-  Saving addBankReceiptAPI.. Saved Successfull10.100.72.25	02-04-2024 12:44:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:44:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:44:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:44:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:44:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:44:54 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:44:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:44:56 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:44:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:44:57 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:45:12 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	02-04-2024 12:45:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:45:12 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:45:22 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	02-04-2024 12:45:22 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API post - http://10.150.146.12/UAT_BackEnd/General/ledgerAPI.php10.100.72.25	02-04-2024 12:45:22 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  Value for API post list- {
-    "Type":"Religare",
-    "Branch":"SLB25536",
-	"fromDate":"1970-01-01",
-	"toDate":"1970-01-01"
-}10.100.72.25	02-04-2024 12:45:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:45:22 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:45:39 PM	[Info] - File location /tinfc1/UAT/addBankPayment.php Message:- At begining of Call10.100.72.25	02-04-2024 12:45:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:45:39 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:45:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:45:39 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:45:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:45:40 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:45:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:45:41 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:45:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:45:43 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:45:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:45:44 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:45:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:45:45 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:46:52 PM	[Info] - File location /tinfc1/UAT/addBankPayment.php Message:- At begining of Call10.100.72.25	02-04-2024 12:46:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/addBankPaymentAPI.php10.100.72.25	02-04-2024 12:46:52 PM	JSON POST : {
-	"VoucherDate":"2024-04-02",
-	"EntryDate":"2024-04-02",
-	"UserId":"12749",
-	"ip":"10.100.72.25",
-	"BankAccount":"SLB0007",
-	"ListOfTransaction":[{
-				"AccountName":"SLB25536",
-				"Debit":"7844",
-				"Narration":"test"
-			},{
-				"AccountName":"SLB09045",
-				"Debit":"2533",
-				"Narration":"test"
-			}]
-	
-}10.100.72.25	02-04-2024 12:46:52 PM	[Info] - File location /tinfc1/UAT/addBankPayment.php Message:-  Saving addBankPaymentAPI.. Saved Successfull10.100.72.25	02-04-2024 12:46:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:46:52 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"LB0004",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:46:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:46:52 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:46:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:46:53 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:46:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:46:54 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:46:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:46:56 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:46:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:46:57 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:46:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:46:59 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:47:08 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	02-04-2024 12:47:08 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API post - http://10.150.146.12/UAT_BackEnd/General/ledgerAPI.php10.100.72.25	02-04-2024 12:47:08 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  Value for API post list- {
-    "Type":"Religare",
-    "Branch":"SLB25536",
-	"fromDate":"1970-01-01",
-	"toDate":"1970-01-01"
-}10.100.72.25	02-04-2024 12:47:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	02-04-2024 12:47:08 PM	JSON POST : {
-					"AccountName":"",
-					"GroupId":"",
-					"Status":"1"
-				}10.100.72.25	02-04-2024 12:47:42 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - 10.100.72.25	02-04-2024 12:47:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	02-04-2024 12:47:42 PM	JSON POST : 10.100.72.25	02-04-2024 12:47:48 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - 10.100.72.25	02-04-2024 12:47:48 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/billSummaryReportAPI.php10.100.72.25	02-04-2024 12:47:48 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  Value for API - 10.100.72.25	02-04-2024 12:47:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billSummaryReportAPI.php10.100.72.25	02-04-2024 12:47:48 PM	JSON POST : {
-    "billPeriod":"19"
-}10.100.72.25	02-04-2024 12:47:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	02-04-2024 12:47:57 PM	JSON POST : 10.100.72.25	02-04-2024 12:48:22 PM	[Info] - File location /tinfc1/UAT/obligationReport.php Message:-  URL for API - 10.100.72.25	02-04-2024 12:48:22 PM	[Info] - File location /tinfc1/UAT/obligationReport.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/billObligationDataAPI.php10.100.72.25	02-04-2024 12:48:22 PM	[Info] - File location /tinfc1/UAT/obligationReport.php Message:-  Value for API - {
-    "BranchCode":"SLB25315",
-    "BillPeriodId":"47754"
-}10.100.72.25	02-04-2024 12:48:22 PM	RESPONSE RETURN FROM BILL DATA: {
-    "status": 0,
-    "billData": [
-        {
-            "Number": 1,
-            "Fees": "531.00",
-            "BranchCode": "25315",
-            "BranchnName": null,
-            "Type": "eReturn",
-            "BillNo": null,
-            "BillPeriodId": "47754",
-            "Count": "10",
-            "BranchName": "Panaji"
-        },
-        {
-            "Number": 2,
-            "Fees": "2996.00",
-            "BranchCode": "25315",
-            "BranchnName": null,
-            "Type": "PAN",
-            "BillNo": null,
-            "BillPeriodId": "47754",
-            "Count": "28",
-            "BranchName": "Panaji"
-        },
-        {
-            "Number": 3,
-            "Fees": "154.00",
-            "BranchCode": "25315",
-            "BranchnName": null,
-            "Type": "TAN",
-            "BillNo": null,
-            "BillPeriodId": "47754",
-            "Count": "2",
-            "BranchName": "Panaji"
-        }
-    ]
-}10.100.72.25	02-04-2024 12:49:13 PM	[Info] - File location /tinfc1/UAT/obligationReport.php Message:-  URL for API - 10.100.72.25	02-04-2024 12:49:13 PM	[Info] - File location /tinfc1/UAT/obligationReport.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/billObligationDataAPI.php10.100.72.25	02-04-2024 12:49:13 PM	[Info] - File location /tinfc1/UAT/obligationReport.php Message:-  Value for API - {
-    "BranchCode":"SLB8300368",
-    "BillPeriodId":"47882"
-}10.100.72.25	02-04-2024 12:49:13 PM	RESPONSE RETURN FROM BILL DATA: {
-    "status": 0,
-    "billData": [
-        {
-            "Number": 1,
-            "Fees": "321.00",
-            "BranchCode": "8300368",
-            "BranchnName": null,
-            "Type": "PAN",
-            "BillNo": null,
-            "BillPeriodId": "47882",
-            "Count": "3",
-            "BranchName": "PANDHARPUR"
-        }
-    ]
-}10.100.72.25	02-04-2024 12:49:17 PM	[Info] - File location /tinfc1/UAT/billDetail.php Message:-  URL for API - 10.100.72.25	02-04-2024 12:49:17 PM	[Info] - File location /tinfc1/UAT/billDetail.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/billData.php10.100.72.25	02-04-2024 12:49:17 PM	[Info] - File location /tinfc1/UAT/billDetail.php Message:-  Value for API - {
-    "BranchCode":"SLB8300368",
-    "Type":"PAN",
-    "BillPeriodId":"47882"
-}10.100.72.25	02-04-2024 12:49:17 PM	RESPONSE RETURN FROM BILL DATA: 10.100.72.25	02-04-2024 01:13:49 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - 10.100.72.25	02-04-2024 01:13:49 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/billSummaryReportAPI.php10.100.72.25	02-04-2024 01:13:49 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  Value for API - 10.100.72.25	02-04-2024 01:13:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billSummaryReportAPI.php10.100.72.25	02-04-2024 01:13:49 PM	JSON POST : {
-    "billPeriod":"19"
-}10.100.72.25	02-04-2024 01:13:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	02-04-2024 01:13:49 PM	JSON POST : 10.100.72.25	02-04-2024 01:46:58 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.25	02-04-2024 01:46:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	02-04-2024 01:46:58 PM	JSON POST : Array10.100.72.25	02-04-2024 01:46:58 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.72.25	02-04-2024 01:46:58 PM	Json parting value34434510.100.72.25	02-04-2024 01:46:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	02-04-2024 01:46:58 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	02-04-2024 01:46:59 PM	Session BranchId...houser10.100.72.25	02-04-2024 01:46:59 PM	Session Type...HOUSER10.100.72.25	02-04-2024 01:46:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.25	02-04-2024 01:46:59 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.25	02-04-2024 01:46:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.25	02-04-2024 01:46:59 PM	JSON POST : 10.100.72.25	02-04-2024 01:47:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	02-04-2024 01:47:10 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	02-04-2024 01:47:28 PM	***  Inside misuploadfile.php 10.100.72.25	02-04-2024 01:47:28 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	02-04-2024 01:47:28 PM	****** upload path ****** :uploads/10.100.72.25	02-04-2024 01:47:28 PM	URL HIT BY MIS UPLOAD FOR 135155151 :http://10.150.146.12/UAT_BackEnd/General/misuploadetds.php?UserId=35&ip=10.100.72.2510.100.72.25	02-04-2024 01:47:28 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 977,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	02-04-2024 03:13:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	02-04-2024 03:13:17 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	02-04-2024 03:13:38 PM	***  Inside misuploadfile.php 10.100.72.25	02-04-2024 03:13:38 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	02-04-2024 03:13:38 PM	****** upload path ****** :uploads/10.100.72.25	02-04-2024 03:13:38 PM	URL HIT BY MIS UPLOAD FOR 135155151 :http://10.150.146.12/UAT_BackEnd/General/misuploadetds.php?UserId=35&ip=10.100.72.2510.100.72.25	02-04-2024 03:13:38 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 977,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	02-04-2024 03:18:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	02-04-2024 03:18:41 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	02-04-2024 03:18:57 PM	***  Inside misuploadfile.php 10.100.72.25	02-04-2024 03:18:57 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	02-04-2024 03:18:57 PM	****** upload path ****** :uploads/10.100.72.25	02-04-2024 03:18:57 PM	URL HIT BY MIS UPLOAD FOR 135155151 :http://10.150.146.12/UAT_BackEnd/General/misuploadetds.php?UserId=35&ip=10.100.72.2510.100.72.25	02-04-2024 03:18:57 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 977,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	02-04-2024 03:22:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	02-04-2024 03:22:15 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	02-04-2024 03:22:30 PM	***  Inside misuploadfile.php 10.100.72.25	02-04-2024 03:22:30 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	02-04-2024 03:22:30 PM	****** upload path ****** :uploads/10.100.72.25	02-04-2024 03:22:30 PM	URL HIT BY MIS UPLOAD FOR 135155151 :http://10.150.146.12/UAT_BackEnd/General/misuploadetds.php?UserId=35&ip=10.100.72.2510.100.72.25	02-04-2024 03:22:30 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 977,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	02-04-2024 03:55:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	02-04-2024 03:55:57 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	02-04-2024 03:56:07 PM	***  Inside mobile misuploadfile.php 10.100.72.25	02-04-2024 03:56:07 PM	***  Inside mobile misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	02-04-2024 03:56:07 PM	****** upload path ****** :uploads/10.100.72.25	02-04-2024 03:56:07 PM	URL HIT BY MIS UPLOAD FOR mobile PAN :http://10.150.146.12/UAT_BackEnd/General/mismobileupload.php?UserId=35&ip=10.100.72.2510.100.72.25	02-04-2024 03:56:07 PM	{
-    "Status": "Successes",
-    "TotalRecordProcessed": 549,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}10.100.72.25	02-04-2024 04:00:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	02-04-2024 04:00:51 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.72.25	02-04-2024 04:00:59 PM	***  Inside misuploadfile.php 10.100.72.25	02-04-2024 04:00:59 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.72.25	02-04-2024 04:00:59 PM	****** upload path ****** :uploads/10.100.72.25	02-04-2024 04:00:59 PM	URL HIT BY MIS UPLOAD FOR 24G :http://10.150.146.12/UAT_BackEnd/General/misupload24g.php?UserId=35&ip=10.100.72.2510.100.72.25	02-04-2024 04:00:59 PM	{
-    "Status": "Success Upload",
-    "TotalRecordProcessed": 35,
-    "NewRecords": "",
-    "Duplicates": "",
-    "FaildRecCcount": 0,
-    "FailedRecords": []
-}

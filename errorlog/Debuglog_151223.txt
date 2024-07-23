@@ -1,655 +1,0 @@
-10.110.11.15	15-12-2023 09:52:50 AM	 URL for API - {"ProductType":"'PAN'","FormType":"'49A'"}10.110.11.15	15-12-2023 09:52:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	15-12-2023 09:52:50 AM	JSON POST : {
-			"userType" : "SUPER"
-		}10.110.11.15	15-12-2023 10:14:12 AM	JSON to post for ReqestId----{"ReqestId":32}10.110.11.15	15-12-2023 10:14:12 AM	URL to hit on API----http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.110.11.15	15-12-2023 10:14:12 AM	JSON to post for ReqestId----{
-    "Status": "0",
-    "Message": "Success",
-    "Rejectionlist": [
-        {
-            "ProductType": "PAN",
-            "FormType": "49A",
-            "FieldList": [
-                {
-                    "Masterid": "32",
-                    "FieldName": "Basis of Application",
-                    "Status": "1",
-                    "RejectionReason": [
-                        {
-                            "id": "P4BAS_3239",
-                            "NsdlId": "TF01",
-                            "description": "ADDRESS FOR COMMUNICATION NOT MENTIONED"
-                        },
-                        {
-                            "id": "P4BAS_3240",
-                            "NsdlId": "TF02",
-                            "description": "AO CODE NOT MENTIONED\/MISMATCH\/NOT VALID"
-                        },
-                        {
-                            "id": "P4BAS_3229",
-                            "NsdlId": "TF03",
-                            "description": "APPLICANT STATUS NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3261",
-                            "NsdlId": "TF04",
-                            "description": "APPLICANTS NAME TO BE PRINTED ON CARD MORE THAN 75 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3245",
-                            "NsdlId": "TF05",
-                            "description": "APPLICANT'S FIRST NAME\/LAST NAME NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3280",
-                            "NsdlId": "TF06",
-                            "description": "APPLICANT'S FIRST NAME\/MIDDLE NAME\/LAST NAME CONTAIN INITIALS\/SPECIAL CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3287",
-                            "NsdlId": "TF07",
-                            "description": "APPLICANT'S FIRST NAME\/MIDDLE NAME\/LAST NAME MISMATCH WITH \"NAME TO BE PRINTED ON CARD\""
-                        },
-                        {
-                            "id": "P4BAS_3268",
-                            "NsdlId": "TF08",
-                            "description": "APPLICANT'S FIRST NAME\/MIDDLE NAME\/LAST NAME MORE THAN 25 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3243",
-                            "NsdlId": "TF09",
-                            "description": "APPLICANT'S NAME AND FATHER'S NAME ARE SAME"
-                        },
-                        {
-                            "id": "P4BAS_3247",
-                            "NsdlId": "TF10",
-                            "description": "APPLICATION FORM INCOMPLETE\/NOT PROPERLY FILLED"
-                        },
-                        {
-                            "id": "P4BAS_3253",
-                            "NsdlId": "TF11",
-                            "description": "DATE OF BIRTH\/INCORPORATION\/FORMATION NOT GIVEN\/WRONG"
-                        },
-                        {
-                            "id": "P4BAS_3243",
-                            "NsdlId": "TF13",
-                            "description": "FATHER'S FIRST NAME\/LAST NAME NOT MENTIONED"
-                        },
-                        {
-                            "id": "P4BAS_3277",
-                            "NsdlId": "TF14",
-                            "description": "FATHER'S FIRST NAME\/MIDDLE NAME\/LAST NAME CONTAIN INITIALS\/SPECIAL CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3265",
-                            "NsdlId": "TF15",
-                            "description": "FATHER'S FIRST NAME\/MIDDLE NAME\/LAST NAME MORE THAN 25 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3263",
-                            "NsdlId": "TF16",
-                            "description": "FORM NOT SIGNED\/SIGNATURE NOT PROPER\/SIGNATURE NOT IN BLACK INK"
-                        },
-                        {
-                            "id": "P4BAS_3261",
-                            "NsdlId": "TF17",
-                            "description": "OFFICE ADDRESS NOT PROVIDED (COMPANY \/ FIRM \/ AOP TRUST \/ LA)"
-                        },
-                        {
-                            "id": "P4BAS_3249",
-                            "NsdlId": "TF18",
-                            "description": "OFFICE ADDRESS NOT PROVIDED FOR SALARIED EMPLOYEE"
-                        },
-                        {
-                            "id": "P4BAS_3246",
-                            "NsdlId": "TF19",
-                            "description": "OFFICE NAME NOT PROVIDED FOR SALARIED EMPLOYEE"
-                        },
-                        {
-                            "id": "P4BAS_3246",
-                            "NsdlId": "TF20",
-                            "description": "ORGANISATION NAME MISMATCH WITH OFFICE ADDRESS"
-                        },
-                        {
-                            "id": "P4BAS_3234",
-                            "NsdlId": "TF23",
-                            "description": "PHOTOGRAPH NOT PROVIDED\/NOT PROPER"
-                        },
-                        {
-                            "id": "P4BAS_3221",
-                            "NsdlId": "TF24",
-                            "description": "PIN CODE NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3232",
-                            "NsdlId": "TF37",
-                            "description": "REGISTRATION NUMBER NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3270",
-                            "NsdlId": "TF38",
-                            "description": "REPRESENTATIVE ASSESSEE DETAILS NOT GIVEN FOR MINOR\/DECEASED APPLICANT"
-                        },
-                        {
-                            "id": "P4BAS_3260",
-                            "NsdlId": "TF39",
-                            "description": "REPRESENTATIVE ASSESSEE'S FIRST NAME\/LAST NAME NOT MENTIONED"
-                        },
-                        {
-                            "id": "P4BAS_3294",
-                            "NsdlId": "TF40",
-                            "description": "REPRESENTATIVE ASSESSEE'S FIRST NAME\/MIDDLE NAME\/LAST NAME CONTAIN INITIALS\/SPECIAL CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3282",
-                            "NsdlId": "TF41",
-                            "description": "REPRESENTATIVE ASSESSEE'S FIRST NAME\/MIDDLE NAME\/LAST NAME MORE THAN 25 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3260",
-                            "NsdlId": "TF42",
-                            "description": "REPRESENTATIVE ASSESSEE'S NAME AND APPLICANT'S NAME ARE SAME"
-                        },
-                        {
-                            "id": "P4BAS_3269",
-                            "NsdlId": "TF43",
-                            "description": "RESIDENTIAL ADDRESS NOT PROVIDED (INDIVIDUALS \/ HUF \/ BOI \/ AOP\/ AJP)"
-                        },
-                        {
-                            "id": "P4BAS_3227",
-                            "NsdlId": "TF44",
-                            "description": "STD \/ ISD CODE NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3229",
-                            "NsdlId": "TF45",
-                            "description": "THUMB IMPRESSION NOT ATTESTED"
-                        },
-                        {
-                            "id": "P4BAS_3230",
-                            "NsdlId": "TF46",
-                            "description": "WRONG FORM FILLED BY APPLICANT"
-                        },
-                        {
-                            "id": "P4BAS_32129",
-                            "NsdlId": "TF48",
-                            "description": "OFFICE ADDRESS HAS BEEN SELECTED AS COMMUNICATION ADDRESS. HOWEVER, THE SAME IS NOT PROVIDED IN THE APPLICATION (INDIVIDUALS\/HUF)"
-                        },
-                        {
-                            "id": "P4BAS_32138",
-                            "NsdlId": "TF50",
-                            "description": "AADHAAR NO MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE AADHAAR NO NAME APPEARING IN AADHAAR ALLOTMENT LETTER SUBMITTED BY YOU"
-                        },
-                        {
-                            "id": "P4BAS_32168",
-                            "NsdlId": "TF53",
-                            "description": "APPLICANT NAME MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME APPEARING IN PROOF OF IDENTITY SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32191",
-                            "NsdlId": "TF54",
-                            "description": "APPLICANT NAME AND ADDRESS MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME AND ADDRESS APPEARING IN PROOF OF ADDRESS SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32206",
-                            "NsdlId": "TF55",
-                            "description": "NAME AND DATE OF BIRTH MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE DATE OF BIRTH AND NAME APPEARING IN PROOF OF DATE OF BIRTH SUBMITTED BY YOU APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32175",
-                            "NsdlId": "TF56",
-                            "description": "APPLICANT\u2019S NAME MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME APPEARING IN PROOF OF DATE OF BIRTH SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32181",
-                            "NsdlId": "TF57",
-                            "description": "DATE OF BIRTH MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE DATE OF BIRTH APPEARING IN PROOF OF DATE OF BIRTH SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32169",
-                            "NsdlId": "TF58",
-                            "description": "APPLICANT\u2019S NAME MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME APPEARING IN PROOF OF ADDRESS SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32163",
-                            "NsdlId": "TF59",
-                            "description": "ADDRESS MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE ADDRESS APPEARING IN PROOF OF ADDRESS SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}10.100.23.216	15-12-2023 11:53:48 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.23.216	15-12-2023 11:54:21 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.36.132	15-12-2023 12:36:14 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.132	15-12-2023 12:36:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.132	15-12-2023 12:36:14 PM	JSON POST : Array10.140.36.132	15-12-2023 12:36:15 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.140.36.132	15-12-2023 12:36:15 PM	Json parting value34434510.140.36.132	15-12-2023 12:36:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 12:36:15 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 12:36:17 PM	Session BranchId...houser10.140.36.132	15-12-2023 12:36:17 PM	Session Type...HOUSER10.140.36.132	15-12-2023 12:36:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.132	15-12-2023 12:36:17 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.132	15-12-2023 12:36:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.132	15-12-2023 12:36:21 PM	JSON POST : 10.140.36.132	15-12-2023 12:36:26 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	15-12-2023 12:36:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 12:36:26 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 12:36:34 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	15-12-2023 12:36:34 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	15-12-2023 12:36:34 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.36.132	15-12-2023 12:36:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 12:36:34 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 12:36:39 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.132	15-12-2023 12:36:39 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.140.36.132	15-12-2023 12:36:39 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.140.36.132	15-12-2023 12:36:39 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
-    "Id": "15219",
-    "Name": "NOIDA",
-    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
-    "AddressTwo": "Adjacent to HDFC Bank",
-    "City": "NOIDA",
-    "PinCode": "201301",
-    "State": "31",
-    "PrimaryPhone": "1204868714",
-    "SecondaryPhone": "",
-    "PrimaryEmail": "rajuddin@religare.com",
-    "SecondaryEmail": "",
-    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
-    "CenterType": "1",
-    "AgentNumber": "25",
-    "Region": "7",
-    "PanNumber": "0",
-    "TanNumber": "",
-    "GstNumber": "",
-    "BranchCode": "25536",
-    "FinancialCode": "01",
-    "BankName": "0",
-    "AccountNumber": "0",
-    "IfscCode": "0",
-    "BranchName": "0",
-    "Status": "1",
-    "JsonItem": "",
-    "BankName2": "",
-    "AccountNumber2": "",
-    "IfscCode2": "",
-    "BranchName2": "",
-    "Created_by": "1",
-    "Updated_by": null,
-    "Created_date": "2022-04-02",
-    "Created_time": "10:15:15",
-    "Updated_date": null,
-    "Updated_time": null,
-    "SelfDig_Flag": "1",
-    "ActivationDate": "2021-10-01",
-    "ClosureDate": "1970-01-01",
-    "TrainerName": "",
-    "FranchiseCode": "B",
-    "TrainingDate": "1970-01-01",
-    "SelfDig_FlagTan": "1"
-}10.140.36.132	15-12-2023 12:36:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 12:36:39 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 12:37:07 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	15-12-2023 12:37:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 12:37:07 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 12:37:11 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	15-12-2023 12:37:11 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	15-12-2023 12:37:11 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.36.132	15-12-2023 12:37:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 12:37:12 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 12:50:03 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.132	15-12-2023 12:50:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 12:50:03 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 02:11:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 02:11:58 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 02:11:59 PM	Session BranchId...houser10.140.36.132	15-12-2023 02:11:59 PM	Session Type...HOUSER10.140.36.132	15-12-2023 02:11:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.132	15-12-2023 02:11:59 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.132	15-12-2023 02:11:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.132	15-12-2023 02:11:59 PM	JSON POST : 10.140.36.132	15-12-2023 02:12:04 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	15-12-2023 02:12:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 02:12:04 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 02:14:25 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.132	15-12-2023 02:14:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 02:14:25 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.216	15-12-2023 03:07:52 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.23.216	15-12-2023 03:07:58 PM	ui aG91c2Vy and pas dGVzdA==10.100.23.216	15-12-2023 03:07:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.216	15-12-2023 03:07:58 PM	JSON POST : Array10.100.23.216	15-12-2023 03:07:58 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.23.216	15-12-2023 03:07:58 PM	Json parting value10.100.23.216	15-12-2023 03:08:03 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.23.216	15-12-2023 03:08:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.216	15-12-2023 03:08:03 PM	JSON POST : Array10.100.23.216	15-12-2023 03:08:03 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
-    "Id": "35",
-    "BranchId": "344345",
-    "Role": "1",
-    "Type": "houser",
-    "UserName": "Shatrughan  [HO-User]",
-    "RegionId": null,
-    "SelfDigFlag": "EXPRESS",
-    "SelfDigFlagTan": "EXPRESS"
-}10.100.23.216	15-12-2023 03:08:03 PM	Json parting value34434510.100.23.216	15-12-2023 03:08:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.216	15-12-2023 03:08:03 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.216	15-12-2023 03:08:05 PM	Session BranchId...houser10.100.23.216	15-12-2023 03:08:05 PM	Session Type...HOUSER10.100.23.216	15-12-2023 03:08:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.216	15-12-2023 03:08:05 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.23.216	15-12-2023 03:08:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.23.216	15-12-2023 03:08:05 PM	JSON POST : 10.100.23.216	15-12-2023 03:08:11 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.23.216	15-12-2023 03:08:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.216	15-12-2023 03:08:11 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.100.23.216	15-12-2023 03:08:15 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.23.216	15-12-2023 03:08:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.216	15-12-2023 03:08:15 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:50:55 PM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - 10.140.36.132	15-12-2023 03:50:55 PM	[Info] - File location /tinfc1/UAT/listrloffice.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/OfficeInfoListAPI.php10.140.36.132	15-12-2023 03:50:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:50:55 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:50:58 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.132	15-12-2023 03:50:58 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.132	15-12-2023 03:50:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:50:58 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:51:06 PM	 URL for API - 10.140.36.132	15-12-2023 03:51:06 PM	 URL for API - http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.140.36.132	15-12-2023 03:51:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:51:06 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:51:20 PM	 URL for API - {"ProductType":"'PAN'","FormType":"'49A'"}10.140.36.132	15-12-2023 03:51:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:51:20 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:51:33 PM	JSON to post for ReqestId----{"ReqestId":33}10.140.36.132	15-12-2023 03:51:33 PM	URL to hit on API----http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.140.36.132	15-12-2023 03:51:33 PM	JSON to post for ReqestId----{
-    "Status": "0",
-    "Message": "Success",
-    "Rejectionlist": [
-        {
-            "ProductType": "PAN",
-            "FormType": "49A",
-            "FieldList": [
-                {
-                    "Masterid": "33",
-                    "FieldName": "Basis of Supporting document",
-                    "Status": "1",
-                    "RejectionReason": [
-                        {
-                            "id": "P4BAS_3358",
-                            "NsdlId": "TF12",
-                            "description": "DEATH CERTIFICATE NOT PROVIDED FOR DECEASED APPLICANT     "
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF27",
-                            "description": "PROOF OF FATHER'S NAME NOT PROVIDED\/ NOT VALID"
-                        },
-                        {
-                            "id": "P4BAS_3346",
-                            "NsdlId": "TF28",
-                            "description": "PROOF OF IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3369",
-                            "NsdlId": "TF34",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE ADDRESS NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3370",
-                            "NsdlId": "TF35",
-                            "description": "PROOF OF REPRESENTATIVE ASSESSEE IDENTITY NOT PROVIDED\/ NOT VALID     "
-                        },
-                        {
-                            "id": "P4BAS_3395",
-                            "NsdlId": "TF36",
-                            "description": "PROOF OF RESIDENTIAL ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF \/ BOI \/ AOP\/ AJP)     "
-                        },
-                        {
-                            "id": "P4BAS_3373",
-                            "NsdlId": "TF47",
-                            "description": "PROOF OF OFFICE ADDRESS NOT PROVIDED \/ NOT VALID (INDIVIDUALS \/ HUF)     "
-                        },
-                        {
-                            "id": "P4BAS_33106",
-                            "NsdlId": "TF49",
-                            "description": "PROOF OF AADHAAR IS NOT PROVIDED FOR THE AADHAAR MENTIONED IN THE APPLICATION APPLICANT STATUS INDIVIDUAL "
-                        },
-                        {
-                            "id": "P4BAS_3387",
-                            "NsdlId": "TF51",
-                            "description": "PROOF OF DATE OF BIRTH NOT ATTACHED. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_3382",
-                            "NsdlId": "TF52",
-                            "description": "PROOF OF DATE OF BIRTH INVALID. APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}10.140.36.132	15-12-2023 03:51:57 PM	JSON to post for ReqestId----{"ReqestId":32}10.140.36.132	15-12-2023 03:51:57 PM	URL to hit on API----http://10.150.146.12/UAT_BackEnd/General/rejectioninfoList.php10.140.36.132	15-12-2023 03:51:57 PM	JSON to post for ReqestId----{
-    "Status": "0",
-    "Message": "Success",
-    "Rejectionlist": [
-        {
-            "ProductType": "PAN",
-            "FormType": "49A",
-            "FieldList": [
-                {
-                    "Masterid": "32",
-                    "FieldName": "Basis of Application",
-                    "Status": "1",
-                    "RejectionReason": [
-                        {
-                            "id": "P4BAS_3239",
-                            "NsdlId": "TF01",
-                            "description": "ADDRESS FOR COMMUNICATION NOT MENTIONED"
-                        },
-                        {
-                            "id": "P4BAS_3240",
-                            "NsdlId": "TF02",
-                            "description": "AO CODE NOT MENTIONED\/MISMATCH\/NOT VALID"
-                        },
-                        {
-                            "id": "P4BAS_3229",
-                            "NsdlId": "TF03",
-                            "description": "APPLICANT STATUS NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3261",
-                            "NsdlId": "TF04",
-                            "description": "APPLICANTS NAME TO BE PRINTED ON CARD MORE THAN 75 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3245",
-                            "NsdlId": "TF05",
-                            "description": "APPLICANT'S FIRST NAME\/LAST NAME NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3280",
-                            "NsdlId": "TF06",
-                            "description": "APPLICANT'S FIRST NAME\/MIDDLE NAME\/LAST NAME CONTAIN INITIALS\/SPECIAL CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3287",
-                            "NsdlId": "TF07",
-                            "description": "APPLICANT'S FIRST NAME\/MIDDLE NAME\/LAST NAME MISMATCH WITH \"NAME TO BE PRINTED ON CARD\""
-                        },
-                        {
-                            "id": "P4BAS_3268",
-                            "NsdlId": "TF08",
-                            "description": "APPLICANT'S FIRST NAME\/MIDDLE NAME\/LAST NAME MORE THAN 25 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3243",
-                            "NsdlId": "TF09",
-                            "description": "APPLICANT'S NAME AND FATHER'S NAME ARE SAME"
-                        },
-                        {
-                            "id": "P4BAS_3247",
-                            "NsdlId": "TF10",
-                            "description": "APPLICATION FORM INCOMPLETE\/NOT PROPERLY FILLED"
-                        },
-                        {
-                            "id": "P4BAS_3253",
-                            "NsdlId": "TF11",
-                            "description": "DATE OF BIRTH\/INCORPORATION\/FORMATION NOT GIVEN\/WRONG"
-                        },
-                        {
-                            "id": "P4BAS_3243",
-                            "NsdlId": "TF13",
-                            "description": "FATHER'S FIRST NAME\/LAST NAME NOT MENTIONED"
-                        },
-                        {
-                            "id": "P4BAS_3277",
-                            "NsdlId": "TF14",
-                            "description": "FATHER'S FIRST NAME\/MIDDLE NAME\/LAST NAME CONTAIN INITIALS\/SPECIAL CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3265",
-                            "NsdlId": "TF15",
-                            "description": "FATHER'S FIRST NAME\/MIDDLE NAME\/LAST NAME MORE THAN 25 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3263",
-                            "NsdlId": "TF16",
-                            "description": "FORM NOT SIGNED\/SIGNATURE NOT PROPER\/SIGNATURE NOT IN BLACK INK"
-                        },
-                        {
-                            "id": "P4BAS_3261",
-                            "NsdlId": "TF17",
-                            "description": "OFFICE ADDRESS NOT PROVIDED (COMPANY \/ FIRM \/ AOP TRUST \/ LA)"
-                        },
-                        {
-                            "id": "P4BAS_3249",
-                            "NsdlId": "TF18",
-                            "description": "OFFICE ADDRESS NOT PROVIDED FOR SALARIED EMPLOYEE"
-                        },
-                        {
-                            "id": "P4BAS_3246",
-                            "NsdlId": "TF19",
-                            "description": "OFFICE NAME NOT PROVIDED FOR SALARIED EMPLOYEE"
-                        },
-                        {
-                            "id": "P4BAS_3246",
-                            "NsdlId": "TF20",
-                            "description": "ORGANISATION NAME MISMATCH WITH OFFICE ADDRESS"
-                        },
-                        {
-                            "id": "P4BAS_3234",
-                            "NsdlId": "TF23",
-                            "description": "PHOTOGRAPH NOT PROVIDED\/NOT PROPER"
-                        },
-                        {
-                            "id": "P4BAS_3221",
-                            "NsdlId": "TF24",
-                            "description": "PIN CODE NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3232",
-                            "NsdlId": "TF37",
-                            "description": "REGISTRATION NUMBER NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3270",
-                            "NsdlId": "TF38",
-                            "description": "REPRESENTATIVE ASSESSEE DETAILS NOT GIVEN FOR MINOR\/DECEASED APPLICANT"
-                        },
-                        {
-                            "id": "P4BAS_3260",
-                            "NsdlId": "TF39",
-                            "description": "REPRESENTATIVE ASSESSEE'S FIRST NAME\/LAST NAME NOT MENTIONED"
-                        },
-                        {
-                            "id": "P4BAS_3294",
-                            "NsdlId": "TF40",
-                            "description": "REPRESENTATIVE ASSESSEE'S FIRST NAME\/MIDDLE NAME\/LAST NAME CONTAIN INITIALS\/SPECIAL CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3282",
-                            "NsdlId": "TF41",
-                            "description": "REPRESENTATIVE ASSESSEE'S FIRST NAME\/MIDDLE NAME\/LAST NAME MORE THAN 25 CHARACTERS"
-                        },
-                        {
-                            "id": "P4BAS_3260",
-                            "NsdlId": "TF42",
-                            "description": "REPRESENTATIVE ASSESSEE'S NAME AND APPLICANT'S NAME ARE SAME"
-                        },
-                        {
-                            "id": "P4BAS_3269",
-                            "NsdlId": "TF43",
-                            "description": "RESIDENTIAL ADDRESS NOT PROVIDED (INDIVIDUALS \/ HUF \/ BOI \/ AOP\/ AJP)"
-                        },
-                        {
-                            "id": "P4BAS_3227",
-                            "NsdlId": "TF44",
-                            "description": "STD \/ ISD CODE NOT PROVIDED"
-                        },
-                        {
-                            "id": "P4BAS_3229",
-                            "NsdlId": "TF45",
-                            "description": "THUMB IMPRESSION NOT ATTESTED"
-                        },
-                        {
-                            "id": "P4BAS_3230",
-                            "NsdlId": "TF46",
-                            "description": "WRONG FORM FILLED BY APPLICANT"
-                        },
-                        {
-                            "id": "P4BAS_32129",
-                            "NsdlId": "TF48",
-                            "description": "OFFICE ADDRESS HAS BEEN SELECTED AS COMMUNICATION ADDRESS. HOWEVER, THE SAME IS NOT PROVIDED IN THE APPLICATION (INDIVIDUALS\/HUF)"
-                        },
-                        {
-                            "id": "P4BAS_32138",
-                            "NsdlId": "TF50",
-                            "description": "AADHAAR NO MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE AADHAAR NO NAME APPEARING IN AADHAAR ALLOTMENT LETTER SUBMITTED BY YOU"
-                        },
-                        {
-                            "id": "P4BAS_32168",
-                            "NsdlId": "TF53",
-                            "description": "APPLICANT NAME MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME APPEARING IN PROOF OF IDENTITY SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32191",
-                            "NsdlId": "TF54",
-                            "description": "APPLICANT NAME AND ADDRESS MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME AND ADDRESS APPEARING IN PROOF OF ADDRESS SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32206",
-                            "NsdlId": "TF55",
-                            "description": "NAME AND DATE OF BIRTH MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE DATE OF BIRTH AND NAME APPEARING IN PROOF OF DATE OF BIRTH SUBMITTED BY YOU APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32175",
-                            "NsdlId": "TF56",
-                            "description": "APPLICANT\u2019S NAME MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME APPEARING IN PROOF OF DATE OF BIRTH SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32181",
-                            "NsdlId": "TF57",
-                            "description": "DATE OF BIRTH MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE DATE OF BIRTH APPEARING IN PROOF OF DATE OF BIRTH SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32169",
-                            "NsdlId": "TF58",
-                            "description": "APPLICANT\u2019S NAME MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE NAME APPEARING IN PROOF OF ADDRESS SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        },
-                        {
-                            "id": "P4BAS_32163",
-                            "NsdlId": "TF59",
-                            "description": "ADDRESS MENTIONED IN THE PAN APPLICATION DOES NOT MATCH WITH THE ADDRESS APPEARING IN PROOF OF ADDRESS SUBMITTED APPLICANT STATUS INDIVIDUAL\/HINDU UNDIVIDED FAMILY"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}10.140.36.132	15-12-2023 03:52:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:52:17 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:52:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/UserWiseQcAPI.php10.140.36.132	15-12-2023 03:52:30 PM	JSON POST : {
-    "type":"1",
-    "ProductType":"PAN",
-    "fromDate":"2023-12-01",
-    "toDate":"2023-12-01"
-}10.140.36.132	15-12-2023 03:54:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:54:45 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:54:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	15-12-2023 03:54:45 PM	JSON POST : 10.140.36.132	15-12-2023 03:55:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.36.132	15-12-2023 03:55:15 PM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-12-01",
-        "toDate":"2023-12-15",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.36.132	15-12-2023 03:55:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:55:15 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:55:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	15-12-2023 03:55:15 PM	JSON POST : 10.140.36.132	15-12-2023 03:55:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.36.132	15-12-2023 03:55:27 PM	JSON POST : {
-        "type":"0",
-        "BranchCode":"all",
-        "fromDate":"2023-12-01",
-        "toDate":"2023-12-15",
-        "DateType":"1",
-        "AckNo":"",
-        "ProductType":"PAN"
-        
-    }10.140.36.132	15-12-2023 03:55:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:55:28 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:55:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	15-12-2023 03:55:28 PM	JSON POST : 10.140.36.132	15-12-2023 03:55:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:55:43 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:55:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:55:47 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:56:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:56:02 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:56:07 PM	auth key:UkVMQjk1NjA2NlRJTkZDMTQ0ODo=10.140.36.132	15-12-2023 03:56:42 PM	RESPONCE Return from download fisher api :{"ResponseCode":"200","Message":"Valid Document","ResponseObject":{"ResponseCode":"200","Message":"Document download from laserfische successfully.","MimeType":"","templatename":null,"filename":null,"FileExtension":"","DocumentData":"","TemplateData":null,"status":"False"}}10.140.36.132	15-12-2023 03:56:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:56:42 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:56:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:56:42 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:57:04 PM	[Info] - File location /tinfc1/UAT/pdf1aconversion_report.php Message:-  RESPONSE RETURN FROM pdf1a report: {"ResponseCode":"200","Message":"Valid data","ResponseObject":{"StatusCode":"200","Message":"We have received your request, we will send the reports on your requested email addess (rajuddin@religare.com)"}}10.140.36.132	15-12-2023 03:57:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:57:04 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:57:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 03:57:30 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}10.140.36.132	15-12-2023 03:57:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/statusReportAPI.php10.140.36.132	15-12-2023 03:57:43 PM	JSON POST : {
-        "type":"1",
-        "fromDate":"2023-12-01",
-        "toDate":"2023-12-15",
-        "ProductType":"PAN"
-    }10.140.36.132	15-12-2023 05:20:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	15-12-2023 05:20:25 PM	JSON POST : {
-			"userType" : "HOUSER"
-		}
