@@ -9,7 +9,7 @@ error_reporting(0);
 if($_SERVER['HTTP_HOST']=='localhost' || $_SERVER['HTTP_HOST']=='127.0.0.1'){
   $serverurl = "http://";
   $serverurl .= $_SERVER['HTTP_HOST'];
-  $serverurlapi = "http://".$_SERVER['HTTP_HOST']."/Accounts/";
+  $serverurlapi = "http://".$_SERVER['HTTP_HOST']."/debox/Accounts/";
 }else{
   if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on'){
     $serverurl = "https://";
@@ -18,8 +18,8 @@ if($_SERVER['HTTP_HOST']=='localhost' || $_SERVER['HTTP_HOST']=='127.0.0.1'){
   }
 
   $serverurl .= $_SERVER['HTTP_HOST'];
-  $serverurl .= "/Accounts/";
-  $serverurlapi = $_SERVER['HTTP_HOST']."/Accounts/";
+  $serverurl .= "/debox/Accounts/";
+  $serverurlapi = $_SERVER['HTTP_HOST']."/debox/Accounts/";
   //$mountImagePath = "/u01/";
   //$targetImagePath = $mountImagePath."uploads_uat/";
 

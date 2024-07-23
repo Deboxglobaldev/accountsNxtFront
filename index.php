@@ -5,7 +5,6 @@ include "logincheck.php";
 <!DOCTYPE html
     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -27,15 +26,7 @@ include "logincheck.php";
                     <div class="Container-fluid">
                         <div class="row strip">
                             <div class="col-sm-5">
-                                <p class="ticker">Now you are on new TINFC domain: <span
-                                        style="color:yellow;">tinexpert.religaredigital.in </span> </p>
-                            </div>
-
-                            <div class="col-sm-4">
-                                <p class="ticker">Please send physical application on time</p>
-                            </div>
-                            <div class="col-sm-3">
-                                <p class="ticker">Your branch audit id due on 25 march</p>
+                                <p class="ticker">The best accountants don't just interpret numbers; they decipher the language of financial success</p>
                             </div>
                         </div>
                     </div>

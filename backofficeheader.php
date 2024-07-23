@@ -3,9 +3,11 @@
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
         href="javascript:void(0);"><span class="feather-icon"><i data-feather="more-vertical"></i></span></a> <a
         id="navbar_toggle_btn" class="navbar-toggle-btn nav-link-hover" href="javascript:void(0);"><span
-            class="feather-icon"><i data-feather="menu"></i></span></a> <a class="navbar-brand" href="index.php"> <img
-            class="brand-img d-inline-block" style="width: 185px;" src="img/Religare-Logo.png" alt="brand" /></a>
-    <span style="color: blue; font-size: 15px; font-weight: 600;"> >>
+            class="feather-icon"><i data-feather="menu"></i></span></a> <a class="navbar-brand" href="index.php">
+                <img
+            class="brand-img d-inline-block" style="width: 150px;" src="img/apparel.png" alt="brand" />
+
+        </a>
         <?php
 		if (strpos($_SERVER['REQUEST_URI'], "docmanagement.php") !== false) {
 			echo 'Document Management';
@@ -80,7 +82,8 @@
       <a href="index.php" class="btn btn-success" style="font-size: 13px;">Swith To Front Office</a>
 	</li>
 	<?php } ?> -->
-        <li class="nav-item dropdown dropdown-authentication"> <a class="nav-link dropdown-toggle no-caret" href="#"
+        <li class="nav-item dropdown dropdown-authentication">
+            <a class="nav-link dropdown-toggle no-caret" href="#"
                 role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <div class="media">
                     <div class="media-img-wrap">
@@ -90,7 +93,8 @@
                     </div>
                     <div class="media-body"> <span style="color:green;">
                             <?php echo $_SESSION["UserName"]; ?>
-                            <i class="zmdi zmdi-chevron-down"></i></span> </div>
+                            <i class="zmdi zmdi-chevron-down"></i></span>
+                    </div>
                 </div>
             </a>
             <div class="dropdown-menu dropdown-menu-right" data-dropdown-in="flipInX" data-dropdown-out="flipOutX">
@@ -122,111 +126,97 @@
 <nav class="hk-nav hk-nav-light" style="background-color: #71b91b;background-image: linear-gradient(#71b91b,#3e8f30"> <a
         href="javascript:void(0);" id="hk_nav_close" class="hk-nav-close"><span class="feather-icon"><i
                 data-feather="x"></i></span></a>
-    <div class="nicescroll-bar">
+    <div class="nicescroll-bar pr-2">
         <div class="navbar-nav-wrap" style="padding-top: 1.75rem;">
             <ul class="navbar-nav flex-column leftbar">
 
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="listBankVoucherEntry.php"><span class="nav-link-text seq">List Bank
                             Voucher</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="listLedger.php"><span class="nav-link-text seq">Report
                             Statement</span></a>
-                </li>
+                </li> -->
 
 
-                <li class="nav-item">
+                <li class="nav-item pl-2">
                     <a class="nav-link" href="index.php"><span
-                            class="nav-link-text seq">Dashboard</span></a>
+                    class="nav-link-text seq">Dashboard</span></a>
                 </li>
-
-                <li onclick="toggledetails(2);" class="nav-item"
-                    style="cursor: pointer;color: white;font-size: 12px;padding: 4px 0px 4px 8px;"> Accounts
-                    <ul style="display:none" id="accnt">
-					<li class="nav-item">
-                            <a class="nav-link" href="ChartOfAccount.php"><span class="nav-link-text">Charts of
+                <li onclick="toggledetails(1);" class="nav-item border-top"
+                    style="cursor: pointer;color: white;font-size: 12px;padding: 4px 0px 4px 16px;"> Accounts
+                    <ul style="display:none" id="docm">
+                        <li class="nav-item">
+                            <a class="nav-link" href="ChartOfAccount.php"><span class="nav-link-text text-white seq">Charts of
                                     Accounts</span></a>
                         </li>
-
-
                         <li class="nav-item">
-                            <a class="nav-link" href="listJournalEntry.php"><span class="nav-link-text">Journal
+                            <a class="nav-link" href="listJournalEntry.php"><span class="nav-link-text text-white seq">Journal
                                     Voucher</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="listBankReceipt.php"><span class="nav-link-text">Bank
+                            <a class="nav-link" href="listBankReceipt.php"><span class="nav-link-text text-white seq">Bank
                                     Receipt</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="listBankPayment.php"><span class="nav-link-text">Bank
+                            <a class="nav-link" href="listBankPayment.php"><span class="nav-link-text text-white seq">Bank
                                     Payment</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="listBankVoucherEntry.php"><span class="nav-link-text">Verify
+                            <a class="nav-link" href="listBankVoucherEntry.php"><span class="nav-link-text text-white seq">Verify
                                     Voucher</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="listLedger.php"><span class="nav-link-text">Account
+                            <a class="nav-link" href="listLedger.php"><span class="nav-link-text text-white seq">Account
                                     Statement</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="addDebitVoucher.php"><span class="nav-link-text">Debit
+                            <a class="nav-link" href="addDebitVoucher.php"><span class="nav-link-text text-white seq">Debit
                                     Note</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="addCreditVoucher.php"><span class="nav-link-text">Credit
+                            <a class="nav-link" href="addCreditVoucher.php"><span class="nav-link-text text-white seq">Credit
                                     Note</span></a>
                         </li>
                         <li class="nav-item">
-			<a class="nav-link" href="addContraVoucher.php"><span class="nav-link-text">Contra Voucher</span></a>
-		</li>
+			                <a class="nav-link" href="addContraVoucher.php"><span class="nav-link-text text-white seq">Contra Voucher</span></a>
+		                </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="voucherimport.php"><span class="nav-link-text">Voucher
-                                    Import</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="billSummary.php"><span class="nav-link-text">Bill
+                            <a class="nav-link" href="billSummary.php"><span class="nav-link-text text-white seq">Bill
                                     Summary</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="commissionSummary.php"><span class="nav-link-text">Commission
+                            <a class="nav-link" href="commissionSummary.php"><span class="nav-link-text text-white seq">Commission
                                     Summary</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="ageingreport.php"><span class="nav-link-text">Aeging
-                                    Report</span></a>
+                        <a class="nav-link" href="trialbalance.php"><span class="nav-link-text text-white seq">Trial
+                        Balance</span></a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="collectionreport.php"><span class="nav-link-text">Collection
-                                    Report</span></a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link" href="trialbalance.php"><span class="nav-link-text">Trial
-                                    Balance</span></a>
-                        </li>
-
                     </ul>
                 </li>
-
-
-                <li class="nav-item">
-                    <a class="nav-link" href="invoicestatusreport.php"><span class="nav-link-text seq">Invoice Status
-                            Report</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="invoicegeneratepage.php"><span class="nav-link-text seq">Generate
-                            Invoice</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="accountaudittrail.php"><span class="nav-link-text seq">Account Audit
-                            Trail</span></a>
+                <li onclick="toggledetails(2);" class="nav-item border-top"
+                    style="cursor: pointer;color: white;font-size: 12px;padding: 4px 0px 4px 16px;"> Report
+                    <ul style="display:none" id="accnt">
+                        <li class="nav-item">
+                            <a class="nav-link" href="invoicestatusreport.php"><span class="nav-link-text text-white seq">Invoice Status
+                                    Report</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="invoicegeneratepage.php"><span class="nav-link-text text-white seq">Generate
+                                    Invoice</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="accountaudittrail.php"><span class="nav-link-text text-white seq">Account Audit
+                                    Trail</span></a>
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </div>
-        <div> <img class="img-fluid imgr" style="width: 65%;" src="img/Religare-Dashboard-Clover.png" alt="brand" />
+        <div>
         </div>
     </div>
 </nav>

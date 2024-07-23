@@ -280,7 +280,6 @@
       <div tabindex="-1" class="dropdown-menu dropdown-menu-right" data-dropdown-in="flipInX" data-dropdown-out="flipOutX">
         <!-- <a tabindex="-1" class="dropdown-item" href="#"><i class="dropdown-icon zmdi zmdi-account"></i><span>Profile</span></a> -->
         <a tabindex="-1" class="dropdown-item" href="#"><i class="dropdown-icon zmdi zmdi-card"></i><span>My balance</span></a>
-
 <?php 
 //print_r($_SESSION);
 

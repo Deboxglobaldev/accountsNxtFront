@@ -1,7 +1,5 @@
 <?php
 include "inc.php";
-logger("Session BranchId...".$_SESSION["branchId"]);
-logger("Session Type...".$_SESSION["Type"]);
 
 
 	if($_SESSION["Type"]=="HOUSER"){
@@ -51,11 +49,6 @@ logger("Session Type...".$_SESSION["Type"]);
 		$tanCount  = $dashData[0]->SummaryCounts[0]->SummaryTanCount;
 
 	}
-
-	//24G and tds count api
-	$countUrl = $serverurlapi."Dashboards/countAPI.php";;
-	$responseCount = postCurlData($countUrl,'');
-	$countData = json_decode($responseCount);
 
 ?>
 

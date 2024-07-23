@@ -50,4 +50,335 @@ the <a href="mailto:postmaster@localhost">webmaster</a>.
 
 127.0.0.1	23-07-2024 02:44:28 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/userHeaderAPI.php127.0.0.1	23-07-2024 02:44:28 PM	JSON POST : {
 			"userType" : ""
-		}127.0.0.1	23-07-2024 02:44:35 PM	Session BranchId...127.0.0.1	23-07-2024 02:44:35 PM	Session Type...127.0.0.1	23-07-2024 02:44:35 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 02:44:35 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 02:44:35 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/countAPI.php127.0.0.1	23-07-2024 02:44:35 PM	JSON POST : 127.0.0.1	23-07-2024 02:44:50 PM	Session BranchId...127.0.0.1	23-07-2024 02:44:50 PM	Session Type...127.0.0.1	23-07-2024 02:44:50 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 02:44:50 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 02:44:50 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/countAPI.php127.0.0.1	23-07-2024 02:44:50 PM	JSON POST : 127.0.0.1	23-07-2024 02:48:23 PM	Session BranchId...127.0.0.1	23-07-2024 02:48:23 PM	Session Type...127.0.0.1	23-07-2024 02:48:23 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 02:48:23 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 02:48:23 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/countAPI.php127.0.0.1	23-07-2024 02:48:23 PM	JSON POST : 
+		}127.0.0.1	23-07-2024 02:44:35 PM	Session BranchId...127.0.0.1	23-07-2024 02:44:35 PM	Session Type...127.0.0.1	23-07-2024 02:44:35 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 02:44:35 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 02:44:35 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/countAPI.php127.0.0.1	23-07-2024 02:44:35 PM	JSON POST : 127.0.0.1	23-07-2024 02:44:50 PM	Session BranchId...127.0.0.1	23-07-2024 02:44:50 PM	Session Type...127.0.0.1	23-07-2024 02:44:50 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 02:44:50 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 02:44:50 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/countAPI.php127.0.0.1	23-07-2024 02:44:50 PM	JSON POST : 127.0.0.1	23-07-2024 02:48:23 PM	Session BranchId...127.0.0.1	23-07-2024 02:48:23 PM	Session Type...127.0.0.1	23-07-2024 02:48:23 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 02:48:23 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 02:48:23 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/countAPI.php127.0.0.1	23-07-2024 02:48:23 PM	JSON POST : 127.0.0.1	23-07-2024 02:51:32 PM	Response from setting api: <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">127.0.0.1</a><br />
+  <span>Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.2</span>
+</address>
+</body>
+</html>
+
+127.0.0.1	23-07-2024 02:51:32 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/userHeaderAPI.php127.0.0.1	23-07-2024 02:51:32 PM	JSON POST : {
+			"userType" : ""
+		}127.0.0.1	23-07-2024 02:51:33 PM	Response from setting api: <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">127.0.0.1</a><br />
+  <span>Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.2</span>
+</address>
+</body>
+</html>
+
+127.0.0.1	23-07-2024 02:51:33 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/userHeaderAPI.php127.0.0.1	23-07-2024 02:51:33 PM	JSON POST : {
+			"userType" : ""
+		}127.0.0.1	23-07-2024 02:51:43 PM	Session BranchId...127.0.0.1	23-07-2024 02:51:43 PM	Session Type...127.0.0.1	23-07-2024 02:51:43 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 02:51:43 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 02:51:43 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/countAPI.php127.0.0.1	23-07-2024 02:51:43 PM	JSON POST : 127.0.0.1	23-07-2024 03:03:19 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:03:19 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:03:19 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:03:19 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:03:19 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:03:19 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:03:19 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:03:19 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:03:19 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:03:19 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:04:47 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:04:47 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:04:48 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:04:48 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:04:48 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:04:48 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:04:48 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:04:48 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:04:48 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:04:48 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:06:05 PM	Session BranchId...127.0.0.1	23-07-2024 03:06:05 PM	Session Type...127.0.0.1	23-07-2024 03:06:05 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 03:06:05 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 03:06:05 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/countAPI.php127.0.0.1	23-07-2024 03:06:05 PM	JSON POST : 127.0.0.1	23-07-2024 03:06:07 PM	Session BranchId...127.0.0.1	23-07-2024 03:06:07 PM	Session Type...127.0.0.1	23-07-2024 03:06:07 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 03:06:07 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 03:06:07 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/countAPI.php127.0.0.1	23-07-2024 03:06:07 PM	JSON POST : 127.0.0.1	23-07-2024 03:06:08 PM	Session BranchId...127.0.0.1	23-07-2024 03:06:08 PM	Session Type...127.0.0.1	23-07-2024 03:06:08 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 03:06:08 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 03:06:08 PM	POST API URL HIT: http://127.0.0.1/Accounts/Dashboards/countAPI.php127.0.0.1	23-07-2024 03:06:08 PM	JSON POST : 127.0.0.1	23-07-2024 03:06:29 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:06:29 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:06:29 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:06:29 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:06:29 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:06:29 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:06:29 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:06:29 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:06:29 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:06:29 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:08:07 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:08 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:08:08 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:08 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:08:08 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:08 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:08:08 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:08 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:08:08 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:08 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:08:37 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:37 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:08:37 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:37 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:08:37 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:37 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:08:37 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:37 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:08:37 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:37 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:08:51 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:51 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:08:51 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:51 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:08:51 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:51 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:08:51 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:51 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:08:51 PM	POST API URL HIT: http://127.0.0.1/Accounts/General/accountGroupAPI.php127.0.0.1	23-07-2024 03:08:51 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:12:33 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:12:33 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:12:34 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:12:34 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:12:34 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:12:34 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:12:34 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:12:34 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:12:34 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:12:34 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:12:42 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:12:42 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:12:42 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:12:42 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:12:42 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:12:42 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:12:42 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:12:42 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:12:42 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:12:42 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:15:24 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:15:24 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:15:24 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:15:24 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:15:24 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:15:24 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:15:24 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:15:24 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:15:24 PM	POST API URL HIT: http://127.0.0.1/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:15:24 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:17:55 PM	POST API URL HIT: http://127.0.0.1/Debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:17:55 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:17:56 PM	POST API URL HIT: http://127.0.0.1/Debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:17:56 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:17:56 PM	POST API URL HIT: http://127.0.0.1/Debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:17:56 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:17:56 PM	POST API URL HIT: http://127.0.0.1/Debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:17:56 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:17:56 PM	POST API URL HIT: http://127.0.0.1/Debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:17:56 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:18:48 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:18:48 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:18:48 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:18:48 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:18:48 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:18:48 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:18:48 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:18:48 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:18:48 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:18:48 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:23:08 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:23:08 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:23:08 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:23:08 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:23:08 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:23:08 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:23:08 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:23:08 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:23:08 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:23:08 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:27:44 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:27:44 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:27:44 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:27:44 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:27:44 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:27:44 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:27:44 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:27:44 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:27:44 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:27:44 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:43:25 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:43:25 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:43:25 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:43:25 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:43:25 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:43:25 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:43:25 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:43:25 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:43:25 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:43:25 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 03:49:56 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:49:56 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 03:49:56 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:49:56 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 03:49:56 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:49:56 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 03:49:56 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:49:56 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 03:49:56 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 03:49:56 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 04:48:52 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:48:52 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 04:48:53 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:48:53 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 04:48:53 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:48:53 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 04:48:53 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:48:53 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 04:48:53 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:48:53 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 04:48:56 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 04:48:56 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 04:49:37 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 04:49:37 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 04:49:43 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 04:49:43 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 04:50:14 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 04:50:14 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 04:50:19 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 04:50:19 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 04:50:35 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:50:35 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 04:50:35 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:50:35 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 04:50:35 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:50:35 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 04:50:35 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:50:35 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 04:50:35 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:50:35 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 04:50:54 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 04:50:54 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 04:51:18 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:51:18 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 04:51:18 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:51:18 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 04:51:18 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:51:18 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 04:51:18 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:51:18 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 04:51:18 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:51:18 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 04:52:12 PM	[Info] - File location /debox/accountsNxtFront/addJournalEntry.php Message:- At begining of Call127.0.0.1	23-07-2024 04:52:12 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/General/accountNameAPI.php127.0.0.1	23-07-2024 04:52:12 PM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"notGroupId":"LB0004",
+					"Status":"1"
+				}127.0.0.1	23-07-2024 04:52:12 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/General/accountNameAPI.php127.0.0.1	23-07-2024 04:52:12 PM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"notGroupId":"LB0004",
+					"Status":"1"
+				}127.0.0.1	23-07-2024 04:52:12 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/General/accountNameAPI.php127.0.0.1	23-07-2024 04:52:12 PM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"notGroupId":"LB0004",
+					"Status":"1"
+				}127.0.0.1	23-07-2024 04:52:12 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/General/accountNameAPI.php127.0.0.1	23-07-2024 04:52:12 PM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"notGroupId":"LB0004",
+					"Status":"1"
+				}127.0.0.1	23-07-2024 04:52:12 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/General/accountNameAPI.php127.0.0.1	23-07-2024 04:52:12 PM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"notGroupId":"LB0004",
+					"Status":"1"
+				}127.0.0.1	23-07-2024 04:52:12 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/General/accountNameAPI.php127.0.0.1	23-07-2024 04:52:12 PM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}127.0.0.1	23-07-2024 04:52:51 PM	ui T0FZR2dtUXN0czROREJKdnRhSzM2QT09 and pass MkhCNWlGZ2lQMFZrMDBDeEEvWlNldz09127.0.0.1	23-07-2024 04:52:51 PM	Response from url data jaypal {"userId":"OAYGgmQsts4NDBJvtaK36A==","password":"2HB5iFgiP0Vk00CxA\/ZSew=="}127.0.0.1	23-07-2024 04:52:51 PM	Response from url http://127.0.0.1/debox/Accounts/master/userlogin.php is: 127.0.0.1	23-07-2024 04:52:51 PM	Json parting value127.0.0.1	23-07-2024 04:52:52 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 04:52:52 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 04:53:24 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:53:24 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 04:53:24 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:53:24 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 04:53:24 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:53:24 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 04:53:24 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:53:24 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 04:53:24 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:53:24 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 04:53:30 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 04:53:30 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 04:53:52 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:53:52 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 04:53:52 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:53:52 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 04:53:52 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:53:52 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 04:53:52 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:53:52 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 04:53:52 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 04:53:52 PM	JSON POST : {
+    "accountGroup":"5"
+}127.0.0.1	23-07-2024 04:54:11 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 04:54:11 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 04:56:59 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 04:56:59 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:30:16 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 05:30:16 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:34:50 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 05:34:50 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:36:25 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 05:36:25 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:37:08 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 05:37:08 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:37:12 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 05:37:12 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:37:33 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 05:37:33 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:38:13 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 05:38:13 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:38:25 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 05:38:25 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:38:56 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 05:38:56 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:39:06 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 05:39:06 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:40:08 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/Dashboards/DashboardAPI.php127.0.0.1	23-07-2024 05:40:08 PM	JSON POST : { "UserType": "", "UserId": "1", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}127.0.0.1	23-07-2024 05:40:14 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 05:40:14 PM	JSON POST : {
+    "accountGroup":"1"
+}127.0.0.1	23-07-2024 05:40:14 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 05:40:14 PM	JSON POST : {
+    "accountGroup":"2"
+}127.0.0.1	23-07-2024 05:40:14 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 05:40:14 PM	JSON POST : {
+    "accountGroup":"3"
+}127.0.0.1	23-07-2024 05:40:14 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 05:40:14 PM	JSON POST : {
+    "accountGroup":"4"
+}127.0.0.1	23-07-2024 05:40:14 PM	POST API URL HIT: http://127.0.0.1/debox/Accounts/masters/accountGroupAPI.php127.0.0.1	23-07-2024 05:40:14 PM	JSON POST : {
+    "accountGroup":"5"
+}

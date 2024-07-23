@@ -1,11 +1,11 @@
-<?php 
-// get url 
+<?php
+// get url
 include "inc.php";
 include "logincheck.php";
 $InfoMessage = "[Info] - File location ".$_SERVER['PHP_SELF']." Message:- " ;
 
-$url = $serverurlapi."General/accountGroupAPI.php";
-  
+$url = $serverurlapi."masters/accountGroupAPI.php";
+
 $jsonData1 = '{
     "accountGroup":"1"
 }';
@@ -56,7 +56,7 @@ $(document).ready(function(){
 </head>
 <style>
   .hgte{
-   background:#dcdcdc59; 
+   background:#dcdcdc59;
   }
   .nav-pills{
     margin-top: 40px;
@@ -66,7 +66,7 @@ $(document).ready(function(){
    background: #2f9e41;
     padding: 6px 40px;
     border: 1px solid #665f5f;
-  } 
+  }
   .nav-pills li a{
     color: white;
   }
@@ -87,10 +87,10 @@ border: 1px solid black!important;
 }
 
 table tbody tr:last-child td{
- border-bottom: 1px solid black!important;; 
+ border-bottom: 1px solid black!important;;
 }
 table tbody tr:first-child td{
- border-top: none!important;; 
+ border-top: none!important;;
 }
 
 table{
@@ -108,7 +108,7 @@ i{
     padding: 4px 11px;
     background: #2f9e41;
     color: white;
-    border-radius: 3px; 
+    border-radius: 3px;
 }
 
 
@@ -127,7 +127,7 @@ i{
     <li><a data-toggle="pill" href="#menu3">Income</a></li>
     <li><a data-toggle="pill" href="#menu4">Expense</a></li>
   </ul>
-  
+
   <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
      <table id="datatable" class="table" style="width:100%">
@@ -137,9 +137,9 @@ i{
       </tr>
           </thead>
           <tbody id="tablesearch">
-     <?php 
+     <?php
     if(isset($accountData1->status)=='true'){
-    if(isset($accountData1->AccountGroupData)){                    
+    if(isset($accountData1->AccountGroupData)){
     $no=1;
     foreach($accountData1->AccountGroupData as $resultList){
       ?>
@@ -148,9 +148,9 @@ i{
         <i style="display: none;" onclick="hidegroup(<?php echo $resultList->Id; ?>);" class="fa fa-minus hgroup<?php echo $resultList->Id; ?>"></i>
         <a href="addAccountSubGroup.php"><?php echo $resultList->Name; ?></a></td>
     </tr>
-    <?php 
+    <?php
     $subGroupId = $resultList->Id;
-  
+
 $jsonData = '{
     "accountGroup":"'.$subGroupId.'"
 }';
@@ -159,14 +159,14 @@ $url = $serverurlapi."General/accountSubGroupAPI.php";
 $resultData = postCurlData($url,$jsonData);
 $accountData = json_decode($resultData);
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->AccountSubGroupData)){     
+    if(isset($accountData->AccountSubGroupData)){
     foreach($accountData->AccountSubGroupData as $resultLists){
       ?>
     <tr style="background: aliceblue;display: none;" class="subgroup<?php echo $resultList->Id; ?>">
       <td style="padding-left: 65px!important;"><i onclick="showaccount('<?php echo $resultLists->Id; ?>');" class="fa fa-plus"></i>
         <a href="addAccountName.php"><?php echo $resultLists->Name; ?></a></td>
     </tr>
-    <?php 
+    <?php
     $Id = $resultLists->Id;
 $jsonData = '{
     "GroupId":"'.$Id.'"
@@ -176,15 +176,15 @@ $url = $serverurlapi."General/accountNameAPI.php";
 $resultData = postCurlData($url,$jsonData);
 $accountData = json_decode($resultData);
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->AccountNameData)){     
+    if(isset($accountData->AccountNameData)){
     foreach($accountData->AccountNameData as $accountList){
       ?>
     <tr style="background: beige;display: none;" class="account<?php echo $resultLists->Id; ?> mgroup<?php echo $resultList->Id ?>">
       <td style="padding-left: 115px!important;"><?php echo $accountList->AccountName; ?></td>
     </tr>
 
-    <?php } } } ?>  
-  <?php } } } } } } 
+    <?php } } } ?>
+  <?php } } } } } }
     ?>
   </tbody>
 </table>
@@ -197,9 +197,9 @@ $accountData = json_decode($resultData);
       </tr>
           </thead>
           <tbody id="tablesearch">
-     <?php 
+     <?php
     if(isset($accountData2->status)=='true'){
-    if(isset($accountData2->AccountGroupData)){                    
+    if(isset($accountData2->AccountGroupData)){
     $no=1;
     foreach($accountData2->AccountGroupData as $resultList){
       ?>
@@ -207,9 +207,9 @@ $accountData = json_decode($resultData);
       <td><i onclick="showgroup(<?php echo $resultList->Id; ?>);" class="fa fa-plus"></i>
         <a href="addAccountSubGroup.php"><?php echo $resultList->Name; ?></a></td>
     </tr>
-    <?php 
+    <?php
     $subGroupId = $resultList->Id;
-  
+
 $jsonData = '{
     "accountGroup":"'.$subGroupId.'"
 }';
@@ -218,14 +218,14 @@ $url = $serverurlapi."General/accountSubGroupAPI.php";
 $resultData = postCurlData($url,$jsonData);
 $accountData = json_decode($resultData);
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->AccountSubGroupData)){     
+    if(isset($accountData->AccountSubGroupData)){
     foreach($accountData->AccountSubGroupData as $resultLists){
       ?>
     <tr style="background: aliceblue;display: none;" class="subgroup<?php echo $resultList->Id; ?>">
       <td style="padding-left: 65px!important;"><i onclick="showaccount('<?php echo $resultLists->Id; ?>');" class="fa fa-plus"></i>
         <a href="addAccountName.php"><?php echo $resultLists->Name; ?></a></td>
     </tr>
-    <?php 
+    <?php
     $Id = $resultLists->Id;
 $jsonData = '{
     "GroupId":"'.$Id.'"
@@ -235,15 +235,15 @@ $url = $serverurlapi."General/accountNameAPI.php";
 $resultData = postCurlData($url,$jsonData);
 $accountData = json_decode($resultData);
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->AccountNameData)){     
+    if(isset($accountData->AccountNameData)){
     foreach($accountData->AccountNameData as $accountList){
       ?>
     <tr style="background: beige;display: none;" class="account<?php echo $resultLists->Id; ?>">
       <td style="padding-left: 115px!important;"><?php echo $accountList->AccountName; ?></td>
     </tr>
 
-    <?php } } } ?>  
-  <?php } } } } } } 
+    <?php } } } ?>
+  <?php } } } } } }
     ?>
   </tbody>
 </table>
@@ -256,9 +256,9 @@ $accountData = json_decode($resultData);
       </tr>
           </thead>
           <tbody id="tablesearch">
-     <?php 
+     <?php
     if(isset($accountData3->status)=='true'){
-    if(isset($accountData3->AccountGroupData)){                    
+    if(isset($accountData3->AccountGroupData)){
     $no=1;
     foreach($accountData3->AccountGroupData as $resultList){
       ?>
@@ -266,9 +266,9 @@ $accountData = json_decode($resultData);
       <td><i onclick="showgroup(<?php echo $resultList->Id; ?>);" class="fa fa-plus"></i>
         <a href="addAccountSubGroup.php"><?php echo $resultList->Name; ?></a></td>
     </tr>
-    <?php 
+    <?php
     $subGroupId = $resultList->Id;
-  
+
 $jsonData = '{
     "accountGroup":"'.$subGroupId.'"
 }';
@@ -277,14 +277,14 @@ $url = $serverurlapi."General/accountSubGroupAPI.php";
 $resultData = postCurlData($url,$jsonData);
 $accountData = json_decode($resultData);
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->AccountSubGroupData)){     
+    if(isset($accountData->AccountSubGroupData)){
     foreach($accountData->AccountSubGroupData as $resultLists){
       ?>
     <tr style="background: aliceblue;display: none;" class="subgroup<?php echo $resultList->Id; ?>">
       <td style="padding-left: 65px!important;"><i onclick="showaccount('<?php echo $resultLists->Id; ?>');" class="fa fa-plus"></i>
         <a href="addAccountName.php"><?php echo $resultLists->Name; ?></a></td>
     </tr>
-    <?php 
+    <?php
     $Id = $resultLists->Id;
 $jsonData = '{
     "GroupId":"'.$Id.'"
@@ -294,15 +294,15 @@ $url = $serverurlapi."General/accountNameAPI.php";
 $resultData = postCurlData($url,$jsonData);
 $accountData = json_decode($resultData);
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->AccountNameData)){     
+    if(isset($accountData->AccountNameData)){
     foreach($accountData->AccountNameData as $accountList){
       ?>
     <tr style="background: beige;display: none;" class="account<?php echo $resultLists->Id; ?>">
       <td style="padding-left: 115px!important;"><?php echo $accountList->AccountName; ?></td>
     </tr>
 
-    <?php } } } ?>  
-  <?php } } } } } } 
+    <?php } } } ?>
+  <?php } } } } } }
     ?>
   </tbody>
 </table>
@@ -315,9 +315,9 @@ $accountData = json_decode($resultData);
       </tr>
           </thead>
           <tbody id="tablesearch">
-     <?php 
+     <?php
     if(isset($accountData4->status)=='true'){
-    if(isset($accountData4->AccountGroupData)){                    
+    if(isset($accountData4->AccountGroupData)){
     $no=1;
     foreach($accountData4->AccountGroupData as $resultList){
       ?>
@@ -325,9 +325,9 @@ $accountData = json_decode($resultData);
       <td><i onclick="showgroup(<?php echo $resultList->Id; ?>);" class="fa fa-plus"></i>
         <a href="addAccountSubGroup.php"><?php echo $resultList->Name; ?></a></td>
     </tr>
-    <?php 
+    <?php
     $subGroupId = $resultList->Id;
-  
+
 $jsonData = '{
     "accountGroup":"'.$subGroupId.'"
 }';
@@ -336,14 +336,14 @@ $url = $serverurlapi."General/accountSubGroupAPI.php";
 $resultData = postCurlData($url,$jsonData);
 $accountData = json_decode($resultData);
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->AccountSubGroupData)){     
+    if(isset($accountData->AccountSubGroupData)){
     foreach($accountData->AccountSubGroupData as $resultLists){
       ?>
     <tr style="background: aliceblue;display: none;" class="subgroup<?php echo $resultList->Id; ?>">
       <td style="padding-left: 65px!important;"><i onclick="showaccount('<?php echo $resultLists->Id; ?>');" class="fa fa-plus"></i>
         <a href="addAccountName.php"><?php echo $resultLists->Name; ?></a></td>
     </tr>
-  <?php 
+  <?php
     $Id = $resultLists->Id;
 $jsonData = '{
     "GroupId":"'.$Id.'"
@@ -353,15 +353,15 @@ $url = $serverurlapi."General/accountNameAPI.php";
 $resultData = postCurlData($url,$jsonData);
 $accountData = json_decode($resultData);
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->AccountNameData)){     
+    if(isset($accountData->AccountNameData)){
     foreach($accountData->AccountNameData as $accountList){
       ?>
     <tr style="background: beige;display: none;" class="account<?php echo $resultLists->Id; ?>">
       <td style="padding-left: 115px!important;"><?php echo $accountList->AccountName; ?></td>
     </tr>
 
-    <?php } } } ?>  
-  <?php } } } } } } 
+    <?php } } } ?>
+  <?php } } } } } }
     ?>
   </tbody>
 </table>
@@ -374,9 +374,9 @@ $accountData = json_decode($resultData);
       </tr>
           </thead>
           <tbody id="tablesearch">
-     <?php 
+     <?php
     if(isset($accountData5->status)=='true'){
-    if(isset($accountData5->AccountGroupData)){                    
+    if(isset($accountData5->AccountGroupData)){
     $no=1;
     foreach($accountData5->AccountGroupData as $resultList){
       ?>
@@ -384,9 +384,9 @@ $accountData = json_decode($resultData);
       <td><i onclick="showgroup(<?php echo $resultList->Id; ?>);" class="fa fa-plus"></i>
         <a href="addAccountSubGroup.php"><?php echo $resultList->Name; ?></a></td>
     </tr>
-    <?php 
+    <?php
     $subGroupId = $resultList->Id;
-  
+
 $jsonData = '{
     "accountGroup":"'.$subGroupId.'"
 }';
@@ -395,14 +395,14 @@ $url = $serverurlapi."General/accountSubGroupAPI.php";
 $resultData = postCurlData($url,$jsonData);
 $accountData = json_decode($resultData);
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->AccountSubGroupData)){     
+    if(isset($accountData->AccountSubGroupData)){
     foreach($accountData->AccountSubGroupData as $resultLists){
       ?>
     <tr style="background: aliceblue;display: none;" class="subgroup<?php echo $resultList->Id; ?>">
       <td style="padding-left: 65px!important;"><i onclick="showaccount('<?php echo $resultLists->Id; ?>');" class="fa fa-plus"></i>
         <a href="addAccountName.php"><?php echo $resultLists->Name; ?></a></td>
     </tr>
-    <?php 
+    <?php
     $Id = $resultLists->Id;
 $jsonData = '{
     "GroupId":"'.$Id.'"
@@ -412,22 +412,22 @@ $url = $serverurlapi."General/accountNameAPI.php";
 $resultData = postCurlData($url,$jsonData);
 $accountData = json_decode($resultData);
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->AccountNameData)){     
+    if(isset($accountData->AccountNameData)){
     foreach($accountData->AccountNameData as $accountList){
       ?>
     <tr style="background: beige;display: none;" class="account<?php echo $resultLists->Id; ?>">
       <td style="padding-left: 115px!important;"><?php echo $accountList->AccountName; ?></td>
     </tr>
 
-    <?php } } } ?>  
-  <?php } } } } } } 
+    <?php } } } ?>
+  <?php } } } } } }
     ?>
   </tbody>
 </table>
       </div>
   </div>
 </div>
-  
+
     </div>
   </div>
   <script>
@@ -435,16 +435,16 @@ function showgroup(id){
 $(".subgroup"+id).show();
 $(".hgroup"+id).show();
 $(".sgroup"+id).hide();
-} 
+}
 function hidegroup(id){
 $(".subgroup"+id).hide();
 $(".hgroup"+id).hide();
 $(".sgroup"+id).show();
 $(".mgroup"+id).hide();
-} 
+}
 function showaccount(id){
 $(".account"+id).toggle();
-}  
+}
 </script>
 <?php include 'footer.php'; ?>
 </body>
