@@ -1,0 +1,309 @@
+10.100.72.250	27-09-2023 10:38:55 AM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.250	27-09-2023 10:38:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	27-09-2023 10:38:55 AM	JSON POST : Array10.100.72.250	27-09-2023 10:38:56 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.72.250	27-09-2023 10:38:56 AM	Json parting value34434510.100.72.250	27-09-2023 10:38:57 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 10:38:57 AM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	27-09-2023 10:38:58 AM	Session BranchId...houser10.100.72.250	27-09-2023 10:38:58 AM	Session Type...HOUSER10.100.72.250	27-09-2023 10:38:58 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	27-09-2023 10:38:58 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.250	27-09-2023 10:39:06 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	27-09-2023 10:39:06 AM	JSON POST : 10.100.72.250	27-09-2023 10:55:21 AM	ui MjU1MzYwMg== and pas dGVzdA==10.100.72.250	27-09-2023 10:55:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	27-09-2023 10:55:21 AM	JSON POST : Array10.100.72.250	27-09-2023 10:55:21 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "1",
+    "BranchId": "25536",
+    "Role": "2",
+    "Type": "branch",
+    "UserName": "Branch User  (2553602)",
+    "RegionId": "7",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.72.250	27-09-2023 10:55:21 AM	Json parting value2553610.100.72.250	27-09-2023 10:55:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 10:55:21 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	27-09-2023 10:55:22 AM	Session BranchId...2553610.100.72.250	27-09-2023 10:55:22 AM	Session Type...BRANCH10.100.72.250	27-09-2023 10:55:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	27-09-2023 10:55:22 AM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "2"}10.100.72.250	27-09-2023 10:55:23 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	27-09-2023 10:55:23 AM	JSON POST : 10.100.72.250	27-09-2023 10:55:45 AM	Session BranchId...2553610.100.72.250	27-09-2023 10:55:45 AM	Session Type...BRANCH10.100.72.250	27-09-2023 10:55:45 AM	JSON to post dashboard data:  ----{ "UserType": "BRANCH", "UserId": "", "UserTypeId": "25536","page":"documentmanagementpage"}10.100.72.250	27-09-2023 10:55:45 AM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardAPI.php10.100.72.250	27-09-2023 10:55:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 10:55:45 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.12.165	27-09-2023 11:04:28 AM	ui MjU1MzYwMQ== and pas dGVzdA==10.110.12.165	27-09-2023 11:04:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.110.12.165	27-09-2023 11:04:28 AM	JSON POST : Array10.110.12.165	27-09-2023 11:04:28 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Test User  [Branch - 25536]",
+    "RegionId": "7",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.110.12.165	27-09-2023 11:04:28 AM	Json parting value2553610.110.12.165	27-09-2023 11:04:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.12.165	27-09-2023 11:04:28 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.12.165	27-09-2023 11:04:33 AM	Session BranchId...2553610.110.12.165	27-09-2023 11:04:33 AM	Session Type...BRANCH10.110.12.165	27-09-2023 11:04:33 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.110.12.165	27-09-2023 11:04:33 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.110.12.165	27-09-2023 11:04:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.110.12.165	27-09-2023 11:04:35 AM	JSON POST : 10.110.12.165	27-09-2023 11:06:59 AM	ui MjU1MzYwMQ== and pas dGVzdA==10.110.12.165	27-09-2023 11:06:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.110.12.165	27-09-2023 11:06:59 AM	JSON POST : Array10.110.12.165	27-09-2023 11:06:59 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Test User  [Branch - 25536]",
+    "RegionId": "7",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.110.12.165	27-09-2023 11:06:59 AM	Json parting value2553610.110.12.165	27-09-2023 11:06:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.12.165	27-09-2023 11:06:59 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.12.165	27-09-2023 11:07:00 AM	Session BranchId...2553610.110.12.165	27-09-2023 11:07:00 AM	Session Type...BRANCH10.110.12.165	27-09-2023 11:07:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.110.12.165	27-09-2023 11:07:00 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.110.12.165	27-09-2023 11:07:02 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.110.12.165	27-09-2023 11:07:02 AM	JSON POST : 10.100.72.250	27-09-2023 11:13:52 AM	Session BranchId...2553610.100.72.250	27-09-2023 11:13:52 AM	Session Type...BRANCH10.100.72.250	27-09-2023 11:13:52 AM	JSON to post dashboard data:  ----{ "UserType": "BRANCH", "UserId": "", "UserTypeId": "25536","page":"documentmanagementpage"}10.100.72.250	27-09-2023 11:13:52 AM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardAPI.php10.100.72.250	27-09-2023 11:13:52 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 11:13:52 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	27-09-2023 11:52:28 AM	Session BranchId...2553610.100.72.250	27-09-2023 11:52:28 AM	Session Type...BRANCH10.100.72.250	27-09-2023 11:52:28 AM	JSON to post dashboard data:  ----{ "UserType": "BRANCH", "UserId": "", "UserTypeId": "25536","page":"documentmanagementpage"}10.100.72.250	27-09-2023 11:52:28 AM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardAPI.php10.100.72.250	27-09-2023 11:52:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 11:52:28 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	27-09-2023 12:02:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 12:02:06 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	27-09-2023 12:02:17 PM	Session BranchId...2553610.100.72.250	27-09-2023 12:02:17 PM	Session Type...BRANCH10.100.72.250	27-09-2023 12:02:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	27-09-2023 12:02:17 PM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "2"}10.100.72.250	27-09-2023 12:02:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	27-09-2023 12:02:26 PM	JSON POST : 10.100.72.250	27-09-2023 12:02:59 PM	JSON to post create bunch:  ----{
+		"ListOfACKO":[{"AcknowledgementNumber":"098279700608191"},{"AcknowledgementNumber":"098279700608235"},{"AcknowledgementNumber":"098279700608250"},{"AcknowledgementNumber":"098279700608305"}]
+	}10.100.72.250	27-09-2023 12:02:59 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/General/CreateBunchAPI.php10.100.72.250	27-09-2023 12:03:00 PM	Response return from BUNCH API: 10.100.72.250	27-09-2023 12:03:00 PM	Session BranchId...2553610.100.72.250	27-09-2023 12:03:00 PM	Session Type...BRANCH10.100.72.250	27-09-2023 12:03:00 PM	JSON to post dashboard data:  ----{ "UserType": "BRANCH", "UserId": "", "UserTypeId": "25536","page":"documentmanagementpage"}10.100.72.250	27-09-2023 12:03:00 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardAPI.php10.100.72.250	27-09-2023 12:03:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 12:03:00 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	27-09-2023 12:03:57 PM	JSON to post create bunch:  ----{
+		"ListOfACKO":[{"AcknowledgementNumber":"255369700378446"},{"AcknowledgementNumber":"255369700378796"}]
+	}10.100.72.250	27-09-2023 12:03:57 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/General/CreateBunchAPI.php10.100.72.250	27-09-2023 12:03:57 PM	Response return from BUNCH API: 10.100.72.250	27-09-2023 12:03:57 PM	Session BranchId...2553610.100.72.250	27-09-2023 12:03:57 PM	Session Type...BRANCH10.100.72.250	27-09-2023 12:03:57 PM	JSON to post dashboard data:  ----{ "UserType": "BRANCH", "UserId": "", "UserTypeId": "25536","page":"documentmanagementpage"}10.100.72.250	27-09-2023 12:03:57 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardAPI.php10.100.72.250	27-09-2023 12:03:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 12:03:57 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	27-09-2023 12:05:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 12:05:27 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	27-09-2023 12:07:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 12:07:37 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	27-09-2023 12:07:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 12:07:54 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	27-09-2023 12:07:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.100.72.250	27-09-2023 12:07:54 PM	JSON POST : {
+                                      "courier":"",
+                                      "page":"courierlist"
+                                    }10.100.72.250	27-09-2023 12:08:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierDashboard.php10.100.72.250	27-09-2023 12:08:13 PM	JSON POST : {
+   		"courier":"A123654",
+      "fromDate":"",
+      "toDate":"",
+		  "page":"courierlist"
+	}10.100.72.250	27-09-2023 12:08:13 PM	data from courier list: {
+    "Status": "0",
+    "Message": "Success",
+    "CourierList": [
+        {
+            "Courier": "A123654",
+            "BunchList": [
+                {
+                    "Bunch": "25536-2023-0021745",
+                    "CourierdAddress": "Religare Broking Ltd., 1st Floor, A-6, Sec-4, Noida, Uttar Pradesh.",
+                    "ReceivedBy": null,
+                    "CourierDate": "2023-09-27",
+                    "Stage": "F~BOP~DCM~CS"
+                }
+            ]
+        }
+    ]
+}10.100.72.250	27-09-2023 12:08:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 12:08:13 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	27-09-2023 12:08:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.100.72.250	27-09-2023 12:08:13 PM	JSON POST : {
+                                      "courier":"",
+                                      "page":"courierlist"
+                                    }10.100.72.250	27-09-2023 12:08:45 PM	JSON to get ack number:  ----{
+   "ListData":[
+      {
+         "BunchNumber":"25536-2023-0021745"
+      }
+   ]
+}10.100.72.250	27-09-2023 12:08:45 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/General/getAckNoforBunchNo.php10.100.72.250	27-09-2023 12:08:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 12:08:45 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	27-09-2023 12:09:37 PM	ui YmFja2hv and pas dGVzdA==10.100.72.250	27-09-2023 12:09:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	27-09-2023 12:09:37 PM	JSON POST : Array10.100.72.250	27-09-2023 12:09:37 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12749",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Backend  HO User",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.250	27-09-2023 12:09:37 PM	Json parting value34434510.100.72.250	27-09-2023 12:09:37 PM	Session BranchId...BACKHO10.100.72.250	27-09-2023 12:09:37 PM	Session Type...BACKHO10.100.72.250	27-09-2023 12:09:37 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.250	27-09-2023 12:09:37 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.250	27-09-2023 12:10:39 PM	[Info] - File location /tinfc1/UAT/courierreceiving.php Message:-  URL for API - 10.100.72.250	27-09-2023 12:10:39 PM	[Info] - File location /tinfc1/UAT/courierreceiving.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/Dashboards/courierDashboard.php10.100.72.250	27-09-2023 12:10:39 PM	REQUEST SENT TO COURIER LIST NULL: {
+  "courier":"",
+ "fromDate":"",
+ "toDate":"",
+ "page":"courierlist"
+}10.100.72.250	27-09-2023 12:10:39 PM	Response return from courier list API: {
+    "Status": "0",
+    "Message": "Success",
+    "CourierList": [
+        {
+            "Courier": "A123654",
+            "BunchList": [
+                {
+                    "Bunch": "25536-2023-0021745",
+                    "CourierdAddress": "Religare Broking Ltd., 1st Floor, A-6, Sec-4, Noida, Uttar Pradesh.",
+                    "ReceivedBy": null,
+                    "CourierDate": "2023-09-27",
+                    "Stage": "F~BOP~DCM~CS"
+                }
+            ]
+        }
+    ]
+}10.100.72.250	27-09-2023 12:10:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.100.72.250	27-09-2023 12:10:39 PM	JSON POST : {
+        "courier":"",
+        "page":"courierlist"
+      }10.100.72.250	27-09-2023 12:11:37 PM	[Info] - File location /tinfc1/UAT/courierreceiving.php Message:-  URL for API - 10.100.72.250	27-09-2023 12:11:37 PM	JSON POST FOR COURIER RECEIVED API:  ----{
+		"UserId":"12749",
+		"ip":"10.100.72.250",
+		"listofcourier":[{"CourierNumber":"A123654"}]
+	}10.100.72.250	27-09-2023 12:11:37 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/General/courierReceivedAPI.php10.100.72.250	27-09-2023 12:11:37 PM	Response return from courier received API: {
+    "status": 0,
+    "Message": "Successfull"
+}10.100.72.250	27-09-2023 12:11:37 PM	[Info] - File location /tinfc1/UAT/courierreceiving.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/Dashboards/courierDashboard.php10.100.72.250	27-09-2023 12:11:37 PM	REQUEST SENT TO COURIER LIST NULL: {
+  "courier":"",
+ "fromDate":"",
+ "toDate":"",
+ "page":"courierlist"
+}10.100.72.250	27-09-2023 12:11:37 PM	Response return from courier list API: {
+    "Status": "0",
+    "Message": "Success",
+    "CourierList": [
+        {
+            "Courier": "A123654",
+            "BunchList": [
+                {
+                    "Bunch": "25536-2023-0021745",
+                    "CourierdAddress": "Religare Broking Ltd., 1st Floor, A-6, Sec-4, Noida, Uttar Pradesh.",
+                    "ReceivedBy": null,
+                    "CourierDate": "2023-09-27",
+                    "Stage": "F~BOP~DCM~CR"
+                }
+            ]
+        }
+    ]
+}10.100.72.250	27-09-2023 12:11:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.100.72.250	27-09-2023 12:11:37 PM	JSON POST : {
+        "courier":"",
+        "page":"courierlist"
+      }10.100.72.250	27-09-2023 12:11:55 PM	[Info] - File location /tinfc1/UAT/courierreceiving.php Message:-  URL for API - 10.100.72.250	27-09-2023 12:11:55 PM	[Info] - File location /tinfc1/UAT/courierreceiving.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/Dashboards/courierDashboard.php10.100.72.250	27-09-2023 12:11:55 PM	REQUEST SENT TO COURIER LIST NULL: {
+  "courier":"",
+ "fromDate":"",
+ "toDate":"",
+ "page":"courierlist"
+}10.100.72.250	27-09-2023 12:11:55 PM	Response return from courier list API: {
+    "Status": "0",
+    "Message": "Success",
+    "CourierList": [
+        {
+            "Courier": "A123654",
+            "BunchList": [
+                {
+                    "Bunch": "25536-2023-0021745",
+                    "CourierdAddress": "Religare Broking Ltd., 1st Floor, A-6, Sec-4, Noida, Uttar Pradesh.",
+                    "ReceivedBy": null,
+                    "CourierDate": "2023-09-27",
+                    "Stage": "F~BOP~DCM~CR"
+                }
+            ]
+        }
+    ]
+}10.100.72.250	27-09-2023 12:11:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/courierlistapi.php10.100.72.250	27-09-2023 12:11:55 PM	JSON POST : {
+        "courier":"",
+        "page":"courierlist"
+      }10.100.72.250	27-09-2023 12:13:01 PM	JSON to get ack number:  ----{
+   "ListData":[
+      {
+         "BunchNumber":"25536-2023-0021745"
+      }
+   ]
+}10.100.72.250	27-09-2023 12:13:01 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/General/getAckNoforBunchNo.php10.100.72.250	27-09-2023 12:13:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 12:13:01 PM	JSON POST : {
+			"userType" : "BACKHO"
+		}10.100.72.250	27-09-2023 12:13:46 PM	 json for API - {
+		"range":"10",
+		"userId":"12749"
+	}10.100.72.250	27-09-2023 12:13:46 PM	Response return from range list API: {
+    "FromRange": "709",
+    "ToRange": "718",
+    "Message": "Range is already Occupied"
+}10.100.72.250	27-09-2023 12:16:37 PM	JSON POST TO ACK RECEIVING: {"acknowledgementNumber":"255369700378446","tempBoxNumber":"709-718","courierNo":"","userId":"12749","ip":"10.100.72.250"}10.100.72.250	27-09-2023 12:16:37 PM	URL TO HIT: http://10.150.146.12/UAT_BackEnd/General/BunchReceivedAPI.php10.100.72.250	27-09-2023 12:16:37 PM	RESPONSE RETURN FROM ACK RECEIVING API: {
+    "Count": "1",
+    "tempBoxNumber": "27092023-709-718",
+    "ReceivingNumber": "709",
+    "Result": "Match",
+    "AckNumber": "255369700378446"
+}10.100.72.250	27-09-2023 12:28:29 PM	JSON POST TO ACK RECEIVING: {"acknowledgementNumber":"255369700378796","tempBoxNumber":"709-718","courierNo":"","userId":"12749","ip":"10.100.72.250"}10.100.72.250	27-09-2023 12:28:29 PM	URL TO HIT: http://10.150.146.12/UAT_BackEnd/General/BunchReceivedAPI.php10.100.72.250	27-09-2023 12:28:29 PM	RESPONSE RETURN FROM ACK RECEIVING API: {
+    "Count": "2",
+    "tempBoxNumber": "27092023-709-718",
+    "ReceivingNumber": "710",
+    "Result": "Match",
+    "AckNumber": "255369700378796"
+}10.100.72.250	27-09-2023 12:28:44 PM	JSON POST TO ACK RECEIVING: {"acknowledgementNumber":"255369700378796","tempBoxNumber":"709-718","courierNo":"","userId":"12749","ip":"10.100.72.250"}10.100.72.250	27-09-2023 12:28:44 PM	URL TO HIT: http://10.150.146.12/UAT_BackEnd/General/BunchReceivedAPI.php10.100.72.250	27-09-2023 12:28:44 PM	RESPONSE RETURN FROM ACK RECEIVING API: {
+    "Count": "2",
+    "tempBoxNumber": "27092023-709-718",
+    "ReceivingNumber": "",
+    "Result": "Duplicate",
+    "AckNumber": "255369700378796"
+}10.100.72.250	27-09-2023 12:29:08 PM	 json for API - {
+		"range":"2",
+		"userId":"12749"
+	}10.100.72.250	27-09-2023 12:29:08 PM	Response return from range list API: {
+    "FromRange": "711",
+    "ToRange": "718",
+    "Message": "Range is already Occupied"
+}10.100.72.250	27-09-2023 12:29:27 PM	JSON POST TO ACK RECEIVING: {"acknowledgementNumber":"255369700378796","tempBoxNumber":"711-718","courierNo":"","userId":"12749","ip":"10.100.72.250"}10.100.72.250	27-09-2023 12:29:27 PM	URL TO HIT: http://10.150.146.12/UAT_BackEnd/General/BunchReceivedAPI.php10.100.72.250	27-09-2023 12:29:27 PM	RESPONSE RETURN FROM ACK RECEIVING API: {
+    "Count": "1",
+    "tempBoxNumber": "27092023-711-718",
+    "ReceivingNumber": "711",
+    "Result": "Match",
+    "AckNumber": "255369700378796"
+}10.100.72.250	27-09-2023 12:29:45 PM	Session BranchId...BACKHO10.100.72.250	27-09-2023 12:29:45 PM	Session Type...BACKHO10.100.72.250	27-09-2023 12:29:45 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.250	27-09-2023 12:29:45 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.250	27-09-2023 12:31:18 PM	Session BranchId...BACKHO10.100.72.250	27-09-2023 12:31:18 PM	Session Type...BACKHO10.100.72.250	27-09-2023 12:31:18 PM	JSON to post box allot API:  ----{"fromRange":"","toRange":""}10.100.72.250	27-09-2023 12:31:18 PM	API hit URL: http://10.150.146.12/UAT_BackEnd/General/tempBoxAPI.php10.100.72.250	27-09-2023 12:31:18 PM	Response return from box allot API: {
+    "Status": "0",
+    "Message": "Success",
+    "tempBoxList": [
+        {
+            "tempBoxNumber": "27092023-709-718",
+            "count": "1"
+        },
+        {
+            "tempBoxNumber": "27092023-711-718",
+            "count": "1"
+        }
+    ]
+}10.100.72.250	27-09-2023 12:31:50 PM	Session BranchId...BACKHO10.100.72.250	27-09-2023 12:31:50 PM	Session Type...BACKHO10.100.72.250	27-09-2023 12:31:50 PM	JSON to post box allot API:  ----{"fromRange":"","toRange":""}10.100.72.250	27-09-2023 12:31:50 PM	API hit URL: http://10.150.146.12/UAT_BackEnd/General/tempBoxAPI.php10.100.72.250	27-09-2023 12:31:50 PM	Response return from box allot API: {
+    "Status": "0",
+    "Message": "Success",
+    "tempBoxList": [
+        {
+            "tempBoxNumber": "27092023-709-718",
+            "count": "1"
+        },
+        {
+            "tempBoxNumber": "27092023-711-718",
+            "count": "1"
+        }
+    ]
+}10.100.72.250	27-09-2023 12:31:55 PM	Session BranchId...BACKHO10.100.72.250	27-09-2023 12:31:55 PM	Session Type...BACKHO10.100.72.250	27-09-2023 12:31:55 PM	JSON to post box allot API:  ----{"fromRange":"","toRange":""}10.100.72.250	27-09-2023 12:31:55 PM	API hit URL: http://10.150.146.12/UAT_BackEnd/General/tempBoxAPI.php10.100.72.250	27-09-2023 12:31:55 PM	Response return from box allot API: {
+    "Status": "0",
+    "Message": "Success",
+    "tempBoxList": [
+        {
+            "tempBoxNumber": "27092023-709-718",
+            "count": "1"
+        },
+        {
+            "tempBoxNumber": "27092023-711-718",
+            "count": "1"
+        }
+    ]
+}10.100.72.250	27-09-2023 12:32:46 PM	JSON to post box allot:  ----{
+		"BoxNo":"1234561",
+		"Vendor":"1",
+		"BarCodeNo":"sdfdsfsdfsdf45454545",
+		"TempBoxNoList":[{"TempBoxNo":"27092023-709-718"},{"TempBoxNo":"27092023-711-718"}]
+	}10.100.72.250	27-09-2023 12:32:46 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/updateBoxBarcodeAPI.php10.100.72.250	27-09-2023 12:32:46 PM	Response return from box allot API: {
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 2
+}10.100.72.250	27-09-2023 12:32:46 PM	Session BranchId...BACKHO10.100.72.250	27-09-2023 12:32:46 PM	Session Type...BACKHO10.100.72.250	27-09-2023 12:32:46 PM	JSON to post box allot API:  ----{"fromRange":"","toRange":""}10.100.72.250	27-09-2023 12:32:46 PM	API hit URL: http://10.150.146.12/UAT_BackEnd/General/tempBoxAPI.php10.100.72.250	27-09-2023 12:32:46 PM	Response return from box allot API: {
+    "Status": "0",
+    "Message": "Success",
+    "tempBoxList": []
+}10.100.72.250	27-09-2023 12:32:46 PM	Session BranchId...BACKHO10.100.72.250	27-09-2023 12:32:46 PM	Session Type...BACKHO10.100.72.250	27-09-2023 12:32:46 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.250	27-09-2023 12:32:46 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.250	27-09-2023 12:41:12 PM	Session BranchId...BACKHO10.100.72.250	27-09-2023 12:41:12 PM	Session Type...BACKHO10.100.72.250	27-09-2023 12:41:12 PM	JSON to post box allot API:  ----{"fromRange":"","toRange":""}10.100.72.250	27-09-2023 12:41:12 PM	API hit URL: http://10.150.146.12/UAT_BackEnd/General/tempBoxAPI.php10.100.72.250	27-09-2023 12:41:12 PM	Response return from box allot API: {
+    "Status": "0",
+    "Message": "Success",
+    "tempBoxList": []
+}10.100.72.250	27-09-2023 12:42:04 PM	Session BranchId...BACKHO10.100.72.250	27-09-2023 12:42:04 PM	Session Type...BACKHO10.100.72.250	27-09-2023 12:42:04 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.250	27-09-2023 12:42:04 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.250	27-09-2023 02:31:17 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.250	27-09-2023 02:31:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	27-09-2023 02:31:17 PM	JSON POST : Array10.100.72.250	27-09-2023 02:31:17 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.72.250	27-09-2023 02:31:17 PM	Json parting value34434510.100.72.250	27-09-2023 02:31:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	27-09-2023 02:31:17 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	27-09-2023 02:31:18 PM	Session BranchId...houser10.100.72.250	27-09-2023 02:31:18 PM	Session Type...HOUSER10.100.72.250	27-09-2023 02:31:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	27-09-2023 02:31:18 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.250	27-09-2023 02:31:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	27-09-2023 02:31:18 PM	JSON POST : 

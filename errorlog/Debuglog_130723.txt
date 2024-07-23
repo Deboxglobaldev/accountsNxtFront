@@ -1,0 +1,14 @@
+10.100.72.67	13-07-2023 03:17:31 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	13-07-2023 03:17:31 PM	JSON POST : {"data":"empty"}10.100.72.67	13-07-2023 03:17:47 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	13-07-2023 03:17:47 PM	JSON POST : {"data":"empty"}10.100.72.67	13-07-2023 03:17:49 PM	ui YmFja2hv and pas dGVzdA==10.100.72.67	13-07-2023 03:17:49 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php10.100.72.67	13-07-2023 03:17:49 PM	JSON POST : Array10.100.72.67	13-07-2023 03:17:49 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "38",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Back  HO",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.67	13-07-2023 03:17:49 PM	Json parting value34434510.100.72.67	13-07-2023 03:17:50 PM	Session BranchId...BACKHO10.100.72.67	13-07-2023 03:17:50 PM	Session Type...BACKHO10.100.72.67	13-07-2023 03:17:50 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.67	13-07-2023 03:17:50 PM	  API hit URL: http://192.168.210.82/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.67	13-07-2023 03:23:08 PM	 PAN/TAN Commission URL for API - http://192.168.210.82/UAT_BackEnd/General/reportAPI.php10.100.72.67	13-07-2023 03:23:08 PM	 PAN/TAN Commission return from API - {
+    "ProductType":"PAN",
+    "fromDate":"2023-07-01",
+    "toDate":"2023-07-13"
+}10.100.72.67	13-07-2023 05:40:20 PM	Session BranchId...BACKHO10.100.72.67	13-07-2023 05:40:20 PM	Session Type...BACKHO10.100.72.67	13-07-2023 05:40:20 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.67	13-07-2023 05:40:20 PM	  API hit URL: http://192.168.210.82/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php

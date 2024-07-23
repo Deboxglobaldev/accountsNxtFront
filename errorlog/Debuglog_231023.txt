@@ -1,0 +1,12 @@
+10.140.36.157	23-10-2023 12:36:19 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.36.157	23-10-2023 12:38:04 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	23-10-2023 12:38:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	23-10-2023 12:38:04 PM	JSON POST : Array10.140.36.157	23-10-2023 12:38:05 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.157	23-10-2023 12:38:05 PM	Json parting value34434510.140.36.157	23-10-2023 12:38:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-10-2023 12:38:05 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	23-10-2023 12:38:06 PM	Session BranchId...houser10.140.36.157	23-10-2023 12:38:06 PM	Session Type...HOUSER10.140.36.157	23-10-2023 12:38:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-10-2023 12:38:06 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	23-10-2023 12:38:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	23-10-2023 12:38:14 PM	JSON POST : 

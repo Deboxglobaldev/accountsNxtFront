@@ -1,0 +1,5 @@
+1^TAN^64983470000083^20240225^^^^91^9937169161^OFFICIALPARADEEP@GMAIL.COM^^77.00^N^^SAI DEEP CONSTRUCTION^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+2^TAN^79817470000100^20240225^JAYANTH^BABU^KAMMA^91^8520840755^kammajayanth12@gmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+3^TAN^83039170000183^20240225^^^^91^9749888885^goyalassociate88@gmail.com^^77.00^N^^GRAM PANCHAYAT, SANWAR^Central/State Govt^^^^^
+4^TAN^83039170000194^20240225^^^^91^8010615615^goyalassociate88@gmail.com^^77.00^N^^GRAM PANCHAYAT, PHOGAT^Central/State Govt^^^^^
+5^TAN^83039170000205^20240225^^^^91^9813325754^goyalassociate88@gmail.com^^77.00^N^^GRAM PANCHAYAT, KHERI BATTAR^Central/State Govt^^^^^

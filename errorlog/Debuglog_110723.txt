@@ -1,0 +1,66 @@
+10.100.72.67	11-07-2023 04:10:58 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	11-07-2023 04:10:58 PM	JSON POST : {"data":"empty"}10.100.72.67	11-07-2023 04:11:38 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	11-07-2023 04:11:38 PM	JSON POST : {"data":"empty"}10.100.72.67	11-07-2023 04:11:41 PM	ui YmFja2hv and pas dGVzdA==10.100.72.67	11-07-2023 04:11:41 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php10.100.72.67	11-07-2023 04:11:41 PM	JSON POST : Array10.100.72.67	11-07-2023 04:11:41 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "38",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Back  HO",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.67	11-07-2023 04:11:41 PM	Json parting value34434510.100.72.67	11-07-2023 04:11:41 PM	Session BranchId...BACKHO10.100.72.67	11-07-2023 04:11:41 PM	Session Type...BACKHO10.100.72.67	11-07-2023 04:11:41 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.67	11-07-2023 04:11:41 PM	  API hit URL: http://192.168.210.82/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.67	11-07-2023 04:12:06 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.67	11-07-2023 04:12:06 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/billInformationAPI.php10.100.72.67	11-07-2023 04:12:06 PM	JSON POST : 10.100.72.67	11-07-2023 04:12:14 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/commissionInformationAPI.php10.100.72.67	11-07-2023 04:12:14 PM	JSON POST : 10.100.72.67	11-07-2023 04:12:14 PM	Response return from commissionInformationAPI: {
+    "status": 0,
+    "commissionPeriod": [
+        {
+            "Id": "3",
+            "FromDate": "2022-07-08",
+            "ToDate": "2022-08-31",
+            "CommissionDate": "2022-07-07",
+            "DueDate": "2022-08-10",
+            "DateAdded": "2022-10-19 15:17:59",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "2",
+            "FromDate": "2022-09-15",
+            "ToDate": "2022-12-15",
+            "CommissionDate": "2022-09-14",
+            "DueDate": "2022-09-14",
+            "DateAdded": "2022-10-19 14:56:25",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "FromDate": "2023-01-01",
+            "ToDate": "2023-01-04",
+            "CommissionDate": "2023-01-04",
+            "DueDate": "2023-01-04",
+            "DateAdded": "2023-01-04 14:58:47",
+            "AddedBy": "35",
+            "Status": "0"
+        },
+        {
+            "Id": "5",
+            "FromDate": "2023-03-01",
+            "ToDate": "2023-03-31",
+            "CommissionDate": "2023-03-15",
+            "DueDate": "2023-03-31",
+            "DateAdded": "2023-03-14 13:05:56",
+            "AddedBy": "38",
+            "Status": "0"
+        }
+    ]
+}10.100.72.67	11-07-2023 04:12:27 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - 10.100.72.67	11-07-2023 04:12:27 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/billInformationAPI.php10.100.72.67	11-07-2023 04:12:27 PM	JSON POST : 10.100.72.67	11-07-2023 04:21:14 PM	[Info] - File location /tinfc1/UAT/pdf1aconversion_report.php Message:-  URL for list API - {
+    "ledgerType":"satendragurjar844@gmail.com",
+    "fromDate":"2023-07-01",
+    "toDate":"2023-07-11"
+}10.100.72.67	11-07-2023 04:21:14 PM	[Info] - File location /tinfc1/UAT/pdf1aconversion_report.php Message:-  URL for list API - http://192.168.210.82/UAT_BackEnd/General/trialbalanceAPI.php10.100.72.67	11-07-2023 04:21:14 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/trialbalanceAPI.php10.100.72.67	11-07-2023 04:21:14 PM	JSON POST : {
+    "ledgerType":"satendragurjar844@gmail.com",
+    "fromDate":"2023-07-01",
+    "toDate":"2023-07-11"
+}10.100.72.67	11-07-2023 04:21:14 PM	[Info] - File location /tinfc1/UAT/pdf1aconversion_report.php Message:-  RESPONSE RETURN FROM TRIAL BALANCE API : {
+    "Status": "0",
+    "Message": "Success",
+    "TotalData": []
+}192.168.102.17	11-07-2023 05:08:14 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php192.168.102.17	11-07-2023 05:08:14 PM	JSON POST : {"data":"empty"}

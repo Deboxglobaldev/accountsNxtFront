@@ -1,0 +1,4 @@
+      DateFile NameFile StatusResponse File
+      37505924-02-2022000057.txtAccepted375089_RESP.html
+      37506024-02-2022000058.txtPartialRejected375060_RESP.html
+      37506124-02-2022000057.txtDuplicate375061_RESP.html

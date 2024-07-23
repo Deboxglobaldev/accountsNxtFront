@@ -1,0 +1,100 @@
+1^TAN^09894470028590^20231230^DEEPAK^^SARAWAGI^91^9910952969^CARK209@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+2^TAN^19063470000341^20231230^KETTESEVIUR^SANKARANARAYANAN^ARUNRAMPRASADH^091^7042596312^arunramprasadh10@gmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+3^TAN^19010470001600^20231230^^^^91^9549733304^gupsambali@gmail.com^^77.00^N^^GOVERNMENT SENIOR SECONDARY SCHOOL AMBALI^Central/State Govt^^^^^
+4^TAN^19010470001611^20231230^^^^91^9649700898^phc_tarnau@yahoo.com^^77.00^N^^SENIOR MEDICAL OFFICER COMMUNITY HEALTH CENTER TARNAU^Central/State Govt^^^^^
+5^TAN^19412470052673^20231230^USHA^^GABA^91^9811946045^VIKASG12@HOTMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+6^TAN^19412470052684^20231230^RIPUNJAY^^GABA^91^9811946045^VIKASG12@HOTMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+7^TAN^19412470052695^20231230^VIKAS^^GABA^91^9811946045^VIKASG12@HOTMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+8^TAN^62193470001681^20231230^DAMINI^^BAWA^91^9654070995^DANIMANIALAMODE@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+9^TAN^79016470001862^20231230^^^^91^9610100009^INCOMETAXMAIL200@GMAIL.COM^^77.00^N^^GRG HERITAGE^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+10^TAN^33783470001912^20231230^MANIKA^^GHOSH^91^9233310248^CLIENT.RNGTAX@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+11^TAN^79648470003211^20231230^PRAVEEN^KOMALAN^GEETHA^91^9895216720^IPRAVEENKG@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+12^TAN^79648470003222^20231230^ASWATHY^^BHADRAN^91^9745950554^ASWATHY647@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+13^TAN^25284470000392^20231230^^^^91^9480417949^eemidcbpura@gmail.com^^77.00^C^BLRE06453G^EXECUTE ENGINEER MINOR IRRIGATION DIVISION^Central/State Govt^^^^^
+14^TAN^62809470000642^20231230^MEGHA^^AGARWAL^91^8410689410^meghaagarwalsmailbox@gmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+15^TAN^62398470000672^20231230^RANJEEV^^KUMAR^91^9316880000^tinfcmalerkotla@gmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+16^TAN^09827470011645^20231230^SUKANTA^^PAL^91^9830043576^SUKANTAABT@GMAIL.COM^^77.00^N^^^Branch of Individual Business(Sole proprietorship concern)/HUF(Karta)^^^^^
+17^TAN^83022040000082^20231230^^^^91^9832547030^kamalniroula678@gmail.com^^77.00^N^^SRI GANESH MANDIR TRUST^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+18^TAN^33693470004025^20231230^^^^91^9425830373^ghssukwa2011@gmail.com^^77.00^N^^EKLAVYA ADARSH AAVASIYA VIDYALAYA UKWA^Central/State Govt^^^^^
+19^TAN^80716470003035^20231230^SUMEET^^JAIN^091^9425034111^JAINSUMEET@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+20^TAN^33426470027075^20231230^^^^033^23023523^PRADIP.MUKHOPADHYAY@EXIDE.CO.IN^^77.00^N^^THE CHLORIDE EXECUTIVE GRATUITY FUND^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+21^TAN^19412470052706^20231230^^^^91^7827911569^COMPLIANCE@NSBASSOCIATES.ORG^^77.00^N^^SAMRUDDHI MUTUAL BENEFIT TRUST^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+22^TAN^26662470000036^20231230^^^^08376^9481909632^kanavisiddage.hrk.hvr@gmail.com^^77.00^N^^GRAMA PANCHYAT KANAVISIDGERI^Central/State Govt^^^^^
+23^TAN^62081470000034^20231230^^^^91^9148703438^june1480@gmail.com^^77.00^N^^SRI JYOTHI GRAAMANTRA PROWDASHALE^Central/State Govt^^^^^
+24^TAN^62064470011703^20231230^^^^91^9897088166^PITAMBERIMPEX@GMAIL.COM^^77.00^N^^PITAMBER IMPEX^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+25^TAN^80988470001670^20231230^BABITA^^DHIMAN^91^8506824501^vishal2vishwakarma@gmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+26^TAN^62081470000045^20231230^^^^91^9900610108^june1480@gmail.com^^77.00^N^^SRI JYOTHI KANNADA HIGHER PRIMARY SCHOOL^Central/State Govt^^^^^
+27^TAN^81106470010473^20231230^^^^91^9825335996^AKSHARPAV@GMAIL.COM^^77.00^N^^AKSHAR PAVILION CO OPERATIVE HOUSING SERVICE SOCIETY LIMITED^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+28^TAN^80988470001681^20231230^VISHAL^KUMAR^DHIMAN^91^8826711783^vishal2vishwakarma@gmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+29^TAN^62081470000056^20231230^^^^91^6362588917^ccshivannaccs4284@gmail.com^^77.00^C^BLRG10159C^GOVERNMENT PRE UNIVERSITY COLLEGE SANTHEMAVATHUR^Central/State Govt^^^^^
+30^TAN^83023050000155^20231230^VISESH^^VIDIT^080^9591273816^mail2visesh@yahoo.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+31^TAN^83023050000166^20231230^SUSHMA^^GUPTA^080^9741665522^sushmagupta.0910@gmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+32^TAN^79068470001522^20231230^^^^91^8840053528^SROSEVRAI@GMAIL.COM^^77.00^N^^OFFICE OF SUB REGISTRAR(SEVRAI)^Central/State Govt^^^^^
+33^TAN^79068470001533^20231230^^^^91^9415227419^SJGUPTABHU@GMAIL.COM^^77.00^N^^NATIONAL SUSHRUTA ASSOCIATION^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+34^TAN^19653470006063^20231230^^^^91^9823141662^SARATHITRAVELGOA@GMAIL.COM^^77.00^N^^SARATHI TRAVEL^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+35^TAN^25977470001033^20231230^^^^91^8553289956^SP.SUBRAMANYA@GMAIL.COM^^77.00^N^^SHRAVANA KUMAR'S TRUST^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+36^TAN^33162470002535^20231230^DEEPAK^^JAIN^91^7398124224^DEEPAKJAINPEPSI@REDIFFMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+37^TAN^09776470006704^20231230^.^^AMRUTHAMMA^91^9845267102^AMRUTHAPHILIP1968@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+38^TAN^62030470003902^20231230^VARDHMAN^^SONI^91^8827479999^ca.shikhatiwari@gmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+39^TAN^25977470001044^20231230^^^^91^9742351232^INFO@CSACQ.CO.IN^^77.00^N^^MUDLINE CONSTRUCTIONS^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+40^TAN^33489470017124^20231230^^^^91^9426458723^KAMALPKESWAMI@GMAIL.COM^^77.00^N^^RATNADEEP FASHION^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+41^TAN^33934470002904^20231230^NEHA^^VASWANI^91^9827197163^DINESH_VASWANI@REDIFFMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+42^TAN^33426470027086^20231230^^^^91^9830059049^SUDARSHAN_SARDA@HOTMAIL.COM^^77.00^N^^HANDLOOM LUNGI CENTRE^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+43^TAN^62922470001344^20231230^RITU^VIJAY^DHOOT^91^9765006969^RAHHUL@OCEANKONNECT.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+44^TAN^62922470001355^20231230^YASHI^^RATHORE^91^9765006969^RAHUL@OCEANKONNECT.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+45^TAN^09335470027096^20231230^ANIL^^MAHAJAN^91^9417290943^KAYGEESPORTS@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+46^TAN^09335470027100^20231230^AMIT^^MAHAJAN^91^9814000753^KAYGEESPORTS@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+47^TAN^62010470010285^20231230^SUDAGAR^SINGH^HUF^91^9888919014^adityamittal_llb@rediffmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+48^TAN^09113470010971^20231230^^^^91^9490120032^VENKAT.SOLIPETA@GMAIL.COM^^77.00^N^^S V INFRA DEVELOPERS^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+49^TAN^09469470013496^20231230^^^^91^9602561825^SUMEETJAIN@AOL.IN^^77.00^N^^CHD CAPITAL LTD^Company^^^^^
+50^TAN^62445470028152^20231230^^^^91^9836507910^UMAR.FARUQUE85@YAHOO.COM^^77.00^N^^CHROMATIC DESIGNS^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+51^TAN^62204470000282^20231230^^^^91^7002382048^nathandsarma@yahoo.co.in^^77.00^N^^NALBARI HARIMANDIR SAMITTEE^Branch of Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+52^TAN^25512470031381^20231230^^^^91^9897267154^KHANIZHAR77IK@GMAIL.COM^^77.00^N^^HIGHWAY TYRES^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+53^TAN^62305470012623^20231230^SUMIT^^KATARIA^91^9416334456^ANILDUTTADVOCATE@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+54^TAN^09063470024991^20231230^^^^91^7001578804^RAMKRISHNATRADERS2018@GMAIL.COM^^77.00^N^^RAMKRISHNA TRADERS^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+55^TAN^79801470001046^20231230^^^^91^9099143875^PORT2.TAX@ADANI.COM^^77.00^C^AHMS30493B^SULOCHANA PEDESTAL LIMITED^Company^^^^^
+56^TAN^83039170000135^20231230^^^^91^9050431648^goyalassociate88@gmail.com^^77.00^N^^GRAM PANCHAYAT, SONF^Central/State Govt^^^^^
+57^TAN^09918470035051^20231230^^^^91^9810294348^TAQWATOURS@GMAIL.COM^^77.00^N^^TAQWA TOURS CORPORATION^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+58^TAN^79032470001251^20231230^^^^91^8857949777^officemail000070@gmail.com^^77.00^N^^ANUPREM CONSTRUCTION^Branch of Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+59^TAN^33489470017135^20231230^SATISHBHAI^KANAJIBHAI^RAVAL^91^9328299147^MGKANSARA@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+60^TAN^33489470017146^20231230^^^^91^9825300736^MGKANSARA@GMAIL.COM^^77.00^N^^FORMAX STEAM ENGINEERING^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+61^TAN^62445470028163^20231230^^^^91^9836140006^NEXUSARCH.KOLKATA@GMAIL.COM^^77.00^N^^BBIM CONSTRUCTION PRIVATE LIMITED^Company^^^^^
+62^TAN^33489470017150^20231230^ATUL^^KUMAR^91^7388546533^SSPANDYA_78@YAHOO.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+63^TAN^62141470010141^20231230^DEVIKA^^SETHI^91^7831000565^DEVIKASETHI@HOTMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+64^TAN^26897470002174^20231230^^^^91^7036989449^VENU.VASUDHA@GMAIL.COM^^77.00^N^^PARADISE SECURITY SERVICES^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+65^TAN^79881470000253^20231230^^^^91^9850483143^UMESHSHETTY953@GMAIL.COM^^77.00^N^^SKY VISTA HOSPITALITY^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+66^TAN^09123470008553^20231230^ANSARI^FIROJ^ALAM^91^9834845482^jayassociates1974@gmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+67^TAN^09574470000152^20231230^^^^91^9517516100^SANDEEP90390@GMAIL.COM^^77.00^N^^TRUE HELP SERVICE^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+68^TAN^09304470002774^20231230^^^^91^9874454844^suman.doari@gmail.com^^77.00^N^^RADHA MADHAV GROUP^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+69^TAN^33984470015790^20231230^SONU^^KUMAR^011^8505891034^shubhammittalassociates@gmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+70^TAN^33965470012025^20231230^GAURAV^^AGGARWAL^91^9711080632^GAURAVAGGARWAL89@YMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+71^TAN^09304470002785^20231230^^^^91^9874454844^suman.doari@gmail.com^^77.00^N^^RADHEY KRISHNA HOUSING^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+72^TAN^19286470006565^20231230^^^^91^8055916916^SUDHIRTHUKRAL64@GMAIL.COM^^77.00^N^^JGR BULLION & SILVER^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+73^TAN^19286470006576^20231230^BOHRARAM^^A^91^9884131916^SHREECHAATSOMR@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+74^TAN^09944470004092^20231230^^^^091^9958485577^RAJIV-KHOSLA@HOTMAIL.COM^^77.00^N^^BIGNIFY SOLUTIONS^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+75^TAN^33961470006332^20231230^PRAKASH^AGRAWAL^HUF^07672^9425172539^SANGAM.MAIL@YAHOO.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+76^TAN^09920470036352^20231230^SAURABH^^DHAWAN^91^8054511101^SOBBY1321@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+77^TAN^83007330001853^20231230^^^^91^9765323652^ravindralashkare.associates@gmail.com^^77.00^N^^SHIVAS INFRATECH^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+78^TAN^62315470000243^20231230^ADITYA^^AGRAWAL^91^9826122296^aditya.agrawal127@gmail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+79^TAN^09920470036363^20231230^SHUBHAM^^MADAAN^91^9050005596^SHUBHAMADAAAN@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+80^TAN^62315470000254^20231230^^^^91^9748478335^meenalkumari@hot.mail.com^^77.00^N^^MAHARAJA BHAGIRATH MAHINDRA BAHADUR FOUNDATION^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+81^TAN^33860470010080^20231230^GAURAV^RAJESH^PATIIL^91^8484900602^PATILGM323@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+82^TAN^62013470002923^20231230^SORABH^^MADAAN^91^9023690936^MYMADAAN@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+83^TAN^33326470012463^20231230^^^^91^8602000006^TOPNOTCHLICESTYLE01@GMAIL.COM^^77.00^C^JBPT01322G^TOP NOTCH LIFESTYLE PRIVATE LIMITED^Company^^^^^
+84^TAN^19352470002854^20231230^^^^91^9037755603^AFEEFMABROOK@GMAIL.COM^^77.00^N^^CALIER RAD LLP^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+85^TAN^09113470010982^20231230^ARUNA KUMARI^^gunturu^91^9866029851^RATTAIAH_ARUNA@YAHOO.CO.IN^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+86^TAN^25099470008502^20231230^MIHIRKUMAR^AMBALAL^PATEL^091^9687690508^KMPATELACC1@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+87^TAN^09776470006715^20231230^^^^91^9164585754^BRIGHTSHIVA123@GMAIL.COM^^77.00^N^^BRIGHT ENTERPRISES^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+88^TAN^62369470000596^20231230^^^^91^9818947122^love.gulati2610@gmail.com^^77.00^N^^SOAN BRANDS^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+89^TAN^09335470027111^20231230^^^^91^8837614142^MUNISHROCKS40@GMAIL.COM^^77.00^N^^HOUSE OF NIKHEIL AND RIVENDRA^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+90^TAN^09335470027122^20231230^NEETU^^KAMBOJ^91^9872136559^SIMRANKAILEY@YMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+91^TAN^09088470006173^20231230^^^^91^9874790023^WORKATSUBRANSHU@GMAIL.COM^^77.00^C^CALP21831F^RASG GURUKUL HOMES LLP^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+92^TAN^62013470002934^20231230^GEETU^^GEETU^91^7009437393^GEETUARYA@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+93^TAN^33484470001905^20231230^PRASAD^^TUMMALAPALLI^91^9849221131^PRASAD.COLPAL@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+94^TAN^09335470027133^20231230^KULWANT^^KAUR^91^9478352601^BALWINDERAONE@MAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+95^TAN^80597470004225^20231230^^^^91^9819939298^pharmacy@mgmuhs.com^^77.00^N^^MGM SCHOOL OF PHARMACY^Branch of Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+96^TAN^62288470007326^20231230^^^^91^9923059977^SUKESHNIMJE114@GMAIL.COM^^77.00^N^^YOGESHWAR REAL ESTATES PVT LTD^Branch of a Company^^^^^
+97^TAN^80597470004236^20231230^PRAKASH^PANDHRINATH^CHAVAN^91^9422205140^ajanthagrp@gmail.com^^77.00^C^NSKP01611B^^Individual/Hindu Undivided Family(Karta)^^^^^
+98^TAN^62553470009122^20231230^AMMU^^VARGHESE^91^7510671955^AMMU.8929@GMAIL.COM^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^
+99^TAN^83035210001472^20231230^^^^91^9833422590^SIDDHIVINAYAKDRYFRUITS123@GMAIL.COM^^77.00^N^^SIDDHIVINAYAK DRYFRUITS^Firm/Association of persons/Association of persons(Trust)/Body of Individuals/Artificial Juridical person^^^^^
+100^TAN^33465470003733^20231230^ARVIND^KUMAR^JHA^91^9990829555^info@ajretail.com^^77.00^N^^^Individual/Hindu Undivided Family(Karta)^^^^^

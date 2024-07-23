@@ -1,0 +1,1227 @@
+10.140.36.157	09-01-2024 02:07:03 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.36.157	09-01-2024 02:07:08 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-01-2024 02:07:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 02:07:08 PM	JSON POST : Array10.140.36.157	09-01-2024 02:07:09 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.157	09-01-2024 02:07:09 PM	Json parting value34434510.140.36.157	09-01-2024 02:07:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:07:09 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:07:11 PM	Session BranchId...houser10.140.36.157	09-01-2024 02:07:11 PM	Session Type...HOUSER10.140.36.157	09-01-2024 02:07:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 02:07:11 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 02:07:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 02:07:20 PM	JSON POST : 10.140.36.157	09-01-2024 02:12:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:12:48 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"9","CurrentFileUpload":"5"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-01-2024 02:16:43 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-01-2024 02:16:43 PM	Copy Success: 620649700529935.pdf10.140.36.157	09-01-2024 02:16:43 PM	PDF Path: /u01/uploads_uat/panpdf/620649700529935.pdf10.140.36.157	09-01-2024 02:16:43 PM	*****outside image copy foreach****10.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 010.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 110.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 210.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 310.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 410.140.36.157	09-01-2024 02:16:43 PM	Total Image page count: 510.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "620649700529935",
+    "status": "Successfull",
+    "remark": "Successfull Upload",
+    "SequenceNo": "5"
+}10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"9","CurrentFileUpload":"2"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-01-2024 02:16:43 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-01-2024 02:16:43 PM	Copy Success: 335229700023131.pdf10.140.36.157	09-01-2024 02:16:43 PM	PDF Path: /u01/uploads_uat/panpdf/335229700023131.pdf10.140.36.157	09-01-2024 02:16:43 PM	*****outside image copy foreach****10.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 010.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 110.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 210.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 310.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 410.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 510.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 610.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 710.140.36.157	09-01-2024 02:16:43 PM	Total Image page count: 810.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "335229700023131",
+    "status": "Successfull",
+    "remark": "Successfull Upload",
+    "SequenceNo": "2"
+}10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"9","CurrentFileUpload":"3"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-01-2024 02:16:43 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-01-2024 02:16:43 PM	Copy Success: 338879700122154.pdf10.140.36.157	09-01-2024 02:16:43 PM	PDF Path: /u01/uploads_uat/panpdf/338879700122154.pdf10.140.36.157	09-01-2024 02:16:43 PM	*****outside image copy foreach****10.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 010.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 110.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 210.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 310.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 410.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 510.140.36.157	09-01-2024 02:16:43 PM	Total Image page count: 610.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "338879700122154",
+    "status": "Successfull",
+    "remark": "Successfull Upload",
+    "SequenceNo": "3"
+}10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"9","CurrentFileUpload":"4"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-01-2024 02:16:43 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-01-2024 02:16:43 PM	Copy Success: 620119702088806.pdf10.140.36.157	09-01-2024 02:16:43 PM	PDF Path: /u01/uploads_uat/panpdf/620119702088806.pdf10.140.36.157	09-01-2024 02:16:43 PM	*****outside image copy foreach****10.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 010.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 110.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 210.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 310.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 410.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 510.140.36.157	09-01-2024 02:16:43 PM	Total Image page count: 610.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "620119702088806",
+    "status": "Successfull",
+    "remark": "Successfull Upload",
+    "SequenceNo": "4"
+}10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"9","CurrentFileUpload":"6"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-01-2024 02:16:43 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-01-2024 02:16:43 PM	Copy Success: 623659700024502.pdf10.140.36.157	09-01-2024 02:16:43 PM	PDF Path: /u01/uploads_uat/panpdf/623659700024502.pdf10.140.36.157	09-01-2024 02:16:43 PM	*****outside image copy foreach****10.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 010.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 110.140.36.157	09-01-2024 02:16:43 PM	THIS IS PAGE: 210.140.36.157	09-01-2024 02:16:43 PM	Total Image page count: 310.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "623659700024502",
+    "status": "Successfull",
+    "remark": "Successfull Upload",
+    "SequenceNo": "6"
+}10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-01-2024 02:16:43 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-01-2024 02:16:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-01-2024 02:16:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-01-2024 02:16:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"9","CurrentFileUpload":"8"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-01-2024 02:16:44 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-01-2024 02:16:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-01-2024 02:16:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-01-2024 02:16:44 PM	Copy Success: 645179700002740.pdf10.140.36.157	09-01-2024 02:16:44 PM	PDF Path: /u01/uploads_uat/panpdf/645179700002740.pdf10.140.36.157	09-01-2024 02:16:44 PM	*****outside image copy foreach****10.140.36.157	09-01-2024 02:16:44 PM	THIS IS PAGE: 010.140.36.157	09-01-2024 02:16:44 PM	THIS IS PAGE: 110.140.36.157	09-01-2024 02:16:44 PM	THIS IS PAGE: 210.140.36.157	09-01-2024 02:16:44 PM	THIS IS PAGE: 310.140.36.157	09-01-2024 02:16:44 PM	THIS IS PAGE: 410.140.36.157	09-01-2024 02:16:44 PM	THIS IS PAGE: 510.140.36.157	09-01-2024 02:16:44 PM	THIS IS PAGE: 610.140.36.157	09-01-2024 02:16:44 PM	THIS IS PAGE: 710.140.36.157	09-01-2024 02:16:44 PM	Total Image page count: 810.140.36.157	09-01-2024 02:16:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-01-2024 02:16:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "645179700002740",
+    "status": "Successfull",
+    "remark": "Successfull Upload",
+    "SequenceNo": "8"
+}10.140.36.157	09-01-2024 02:16:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-01-2024 02:16:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-01-2024 02:16:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-01-2024 02:16:45 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-01-2024 02:16:45 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-01-2024 02:16:45 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"9","CurrentFileUpload":"7"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-01-2024 02:16:45 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-01-2024 02:16:45 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-01-2024 02:16:45 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-01-2024 02:16:46 PM	Copy Success: 626839700157204.pdf10.140.36.157	09-01-2024 02:16:46 PM	PDF Path: /u01/uploads_uat/panpdf/626839700157204.pdf10.140.36.157	09-01-2024 02:16:46 PM	*****outside image copy foreach****10.140.36.157	09-01-2024 02:16:46 PM	THIS IS PAGE: 010.140.36.157	09-01-2024 02:16:46 PM	THIS IS PAGE: 110.140.36.157	09-01-2024 02:16:46 PM	THIS IS PAGE: 210.140.36.157	09-01-2024 02:16:46 PM	THIS IS PAGE: 310.140.36.157	09-01-2024 02:16:46 PM	Total Image page count: 410.140.36.157	09-01-2024 02:16:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-01-2024 02:16:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "626839700157204",
+    "status": "Successfull",
+    "remark": "Successfull Upload",
+    "SequenceNo": "7"
+}10.140.36.157	09-01-2024 02:16:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-01-2024 02:16:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-01-2024 02:16:46 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-01-2024 02:16:48 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-01-2024 02:16:48 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-01-2024 02:16:48 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"9","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-01-2024 02:16:48 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-01-2024 02:16:48 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-01-2024 02:16:48 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-01-2024 02:16:48 PM	Copy Success: 268229700018663.pdf10.140.36.157	09-01-2024 02:16:48 PM	PDF Path: /u01/uploads_uat/panpdf/268229700018663.pdf10.140.36.157	09-01-2024 02:16:48 PM	*****outside image copy foreach****10.140.36.157	09-01-2024 02:16:48 PM	THIS IS PAGE: 010.140.36.157	09-01-2024 02:16:48 PM	THIS IS PAGE: 110.140.36.157	09-01-2024 02:16:48 PM	THIS IS PAGE: 210.140.36.157	09-01-2024 02:16:48 PM	THIS IS PAGE: 310.140.36.157	09-01-2024 02:16:48 PM	Total Image page count: 410.140.36.157	09-01-2024 02:16:48 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-01-2024 02:16:48 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "268229700018663",
+    "status": "Successfull",
+    "remark": "Successfull Upload",
+    "SequenceNo": "0"
+}10.140.36.157	09-01-2024 02:16:48 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-01-2024 02:16:48 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-01-2024 02:16:48 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-01-2024 02:16:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:16:48 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:17:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.157	09-01-2024 02:17:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.157	09-01-2024 02:17:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"9","CurrentFileUpload":"1"} & ITS PRODUCT TYPE: PAN10.140.36.157	09-01-2024 02:17:00 PM	Upload Type FOR PAN Branch:houser----EXPRESS10.140.36.157	09-01-2024 02:17:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.157	09-01-2024 02:17:00 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.157	09-01-2024 02:17:00 PM	Copy Success: 332069700358141.pdf10.140.36.157	09-01-2024 02:17:00 PM	PDF Path: /u01/uploads_uat/panpdf/332069700358141.pdf10.140.36.157	09-01-2024 02:17:01 PM	*****outside image copy foreach****10.140.36.157	09-01-2024 02:17:01 PM	THIS IS PAGE: 010.140.36.157	09-01-2024 02:17:01 PM	THIS IS PAGE: 110.140.36.157	09-01-2024 02:17:01 PM	THIS IS PAGE: 210.140.36.157	09-01-2024 02:17:01 PM	THIS IS PAGE: 310.140.36.157	09-01-2024 02:17:01 PM	Total Image page count: 410.140.36.157	09-01-2024 02:17:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.140.36.157	09-01-2024 02:17:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "332069700358141",
+    "status": "Successfull",
+    "remark": "Successfull Upload",
+    "SequenceNo": "1"
+}10.140.36.157	09-01-2024 02:17:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.157	09-01-2024 02:17:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.157	09-01-2024 02:17:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.157	09-01-2024 02:38:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:38:16 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:38:17 PM	Session BranchId...houser10.140.36.157	09-01-2024 02:38:17 PM	Session Type...HOUSER10.140.36.157	09-01-2024 02:38:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 02:38:17 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 02:38:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 02:38:17 PM	JSON POST : 10.140.36.157	09-01-2024 02:38:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 02:38:21 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"268229700018663",
+								"userId":"35",
+								"productType":"PAN",
+								"UserType":"HOUSER"
+							}
+						]
+					}10.140.36.157	09-01-2024 02:38:22 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 02:38:22 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 02:38:22 PM	image path: /u01/uploads_uat/panimages/268229700018663_1.jpg10.140.36.157	09-01-2024 02:38:22 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:38:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:38:22 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:38:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:38:33 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:38:34 PM	Session BranchId...houser10.140.36.157	09-01-2024 02:38:34 PM	Session Type...HOUSER10.140.36.157	09-01-2024 02:38:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 02:38:34 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 02:38:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 02:38:34 PM	JSON POST : 10.140.36.157	09-01-2024 02:38:37 PM	image path: /u01/uploads_uat/panimages/268229700018663_1.jpg10.140.36.157	09-01-2024 02:38:37 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:38:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:38:37 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:38:47 PM	Image path is: /u01/uploads_uat/panimages/268229700018663_0.jpg10.140.36.157	09-01-2024 02:38:57 PM	Image path is: /u01/uploads_uat/panimages/268229700018663_0.jpg10.140.36.157	09-01-2024 02:39:00 PM	image path: /u01/uploads_uat/panimages/268229700018663_1.jpg10.140.36.157	09-01-2024 02:39:00 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:39:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/cropactionapi.php10.140.36.157	09-01-2024 02:39:00 PM	JSON POST : {"hiddenphotoval":"1","hiddenimageval":"1","imageType":"Sig","aid":"268229700018663","action":"cropimage","userId":"35","ip":"10.140.36.157"}10.140.36.157	09-01-2024 02:39:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:39:00 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:39:01 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:39:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:39:01 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:39:53 PM	JSON to post for dataenrty form 1----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "SHL", "AOTYPPE": "W", "RANGECODE": "16", "AONO": "1", "applicanttitlecode": "1", "applicantlastname": "BARBHUIYA", "applicationfirstname": "NAIM", "applicantmiddlename": "UDDIN", "NAMETOBEPRINTED": "NAIM UDDIN BARBHUIYA", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "M","fatherlastname": "BARBHUIYA", "fatherfirstname": "NUR", "fathermiddlename": "UDDIN", "resiflatorblockno": "DHALCHERRA", "resibuildingorvillage": "BOTHAL", "resipostoffice": "HAILAKANDI", "resiareasubdivision": " ", "resitownorcountry": "HAILKANDI", "resistatecode": "4", "resipincode": "788113", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "25012002",  "acknowledmentnumber": "268229700018663","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "COMMADDRESS": "", "countryisd": "", "STDCODE": "", "TELPHONE": "8638721974", "EMAIL": "NANDITASTUDIO6900@GMAIL.COM", "REGNUM": "", "INDIANCITIZEN": "I", "ADHARNUM": "", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "NAIM UDDIN BARBHUIYA", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": "", "orgname": "", "isbusinessorprofession": "", "businessorprfessioncode": "", "anotherincomesrctypecode": "", "ratitlecode": "", "ralastname": "", "rafistname": "", "ramiddlename": "", "raflatorblock": "", "rabuildingorvillage": "", "streetorpostoffice": "", "raareasubdivision": "", "ratownorcountry": "", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "044", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "","verifiername": "","verifiercapcitycode": "","verificationplace": "","verificationdate": "","modeofapplication": "","acknowledmentnumber": "268229700018663", "officezip": "" }}10.140.36.157	09-01-2024 02:39:53 PM	URL to hit on dataenrty form 1----http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 02:39:53 PM	Response return from dataentry page 1 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "268229700018663"
+}10.140.36.157	09-01-2024 02:39:53 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:39:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:39:53 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:41:01 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "SHL", "AOTYPPE": "W", "RANGECODE": "16", "AONO": "1", "applicanttitlecode": "1", "applicantlastname": "BARBHUIYA", "applicationfirstname": "NAIM", "applicantmiddlename": "UDDIN", "NAMETOBEPRINTED": "NAIM UDDIN BARBHUIYA", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "M","fatherlastname": "BARBHUIYA", "fatherfirstname": "NUR", "fathermiddlename": "UDDIN", "resiflatorblockno": "DHALCHERRA", "resibuildingorvillage": "BOTHAL", "resipostoffice": "HAILAKANDI", "resiareasubdivision": " ", "resitownorcountry": "HAILKANDI", "resistatecode": "4", "resipincode": "788113", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "25012002",  "acknowledmentnumber": "268229700018663","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": " ", "officeflatorblock": " ", "officebuildingorvillage": " ", "officestreeorpostoffice": " ", "officeareaorsubdivision": " ", "officetownorcontry": " ", "officestatecode": "", "officepincode": "", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "8638721974", "EMAIL": "NANDITASTUDIO6900@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "NAIM UDDIN BARBHUIYA", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "C", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "044", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "NAIM UDDIN BARBHUIYA","verifiercapcitycode": "01","verificationplace": "BILAIPUR","verificationdate": "28-12-2023","modeofapplication": "T","acknowledmentnumber": "268229700018663", "officezip": "" }}10.140.36.157	09-01-2024 02:41:01 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 02:41:01 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "268229700018663"
+}10.140.36.157	09-01-2024 02:41:01 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:41:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:41:01 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:41:02 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:41:09 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:41:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 02:41:09 PM	JSON POST : { "UserId": "35", "UserName": "","ip": "10.140.36.157", "Stage": "F~DGP~DIE~IP", "FormType": "49A", "AcknowledgementNumber":"268229700018663", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 02:41:09 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "268229700018663",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 02:41:09 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 02:41:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:41:09 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 02:41:10 PM	Session BranchId...houser10.140.36.157	09-01-2024 02:41:10 PM	Session Type...HOUSER10.140.36.157	09-01-2024 02:41:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 02:41:10 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 02:41:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 02:41:10 PM	JSON POST : 10.140.36.157	09-01-2024 02:41:30 PM	ui c3VyZW5kZXIua3VtYXJAcmVsaWdhcmUuY29t and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 02:41:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 02:41:30 PM	JSON POST : Array10.140.36.157	09-01-2024 02:41:30 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "62",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surender Kumar Verma  (QC User)",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 02:41:30 PM	Json parting value34434510.140.36.157	09-01-2024 02:41:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:41:30 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 02:41:30 PM	Session BranchId...QCP10.140.36.157	09-01-2024 02:41:30 PM	Session Type...QCP10.140.36.157	09-01-2024 02:41:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 02:41:30 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 02:41:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 02:41:30 PM	JSON POST : 10.140.36.157	09-01-2024 02:41:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 02:41:33 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"268229700018663",
+								"userId":"62",
+								"productType":"PAN",
+								"UserType":"QCP"
+							}
+						]
+					}10.140.36.157	09-01-2024 02:41:33 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 02:41:33 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 02:41:34 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:41:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:41:34 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 02:41:34 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:41:53 PM	JSON  Post to get Rejection data for PAN: {
+    "acknowledgenumber":"268229700018663",
+    "records":"",
+    "rejectionId":""
+}10.140.36.157	09-01-2024 02:41:53 PM	 API url: http://10.150.146.12/UAT_BackEnd/HOOperation/GetRejctionList.php10.140.36.157	09-01-2024 02:41:53 PM	Response return from api----{
+    "status": "0",
+    "message": "Success",
+    "acknowledgementNumber": "268229700018663",
+    "recordcount": 0,
+    "result": []
+}10.140.36.157	09-01-2024 02:41:53 PM	 Form Type: 49AProduct Type: PAN10.140.36.157	09-01-2024 02:43:01 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=10.140.36.157	09-01-2024 02:43:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:43:01 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 02:43:03 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=10.140.36.157	09-01-2024 02:43:15 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=10.140.36.157	09-01-2024 02:43:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:43:15 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 02:43:16 PM	JSON to post for Qc Rejection List for PAN: {
+	"acknowledgenumber":"268229700018663",
+	"userid":"62",
+	"Rejectionid":"",
+	"rejectionhash":"",
+	"rejectionlist":[{
+	"srno":"1",
+	"fieldId":"32",
+	"fiedlName":"Basis of Application",
+	"reasonid":"P4BAS_3239",
+	"resonDescription":"ADDRESS FOR COMMUNICATION NOT MENTIONED[TF01]",
+	"rejuid":"62",
+	"remarks":"address communication wrong fil",
+	"rejdatetime":"2024-01-09",
+	"resdatetime":"",
+	"resuid":"",
+	"status":"0"
+}]
+}
+10.140.36.157	09-01-2024 02:43:16 PM	  API call to save the QC rejection data http://10.150.146.12/UAT_BackEnd/HOOperation/RejectionUpdate.php?resolutionDate=&inwardDate=10.140.36.157	09-01-2024 02:43:16 PM	  Response return from rejection save:{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "AcknowledgementNumber": "268229700018663",
+    "RejectionId": "RJ-09012024024316-000012"
+}10.140.36.157	09-01-2024 02:43:16 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=10.140.36.157	09-01-2024 02:43:36 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:43:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 02:43:36 PM	JSON POST : { "UserId": "62", "UserName": "","ip": "10.140.36.157", "Stage": "F~QCP~QC1~DV", "FormType": "49A", "AcknowledgementNumber":"268229700018663", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 02:43:36 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "268229700018663",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 02:43:36 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 02:45:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:45:43 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 02:45:43 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=10.140.36.157	09-01-2024 02:45:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:45:43 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 02:45:44 PM	Session BranchId...QCP10.140.36.157	09-01-2024 02:45:44 PM	Session Type...QCP10.140.36.157	09-01-2024 02:45:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 02:45:44 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 02:45:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 02:45:44 PM	JSON POST : 10.140.36.157	09-01-2024 02:45:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:45:57 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 02:46:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-01-2024 02:46:01 PM	JSON POST : {
+					"AcknowledgementNo":"268229700018663",
+					"productType":"PAN"
+				}10.140.36.157	09-01-2024 02:46:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:46:01 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 02:46:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:46:12 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 02:46:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/dailydiscrepancyreport.php10.140.36.157	09-01-2024 02:46:20 PM	JSON POST : {
+  "fromDate":"2024-01-09",
+  "toDate":"2024-01-09",
+  "productType":"PAN",
+  "BranchCode":"All"
+}10.140.36.157	09-01-2024 02:46:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:46:20 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 02:47:03 PM	ui c3VyZW5kZXIua3VtYXJAcmVsaWdhcmUuY29t and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 02:47:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 02:47:03 PM	JSON POST : Array10.140.36.157	09-01-2024 02:47:03 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "62",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surender Kumar Verma  (QC User)",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 02:47:03 PM	Json parting value34434510.140.36.157	09-01-2024 02:47:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:47:03 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 02:47:03 PM	Session BranchId...QCP10.140.36.157	09-01-2024 02:47:03 PM	Session Type...QCP10.140.36.157	09-01-2024 02:47:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 02:47:03 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 02:47:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 02:47:04 PM	JSON POST : 10.140.36.157	09-01-2024 02:48:32 PM	ui cmVqZWN0aW9udXNlcg== and pas aW5kaWFAMTIz10.140.36.157	09-01-2024 02:48:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 02:48:32 PM	JSON POST : Array10.140.36.157	09-01-2024 02:48:32 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12299",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCF",
+    "UserName": "Jaspal Singh  [Rejection-Fulfillment]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 02:48:32 PM	Json parting value34434510.140.36.157	09-01-2024 02:48:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:48:32 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 02:48:32 PM	Session BranchId...QCF10.140.36.157	09-01-2024 02:48:32 PM	Session Type...QCF10.140.36.157	09-01-2024 02:48:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 02:48:32 PM	JSON POST : { "UserType": "QCF", "UserId": "12299", "UserTypeId": "QCF", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 02:48:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 02:48:33 PM	JSON POST : 10.140.36.157	09-01-2024 02:48:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 02:48:42 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"268229700018663",
+								"userId":"12299",
+								"productType":"PAN",
+								"UserType":"QCF"
+							}
+						]
+					}10.140.36.157	09-01-2024 02:48:42 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 02:48:42 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 02:48:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:48:42 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 02:48:53 PM	image path: /u01/uploads_uat/panimages/268229700018663_1.jpg10.140.36.157	09-01-2024 02:48:53 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:48:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:48:53 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 02:49:06 PM	image path: /u01/uploads_uat/panimages/268229700018663_1.jpg10.140.36.157	09-01-2024 02:49:06 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:49:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/cropactionapi.php10.140.36.157	09-01-2024 02:49:06 PM	JSON POST : {"hiddenphotoval":"1","hiddenimageval":"1","imageType":"Photo","aid":"268229700018663","action":"cropimage","userId":"12299","ip":"10.140.36.157"}10.140.36.157	09-01-2024 02:49:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:49:06 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 02:49:06 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:49:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:49:06 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 02:49:10 PM	JSON to post for dataenrty form 1----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "49A", "Role": "", "recordlist":{ "AREACODE": "SHL", "AOTYPPE": "W", "RANGECODE": "16", "AONO": "1", "applicanttitlecode": "1", "applicantlastname": "BARBHUIYA", "applicationfirstname": "NAIM", "applicantmiddlename": "UDDIN", "NAMETOBEPRINTED": "NAIM UDDIN BARBHUIYA", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "M","fatherlastname": "BARBHUIYA", "fatherfirstname": "NUR", "fathermiddlename": "UDDIN", "resiflatorblockno": "DHALCHERRA", "resibuildingorvillage": "BOTHAL", "resipostoffice": "HAILAKANDI", "resiareasubdivision": " ", "resitownorcountry": "HAILKANDI", "resistatecode": "4", "resipincode": "788113", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "25012002",  "acknowledmentnumber": "268229700018663","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": " ", "officeflatorblock": " ", "officebuildingorvillage": " ", "officestreeorpostoffice": " ", "officeareaorsubdivision": " ", "officetownorcontry": " ", "officestatecode": "", "officepincode": "", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "8638721974", "EMAIL": "NANDITASTUDIO6900@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "NAIM UDDIN BARBHUIYA", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "C", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "044", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": "","verifiername": "NAIM UDDIN BARBHUIYA","verifiercapcitycode": "01","verificationplace": "BILAIPUR","verificationdate": "28122023","modeofapplication": "T","acknowledmentnumber": "268229700018663", "officezip": "" }}10.140.36.157	09-01-2024 02:49:10 PM	URL to hit on dataenrty form 1----http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 02:49:10 PM	Response return from dataentry page 1 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "268229700018663"
+}10.140.36.157	09-01-2024 02:49:10 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:49:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:49:10 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 02:49:15 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "", "recordlist":{ "AREACODE": "SHL", "AOTYPPE": "W", "RANGECODE": "16", "AONO": "1", "applicanttitlecode": "1", "applicantlastname": "BARBHUIYA", "applicationfirstname": "NAIM", "applicantmiddlename": "UDDIN", "NAMETOBEPRINTED": "NAIM UDDIN BARBHUIYA", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "M","fatherlastname": "BARBHUIYA", "fatherfirstname": "NUR", "fathermiddlename": "UDDIN", "resiflatorblockno": "DHALCHERRA", "resibuildingorvillage": "BOTHAL", "resipostoffice": "HAILAKANDI", "resiareasubdivision": " ", "resitownorcountry": "HAILKANDI", "resistatecode": "4", "resipincode": "788113", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "25012002",  "acknowledmentnumber": "268229700018663","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": " ", "officeflatorblock": " ", "officebuildingorvillage": " ", "officestreeorpostoffice": " ", "officeareaorsubdivision": " ", "officetownorcontry": " ", "officestatecode": "", "officepincode": "", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "8638721974", "EMAIL": "NANDITASTUDIO6900@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "NAIM UDDIN BARBHUIYA", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "C", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "044", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "NAIM UDDIN BARBHUIYA","verifiercapcitycode": "01","verificationplace": "BILAIPUR","verificationdate": "28-12-2023","modeofapplication": "T","acknowledmentnumber": "268229700018663", "officezip": "" }}10.140.36.157	09-01-2024 02:49:15 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 02:49:15 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "268229700018663"
+}10.140.36.157	09-01-2024 02:49:15 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:49:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:49:15 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 02:49:16 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:49:19 PM	JSON  Post to get Rejection data for PAN: {
+    "acknowledgenumber":"268229700018663",
+    "records":"",
+    "rejectionId":""
+}10.140.36.157	09-01-2024 02:49:19 PM	 API url: http://10.150.146.12/UAT_BackEnd/HOOperation/GetRejctionList.php10.140.36.157	09-01-2024 02:49:19 PM	Response return from api----{
+    "status": "0",
+    "message": "Success",
+    "acknowledgementNumber": "268229700018663",
+    "recordcount": 1,
+    "result": [
+        {
+            "isresolve": "f",
+            "rejectionId": "RJ-09012024024316-000012",
+            "rejectionDate": "2024-01-09 14:43:16",
+            "rejectedby": "Surender Kumar Verma (QC User)",
+            "resolvDate": null,
+            "resovedby": " ",
+            "insufData": [
+                {
+                    "srno": "1",
+                    "fieldId": "32",
+                    "fiedlName": "Basis of Application",
+                    "reasonid": "P4BAS_3239",
+                    "resonDescription": "ADDRESS FOR COMMUNICATION NOT MENTIONED[TF01]",
+                    "rejuid": "62",
+                    "remarks": "address communication wrong fil",
+                    "rejdatetime": "2024-01-09",
+                    "resdatetime": "",
+                    "resuid": "",
+                    "status": "0"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	09-01-2024 02:49:21 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=10.140.36.157	09-01-2024 02:49:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:49:21 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 02:49:22 PM	JSON to post for Qc Rejection List for PAN: {
+	"acknowledgenumber":"268229700018663",
+	"userid":"12299",
+	"Rejectionid":"RJ-09012024024316-000012",
+	"rejectionhash":"",
+	"rejectionlist":[{
+	"srno":"1",
+	"fieldId":"32",
+	"fiedlName":"Basis of Application",
+	"reasonid":"P4BAS_3239",
+	"resonDescription":"ADDRESS FOR COMMUNICATION NOT MENTIONED[TF01]",
+	"rejuid":"62",
+	"remarks":"address communication wrong fil",
+	"rejdatetime":"2024-01-09",
+	"resdatetime":"2024-01-09",
+	"resuid":"12299",
+	"status":"1"
+}]
+}
+10.140.36.157	09-01-2024 02:49:22 PM	  API call to save the QC rejection data http://10.150.146.12/UAT_BackEnd/HOOperation/RejectionUpdate.php?resolutionDate=&inwardDate=10.140.36.157	09-01-2024 02:49:22 PM	  Response return from rejection save:{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "AcknowledgementNumber": "268229700018663",
+    "RejectionId": "RJ-09012024024316-000012"
+}10.140.36.157	09-01-2024 02:49:22 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=10.140.36.157	09-01-2024 02:49:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 02:49:22 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 02:49:23 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=10.140.36.157	09-01-2024 02:49:24 PM	JSON  Post to get Rejection data for PAN: {
+    "acknowledgenumber":"268229700018663",
+    "records":"",
+    "rejectionId":""
+}10.140.36.157	09-01-2024 02:49:24 PM	 API url: http://10.150.146.12/UAT_BackEnd/HOOperation/GetRejctionList.php10.140.36.157	09-01-2024 02:49:24 PM	Response return from api----{
+    "status": "0",
+    "message": "Success",
+    "acknowledgementNumber": "268229700018663",
+    "recordcount": 0,
+    "result": []
+}10.140.36.157	09-01-2024 02:49:48 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 02:49:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 02:49:48 PM	JSON POST : { "UserId": "12299", "UserName": "","ip": "10.140.36.157", "Stage": "I~QCF~DE1~IP", "FormType": "49A", "AcknowledgementNumber":"268229700018663", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 02:49:48 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "268229700018663",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 02:49:48 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 05:19:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 05:19:15 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"332069700358141",
+								"userId":"35",
+								"productType":"PAN",
+								"UserType":"HOUSER"
+							}
+						]
+					}10.140.36.157	09-01-2024 05:19:15 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 05:19:15 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 05:19:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:19:15 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:19:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:19:15 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:19:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:19:15 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:19:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:19:15 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:19:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:19:15 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:26:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:26:11 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:26:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:26:12 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:26:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:26:14 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:26:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:26:17 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:26:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:26:20 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:26:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:26:25 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:26:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:26:27 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:27:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:27:26 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:27:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:27:28 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:27:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:27:47 PM	JSON POST : {
+			"userType" : "QCF"
+		}10.140.36.157	09-01-2024 05:27:57 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-01-2024 05:27:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 05:27:57 PM	JSON POST : Array10.140.36.157	09-01-2024 05:27:57 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.157	09-01-2024 05:27:57 PM	Json parting value34434510.140.36.157	09-01-2024 05:27:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:27:57 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:27:57 PM	Session BranchId...houser10.140.36.157	09-01-2024 05:27:57 PM	Session Type...HOUSER10.140.36.157	09-01-2024 05:27:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 05:27:57 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 05:28:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 05:28:01 PM	JSON POST : 10.140.36.157	09-01-2024 05:29:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 05:29:22 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"335229700023131",
+								"userId":"35",
+								"productType":"PAN",
+								"UserType":"HOUSER"
+							}
+						]
+					}10.140.36.157	09-01-2024 05:29:22 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 05:29:22 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 05:29:22 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:29:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:29:22 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:29:54 PM	JSON to post for dataenrty form 1----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "LKN", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "93", "applicanttitlecode": "4", "applicantlastname": "LATE FEKU SUDAMI AND EDUCATION TRUST", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "LATE FEKU SUDAMI AND EDUCATION TRUST", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "T", "DATEOFBIRTH": "04092017",  "acknowledmentnumber": "335229700023131","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "COMMADDRESS": "", "countryisd": "", "STDCODE": "", "TELPHONE": "9506017670", "EMAIL": "KISANI.C2017@GMAIL.COM", "REGNUM": "", "INDIANCITIZEN": "I", "ADHARNUM": "", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": "", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": "", "orgname": "", "isbusinessorprofession": "", "businessorprfessioncode": "", "anotherincomesrctypecode": "", "ratitlecode": "", "ralastname": "", "rafistname": "", "ramiddlename": "", "raflatorblock": "", "rabuildingorvillage": "", "streetorpostoffice": "", "raareasubdivision": "", "ratownorcountry": "", "rastatecode": "", "rapincoe": "", "POI": "019", "POA": "018", "dobdocumentcode": "", "profofdateofbirth": "", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "","verifiername": "","verifiercapcitycode": "","verificationplace": "","verificationdate": "","modeofapplication": "","acknowledmentnumber": "335229700023131", "officezip": "" }}10.140.36.157	09-01-2024 05:29:54 PM	URL to hit on dataenrty form 1----http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:29:54 PM	Response return from dataentry page 1 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131"
+}10.140.36.157	09-01-2024 05:29:54 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:29:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:29:54 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:32:17 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "LKN", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "93", "applicanttitlecode": "4", "applicantlastname": "LATE FEKU SUDAMI AND EDUCATION TRUST", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "LATE FEKU SUDAMI AND EDUCATION TRUST", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "T", "DATEOFBIRTH": "04092017",  "acknowledmentnumber": "335229700023131","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "NATHUPUR", "officeflatorblock": "NATHUPUR", "officebuildingorvillage": "A", "officestreeorpostoffice": "KA", "officeareaorsubdivision": " ", "officetownorcontry": "MAU", "officestatecode": "18", "officepincode": "221603", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "9506017670", "EMAIL": "KISANI.C2017@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": " ", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "019", "POA": "018", "dobdocumentcode": " ", "profofdateofbirth": " ", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "LATEEKU SUDAMI SOCIAL","verifiercapcitycode": "06","verificationplace": "MADHUBAN","verificationdate": "28-12-2023","modeofapplication": "T","acknowledmentnumber": "335229700023131", "officezip": "" }}10.140.36.157	09-01-2024 05:32:17 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:32:17 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131"
+}10.140.36.157	09-01-2024 05:32:17 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:32:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:32:17 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:32:18 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:32:23 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:32:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 05:32:23 PM	JSON POST : { "UserId": "35", "UserName": "","ip": "10.140.36.157", "Stage": "F~DGP~DIE~DU", "FormType": "49A", "AcknowledgementNumber":"335229700023131", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 05:32:23 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 0,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131",
+    "Erorlist": "For 'Applicant Residence Address'out of  ' Flat\/Door\/Block No. , Name of Premises \/  Building \/ Village, Road \/ Street \/ Lane \/ Post Office , Area \/ Locality \/ Taluka \/ Sub-division' any Two should be filled ' for Applicant Type'Association of Persons (Trusts)'|'Residence Town\/City\/Disctict' is mandatory if Address of Commnunication is 'Residence' or Applicant Type is 'Association of Persons (Trusts)'|If Communication Address is Residence then 'Residence State' Should have value|'Residence Pin Code' Should have the value... if Communication Address is 'R' for Applicant type 'Association of Persons (Trusts)'|"
+}10.140.36.157	09-01-2024 05:32:32 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:32:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:32:32 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:32:52 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:32:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:32:53 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:33:01 PM	JSON to post for dataenrty form 1----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "LKN", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "93", "applicanttitlecode": "4", "applicantlastname": "LATE FEKU SUDAMI AND EDUCATION TRUST", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "LATE FEKU SUDAMI AND EDUCATION TRUST", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "T", "DATEOFBIRTH": "04092017",  "acknowledmentnumber": "335229700023131","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "NATHUPUR", "officeflatorblock": "NATHUPUR", "officebuildingorvillage": "A", "officestreeorpostoffice": "KA", "officeareaorsubdivision": " ", "officetownorcontry": "MAU", "officestatecode": "18", "officepincode": "221603", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "9506017670", "EMAIL": "KISANI.C2017@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": " ", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "019", "POA": "018", "dobdocumentcode": " ", "profofdateofbirth": " ", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": "2024-01-09 00:00:00","verifiername": "LATEEKU SUDAMI SOCIAL","verifiercapcitycode": "06","verificationplace": "MADHUBAN","verificationdate": "28122023","modeofapplication": "T","acknowledmentnumber": "335229700023131", "officezip": "" }}10.140.36.157	09-01-2024 05:33:01 PM	URL to hit on dataenrty form 1----http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:33:01 PM	Response return from dataentry page 1 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131"
+}10.140.36.157	09-01-2024 05:33:01 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:33:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:33:01 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:33:29 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:33:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:33:29 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:33:37 PM	JSON to post for dataenrty form 1----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "LKN", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "93", "applicanttitlecode": "4", "applicantlastname": "LATE FEKU SUDAMI AND EDUCATION TRUST", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "LATE FEKU SUDAMI AND EDUCATION TRUST", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "T", "DATEOFBIRTH": "04092017",  "acknowledmentnumber": "335229700023131","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "NATHUPUR", "officeflatorblock": "NATHUPUR", "officebuildingorvillage": "A", "officestreeorpostoffice": "KA", "officeareaorsubdivision": " ", "officetownorcontry": "MAU", "officestatecode": "18", "officepincode": "221603", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "9506017670", "EMAIL": "KISANI.C2017@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": " ", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "019", "POA": "018", "dobdocumentcode": " ", "profofdateofbirth": " ", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": "2024-01-09 00:00:00","verifiername": "LATEEKU SUDAMI SOCIAL","verifiercapcitycode": "06","verificationplace": "MADHUBAN","verificationdate": "28122023","modeofapplication": "T","acknowledmentnumber": "335229700023131", "officezip": "" }}10.140.36.157	09-01-2024 05:33:37 PM	URL to hit on dataenrty form 1----http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:33:37 PM	Response return from dataentry page 1 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131"
+}10.140.36.157	09-01-2024 05:33:37 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:33:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:33:37 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:33:57 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "LKN", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "93", "applicanttitlecode": "4", "applicantlastname": "LATE FEKU SUDAMI AND EDUCATION TRUST", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "LATE FEKU SUDAMI AND EDUCATION TRUST", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "T", "DATEOFBIRTH": "04092017",  "acknowledmentnumber": "335229700023131","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "NATHUPUR", "officeflatorblock": "NATHUPUR", "officebuildingorvillage": "A", "officestreeorpostoffice": "KA", "officeareaorsubdivision": " ", "officetownorcontry": "MAU", "officestatecode": "18", "officepincode": "221603", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "9506017670", "EMAIL": "KISANI.C2017@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": " ", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "019", "POA": "018", "dobdocumentcode": " ", "profofdateofbirth": " ", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "LATEEKU SUDAMI SOCIAL","verifiercapcitycode": "06","verificationplace": "MADHUBAN","verificationdate": "28-12-2023","modeofapplication": "T","acknowledmentnumber": "335229700023131", "officezip": "" }}10.140.36.157	09-01-2024 05:33:57 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:33:57 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131"
+}10.140.36.157	09-01-2024 05:33:58 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:33:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:33:58 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:33:58 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:34:16 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:34:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 05:34:16 PM	JSON POST : { "UserId": "35", "UserName": "","ip": "10.140.36.157", "Stage": "F~DGP~DIE~DU", "FormType": "49A", "AcknowledgementNumber":"335229700023131", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 05:34:16 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 0,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131",
+    "Erorlist": "For 'Applicant Residence Address'out of  ' Flat\/Door\/Block No. , Name of Premises \/  Building \/ Village, Road \/ Street \/ Lane \/ Post Office , Area \/ Locality \/ Taluka \/ Sub-division' any Two should be filled ' for Applicant Type'Association of Persons (Trusts)'|'Residence Town\/City\/Disctict' is mandatory if Address of Commnunication is 'Residence' or Applicant Type is 'Association of Persons (Trusts)'|If Communication Address is Residence then 'Residence State' Should have value|'Residence Pin Code' Should have the value... if Communication Address is 'R' for Applicant type 'Association of Persons (Trusts)'|"
+}10.140.36.157	09-01-2024 05:34:35 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:34:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:34:35 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:35:58 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "LKN", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "93", "applicanttitlecode": "4", "applicantlastname": "LATE FEKU SUDAMI AND EDUCATION TRUST", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "LATE FEKU SUDAMI AND EDUCATION TRUST", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "T", "DATEOFBIRTH": "04092017",  "acknowledmentnumber": "335229700023131","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "NATHUPUR", "officeflatorblock": "NATHUPUR", "officebuildingorvillage": "A", "officestreeorpostoffice": "KA", "officeareaorsubdivision": " ", "officetownorcontry": "MAU", "officestatecode": "18", "officepincode": "221603", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "9506017670", "EMAIL": "KISANI.C2017@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": " ", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "019", "POA": "018", "dobdocumentcode": " ", "profofdateofbirth": " ", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "LATEEKU SUDAMI SOCIAL","verifiercapcitycode": "06","verificationplace": "MADHUBAN","verificationdate": "28-12-2023","modeofapplication": "T","acknowledmentnumber": "335229700023131", "officezip": "" }}10.140.36.157	09-01-2024 05:35:58 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:35:58 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131"
+}10.140.36.157	09-01-2024 05:35:58 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:35:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:35:58 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:35:59 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:36:37 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:36:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:36:37 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:37:27 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "LKN", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "93", "applicanttitlecode": "4", "applicantlastname": "LATE FEKU SUDAMI AND EDUCATION TRUST", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "LATE FEKU SUDAMI AND EDUCATION TRUST", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "T", "DATEOFBIRTH": "04092017",  "acknowledmentnumber": "335229700023131","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "NATHUPUR", "officeflatorblock": "NATHUPUR", "officebuildingorvillage": "RAM NAGAR", "officestreeorpostoffice": "PRATAP NAGAR", "officeareaorsubdivision": " ", "officetownorcontry": "MAU", "officestatecode": "31", "officepincode": "221603", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "9506017670", "EMAIL": "KISANI.C2017@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": " ", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "019", "POA": "018", "dobdocumentcode": " ", "profofdateofbirth": " ", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "LATEEKU SUDAMI SOCIAL","verifiercapcitycode": "06","verificationplace": "MADHUBAN","verificationdate": "28-12-2023","modeofapplication": "T","acknowledmentnumber": "335229700023131", "officezip": "" }}10.140.36.157	09-01-2024 05:37:27 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:37:27 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131"
+}10.140.36.157	09-01-2024 05:37:27 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:37:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:37:27 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:37:28 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:37:30 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:37:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 05:37:30 PM	JSON POST : { "UserId": "35", "UserName": "","ip": "10.140.36.157", "Stage": "F~DGP~DIE~DU", "FormType": "49A", "AcknowledgementNumber":"335229700023131", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 05:37:30 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 0,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131",
+    "Erorlist": "For 'Applicant Residence Address'out of  ' Flat\/Door\/Block No. , Name of Premises \/  Building \/ Village, Road \/ Street \/ Lane \/ Post Office , Area \/ Locality \/ Taluka \/ Sub-division' any Two should be filled ' for Applicant Type'Association of Persons (Trusts)'|'Residence Town\/City\/Disctict' is mandatory if Address of Commnunication is 'Residence' or Applicant Type is 'Association of Persons (Trusts)'|If Communication Address is Residence then 'Residence State' Should have value|'Residence Pin Code' Should have the value... if Communication Address is 'R' for Applicant type 'Association of Persons (Trusts)'|"
+}10.140.36.157	09-01-2024 05:37:43 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:37:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:37:43 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:38:52 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "LKN", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "93", "applicanttitlecode": "4", "applicantlastname": "LATE FEKU SUDAMI AND EDUCATION TRUST", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "LATE FEKU SUDAMI AND EDUCATION TRUST", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "T", "DATEOFBIRTH": "04092017",  "acknowledmentnumber": "335229700023131","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "NATHUPUR", "officeflatorblock": "NATHUPUR", "officebuildingorvillage": "RAM NAGAR", "officestreeorpostoffice": "PRATAP NAGAR", "officeareaorsubdivision": " ", "officetownorcontry": "MAU", "officestatecode": "31", "officepincode": "221603", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "9506017670", "EMAIL": "KISANI.C2017@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": " ", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "019", "POA": "018", "dobdocumentcode": " ", "profofdateofbirth": " ", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "LATEEKU SUDAMI SOCIAL","verifiercapcitycode": "06","verificationplace": "MADHUBAN","verificationdate": "28-12-2023","modeofapplication": "T","acknowledmentnumber": "335229700023131", "officezip": "" }}10.140.36.157	09-01-2024 05:38:52 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:38:52 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131"
+}10.140.36.157	09-01-2024 05:38:52 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:38:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:38:52 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:38:53 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:39:20 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:39:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:39:20 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:39:57 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "LKN", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "93", "applicanttitlecode": "4", "applicantlastname": "LATE FEKU SUDAMI AND EDUCATION TRUST", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "LATE FEKU SUDAMI AND EDUCATION TRUST", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "T", "DATEOFBIRTH": "04092017",  "acknowledmentnumber": "335229700023131","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "NATHUPUR", "officeflatorblock": "LKJL;KJ", "officebuildingorvillage": "RAM NAGAR", "officestreeorpostoffice": "PRATAP NAGAR", "officeareaorsubdivision": " ", "officetownorcontry": "MAU", "officestatecode": "31", "officepincode": "221603", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "9506017670", "EMAIL": "KISANI.C2017@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": " ", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "019", "POA": "018", "dobdocumentcode": " ", "profofdateofbirth": " ", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "LATEEKU SUDAMI SOCIAL","verifiercapcitycode": "06","verificationplace": "MADHUBAN","verificationdate": "28-12-2023","modeofapplication": "T","acknowledmentnumber": "335229700023131", "officezip": "" }}10.140.36.157	09-01-2024 05:39:57 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:39:57 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131"
+}10.140.36.157	09-01-2024 05:39:57 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:39:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:39:57 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:39:57 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:40:13 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:40:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 05:40:13 PM	JSON POST : { "UserId": "35", "UserName": "","ip": "10.140.36.157", "Stage": "F~DGP~DIE~DU", "FormType": "49A", "AcknowledgementNumber":"335229700023131", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 05:40:13 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 0,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131",
+    "Erorlist": "For 'Applicant Residence Address'out of  ' Flat\/Door\/Block No. , Name of Premises \/  Building \/ Village, Road \/ Street \/ Lane \/ Post Office , Area \/ Locality \/ Taluka \/ Sub-division' any Two should be filled ' for Applicant Type'Association of Persons (Trusts)'|'Residence Town\/City\/Disctict' is mandatory if Address of Commnunication is 'Residence' or Applicant Type is 'Association of Persons (Trusts)'|If Communication Address is Residence then 'Residence State' Should have value|'Residence Pin Code' Should have the value... if Communication Address is 'R' for Applicant type 'Association of Persons (Trusts)'|"
+}10.140.36.157	09-01-2024 05:46:58 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:46:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:46:58 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:47:15 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:47:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:47:15 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:47:25 PM	JSON to post for dataenrty form 1----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "LKN", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "93", "applicanttitlecode": "4", "applicantlastname": "LATE FEKU SUDAMI AND EDUCATION TRUST", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "LATE FEKU SUDAMI AND EDUCATION TRUST", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "T", "DATEOFBIRTH": "04092017",  "acknowledmentnumber": "335229700023131","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "NATHUPUR", "officeflatorblock": "LKJL;KJ", "officebuildingorvillage": "RAM NAGAR", "officestreeorpostoffice": "PRATAP NAGAR", "officeareaorsubdivision": " ", "officetownorcontry": "MAU", "officestatecode": "31", "officepincode": "221603", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "9506017670", "EMAIL": "KISANI.C2017@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": " ", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "019", "POA": "018", "dobdocumentcode": " ", "profofdateofbirth": " ", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": "2024-01-09 00:00:00","verifiername": "LATEEKU SUDAMI SOCIAL","verifiercapcitycode": "06","verificationplace": "MADHUBAN","verificationdate": "28122023","modeofapplication": "T","acknowledmentnumber": "335229700023131", "officezip": "" }}10.140.36.157	09-01-2024 05:47:25 PM	URL to hit on dataenrty form 1----http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:47:25 PM	Response return from dataentry page 1 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131"
+}10.140.36.157	09-01-2024 05:47:25 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:47:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:47:25 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:53:53 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "LKN", "AOTYPPE": "W", "RANGECODE": "26", "AONO": "93", "applicanttitlecode": "4", "applicantlastname": "LATE FEKU SUDAMI AND EDUCATION TRUST", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "LATE FEKU SUDAMI AND EDUCATION TRUST", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "T", "DATEOFBIRTH": "04092017",  "acknowledmentnumber": "335229700023131","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "NATHUPUR", "officeflatorblock": "LKJL;KJ", "officebuildingorvillage": "RAM NAGAR", "officestreeorpostoffice": "PRATAP NAGAR", "officeareaorsubdivision": " ", "officetownorcontry": "MAU", "officestatecode": "31", "officepincode": "221603", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "9506017670", "EMAIL": "KISANI.C2017@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": " ", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "019", "POA": "018", "dobdocumentcode": " ", "profofdateofbirth": " ", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "LATEEKU SUDAMI SOCIAL","verifiercapcitycode": "06","verificationplace": "MADHUBAN","verificationdate": "28-12-2023","modeofapplication": "T","acknowledmentnumber": "335229700023131", "officezip": "" }}10.140.36.157	09-01-2024 05:53:53 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:53:53 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131"
+}10.140.36.157	09-01-2024 05:53:53 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:53:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:53:53 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:53:54 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:54:20 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:54:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 05:54:20 PM	JSON POST : { "UserId": "35", "UserName": "","ip": "10.140.36.157", "Stage": "F~DGP~DIE~DU", "FormType": "49A", "AcknowledgementNumber":"335229700023131", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 05:54:20 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 0,
+    "formtype": "49A",
+    "AcknowledgementNumber": "335229700023131",
+    "Erorlist": "For 'Applicant Residence Address'out of  ' Flat\/Door\/Block No. , Name of Premises \/  Building \/ Village, Road \/ Street \/ Lane \/ Post Office , Area \/ Locality \/ Taluka \/ Sub-division' any Two should be filled ' for Applicant Type'Association of Persons (Trusts)'|'Residence Town\/City\/Disctict' is mandatory if Address of Commnunication is 'Residence' or Applicant Type is 'Association of Persons (Trusts)'|If Communication Address is Residence then 'Residence State' Should have value|'Residence Pin Code' Should have the value... if Communication Address is 'R' for Applicant type 'Association of Persons (Trusts)'|"
+}10.140.36.157	09-01-2024 05:54:39 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:54:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:54:39 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:56:12 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33522970002313110.140.36.157	09-01-2024 05:56:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:56:12 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:56:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:56:18 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:56:19 PM	Session BranchId...houser10.140.36.157	09-01-2024 05:56:19 PM	Session Type...HOUSER10.140.36.157	09-01-2024 05:56:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 05:56:19 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 05:56:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 05:56:19 PM	JSON POST : 10.140.36.157	09-01-2024 05:56:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 05:56:23 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"338879700122154",
+								"userId":"35",
+								"productType":"PAN",
+								"UserType":"HOUSER"
+							}
+						]
+					}10.140.36.157	09-01-2024 05:56:23 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 05:56:23 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 05:56:23 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33887970012215410.140.36.157	09-01-2024 05:56:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:56:23 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:56:33 PM	JSON to post for dataenrty form 1----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "DEL", "AOTYPPE": "C", "RANGECODE": "37", "AONO": "2", "applicanttitlecode": "4", "applicantlastname": "EV ENTERPRISES", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "EV ENTERPRISES", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "F", "DATEOFBIRTH": "24122023",  "acknowledmentnumber": "338879700122154","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "COMMADDRESS": "", "countryisd": "", "STDCODE": "", "TELPHONE": "9810276375", "EMAIL": "SAHGST2020@GMAIL.COM", "REGNUM": "", "INDIANCITIZEN": "I", "ADHARNUM": "", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": "", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": "", "orgname": "", "isbusinessorprofession": "", "businessorprfessioncode": "", "anotherincomesrctypecode": "", "ratitlecode": "", "ralastname": "", "rafistname": "", "ramiddlename": "", "raflatorblock": "", "rabuildingorvillage": "", "streetorpostoffice": "", "raareasubdivision": "", "ratownorcountry": "", "rastatecode": "", "rapincoe": "", "POI": "018", "POA": "017", "dobdocumentcode": "", "profofdateofbirth": "", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "","verifiername": "","verifiercapcitycode": "","verificationplace": "","verificationdate": "","modeofapplication": "","acknowledmentnumber": "338879700122154", "officezip": "" }}10.140.36.157	09-01-2024 05:56:33 PM	URL to hit on dataenrty form 1----http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:56:33 PM	Response return from dataentry page 1 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "338879700122154"
+}10.140.36.157	09-01-2024 05:56:33 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33887970012215410.140.36.157	09-01-2024 05:56:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:56:33 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:58:57 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "DEL", "AOTYPPE": "C", "RANGECODE": "37", "AONO": "2", "applicanttitlecode": "4", "applicantlastname": "EV ENTERPRISES", "applicationfirstname": " ", "applicantmiddlename": " ", "NAMETOBEPRINTED": "EV ENTERPRISES", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "","fatherlastname": " ", "fatherfirstname": " ", "fathermiddlename": " ", "resiflatorblockno": " ", "resibuildingorvillage": " ", "resipostoffice": " ", "resiareasubdivision": " ", "resitownorcountry": " ", "resistatecode": "", "resipincode": "", "STATUSOFAPPLICANT": "F", "DATEOFBIRTH": "24122023",  "acknowledmentnumber": "338879700122154","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": " ", "residencezip": "", "OFFICENAME": "EV ENTERPRISES", "officeflatorblock": "49", "officebuildingorvillage": "SECOND FLOOR", "officestreeorpostoffice": "KIRAN VIHAR", "officeareaorsubdivision": " ", "officetownorcontry": "DELHI", "officestatecode": "9", "officepincode": "110092", "COMMADDRESS": "O", "countryisd": "91", "STDCODE": "91", "TELPHONE": "9810276375", "EMAIL": "SAHGST2020@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "0", "adharenrolmentid": "", "nameasadhar": " ", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "C", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "018", "POA": "017", "dobdocumentcode": " ", "profofdateofbirth": " ", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "N","issignatureattached": "N","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "VEENA","verifiercapcitycode": "05","verificationplace": "DELHI","verificationdate": "25-12-2023","modeofapplication": "T","acknowledmentnumber": "338879700122154", "officezip": "" }}10.140.36.157	09-01-2024 05:58:57 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 05:58:57 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "338879700122154"
+}10.140.36.157	09-01-2024 05:58:57 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33887970012215410.140.36.157	09-01-2024 05:58:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:58:57 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:58:58 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33887970012215410.140.36.157	09-01-2024 05:59:14 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=33887970012215410.140.36.157	09-01-2024 05:59:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 05:59:14 PM	JSON POST : { "UserId": "35", "UserName": "","ip": "10.140.36.157", "Stage": "F~DGP~DIE~DU", "FormType": "49A", "AcknowledgementNumber":"338879700122154", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 05:59:14 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "338879700122154",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 05:59:14 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 05:59:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 05:59:14 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 05:59:15 PM	Session BranchId...houser10.140.36.157	09-01-2024 05:59:15 PM	Session Type...HOUSER10.140.36.157	09-01-2024 05:59:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 05:59:15 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 05:59:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 05:59:15 PM	JSON POST : 10.140.36.157	09-01-2024 06:02:55 PM	ui c3VyZW5kZXIua3VtYXJAcmVsaWdhcmUuY29t and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:02:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:02:55 PM	JSON POST : Array10.140.36.157	09-01-2024 06:02:55 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "62",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surender Kumar Verma  (QC User)",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:02:55 PM	Json parting value34434510.140.36.157	09-01-2024 06:02:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:02:55 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:02:55 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:02:55 PM	Session Type...QCP10.140.36.157	09-01-2024 06:02:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:02:55 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:02:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:02:56 PM	JSON POST : 10.140.36.157	09-01-2024 06:03:25 PM	ui YmF0Y2h1c2VyMDE= and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:03:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:03:25 PM	JSON POST : Array10.140.36.157	09-01-2024 06:03:25 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "7",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BCP",
+    "UserName": "Surender Verma  [Batch User-1]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:03:25 PM	Json parting value34434510.140.36.157	09-01-2024 06:03:25 PM	Session BranchId...BCP10.140.36.157	09-01-2024 06:03:25 PM	Session Type...BCP10.140.36.157	09-01-2024 06:03:25 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	09-01-2024 06:03:25 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:03:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:03:25 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:03:39 PM	ui c3VyZW5kZXIua3VtYXJAcmVsaWdhcmUuY29t and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:03:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:03:39 PM	JSON POST : Array10.140.36.157	09-01-2024 06:03:39 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "62",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surender Kumar Verma  (QC User)",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:03:39 PM	Json parting value34434510.140.36.157	09-01-2024 06:03:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:03:39 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:03:39 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:03:39 PM	Session Type...QCP10.140.36.157	09-01-2024 06:03:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:03:39 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:03:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:03:39 PM	JSON POST : 10.140.36.157	09-01-2024 06:03:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 06:03:48 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"268229700018663",
+								"userId":"62",
+								"productType":"PAN",
+								"UserType":"QCP"
+							}
+						]
+					}10.140.36.157	09-01-2024 06:03:48 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 06:03:48 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 06:03:48 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 06:03:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:03:48 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:03:49 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 06:03:59 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=26822970001866310.140.36.157	09-01-2024 06:03:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 06:03:59 PM	JSON POST : { "UserId": "62", "UserName": "","ip": "10.140.36.157", "Stage": "I~QCP~QC1~DV", "FormType": "49A", "AcknowledgementNumber":"268229700018663", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 06:03:59 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "268229700018663",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 06:03:59 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 06:04:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:04:00 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:04:00 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:04:00 PM	Session Type...QCP10.140.36.157	09-01-2024 06:04:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:04:00 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:04:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:04:00 PM	JSON POST : 10.140.36.157	09-01-2024 06:04:17 PM	ui YmF0Y2h1c2VyMDE= and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:04:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:04:17 PM	JSON POST : Array10.140.36.157	09-01-2024 06:04:17 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "7",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BCP",
+    "UserName": "Surender Verma  [Batch User-1]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:04:17 PM	Json parting value34434510.140.36.157	09-01-2024 06:04:17 PM	Session BranchId...BCP10.140.36.157	09-01-2024 06:04:17 PM	Session Type...BCP10.140.36.157	09-01-2024 06:04:17 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	09-01-2024 06:04:17 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:04:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:04:17 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:05:01 PM	ui c3VyZW5kZXIua3VtYXJAcmVsaWdhcmUuY29t and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:05:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:05:01 PM	JSON POST : Array10.140.36.157	09-01-2024 06:05:01 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "62",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surender Kumar Verma  (QC User)",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:05:01 PM	Json parting value34434510.140.36.157	09-01-2024 06:05:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:05:01 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:05:02 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:05:02 PM	Session Type...QCP10.140.36.157	09-01-2024 06:05:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:05:02 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:05:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:05:02 PM	JSON POST : 10.140.36.157	09-01-2024 06:07:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:07:34 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:07:34 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:07:34 PM	Session Type...QCP10.140.36.157	09-01-2024 06:07:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:07:34 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:07:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:07:34 PM	JSON POST : 10.140.36.157	09-01-2024 06:08:42 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-01-2024 06:08:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:08:42 PM	JSON POST : Array10.140.36.157	09-01-2024 06:08:42 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.157	09-01-2024 06:08:42 PM	Json parting value34434510.140.36.157	09-01-2024 06:08:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:08:42 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:08:42 PM	Session BranchId...houser10.140.36.157	09-01-2024 06:08:42 PM	Session Type...HOUSER10.140.36.157	09-01-2024 06:08:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:08:42 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 06:08:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:08:43 PM	JSON POST : 10.140.36.157	09-01-2024 06:08:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 06:08:47 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"620119702088806",
+								"userId":"35",
+								"productType":"PAN",
+								"UserType":"HOUSER"
+							}
+						]
+					}10.140.36.157	09-01-2024 06:08:47 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 06:08:47 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 06:08:47 PM	image path: /u01/uploads_uat/panimages/620119702088806_1.jpg10.140.36.157	09-01-2024 06:08:47 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62011970208880610.140.36.157	09-01-2024 06:08:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:08:47 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:08:58 PM	Image path is: /u01/uploads_uat/panimages/620119702088806_1.jpg10.140.36.157	09-01-2024 06:09:07 PM	Image path is: /u01/uploads_uat/panimages/620119702088806_1.jpg10.140.36.157	09-01-2024 06:09:09 PM	image path: /u01/uploads_uat/panimages/620119702088806_1.jpg10.140.36.157	09-01-2024 06:09:09 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62011970208880610.140.36.157	09-01-2024 06:09:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/cropactionapi.php10.140.36.157	09-01-2024 06:09:09 PM	JSON POST : {"hiddenphotoval":"1","hiddenimageval":"1","imageType":"Sig","aid":"620119702088806","action":"cropimage","userId":"35","ip":"10.140.36.157"}10.140.36.157	09-01-2024 06:09:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:09:09 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:09:09 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62011970208880610.140.36.157	09-01-2024 06:09:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:09:09 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:13:01 PM	JSON to post for cr form ----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "CR", "Role": "1", "recordlist":{ "newpanid": "GLDPD3951H", "APPLTITLE": "1", "isnamecr": "Y", "STATUSOFAPPLICANT": "P", "applicantcategorycode": "", "applicantlastname": "DOLEY", "applicationfirstname": "PARTHA", "applicantmiddlename": "PROTIM", "NAMETOBEPRINTED": "PARTHA PROTIM DOLEY", "isfathernamecr": "N", "fatherlastname": "DOLEY", "fatherfirstname": "PHIJU", "fathermiddlename": "", "isdobupdateflag": "N", "DATEOFBIRTH": "07102000", "issexupdate": "N", "SEX": "M", "isphotomismatch": "Y", "issignaturemismatch": "Y", "iscommaddressupdate": "Y", "COMMADDRESS": "R", "isanotheraddressupdate": "N", "resiflatorblockno": "C S C LENTRE JHANJIHUKH", "resibuildingorvillage": "KUMALIA LHAPORI GAON", "resipostoffice": "JHANJIHUKH", "resiareasubdivision": "", "resitownorcountry": "JORHAT", "resistatecode": "4",
+"resipincode": "785112", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "istelephoneemailupdate": "N", "STDCODE": "91", "TELPHONE": "9395285934", "EMAIL": "UDDHABKALITA07@GMAIL.COM", "oldpan1": "", "oldpan2": "", "oldpan3": "", "oldpan4": "", "oldpan5": "", "oldpan6": "", "oldpan7": "", "oldpan8": "", "numofsupporteddoc": "2", "verificationdate": "24-12-2023", "POI": "15", "POA": "14", "reuploadedtonsdl": "N", "isreprintrequest": "Y", "acknowledmentnumber": "620119702088806", "isphotoflag": "Y", "issignflag": "Y", "acknwoledmentdate": "28-12-2023", "oldacknwoledmentnum": "", "ispanproofgiven": "C", "isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "", "countryisd": "91", "ADHARNUM": "", "adharflag": "2", "verifiername": "PARTHO PROTIM DOLEY", "verifiercapcitycode": "01", "verificationplace": "JORHAT", "officezip": "", "resizip": "", "proofofbirthdoccode": "0010", "ismothernamecr": "N", "motherlastename": "", "motherfirstname": "", "mothermiddlename": "", "fatherormothernameoncard": "F", "adharenrolmentid": "", "nameasadhar": "PARTHA PROTIM DOLEY", "isphysicalpanwanted": "Y", "modeofapplication": "T", "VID": "", "uidtocken": "", "adharref": "" }}10.140.36.157	09-01-2024 06:13:01 PM	Response return from cr form ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "CR",
+    "AcknowledgementNumber": "620119702088806"
+}10.140.36.157	09-01-2024 06:13:01 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62011970208880610.140.36.157	09-01-2024 06:13:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:13:01 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:13:02 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62011970208880610.140.36.157	09-01-2024 06:13:05 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62011970208880610.140.36.157	09-01-2024 06:13:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 06:13:05 PM	JSON POST : { "UserId": "35", "UserName": "","ip": "10.140.36.157", "Stage": "F~DGP~DIE~IP", "FormType": "CR", "AcknowledgementNumber":"620119702088806", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 06:13:05 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "CR",
+    "AcknowledgementNumber": "620119702088806",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 06:13:05 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 06:13:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:13:05 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:13:06 PM	Session BranchId...houser10.140.36.157	09-01-2024 06:13:06 PM	Session Type...HOUSER10.140.36.157	09-01-2024 06:13:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:13:06 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 06:13:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:13:06 PM	JSON POST : 10.140.36.157	09-01-2024 06:13:20 PM	ui c3VyZW5kZXIua3VtYXJAcmVsaWdhcmUuY29t and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:13:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:13:20 PM	JSON POST : Array10.140.36.157	09-01-2024 06:13:20 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "62",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surender Kumar Verma  (QC User)",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:13:20 PM	Json parting value34434510.140.36.157	09-01-2024 06:13:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:13:20 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:13:20 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:13:20 PM	Session Type...QCP10.140.36.157	09-01-2024 06:13:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:13:20 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:13:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:13:20 PM	JSON POST : 10.140.36.157	09-01-2024 06:13:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 06:13:58 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"620119702088806",
+								"userId":"62",
+								"productType":"PAN",
+								"UserType":"QCP"
+							}
+						]
+					}10.140.36.157	09-01-2024 06:13:58 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 06:13:58 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 06:13:58 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62011970208880610.140.36.157	09-01-2024 06:13:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:13:58 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:13:59 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62011970208880610.140.36.157	09-01-2024 06:14:07 PM	JSON  Post to get Rejection data for PAN: {
+    "acknowledgenumber":"620119702088806",
+    "records":"",
+    "rejectionId":""
+}10.140.36.157	09-01-2024 06:14:07 PM	 API url: http://10.150.146.12/UAT_BackEnd/HOOperation/GetRejctionList.php10.140.36.157	09-01-2024 06:14:07 PM	Response return from api----{
+    "status": "0",
+    "message": "Success",
+    "acknowledgementNumber": "620119702088806",
+    "recordcount": 0,
+    "result": []
+}10.140.36.157	09-01-2024 06:14:07 PM	 Form Type: CRProduct Type: PAN10.140.36.157	09-01-2024 06:14:49 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62011970208880610.140.36.157	09-01-2024 06:14:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 06:14:49 PM	JSON POST : { "UserId": "62", "UserName": "","ip": "10.140.36.157", "Stage": "F~QCP~QC1~DV", "FormType": "CR", "AcknowledgementNumber":"620119702088806", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 06:14:49 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "CR",
+    "AcknowledgementNumber": "620119702088806",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 06:14:49 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 06:14:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:14:49 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:14:49 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:14:49 PM	Session Type...QCP10.140.36.157	09-01-2024 06:14:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:14:49 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:14:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:14:50 PM	JSON POST : 10.140.36.157	09-01-2024 06:15:04 PM	ui YmF0Y2h1c2VyMDE= and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:15:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:15:04 PM	JSON POST : Array10.140.36.157	09-01-2024 06:15:04 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "7",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BCP",
+    "UserName": "Surender Verma  [Batch User-1]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:15:04 PM	Json parting value34434510.140.36.157	09-01-2024 06:15:04 PM	Session BranchId...BCP10.140.36.157	09-01-2024 06:15:04 PM	Session Type...BCP10.140.36.157	09-01-2024 06:15:04 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	09-01-2024 06:15:04 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:15:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:15:04 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:15:50 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62011970208880610.140.36.157	09-01-2024 06:15:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:15:50 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:16:07 PM	ui YmF0Y2h1c2VyMDE= and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:16:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:16:07 PM	JSON POST : Array10.140.36.157	09-01-2024 06:16:07 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "7",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BCP",
+    "UserName": "Surender Verma  [Batch User-1]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:16:07 PM	Json parting value34434510.140.36.157	09-01-2024 06:16:07 PM	Session BranchId...BCP10.140.36.157	09-01-2024 06:16:07 PM	Session Type...BCP10.140.36.157	09-01-2024 06:16:07 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	09-01-2024 06:16:07 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:16:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:16:07 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:16:13 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"620119702088806"}]
+	}10.140.36.157	09-01-2024 06:16:13 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataAPI.php10.140.36.157	09-01-2024 06:16:13 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^PCD^R^09012024^0002^62^1",
+            "BactID": "000232",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "620119702088806",
+                    "BatchString": "2^FD^1^GLDPD3951H^1^Y^DOLEY^PARTHA^PROTIM^PARTHA PROTIM DOLEY^N^DOLEY^PHIJU^^N^07102000^N^M^Y^Y^Y^R^N^C S C LENTRE JHANJIHUKH^KUMALIA LHAPORI GAON^JHANJIHUKH^^JORHAT^4^785112^^^^^^^^^N^91^9395285934^UDDHABKALITA07@GMAIL.COM^^^^^^^^^2^24122023^15^14^N^Y^620119702088806^Y^Y^28122023^^C^^N^^91^^2^PARTHO PROTIM DOLEY^01^JORHAT^^^0010^N^^^^F^^PARTHA PROTIM DOLEY^Y^T^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	09-01-2024 06:16:13 PM	ack photo image exist: 110.140.36.157	09-01-2024 06:16:13 PM	ack signature image exist: 110.140.36.157	09-01-2024 06:16:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:16:13 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:24:48 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-01-2024 06:24:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:24:48 PM	JSON POST : Array10.140.36.157	09-01-2024 06:24:48 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.157	09-01-2024 06:24:48 PM	Json parting value34434510.140.36.157	09-01-2024 06:24:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:24:48 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:24:49 PM	Session BranchId...houser10.140.36.157	09-01-2024 06:24:49 PM	Session Type...HOUSER10.140.36.157	09-01-2024 06:24:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:24:49 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 06:24:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:24:49 PM	JSON POST : 10.140.36.157	09-01-2024 06:24:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 06:24:54 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"620649700529935",
+								"userId":"35",
+								"productType":"PAN",
+								"UserType":"HOUSER"
+							}
+						]
+					}10.140.36.157	09-01-2024 06:24:54 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 06:24:54 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 06:24:54 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62064970052993510.140.36.157	09-01-2024 06:24:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:24:54 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:27:51 PM	JSON to post for cr form ----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "CR", "Role": "1", "recordlist":{ "newpanid": "AADHB9106P", "APPLTITLE": "4", "isnamecr": "N", "STATUSOFAPPLICANT": "H", "applicantcategorycode": "", "applicantlastname": "BIPENDRA PRAKASH GOYAL & SONS HUF", "applicationfirstname": "", "applicantmiddlename": "", "NAMETOBEPRINTED": "BIPENDRA PRAKASH GOYAL & SONS HUF", "isfathernamecr": "N", "fatherlastname": "", "fatherfirstname": "", "fathermiddlename": "", "isdobupdateflag": "N", "DATEOFBIRTH": "01041954", "issexupdate": "N", "SEX": "", "isphotomismatch": "N", "issignaturemismatch": "N", "iscommaddressupdate": "Y", "COMMADDRESS": "R", "isanotheraddressupdate": "N", "resiflatorblockno": "284", "resibuildingorvillage": "CHAPEL STREET", "resipostoffice": "MEERUT", "resiareasubdivision": "", "resitownorcountry": "MEERUT", "resistatecode": "31",
+"resipincode": "250001", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "istelephoneemailupdate": "N", "STDCODE": "91", "TELPHONE": "9897079487", "EMAIL": "BPGOYAL@GMAIL.COM", "oldpan1": "", "oldpan2": "", "oldpan3": "", "oldpan4": "", "oldpan5": "", "oldpan6": "", "oldpan7": "", "oldpan8": "", "numofsupporteddoc": "2", "verificationdate": "28-12-2023", "POI": "38", "POA": "44", "reuploadedtonsdl": "N", "isreprintrequest": "Y", "acknowledmentnumber": "620649700529935", "isphotoflag": "N", "issignflag": "N", "acknwoledmentdate": "28-12-2023", "oldacknwoledmentnum": "", "ispanproofgiven": "", "isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "", "countryisd": "91", "ADHARNUM": "", "adharflag": "0", "verifiername": "BIPENDRA PRASAD", "verifiercapcitycode": "02", "verificationplace": "MEERUT", "officezip": "", "resizip": "", "proofofbirthdoccode": "0010", "ismothernamecr": "N", "motherlastename": "", "motherfirstname": "", "mothermiddlename": "", "fatherormothernameoncard": "", "adharenrolmentid": "", "nameasadhar": "", "isphysicalpanwanted": "Y", "modeofapplication": "T", "VID": "", "uidtocken": "", "adharref": "" }}10.140.36.157	09-01-2024 06:27:51 PM	Response return from cr form ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "CR",
+    "AcknowledgementNumber": "620649700529935"
+}10.140.36.157	09-01-2024 06:27:51 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62064970052993510.140.36.157	09-01-2024 06:27:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:27:51 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:27:52 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62064970052993510.140.36.157	09-01-2024 06:27:58 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62064970052993510.140.36.157	09-01-2024 06:27:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 06:27:58 PM	JSON POST : { "UserId": "35", "UserName": "","ip": "10.140.36.157", "Stage": "F~DGP~DIE~DU", "FormType": "CR", "AcknowledgementNumber":"620649700529935", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 06:27:58 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "CR",
+    "AcknowledgementNumber": "620649700529935",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 06:27:58 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 06:27:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:27:58 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:27:58 PM	Session BranchId...houser10.140.36.157	09-01-2024 06:27:58 PM	Session Type...HOUSER10.140.36.157	09-01-2024 06:27:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:27:58 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 06:27:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:27:59 PM	JSON POST : 10.140.36.157	09-01-2024 06:28:59 PM	ui c3VyZW5kZXIua3VtYXJAcmVsaWdhcmUuY29t and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:28:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:28:59 PM	JSON POST : Array10.140.36.157	09-01-2024 06:28:59 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "62",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surender Kumar Verma  (QC User)",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:28:59 PM	Json parting value34434510.140.36.157	09-01-2024 06:28:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:28:59 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:28:59 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:28:59 PM	Session Type...QCP10.140.36.157	09-01-2024 06:28:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:28:59 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:28:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:28:59 PM	JSON POST : 10.140.36.157	09-01-2024 06:30:03 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-01-2024 06:30:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:30:03 PM	JSON POST : Array10.140.36.157	09-01-2024 06:30:03 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.157	09-01-2024 06:30:03 PM	Json parting value34434510.140.36.157	09-01-2024 06:30:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:30:03 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:30:03 PM	Session BranchId...houser10.140.36.157	09-01-2024 06:30:03 PM	Session Type...HOUSER10.140.36.157	09-01-2024 06:30:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:30:03 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 06:30:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:30:04 PM	JSON POST : 10.140.36.157	09-01-2024 06:30:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 06:30:08 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"623659700024502",
+								"userId":"35",
+								"productType":"PAN",
+								"UserType":"HOUSER"
+							}
+						]
+					}10.140.36.157	09-01-2024 06:30:08 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 06:30:08 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 06:30:08 PM	image path: /u01/uploads_uat/panimages/623659700024502_1.jpg10.140.36.157	09-01-2024 06:30:08 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62365970002450210.140.36.157	09-01-2024 06:30:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:30:08 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:30:22 PM	Image path is: /u01/uploads_uat/panimages/623659700024502_1.jpg10.140.36.157	09-01-2024 06:30:27 PM	Image path is: /u01/uploads_uat/panimages/623659700024502_1.jpg10.140.36.157	09-01-2024 06:30:30 PM	image path: /u01/uploads_uat/panimages/623659700024502_1.jpg10.140.36.157	09-01-2024 06:30:30 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62365970002450210.140.36.157	09-01-2024 06:30:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/cropactionapi.php10.140.36.157	09-01-2024 06:30:30 PM	JSON POST : {"hiddenphotoval":"1","hiddenimageval":"1","imageType":"Sig","aid":"623659700024502","action":"cropimage","userId":"35","ip":"10.140.36.157"}10.140.36.157	09-01-2024 06:30:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:30:30 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:30:30 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62365970002450210.140.36.157	09-01-2024 06:30:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:30:30 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:32:28 PM	JSON to post for cr form ----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "CR", "Role": "1", "recordlist":{ "newpanid": "AHFPF7985D", "APPLTITLE": "1", "isnamecr": "N", "STATUSOFAPPLICANT": "P", "applicantcategorycode": "", "applicantlastname": "SYED SADIQ", "applicationfirstname": "FAKHRUDDIN", "applicantmiddlename": "", "NAMETOBEPRINTED": "SYED SADIQ F", "isfathernamecr": "N", "fatherlastname": "SYED FAKHRUDDIN SAB", "fatherfirstname": "", "fathermiddlename": "", "isdobupdateflag": "N", "DATEOFBIRTH": "05101979", "issexupdate": "N", "SEX": "M", "isphotomismatch": "N", "issignaturemismatch": "N", "iscommaddressupdate": "Y", "COMMADDRESS": "R", "isanotheraddressupdate": "N", "resiflatorblockno": "496", "resibuildingorvillage": "3TH CROSS A BLOCK", "resipostoffice": "NEAR INDUSTRIAL AREIA", "resiareasubdivision": "S O G COLONY", "resitownorcountry": "DAVANGERE", "resistatecode": "15",
+"resipincode": "577005", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "istelephoneemailupdate": "N", "STDCODE": "91", "TELPHONE": "9341011632", "EMAIL": "PANTINFCDVG@GMAIL.COM", "oldpan1": "", "oldpan2": "", "oldpan3": "", "oldpan4": "", "oldpan5": "", "oldpan6": "", "oldpan7": "", "oldpan8": "", "numofsupporteddoc": "2", "verificationdate": "28-12-2023", "POI": "38", "POA": "44", "reuploadedtonsdl": "N", "isreprintrequest": "Y", "acknowledmentnumber": "623659700024502", "isphotoflag": "Y", "issignflag": "Y", "acknwoledmentdate": "28-12-2023", "oldacknwoledmentnum": "", "ispanproofgiven": "", "isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "", "countryisd": "91", "ADHARNUM": "", "adharflag": "7", "verifiername": "SYED SADIQ F", "verifiercapcitycode": "01", "verificationplace": "RAM NAGAR", "officezip": "", "resizip": "", "proofofbirthdoccode": "0010", "ismothernamecr": "N", "motherlastename": "", "motherfirstname": "", "mothermiddlename": "", "fatherormothernameoncard": "F", "adharenrolmentid": "", "nameasadhar": "SYED SADIQ F", "isphysicalpanwanted": "Y", "modeofapplication": "T", "VID": "", "uidtocken": "", "adharref": "" }}10.140.36.157	09-01-2024 06:32:28 PM	Response return from cr form ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "CR",
+    "AcknowledgementNumber": "623659700024502"
+}10.140.36.157	09-01-2024 06:32:28 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62365970002450210.140.36.157	09-01-2024 06:32:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:32:28 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:32:29 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62365970002450210.140.36.157	09-01-2024 06:32:30 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62365970002450210.140.36.157	09-01-2024 06:32:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 06:32:30 PM	JSON POST : { "UserId": "35", "UserName": "","ip": "10.140.36.157", "Stage": "F~DGP~DIE~IP", "FormType": "CR", "AcknowledgementNumber":"623659700024502", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 06:32:30 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "CR",
+    "AcknowledgementNumber": "623659700024502",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 06:32:30 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 06:32:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:32:31 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:32:31 PM	Session BranchId...houser10.140.36.157	09-01-2024 06:32:31 PM	Session Type...HOUSER10.140.36.157	09-01-2024 06:32:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:32:31 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 06:32:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:32:32 PM	JSON POST : 10.140.36.157	09-01-2024 06:32:42 PM	ui c3VyZW5kZXIua3VtYXJAcmVsaWdhcmUuY29t and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:32:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:32:42 PM	JSON POST : Array10.140.36.157	09-01-2024 06:32:42 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "62",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surender Kumar Verma  (QC User)",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:32:42 PM	Json parting value34434510.140.36.157	09-01-2024 06:32:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:32:42 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:32:42 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:32:42 PM	Session Type...QCP10.140.36.157	09-01-2024 06:32:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:32:42 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:32:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:32:42 PM	JSON POST : 10.140.36.157	09-01-2024 06:33:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 06:33:21 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"623659700024502",
+								"userId":"62",
+								"productType":"PAN",
+								"UserType":"QCP"
+							}
+						]
+					}10.140.36.157	09-01-2024 06:33:21 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 06:33:21 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 06:33:21 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62365970002450210.140.36.157	09-01-2024 06:33:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:33:21 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:33:22 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62365970002450210.140.36.157	09-01-2024 06:33:26 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62365970002450210.140.36.157	09-01-2024 06:33:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 06:33:26 PM	JSON POST : { "UserId": "62", "UserName": "","ip": "10.140.36.157", "Stage": "F~QCP~QC1~DV", "FormType": "CR", "AcknowledgementNumber":"623659700024502", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 06:33:26 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "CR",
+    "AcknowledgementNumber": "623659700024502",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 06:33:26 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 06:33:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:33:27 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:33:27 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:33:27 PM	Session Type...QCP10.140.36.157	09-01-2024 06:33:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:33:27 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:33:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:33:27 PM	JSON POST : 10.140.36.157	09-01-2024 06:33:39 PM	ui YmF0Y2h1c2VyMDE= and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:33:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:33:39 PM	JSON POST : Array10.140.36.157	09-01-2024 06:33:39 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "7",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BCP",
+    "UserName": "Surender Verma  [Batch User-1]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:33:39 PM	Json parting value34434510.140.36.157	09-01-2024 06:33:39 PM	Session BranchId...BCP10.140.36.157	09-01-2024 06:33:39 PM	Session Type...BCP10.140.36.157	09-01-2024 06:33:39 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	09-01-2024 06:33:39 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:33:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:33:39 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:33:49 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"623659700024502"}]
+	}10.140.36.157	09-01-2024 06:33:49 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataAPI.php10.140.36.157	09-01-2024 06:33:49 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^PCD^R^09012024^0003^62^1",
+            "BactID": "000233",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "623659700024502",
+                    "BatchString": "2^FD^1^AHFPF7985D^1^N^SYED SADIQ^FAKHRUDDIN^^SYED SADIQ F^N^SYED FAKHRUDDIN SAB^^^N^05101979^N^M^N^N^Y^R^N^496^3TH CROSS A BLOCK^NEAR INDUSTRIAL AREIA^S O G COLONY^DAVANGERE^15^577005^^^^^^^^^N^91^9341011632^PANTINFCDVG@GMAIL.COM^^^^^^^^^2^28122023^38^44^N^Y^623659700024502^Y^Y^28122023^^C^^N^^91^^7^SYED SADIQ F^01^RAM NAGAR^^^0010^N^^^^F^^SYED SADIQ F^Y^T^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	09-01-2024 06:33:49 PM	ack photo image exist: 110.140.36.157	09-01-2024 06:33:49 PM	ack signature image exist: 110.140.36.157	09-01-2024 06:33:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:33:49 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:35:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:35:13 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:35:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-01-2024 06:35:17 PM	JSON POST : {
+					"AcknowledgementNo":"623659700024502",
+					"productType":"PAN"
+				}10.140.36.157	09-01-2024 06:35:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:35:17 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:35:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.140.36.157	09-01-2024 06:35:55 PM	JSON POST : {
+					"AcknowledgementNo":"620649700529935",
+					"productType":"PAN"
+				}10.140.36.157	09-01-2024 06:35:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:35:55 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:38:05 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-01-2024 06:38:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:38:05 PM	JSON POST : Array10.140.36.157	09-01-2024 06:38:05 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.157	09-01-2024 06:38:05 PM	Json parting value34434510.140.36.157	09-01-2024 06:38:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:38:05 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:38:05 PM	Session BranchId...houser10.140.36.157	09-01-2024 06:38:05 PM	Session Type...HOUSER10.140.36.157	09-01-2024 06:38:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:38:05 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 06:38:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:38:06 PM	JSON POST : 10.140.36.157	09-01-2024 06:38:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 06:38:11 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"626839700157204",
+								"userId":"35",
+								"productType":"PAN",
+								"UserType":"HOUSER"
+							}
+						]
+					}10.140.36.157	09-01-2024 06:38:11 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 06:38:11 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 06:38:11 PM	image path: /u01/uploads_uat/panimages/626839700157204_1.jpg10.140.36.157	09-01-2024 06:38:11 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62683970015720410.140.36.157	09-01-2024 06:38:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:38:11 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:38:23 PM	Image path is: /u01/uploads_uat/panimages/626839700157204_1.jpg10.140.36.157	09-01-2024 06:38:31 PM	Image path is: /u01/uploads_uat/panimages/626839700157204_1.jpg10.140.36.157	09-01-2024 06:38:33 PM	image path: /u01/uploads_uat/panimages/626839700157204_1.jpg10.140.36.157	09-01-2024 06:38:33 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62683970015720410.140.36.157	09-01-2024 06:38:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/cropactionapi.php10.140.36.157	09-01-2024 06:38:33 PM	JSON POST : {"hiddenphotoval":"1","hiddenimageval":"1","imageType":"Sig","aid":"626839700157204","action":"cropimage","userId":"35","ip":"10.140.36.157"}10.140.36.157	09-01-2024 06:38:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:38:33 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:38:34 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62683970015720410.140.36.157	09-01-2024 06:38:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:38:34 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:39:59 PM	JSON to post for dataenrty form 1----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "APR", "AOTYPPE": "W", "RANGECODE": "63", "AONO": "91", "applicanttitlecode": "2", "applicantlastname": "SALEEMA", "applicationfirstname": "SHAIK", "applicantmiddlename": " ", "NAMETOBEPRINTED": "SHAIK SALEEMA", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "F","fatherlastname": "SONDUMIYA", "fatherfirstname": "SHAIK", "fathermiddlename": " ", "resiflatorblockno": "A4-4", "resibuildingorvillage": "SHUKRAVARAPES", "resipostoffice": "KHAMMAM", "resiareasubdivision": " ", "resitownorcountry": "KHAMMAD", "resistatecode": "36", "resipincode": "507001", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "01011992",  "acknowledmentnumber": "626839700157204","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "COMMADDRESS": "", "countryisd": "", "STDCODE": "", "TELPHONE": "7989712673", "EMAIL": "UDAYSREE725@GMAIL.COM", "REGNUM": "", "INDIANCITIZEN": "I", "ADHARNUM": "", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "SHAIK SALEEMA", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": "", "orgname": "", "isbusinessorprofession": "", "businessorprfessioncode": "", "anotherincomesrctypecode": "", "ratitlecode": "", "ralastname": "", "rafistname": "", "ramiddlename": "", "raflatorblock": "", "rabuildingorvillage": "", "streetorpostoffice": "", "raareasubdivision": "", "ratownorcountry": "", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "044", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "","verifiername": "","verifiercapcitycode": "","verificationplace": "","verificationdate": "","modeofapplication": "","acknowledmentnumber": "626839700157204", "officezip": "" }}10.140.36.157	09-01-2024 06:39:59 PM	URL to hit on dataenrty form 1----http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 06:39:59 PM	Response return from dataentry page 1 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "626839700157204"
+}10.140.36.157	09-01-2024 06:39:59 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62683970015720410.140.36.157	09-01-2024 06:39:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:39:59 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:41:14 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "1", "recordlist":{ "AREACODE": "APR", "AOTYPPE": "W", "RANGECODE": "63", "AONO": "91", "applicanttitlecode": "2", "applicantlastname": "SALEEMA", "applicationfirstname": "SHAIK", "applicantmiddlename": " ", "NAMETOBEPRINTED": "SHAIK SALEEMA", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "F","fatherlastname": "SONDUMIYA", "fatherfirstname": "SHAIK", "fathermiddlename": " ", "resiflatorblockno": "A4-4", "resibuildingorvillage": "SHUKRAVARAPES", "resipostoffice": "KHAMMAM", "resiareasubdivision": " ", "resitownorcountry": "KHAMMAD", "resistatecode": "36", "resipincode": "507001", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "01011992",  "acknowledmentnumber": "626839700157204","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": " ", "officeflatorblock": " ", "officebuildingorvillage": " ", "officestreeorpostoffice": " ", "officeareaorsubdivision": " ", "officetownorcontry": " ", "officestatecode": "", "officepincode": "", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "91", "TELPHONE": "7989712673", "EMAIL": "UDAYSREE725@GMAIL.COM", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "SHAIK SALEEMA", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "044", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "28122023", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "SHAIK SALEEMA","verifiercapcitycode": "01","verificationplace": "KHAMAM","verificationdate": "28-12-2023","modeofapplication": "T","acknowledmentnumber": "626839700157204", "officezip": "" }}10.140.36.157	09-01-2024 06:41:14 PM	  API call to save the Data for Data Entry2 http://10.150.146.12/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.140.36.157	09-01-2024 06:41:14 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "626839700157204"
+}10.140.36.157	09-01-2024 06:41:14 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62683970015720410.140.36.157	09-01-2024 06:41:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:41:14 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:41:16 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62683970015720410.140.36.157	09-01-2024 06:41:17 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62683970015720410.140.36.157	09-01-2024 06:41:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 06:41:17 PM	JSON POST : { "UserId": "35", "UserName": "","ip": "10.140.36.157", "Stage": "F~DGP~DIE~IP", "FormType": "49A", "AcknowledgementNumber":"626839700157204", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 06:41:17 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "626839700157204",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 06:41:17 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 06:41:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:41:17 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:41:18 PM	Session BranchId...houser10.140.36.157	09-01-2024 06:41:18 PM	Session Type...HOUSER10.140.36.157	09-01-2024 06:41:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:41:18 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 06:41:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:41:18 PM	JSON POST : 10.140.36.157	09-01-2024 06:41:30 PM	ui c3VyZW5kZXIua3VtYXJAcmVsaWdhcmUuY29t and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:41:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:41:30 PM	JSON POST : Array10.140.36.157	09-01-2024 06:41:30 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "62",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surender Kumar Verma  (QC User)",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:41:30 PM	Json parting value34434510.140.36.157	09-01-2024 06:41:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:41:30 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:41:30 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:41:30 PM	Session Type...QCP10.140.36.157	09-01-2024 06:41:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:41:30 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:41:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:41:31 PM	JSON POST : 10.140.36.157	09-01-2024 06:41:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 06:41:34 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"626839700157204",
+								"userId":"62",
+								"productType":"PAN",
+								"UserType":"QCP"
+							}
+						]
+					}10.140.36.157	09-01-2024 06:41:34 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 06:41:34 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 06:41:34 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62683970015720410.140.36.157	09-01-2024 06:41:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:41:34 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:41:34 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62683970015720410.140.36.157	09-01-2024 06:44:50 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62683970015720410.140.36.157	09-01-2024 06:44:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.140.36.157	09-01-2024 06:44:50 PM	JSON POST : { "UserId": "62", "UserName": "","ip": "10.140.36.157", "Stage": "F~QCP~QC1~DV", "FormType": "49A", "AcknowledgementNumber":"626839700157204", "resolutionDate":"", "inwardDate":""}10.140.36.157	09-01-2024 06:44:50 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "626839700157204",
+    "Erorlist": ""
+}10.140.36.157	09-01-2024 06:44:50 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/HOOperation/mailcronjob.php10.140.36.157	09-01-2024 06:44:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:44:50 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.157	09-01-2024 06:44:50 PM	Session BranchId...QCP10.140.36.157	09-01-2024 06:44:50 PM	Session Type...QCP10.140.36.157	09-01-2024 06:44:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:44:50 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.157	09-01-2024 06:44:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:44:51 PM	JSON POST : 10.140.36.157	09-01-2024 06:45:03 PM	ui YmF0Y2h1c2VyMDE= and pas cmVsaWdhcmVAMTIz10.140.36.157	09-01-2024 06:45:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:45:03 PM	JSON POST : Array10.140.36.157	09-01-2024 06:45:03 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "7",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BCP",
+    "UserName": "Surender Verma  [Batch User-1]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	09-01-2024 06:45:03 PM	Json parting value34434510.140.36.157	09-01-2024 06:45:04 PM	Session BranchId...BCP10.140.36.157	09-01-2024 06:45:04 PM	Session Type...BCP10.140.36.157	09-01-2024 06:45:04 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	09-01-2024 06:45:04 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:45:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:45:04 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:45:12 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"626839700157204"}]
+	}10.140.36.157	09-01-2024 06:45:12 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataAPI.php10.140.36.157	09-01-2024 06:45:12 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^PAN^R^09012024^0004^62^1",
+            "BactID": "000234",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "626839700157204",
+                    "BatchString": "2^FD^1^^APR^W^63^91^^^2^SALEEMA^SHAIK^^SHAIK SALEEMA^N^^^^^SONDUMIYA^SHAIK^^A4-4^SHUKRAVARAPES^KHAMMAM^^KHAMMAD^36^507001^^^^^^^^^R^91^7989712673^UDAYSREE725@GMAIL.COM^F^P^01011992^^I^^^^^H^^^^^^^^^^^^038^044^28122023^28122023^626839700157204^Y^Y^^N^^^2^^^91^SHAIK SALEEMA^01^KHAMAM^^^^0010^^^^F^^SHAIK SALEEMA^Y^T^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	09-01-2024 06:45:12 PM	ack photo image exist: 110.140.36.157	09-01-2024 06:45:12 PM	ack signature image exist: 110.140.36.157	09-01-2024 06:45:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:45:12 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:48:28 PM	Session BranchId...BCP10.140.36.157	09-01-2024 06:48:28 PM	Session Type...BCP10.140.36.157	09-01-2024 06:48:28 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	09-01-2024 06:48:28 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:48:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:48:28 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:48:32 PM	Session BranchId...BCP10.140.36.157	09-01-2024 06:48:32 PM	Session Type...BCP10.140.36.157	09-01-2024 06:48:32 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	09-01-2024 06:48:32 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:48:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:48:32 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:48:39 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"626839700157204"}]
+	}10.140.36.157	09-01-2024 06:48:39 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataAPI.php10.140.36.157	09-01-2024 06:48:39 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^PAN^R^09012024^0005^62^1",
+            "BactID": "000234",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "626839700157204",
+                    "BatchString": "2^FD^1^^APR^W^63^91^^^2^SALEEMA^SHAIK^^SHAIK SALEEMA^N^^^^^SONDUMIYA^SHAIK^^A4-4^SHUKRAVARAPES^KHAMMAM^^KHAMMAD^36^507001^^^^^^^^^R^91^7989712673^UDAYSREE725@GMAIL.COM^F^P^01011992^^I^^^^^H^^^^^^^^^^^^038^044^28122023^28122023^626839700157204^Y^Y^^N^^^2^^^91^SHAIK SALEEMA^01^KHAMAM^^^^0010^^^^F^^SHAIK SALEEMA^Y^T^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	09-01-2024 06:48:39 PM	ack photo image exist: 110.140.36.157	09-01-2024 06:48:39 PM	ack signature image exist: 110.140.36.157	09-01-2024 06:48:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:48:39 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:48:41 PM	Session BranchId...BCP10.140.36.157	09-01-2024 06:48:41 PM	Session Type...BCP10.140.36.157	09-01-2024 06:48:41 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	09-01-2024 06:48:41 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:48:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:48:41 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:48:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:48:41 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:48:42 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=62683970015720410.140.36.157	09-01-2024 06:48:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:48:42 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:49:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:49:00 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	09-01-2024 06:49:14 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	09-01-2024 06:49:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	09-01-2024 06:49:14 PM	JSON POST : Array10.140.36.157	09-01-2024 06:49:14 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.157	09-01-2024 06:49:14 PM	Json parting value34434510.140.36.157	09-01-2024 06:49:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:49:14 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:49:14 PM	Session BranchId...houser10.140.36.157	09-01-2024 06:49:14 PM	Session Type...HOUSER10.140.36.157	09-01-2024 06:49:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	09-01-2024 06:49:14 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	09-01-2024 06:49:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	09-01-2024 06:49:15 PM	JSON POST : 10.140.36.157	09-01-2024 06:49:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/subscribeAPI.php10.140.36.157	09-01-2024 06:49:33 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"645179700002740",
+								"userId":"35",
+								"productType":"PAN",
+								"UserType":"HOUSER"
+							}
+						]
+					}10.140.36.157	09-01-2024 06:49:33 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.140.36.157	09-01-2024 06:49:33 PM	Dashboard load for single assignment10.140.36.157	09-01-2024 06:49:33 PM	image path: /u01/uploads_uat/panimages/645179700002740_1.jpg10.140.36.157	09-01-2024 06:49:33 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=64517970000274010.140.36.157	09-01-2024 06:49:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:49:33 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:49:50 PM	Image path is: /u01/uploads_uat/panimages/645179700002740_5.jpg10.140.36.157	09-01-2024 06:49:59 PM	Image path is: /u01/uploads_uat/panimages/645179700002740_5.jpg10.140.36.157	09-01-2024 06:50:02 PM	image path: /u01/uploads_uat/panimages/645179700002740_1.jpg10.140.36.157	09-01-2024 06:50:02 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=64517970000274010.140.36.157	09-01-2024 06:50:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/cropactionapi.php10.140.36.157	09-01-2024 06:50:02 PM	JSON POST : {"hiddenphotoval":"1","hiddenimageval":"1","imageType":"Sig","aid":"645179700002740","action":"cropimage","userId":"35","ip":"10.140.36.157"}10.140.36.157	09-01-2024 06:50:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:50:02 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	09-01-2024 06:50:02 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowData.php?aid=64517970000274010.140.36.157	09-01-2024 06:50:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	09-01-2024 06:50:02 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}

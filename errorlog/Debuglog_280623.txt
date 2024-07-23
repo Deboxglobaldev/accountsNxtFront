@@ -1,0 +1,130 @@
+192.168.102.17	28-06-2023 02:00:37 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php192.168.102.17	28-06-2023 02:00:37 PM	JSON POST : {"data":"empty"}192.168.102.17	28-06-2023 02:00:56 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php192.168.102.17	28-06-2023 02:00:56 PM	JSON POST : {"data":"empty"}192.168.102.17	28-06-2023 02:00:59 PM	ui cWN1c2VyNQ== and pas dGVzdA==192.168.102.17	28-06-2023 02:00:59 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php192.168.102.17	28-06-2023 02:00:59 PM	JSON POST : Array192.168.102.17	28-06-2023 02:00:59 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "48",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "QC User  [05]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}192.168.102.17	28-06-2023 02:00:59 PM	Json parting value344345192.168.102.17	28-06-2023 02:00:59 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:00:59 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:01:00 PM	Session BranchId...QCP192.168.102.17	28-06-2023 02:01:00 PM	Session Type...QCP192.168.102.17	28-06-2023 02:01:00 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php192.168.102.17	28-06-2023 02:01:00 PM	JSON POST : { "UserType": "QCP", "UserId": "48", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}192.168.102.17	28-06-2023 02:01:02 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php192.168.102.17	28-06-2023 02:01:02 PM	JSON POST : 192.168.102.17	28-06-2023 02:02:17 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/subscribeAPI.php192.168.102.17	28-06-2023 02:02:17 PM	JSON POST : {
+					"status":"all",
+					"userId":"48",
+					"productType":"PAN",
+					"formType":"49A",
+					"listofAck":[]
+				}192.168.102.17	28-06-2023 02:02:24 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned for PAN 49A"
+}192.168.102.17	28-06-2023 02:02:24 PM	Dashboard load for all assignment192.168.102.17	28-06-2023 02:02:24 PM	Session BranchId...QCP192.168.102.17	28-06-2023 02:02:24 PM	Session Type...QCP192.168.102.17	28-06-2023 02:02:24 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php192.168.102.17	28-06-2023 02:02:24 PM	JSON POST : { "UserType": "QCP", "UserId": "48", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}192.168.102.17	28-06-2023 02:02:27 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php192.168.102.17	28-06-2023 02:02:27 PM	JSON POST : 192.168.102.17	28-06-2023 02:02:43 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/subscribeAPI.php192.168.102.17	28-06-2023 02:02:43 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"255369700346504",
+								"userId":"48",
+								"productType":"PAN",
+								"UserType":"QCP"
+							}
+						]
+					}192.168.102.17	28-06-2023 02:02:43 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}192.168.102.17	28-06-2023 02:02:43 PM	Dashboard load for single assignment192.168.102.17	28-06-2023 02:02:43 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700346504192.168.102.17	28-06-2023 02:02:43 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:02:43 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:02:44 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700346504192.168.102.17	28-06-2023 02:07:22 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:07:22 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:07:23 PM	Session BranchId...QCP192.168.102.17	28-06-2023 02:07:23 PM	Session Type...QCP192.168.102.17	28-06-2023 02:07:23 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php192.168.102.17	28-06-2023 02:07:23 PM	JSON POST : { "UserType": "QCP", "UserId": "48", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}192.168.102.17	28-06-2023 02:07:27 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php192.168.102.17	28-06-2023 02:07:27 PM	JSON POST : 192.168.102.17	28-06-2023 02:07:44 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/subscribeAPI.php192.168.102.17	28-06-2023 02:07:44 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"255369700314794",
+								"userId":"48",
+								"productType":"PAN",
+								"UserType":"QCP"
+							}
+						]
+					}192.168.102.17	28-06-2023 02:07:44 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}192.168.102.17	28-06-2023 02:07:44 PM	Dashboard load for single assignment192.168.102.17	28-06-2023 02:07:44 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700314794192.168.102.17	28-06-2023 02:07:44 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:07:44 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:07:45 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700314794192.168.102.17	28-06-2023 02:07:54 PM	JSON  Post to get Rejection data for PAN: {
+    "acknowledgenumber":"255369700314794",
+    "records":"",
+    "rejectionId":""
+}192.168.102.17	28-06-2023 02:07:54 PM	 API url: http://192.168.210.82/UAT_BackEnd/HOOperation/GetRejctionList.php192.168.102.17	28-06-2023 02:07:55 PM	Response return from api----{
+    "status": "0",
+    "message": "Success",
+    "acknowledgementNumber": "255369700314794",
+    "recordcount": 0,
+    "result": []
+}192.168.102.17	28-06-2023 02:07:55 PM	 Form Type: 49AProduct Type: PAN192.168.102.17	28-06-2023 02:08:01 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700314794192.168.102.17	28-06-2023 02:08:01 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php192.168.102.17	28-06-2023 02:08:01 PM	JSON POST : { "UserId": "48", "UserName": "","ip": "192.168.102.17", "Stage": "F~QCP~QC1~IP", "FormType": "49A", "AcknowledgementNumber":"255369700314794", "resolutionDate":"", "inwardDate":""}192.168.102.17	28-06-2023 02:08:01 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 0,
+    "formtype": "49A",
+    "AcknowledgementNumber": "255369700314794",
+    "Erorlist": "If Communication Address is Residence then 'Residence State' Should have value|'Date of Verification' should be less than or equal to Date of Acknowledgement.|"
+}192.168.102.17	28-06-2023 02:08:22 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700314794192.168.102.17	28-06-2023 02:08:24 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:08:24 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:08:24 PM	Session BranchId...QCP192.168.102.17	28-06-2023 02:08:24 PM	Session Type...QCP192.168.102.17	28-06-2023 02:08:24 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php192.168.102.17	28-06-2023 02:08:24 PM	JSON POST : { "UserType": "QCP", "UserId": "48", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}192.168.102.17	28-06-2023 02:08:29 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php192.168.102.17	28-06-2023 02:08:29 PM	JSON POST : 192.168.102.17	28-06-2023 02:08:37 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/subscribeAPI.php192.168.102.17	28-06-2023 02:08:37 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"255369700437600",
+								"userId":"48",
+								"productType":"PAN",
+								"UserType":"QCP"
+							}
+						]
+					}192.168.102.17	28-06-2023 02:08:37 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}192.168.102.17	28-06-2023 02:08:37 PM	Dashboard load for single assignment192.168.102.17	28-06-2023 02:08:37 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700437600192.168.102.17	28-06-2023 02:08:37 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:08:37 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:08:42 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700437600192.168.102.17	28-06-2023 02:09:14 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:09:14 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:09:15 PM	Session BranchId...QCP192.168.102.17	28-06-2023 02:09:15 PM	Session Type...QCP192.168.102.17	28-06-2023 02:09:15 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php192.168.102.17	28-06-2023 02:09:15 PM	JSON POST : { "UserType": "QCP", "UserId": "48", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}192.168.102.17	28-06-2023 02:09:19 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php192.168.102.17	28-06-2023 02:09:19 PM	JSON POST : 192.168.102.17	28-06-2023 02:10:16 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700437600192.168.102.17	28-06-2023 02:10:16 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:10:16 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:10:19 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700437600192.168.102.17	28-06-2023 02:10:51 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700437600192.168.102.17	28-06-2023 02:10:52 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:10:52 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:10:54 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=255369700437600192.168.102.17	28-06-2023 02:10:59 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/subscribeAPI.php192.168.102.17	28-06-2023 02:10:59 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"25536470000202",
+								"userId":"48",
+								"productType":"TAN",
+								"UserType":"QCP"
+							}
+						]
+					}192.168.102.17	28-06-2023 02:10:59 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}192.168.102.17	28-06-2023 02:10:59 PM	Dashboard load for single assignment192.168.102.17	28-06-2023 02:10:59 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowDataTan.php?aid=25536470000202192.168.102.17	28-06-2023 02:10:59 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:10:59 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:11:00 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowDataTan.php?aid=25536470000202192.168.102.17	28-06-2023 02:11:55 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:11:55 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:11:56 PM	Session BranchId...QCP192.168.102.17	28-06-2023 02:11:56 PM	Session Type...QCP192.168.102.17	28-06-2023 02:11:56 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php192.168.102.17	28-06-2023 02:11:56 PM	JSON POST : { "UserType": "QCP", "UserId": "48", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}192.168.102.17	28-06-2023 02:12:00 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php192.168.102.17	28-06-2023 02:12:00 PM	JSON POST : 192.168.102.17	28-06-2023 02:12:35 PM	 URL for API - 192.168.102.17	28-06-2023 02:12:35 PM	 URL for API - http://192.168.210.82/UAT_BackEnd/General/rejectioninfoList.php192.168.102.17	28-06-2023 02:12:35 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:12:35 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:12:51 PM	 URL for API - 192.168.102.17	28-06-2023 02:12:51 PM	 URL for API - {"ProductType":"'PAN'","FormType":"''"}192.168.102.17	28-06-2023 02:12:51 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:12:51 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:13:05 PM	 URL for API - {"ProductType":"'PAN'","FormType":"'49A'"}192.168.102.17	28-06-2023 02:13:05 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:13:05 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:13:29 PM	 URL for API - 192.168.102.17	28-06-2023 02:13:29 PM	 URL for API - http://192.168.210.82/UAT_BackEnd/General/rejectioninfoList.php192.168.102.17	28-06-2023 02:13:29 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:13:29 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:13:33 PM	 URL for API - {"ProductType":"'PAN'","FormType":"'49AA'"}192.168.102.17	28-06-2023 02:13:33 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:13:33 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:13:41 PM	 URL for API - {"ProductType":"'PAN'","FormType":"'49AA'"}192.168.102.17	28-06-2023 02:13:41 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:13:41 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:13:44 PM	 URL for API - {"ProductType":"'PAN'","FormType":"'49AA'"}192.168.102.17	28-06-2023 02:13:44 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:13:44 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:13:47 PM	 URL for API - {"ProductType":"'PAN'","FormType":"'49AA'"}192.168.102.17	28-06-2023 02:13:47 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:13:47 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:13:47 PM	 URL for API - {"ProductType":"'PAN'","FormType":"'49AA'"}192.168.102.17	28-06-2023 02:13:47 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:13:47 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:17:50 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php192.168.102.17	28-06-2023 02:17:50 PM	JSON POST : {
+			"userType" : "QCP"
+		}192.168.102.17	28-06-2023 02:17:51 PM	Session BranchId...QCP192.168.102.17	28-06-2023 02:17:51 PM	Session Type...QCP192.168.102.17	28-06-2023 02:17:51 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php192.168.102.17	28-06-2023 02:17:51 PM	JSON POST : { "UserType": "QCP", "UserId": "48", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}192.168.102.17	28-06-2023 02:18:01 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php192.168.102.17	28-06-2023 02:18:01 PM	JSON POST : 

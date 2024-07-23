@@ -1,0 +1,12 @@
+10.100.72.207	14-08-2023 10:21:47 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.207	14-08-2023 10:21:47 AM	JSON POST : {"data":"empty"}10.100.72.207	14-08-2023 10:27:07 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.207	14-08-2023 10:27:07 AM	JSON POST : {"data":"empty"}10.100.72.207	14-08-2023 10:27:08 AM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.207	14-08-2023 10:27:08 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.207	14-08-2023 10:27:08 AM	JSON POST : Array10.100.72.207	14-08-2023 10:27:08 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "HOUSER",
+    "UserName": "HO User [1]  ",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.207	14-08-2023 10:27:08 AM	Json parting value34434510.100.72.207	14-08-2023 10:27:08 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.207	14-08-2023 10:27:08 AM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.207	14-08-2023 10:27:29 AM	Session BranchId...HOUSER10.100.72.207	14-08-2023 10:27:29 AM	Session Type...HOUSER10.100.72.207	14-08-2023 10:27:29 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.207	14-08-2023 10:27:29 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.100.72.207	14-08-2023 10:27:30 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.207	14-08-2023 10:27:30 AM	JSON POST : 

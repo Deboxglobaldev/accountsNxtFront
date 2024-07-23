@@ -1,0 +1,326 @@
+10.100.72.250	21-03-2024 09:36:01 AM	ui aG91c2VydGVzdA== and pas dGVzdA==10.100.72.250	21-03-2024 09:36:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	21-03-2024 09:36:01 AM	JSON POST : Array10.100.72.250	21-03-2024 09:36:02 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.250	21-03-2024 09:36:02 AM	Json parting value10.100.72.250	21-03-2024 09:37:21 AM	ui bnNkbHVzZXI= and pas dGVzdA==10.100.72.250	21-03-2024 09:37:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	21-03-2024 09:37:21 AM	JSON POST : Array10.100.72.250	21-03-2024 09:37:21 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "36",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "NSD",
+    "UserName": "Response  User",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.250	21-03-2024 09:37:21 AM	Json parting value34434510.100.72.250	21-03-2024 09:37:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	21-03-2024 09:37:21 AM	JSON POST : {
+			"userType" : "NSD"
+		}10.100.72.250	21-03-2024 09:37:22 AM	Session BranchId...NSD10.100.72.250	21-03-2024 09:37:22 AM	Session Type...NSD10.100.72.250	21-03-2024 09:37:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	21-03-2024 09:37:22 AM	JSON POST : { "UserType": "NSD", "UserId": "36", "UserTypeId": "NSD", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "INS","Role": "1"}10.100.72.250	21-03-2024 09:37:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	21-03-2024 09:37:22 AM	JSON POST : 10.100.72.250	21-03-2024 09:38:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	21-03-2024 09:38:44 AM	JSON POST : {
+			"userType" : "NSD"
+		}10.100.72.250	21-03-2024 09:38:56 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	21-03-2024 09:38:56 AM	JSON POST : {
+			"userType" : "NSD"
+		}10.100.72.250	21-03-2024 09:41:06 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	21-03-2024 09:41:06 AM	JSON POST : {
+			"userType" : "NSD"
+		}10.100.72.250	21-03-2024 09:41:11 AM	[
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 0,
+        "listOfData": [
+            {
+                "AcknoNumber": "830028200008910",
+                "StageStatus": "AcknowledgmentNumber not available",
+                "TransferList": []
+            }
+        ]
+    }
+]10.100.72.250	21-03-2024 09:41:36 AM	[
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 0,
+        "listOfData": [
+            {
+                "AcknoNumber": "830028200008910",
+                "StageStatus": "AcknowledgmentNumber not available",
+                "TransferList": []
+            }
+        ]
+    }
+]10.100.72.250	21-03-2024 09:41:38 AM	[
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 0,
+        "listOfData": [
+            {
+                "AcknoNumber": "830028200008910",
+                "StageStatus": "AcknowledgmentNumber not available",
+                "TransferList": []
+            }
+        ]
+    }
+]10.100.72.250	21-03-2024 09:41:38 AM	[
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 0,
+        "listOfData": [
+            {
+                "AcknoNumber": "830028200008910",
+                "StageStatus": "AcknowledgmentNumber not available",
+                "TransferList": []
+            }
+        ]
+    }
+]10.100.72.250	21-03-2024 09:41:39 AM	[
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 0,
+        "listOfData": [
+            {
+                "AcknoNumber": "830028200008910",
+                "StageStatus": "AcknowledgmentNumber not available",
+                "TransferList": []
+            }
+        ]
+    }
+]10.100.72.250	21-03-2024 09:41:40 AM	[
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 0,
+        "listOfData": [
+            {
+                "AcknoNumber": "830028200008910",
+                "StageStatus": "AcknowledgmentNumber not available",
+                "TransferList": []
+            }
+        ]
+    }
+]10.100.72.250	21-03-2024 09:41:40 AM	[
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 0,
+        "listOfData": [
+            {
+                "AcknoNumber": "830028200008910",
+                "StageStatus": "AcknowledgmentNumber not available",
+                "TransferList": []
+            }
+        ]
+    }
+]10.100.72.250	21-03-2024 09:41:41 AM	[
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 0,
+        "listOfData": [
+            {
+                "AcknoNumber": "830028200008910",
+                "StageStatus": "AcknowledgmentNumber not available",
+                "TransferList": []
+            }
+        ]
+    }
+]10.100.72.250	21-03-2024 09:42:39 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	21-03-2024 09:42:39 AM	JSON POST : {
+			"userType" : "NSD"
+		}10.100.72.250	21-03-2024 09:42:48 AM	[
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 0,
+        "listOfData": [
+            {
+                "AcknoNumber": "830028200008910",
+                "StageStatus": "AcknowledgmentNumber not available",
+                "TransferList": []
+            }
+        ]
+    }
+]10.100.72.250	21-03-2024 09:42:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	21-03-2024 09:42:54 AM	JSON POST : {
+			"userType" : "NSD"
+		}10.100.72.250	21-03-2024 09:43:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	21-03-2024 09:43:54 AM	JSON POST : {
+			"userType" : "NSD"
+		}10.100.72.250	21-03-2024 09:44:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	21-03-2024 09:44:03 AM	JSON POST : {
+			"userType" : "NSD"
+		}10.100.72.250	21-03-2024 09:44:53 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	21-03-2024 09:44:53 AM	JSON POST : {
+			"userType" : "NSD"
+		}10.100.72.250	21-03-2024 09:47:43 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	21-03-2024 09:47:43 AM	JSON POST : {
+			"userType" : "NSD"
+		}10.140.36.159	21-03-2024 06:58:01 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.36.159	21-03-2024 06:58:09 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.159	21-03-2024 06:58:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.159	21-03-2024 06:58:09 PM	JSON POST : Array10.140.36.159	21-03-2024 06:58:09 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.159	21-03-2024 06:58:09 PM	Json parting value34434510.140.36.159	21-03-2024 06:58:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 06:58:09 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 06:58:11 PM	Session BranchId...houser10.140.36.159	21-03-2024 06:58:11 PM	Session Type...HOUSER10.140.36.159	21-03-2024 06:58:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.159	21-03-2024 06:58:11 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.159	21-03-2024 06:58:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.159	21-03-2024 06:58:11 PM	JSON POST : 10.140.36.159	21-03-2024 06:59:31 PM	ui c3VyZW5kZXIua3VtYXJAcmVsaWdhcmUuY29t and pas cmVsaWdhcmVAMTIz10.140.36.159	21-03-2024 06:59:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.159	21-03-2024 06:59:31 PM	JSON POST : Array10.140.36.159	21-03-2024 06:59:31 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "62",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surender Kumar Verma  (QC User)",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.159	21-03-2024 06:59:31 PM	Json parting value34434510.140.36.159	21-03-2024 06:59:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 06:59:32 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.159	21-03-2024 06:59:32 PM	Session BranchId...QCP10.140.36.159	21-03-2024 06:59:32 PM	Session Type...QCP10.140.36.159	21-03-2024 06:59:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.159	21-03-2024 06:59:32 PM	JSON POST : { "UserType": "QCP", "UserId": "62", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.159	21-03-2024 06:59:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.159	21-03-2024 06:59:32 PM	JSON POST : 10.140.36.159	21-03-2024 06:59:53 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.159	21-03-2024 06:59:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.159	21-03-2024 06:59:53 PM	JSON POST : Array10.140.36.159	21-03-2024 06:59:53 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.159	21-03-2024 06:59:53 PM	Json parting value34434510.140.36.159	21-03-2024 06:59:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 06:59:53 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 06:59:54 PM	Session BranchId...houser10.140.36.159	21-03-2024 06:59:54 PM	Session Type...HOUSER10.140.36.159	21-03-2024 06:59:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.159	21-03-2024 06:59:54 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.159	21-03-2024 06:59:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.159	21-03-2024 06:59:54 PM	JSON POST : 10.140.36.159	21-03-2024 07:00:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:00:05 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:00:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:00:23 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:00:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:00:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:00:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:00:23 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:00:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:00:23 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:00:24 PM	Copy Success: 09335470027413.pdf10.140.36.159	21-03-2024 07:00:24 PM	PDF Path: /u01/uploads_uat/tanpdf/09335470027413.pdf10.140.36.159	21-03-2024 07:00:24 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:00:24 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:00:24 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:00:24 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:00:24 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:00:24 PM	Total Image page count: 410.140.36.159	21-03-2024 07:00:24 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:00:24 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "09335470027413",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:00:24 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:00:24 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:00:24 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:00:35 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:00:35 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:00:35 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:00:35 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:00:35 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:00:35 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:00:35 PM	Copy Success: 62019470001484.pdf10.140.36.159	21-03-2024 07:00:35 PM	PDF Path: /u01/uploads_uat/tanpdf/62019470001484.pdf10.140.36.159	21-03-2024 07:00:35 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:00:35 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:00:35 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:00:35 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:00:35 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:00:35 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:00:35 PM	Total Image page count: 510.140.36.159	21-03-2024 07:00:35 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:00:35 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "62019470001484",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:00:35 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:00:35 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:00:35 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:00:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:00:35 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:00:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:00:44 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:00:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:00:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:00:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:00:44 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:00:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:00:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:00:44 PM	Copy Success: 79097470001174.pdf10.140.36.159	21-03-2024 07:00:44 PM	PDF Path: /u01/uploads_uat/tanpdf/79097470001174.pdf10.140.36.159	21-03-2024 07:00:44 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:00:44 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:00:44 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:00:44 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:00:44 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:00:44 PM	Total Image page count: 410.140.36.159	21-03-2024 07:00:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:00:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "79097470001174",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:00:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:00:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:00:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:00:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:00:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:00:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:00:52 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:00:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:00:52 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:00:52 PM	Copy Success: 09101470002030.pdf10.140.36.159	21-03-2024 07:00:53 PM	PDF Path: /u01/uploads_uat/tanpdf/09101470002030.pdf10.140.36.159	21-03-2024 07:00:53 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 510.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 610.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 710.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 810.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 910.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 1010.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 1110.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 1210.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 1310.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 1410.140.36.159	21-03-2024 07:00:53 PM	THIS IS PAGE: 1510.140.36.159	21-03-2024 07:00:53 PM	Total Image page count: 1610.140.36.159	21-03-2024 07:00:53 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:00:53 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "09101470002030",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:00:53 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:00:53 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:00:53 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:00:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:00:53 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:01:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:01:01 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:01:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:01:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:01:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:01:01 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:01:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:01:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:01:01 PM	Copy Success: 09222470007483.pdf10.140.36.159	21-03-2024 07:01:01 PM	PDF Path: /u01/uploads_uat/tanpdf/09222470007483.pdf10.140.36.159	21-03-2024 07:01:01 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:01:01 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:01:01 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:01:01 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:01:01 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:01:01 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:01:01 PM	THIS IS PAGE: 510.140.36.159	21-03-2024 07:01:01 PM	Total Image page count: 610.140.36.159	21-03-2024 07:01:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:01:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "09222470007483",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:01:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:01:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:01:01 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:01:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:01:10 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:01:10 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:01:10 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:01:10 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:01:10 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:01:10 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:01:10 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:01:10 PM	Copy Success: 19051470011910.pdf10.140.36.159	21-03-2024 07:01:10 PM	PDF Path: /u01/uploads_uat/tanpdf/19051470011910.pdf10.140.36.159	21-03-2024 07:01:10 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:01:10 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:01:10 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:01:10 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:01:10 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:01:10 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:01:10 PM	Total Image page count: 510.140.36.159	21-03-2024 07:01:10 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:01:10 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "19051470011910",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:01:10 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:01:10 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:01:10 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:04:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:04:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:04:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:04:21 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:04:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:04:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:04:21 PM	Copy Success: 19237470012073.pdf10.140.36.159	21-03-2024 07:04:21 PM	PDF Path: /u01/uploads_uat/tanpdf/19237470012073.pdf10.140.36.159	21-03-2024 07:04:21 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:04:21 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:04:21 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:04:21 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:04:21 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:04:21 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:04:21 PM	Total Image page count: 510.140.36.159	21-03-2024 07:04:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:04:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "19237470012073",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:04:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:04:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:04:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:04:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:04:21 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:04:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:04:32 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:04:33 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:04:33 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:04:33 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:04:33 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:04:33 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:04:33 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:04:33 PM	Copy Success: 19741470028000.pdf10.140.36.159	21-03-2024 07:04:33 PM	PDF Path: /u01/uploads_uat/tanpdf/19741470028000.pdf10.140.36.159	21-03-2024 07:04:33 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:04:33 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:04:33 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:04:33 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:04:33 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:04:33 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:04:33 PM	Total Image page count: 510.140.36.159	21-03-2024 07:04:33 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:04:33 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "19741470028000",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:04:33 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:04:33 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:04:33 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:04:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:04:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:04:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:04:44 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:04:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:04:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:04:44 PM	Copy Success: 25099470008550.pdf10.140.36.159	21-03-2024 07:04:44 PM	PDF Path: /u01/uploads_uat/tanpdf/25099470008550.pdf10.140.36.159	21-03-2024 07:04:44 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:04:44 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:04:44 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:04:44 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:04:44 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:04:44 PM	Total Image page count: 410.140.36.159	21-03-2024 07:04:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:04:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "25099470008550",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:04:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:04:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:04:44 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:04:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:04:44 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:04:58 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:04:58 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:04:58 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:04:58 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:04:58 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:04:58 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:04:58 PM	Copy Success: 33575470002432.pdf10.140.36.159	21-03-2024 07:04:58 PM	PDF Path: /u01/uploads_uat/tanpdf/33575470002432.pdf10.140.36.159	21-03-2024 07:04:59 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:04:59 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:04:59 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:04:59 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:04:59 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:04:59 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:04:59 PM	Total Image page count: 510.140.36.159	21-03-2024 07:04:59 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:04:59 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "33575470002432",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:04:59 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:04:59 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:04:59 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:04:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:04:59 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:05:17 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:05:17 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:05:17 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:05:17 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:05:17 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:05:17 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:05:17 PM	Copy Success: 33426470027366.pdf10.140.36.159	21-03-2024 07:05:17 PM	PDF Path: /u01/uploads_uat/tanpdf/33426470027366.pdf10.140.36.159	21-03-2024 07:05:17 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:05:17 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:05:17 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:05:17 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:05:17 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:05:17 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:05:17 PM	Total Image page count: 510.140.36.159	21-03-2024 07:05:17 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:05:17 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "33426470027366",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:05:17 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:05:17 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:05:17 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:05:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:05:17 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:05:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:05:28 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:05:28 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:05:28 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:05:28 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:05:28 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:05:28 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:05:28 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:05:28 PM	Copy Success: 62305470012671.pdf10.140.36.159	21-03-2024 07:05:28 PM	PDF Path: /u01/uploads_uat/tanpdf/62305470012671.pdf10.140.36.159	21-03-2024 07:05:28 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:05:28 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:05:28 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:05:28 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:05:28 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:05:28 PM	Total Image page count: 410.140.36.159	21-03-2024 07:05:28 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:05:28 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "62305470012671",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:05:28 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:05:28 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:05:28 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:05:40 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:05:40 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:05:40 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:05:40 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:05:40 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:05:40 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:05:40 PM	Copy Success: 25044470002285.pdf10.140.36.159	21-03-2024 07:05:40 PM	PDF Path: /u01/uploads_uat/tanpdf/25044470002285.pdf10.140.36.159	21-03-2024 07:05:40 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:05:40 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:05:40 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:05:40 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:05:40 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:05:40 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:05:40 PM	THIS IS PAGE: 510.140.36.159	21-03-2024 07:05:40 PM	THIS IS PAGE: 610.140.36.159	21-03-2024 07:05:40 PM	THIS IS PAGE: 710.140.36.159	21-03-2024 07:05:40 PM	THIS IS PAGE: 810.140.36.159	21-03-2024 07:05:40 PM	Total Image page count: 910.140.36.159	21-03-2024 07:05:40 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:05:40 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "25044470002285",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:05:40 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:05:40 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:05:40 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:05:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:05:40 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:05:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:05:51 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:05:51 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:05:51 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:05:51 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:05:51 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:05:51 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:05:51 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:05:51 PM	Copy Success: 62107470001603.pdf10.140.36.159	21-03-2024 07:05:51 PM	PDF Path: /u01/uploads_uat/tanpdf/62107470001603.pdf10.140.36.159	21-03-2024 07:05:51 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:05:51 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:05:51 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:05:51 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:05:51 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:05:51 PM	Total Image page count: 410.140.36.159	21-03-2024 07:05:51 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:05:51 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "62107470001603",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:05:51 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:05:51 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:05:51 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:06:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:06:12 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:06:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:06:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:06:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:06:12 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:06:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:06:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:06:12 PM	Copy Success: 25274470014920.pdf10.140.36.159	21-03-2024 07:06:12 PM	PDF Path: /u01/uploads_uat/tanpdf/25274470014920.pdf10.140.36.159	21-03-2024 07:06:12 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:06:12 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:06:12 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:06:12 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:06:12 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:06:12 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:06:12 PM	Total Image page count: 510.140.36.159	21-03-2024 07:06:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:06:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "25274470014920",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:06:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:06:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:06:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:06:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:06:26 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:06:26 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:06:26 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:06:26 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:06:26 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:06:26 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:06:26 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:06:26 PM	Copy Success: 33484470001916.pdf10.140.36.159	21-03-2024 07:06:26 PM	PDF Path: /u01/uploads_uat/tanpdf/33484470001916.pdf10.140.36.159	21-03-2024 07:06:26 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:06:26 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:06:26 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:06:26 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:06:26 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:06:26 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:06:26 PM	THIS IS PAGE: 510.140.36.159	21-03-2024 07:06:26 PM	THIS IS PAGE: 610.140.36.159	21-03-2024 07:06:26 PM	THIS IS PAGE: 710.140.36.159	21-03-2024 07:06:26 PM	THIS IS PAGE: 810.140.36.159	21-03-2024 07:06:26 PM	Total Image page count: 910.140.36.159	21-03-2024 07:06:26 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:06:26 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "33484470001916",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:06:26 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:06:26 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:06:26 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:06:47 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:06:47 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:06:47 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:06:47 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:06:47 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:06:47 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:06:47 PM	Copy Success: 62303470001721.pdf10.140.36.159	21-03-2024 07:06:47 PM	PDF Path: /u01/uploads_uat/tanpdf/62303470001721.pdf10.140.36.159	21-03-2024 07:06:47 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:06:47 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:06:47 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:06:47 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:06:47 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:06:47 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:06:47 PM	Total Image page count: 510.140.36.159	21-03-2024 07:06:47 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:06:47 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "62303470001721",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:06:47 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:06:47 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:06:47 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:06:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:06:47 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.159	21-03-2024 07:07:03 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.140.36.159	21-03-2024 07:07:03 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.140.36.159	21-03-2024 07:07:03 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.140.36.159	21-03-2024 07:07:03 PM	Upload Type FOR TAN Branch:houser----EXPRESS10.140.36.159	21-03-2024 07:07:03 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--HOUSER & uploadType: EXPRESS & UserId: 3510.140.36.159	21-03-2024 07:07:03 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.140.36.159	21-03-2024 07:07:03 PM	Copy Success: 19693470000352.pdf10.140.36.159	21-03-2024 07:07:03 PM	PDF Path: /u01/uploads_uat/tanpdf/19693470000352.pdf10.140.36.159	21-03-2024 07:07:03 PM	*****outside image copy foreach****10.140.36.159	21-03-2024 07:07:03 PM	THIS IS PAGE: 010.140.36.159	21-03-2024 07:07:03 PM	THIS IS PAGE: 110.140.36.159	21-03-2024 07:07:03 PM	THIS IS PAGE: 210.140.36.159	21-03-2024 07:07:03 PM	THIS IS PAGE: 310.140.36.159	21-03-2024 07:07:03 PM	THIS IS PAGE: 410.140.36.159	21-03-2024 07:07:03 PM	THIS IS PAGE: 510.140.36.159	21-03-2024 07:07:03 PM	THIS IS PAGE: 610.140.36.159	21-03-2024 07:07:03 PM	THIS IS PAGE: 710.140.36.159	21-03-2024 07:07:03 PM	THIS IS PAGE: 810.140.36.159	21-03-2024 07:07:03 PM	THIS IS PAGE: 910.140.36.159	21-03-2024 07:07:03 PM	THIS IS PAGE: 1010.140.36.159	21-03-2024 07:07:03 PM	Total Image page count: 1110.140.36.159	21-03-2024 07:07:03 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.140.36.159	21-03-2024 07:07:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "19693470000352",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.140.36.159	21-03-2024 07:07:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.140.36.159	21-03-2024 07:07:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.140.36.159	21-03-2024 07:07:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.140.36.159	21-03-2024 07:07:04 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.159	21-03-2024 07:07:04 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}

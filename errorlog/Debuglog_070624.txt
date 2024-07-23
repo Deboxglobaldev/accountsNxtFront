@@ -1,0 +1,354 @@
+10.100.23.163	07-06-2024 04:09:06 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.23.163	07-06-2024 04:09:06 PM	Response from url data jaypal {"userId":"houser1","password":"test"}10.100.23.163	07-06-2024 04:09:06 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.163	07-06-2024 04:09:06 PM	JSON POST : Array10.100.23.163	07-06-2024 04:09:07 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.23.163	07-06-2024 04:09:07 PM	Json parting value34434510.100.23.163	07-06-2024 04:09:07 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.163	07-06-2024 04:09:07 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.23.163	07-06-2024 04:09:07 PM	Session BranchId...houser10.100.23.163	07-06-2024 04:09:07 PM	Session Type...HOUSER10.100.23.163	07-06-2024 04:09:07 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.163	07-06-2024 04:09:07 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.23.163	07-06-2024 04:09:07 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.23.163	07-06-2024 04:09:07 PM	JSON POST : 10.100.23.163	07-06-2024 04:09:47 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.163	07-06-2024 04:09:47 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.23.163	07-06-2024 04:10:21 PM	ui YmFja2hv and pas dGVzdA==10.100.23.163	07-06-2024 04:10:21 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.23.163	07-06-2024 04:10:21 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.163	07-06-2024 04:10:21 PM	JSON POST : Array10.100.23.163	07-06-2024 04:10:21 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12749",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Backend  HO User",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.23.163	07-06-2024 04:10:21 PM	Json parting value34434510.100.23.163	07-06-2024 04:10:21 PM	Session BranchId...BACKHO10.100.23.163	07-06-2024 04:10:21 PM	Session Type...BACKHO10.100.23.163	07-06-2024 04:10:21 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.23.163	07-06-2024 04:10:21 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.23.163	07-06-2024 04:10:27 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.163	07-06-2024 04:10:27 PM	JSON POST : 10.100.23.163	07-06-2024 04:10:27 PM	Response return from billInformationAPI: {
+    "status": 0,
+    "billPeriod": [
+        {
+            "Id": "18",
+            "FromDate": "2024-02-22",
+            "ToDate": "2024-02-26",
+            "BillDate": "2024-02-26",
+            "DueDate": "2024-02-26",
+            "DateAdded": "2024-02-29 16:36:50",
+            "AddedBy": "12749",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "FromDate": "2024-03-17",
+            "ToDate": "2024-03-23",
+            "BillDate": "2024-03-24",
+            "DueDate": "2024-03-25",
+            "DateAdded": "2024-03-26 13:05:07",
+            "AddedBy": "12749",
+            "Status": "0"
+        }
+    ]
+}10.100.23.163	07-06-2024 04:11:05 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.23.163	07-06-2024 04:12:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.23.163	07-06-2024 04:12:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.23.163	07-06-2024 04:12:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.23.163	07-06-2024 04:12:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-06-01&toDate=2024-06-07&billDate=2024-06-06&dueDate=2024-06-07&addedBy=1274910.100.23.163	07-06-2024 04:12:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. Insert Data Successfully10.100.23.163	07-06-2024 04:12:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. Insert Data Successfully10.100.23.163	07-06-2024 04:12:46 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.163	07-06-2024 04:12:46 PM	JSON POST : 10.100.23.163	07-06-2024 04:12:46 PM	Response return from billInformationAPI: {
+    "status": 0,
+    "billPeriod": [
+        {
+            "Id": "18",
+            "FromDate": "2024-02-22",
+            "ToDate": "2024-02-26",
+            "BillDate": "2024-02-26",
+            "DueDate": "2024-02-26",
+            "DateAdded": "2024-02-29 16:36:50",
+            "AddedBy": "12749",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "FromDate": "2024-03-17",
+            "ToDate": "2024-03-23",
+            "BillDate": "2024-03-24",
+            "DueDate": "2024-03-25",
+            "DateAdded": "2024-03-26 13:05:07",
+            "AddedBy": "12749",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "FromDate": "2024-06-01",
+            "ToDate": "2024-06-07",
+            "BillDate": "2024-06-06",
+            "DueDate": "2024-06-07",
+            "DateAdded": "2024-06-07 16:12:40",
+            "AddedBy": "12749",
+            "Status": "0"
+        }
+    ]
+}10.100.23.163	07-06-2024 04:13:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.23.163	07-06-2024 04:13:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.163	07-06-2024 04:13:40 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
+    "bid":"20"
+}10.100.23.163	07-06-2024 04:13:40 PM	RESPONSE RETURN FROM ACCOUNT STATEMENT: 10.100.23.163	07-06-2024 04:14:46 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.163	07-06-2024 04:14:46 PM	JSON POST : 10.100.23.163	07-06-2024 04:14:46 PM	Response return from billInformationAPI: {
+    "status": 0,
+    "billPeriod": [
+        {
+            "Id": "18",
+            "FromDate": "2024-02-22",
+            "ToDate": "2024-02-26",
+            "BillDate": "2024-02-26",
+            "DueDate": "2024-02-26",
+            "DateAdded": "2024-02-29 16:36:50",
+            "AddedBy": "12749",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "FromDate": "2024-03-17",
+            "ToDate": "2024-03-23",
+            "BillDate": "2024-03-24",
+            "DueDate": "2024-03-25",
+            "DateAdded": "2024-03-26 13:05:07",
+            "AddedBy": "12749",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "FromDate": "2024-06-01",
+            "ToDate": "2024-06-07",
+            "BillDate": "2024-06-06",
+            "DueDate": "2024-06-07",
+            "DateAdded": "2024-06-07 16:12:40",
+            "AddedBy": "12749",
+            "Status": "0"
+        }
+    ]
+}10.100.23.163	07-06-2024 04:14:50 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.23.163	07-06-2024 04:14:50 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.163	07-06-2024 04:14:50 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
+    "bid":"20"
+}10.100.23.163	07-06-2024 04:14:50 PM	RESPONSE RETURN FROM ACCOUNT STATEMENT: 10.100.23.163	07-06-2024 04:15:47 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.23.163	07-06-2024 04:15:47 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Data Save ..10.100.23.163	07-06-2024 04:15:47 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data URL  .. https://10.150.146.12/UAT_BackEnd/General/addBillInformationAPI.php10.100.23.163	07-06-2024 04:15:47 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data as  .. fromDate=2024-06-01&toDate=2024-06-07&billDate=2024-06-07&dueDate=2024-06-07&addedBy=1274910.100.23.163	07-06-2024 04:15:47 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving Data API Call Result  .. Bill Period Already Exists10.100.23.163	07-06-2024 04:15:47 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Saving addBillInformationAPI.. Bill Period Already Exists10.100.23.163	07-06-2024 04:15:47 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.163	07-06-2024 04:15:47 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:-  Value for API - {
+    "bid":"20"
+}10.100.23.163	07-06-2024 04:15:47 PM	RESPONSE RETURN FROM ACCOUNT STATEMENT: 10.100.23.163	07-06-2024 04:15:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.163	07-06-2024 04:15:50 PM	JSON POST : 10.100.23.163	07-06-2024 04:15:50 PM	Response return from billInformationAPI: {
+    "status": 0,
+    "billPeriod": [
+        {
+            "Id": "18",
+            "FromDate": "2024-02-22",
+            "ToDate": "2024-02-26",
+            "BillDate": "2024-02-26",
+            "DueDate": "2024-02-26",
+            "DateAdded": "2024-02-29 16:36:50",
+            "AddedBy": "12749",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "FromDate": "2024-03-17",
+            "ToDate": "2024-03-23",
+            "BillDate": "2024-03-24",
+            "DueDate": "2024-03-25",
+            "DateAdded": "2024-03-26 13:05:07",
+            "AddedBy": "12749",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "FromDate": "2024-06-01",
+            "ToDate": "2024-06-07",
+            "BillDate": "2024-06-06",
+            "DueDate": "2024-06-07",
+            "DateAdded": "2024-06-07 16:12:40",
+            "AddedBy": "12749",
+            "Status": "0"
+        }
+    ]
+}10.100.23.163	07-06-2024 04:17:22 PM	[Info] - File location /tinfc1/UAT/addBillInformation.php Message:- At begining of Call10.100.23.163	07-06-2024 04:17:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.163	07-06-2024 04:17:50 PM	JSON POST : 10.100.23.163	07-06-2024 04:17:50 PM	Response return from billInformationAPI: {
+    "status": 0,
+    "billPeriod": [
+        {
+            "Id": "18",
+            "FromDate": "2024-02-22",
+            "ToDate": "2024-02-26",
+            "BillDate": "2024-02-26",
+            "DueDate": "2024-02-26",
+            "DateAdded": "2024-02-29 16:36:50",
+            "AddedBy": "12749",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "FromDate": "2024-03-17",
+            "ToDate": "2024-03-23",
+            "BillDate": "2024-03-24",
+            "DueDate": "2024-03-25",
+            "DateAdded": "2024-03-26 13:05:07",
+            "AddedBy": "12749",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "FromDate": "2024-06-01",
+            "ToDate": "2024-06-07",
+            "BillDate": "2024-06-06",
+            "DueDate": "2024-06-07",
+            "DateAdded": "2024-06-07 16:12:40",
+            "AddedBy": "12749",
+            "Status": "0"
+        }
+    ]
+}10.100.23.163	07-06-2024 04:20:09 PM	***  Inside misuploadfile.php 10.100.23.163	07-06-2024 04:20:09 PM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.23.163	07-06-2024 04:20:09 PM	****** upload path ****** :uploads/10.100.23.163	07-06-2024 04:20:09 PM	URL HIT BY MIS UPLOAD FOR PAN :https://10.150.146.12/UAT_BackEnd/General/misupload.php?UserId=35&ip=10.100.23.16310.100.23.163	07-06-2024 04:20:12 PM	{
+    "Status": "Successes",
+    "TotalRecordProcessed": 12419,
+    "NewRecords": "",
+    "Duplicates": "",
+    "FaildRecCcount": 0,
+    "FailedRecords": []
+}10.100.23.163	07-06-2024 04:21:08 PM	Session BranchId...BACKHO10.100.23.163	07-06-2024 04:21:08 PM	Session Type...BACKHO10.100.23.163	07-06-2024 04:21:08 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.23.163	07-06-2024 04:21:08 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.23.163	07-06-2024 04:21:50 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
+    "fromDate":"2024-06-01",
+    "toDate":"2024-06-06"
+}10.100.23.163	07-06-2024 04:21:50 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.163	07-06-2024 04:21:50 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.163	07-06-2024 04:21:50 PM	JSON POST : {
+    "fromDate":"2024-06-01",
+    "toDate":"2024-06-06"
+}10.100.23.163	07-06-2024 04:21:58 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
+    "fromDate":"2024-06-01",
+    "toDate":"2024-06-07"
+}10.100.23.163	07-06-2024 04:21:58 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.163	07-06-2024 04:21:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.163	07-06-2024 04:21:58 PM	JSON POST : {
+    "fromDate":"2024-06-01",
+    "toDate":"2024-06-07"
+}10.100.23.163	07-06-2024 04:22:35 PM	[Info] - File location /tinfc1/UAT/billSummary.php Message:-  URL for API - 10.100.23.163	07-06-2024 04:22:35 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.163	07-06-2024 04:22:35 PM	JSON POST : 10.100.23.163	07-06-2024 04:22:58 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for export API - {
+        "fromDate":"2024-06-01",
+        "toDate":"2024-06-07"
+    }10.100.23.163	07-06-2024 04:22:58 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for export API - https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.163	07-06-2024 04:22:58 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.163	07-06-2024 04:22:58 PM	JSON POST : {
+        "fromDate":"2024-06-01",
+        "toDate":"2024-06-07"
+    }10.100.23.163	07-06-2024 04:23:24 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.23.163	07-06-2024 04:23:24 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.163	07-06-2024 04:23:24 PM	JSON POST : 10.100.23.163	07-06-2024 04:23:29 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.23.163	07-06-2024 04:23:29 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.23.163	07-06-2024 04:23:29 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.23.163	07-06-2024 04:23:29 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.23.163	07-06-2024 04:23:29 PM	JSON POST : {
+    "billPeriod":"20"
+}10.100.23.163	07-06-2024 04:23:29 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.23.163	07-06-2024 04:23:29 PM	JSON POST : 10.100.72.25	07-06-2024 04:26:52 PM	ui YmFja2hv and pas dGVzdA==10.100.72.25	07-06-2024 04:26:52 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.72.25	07-06-2024 04:26:52 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	07-06-2024 04:26:52 PM	JSON POST : Array10.100.72.25	07-06-2024 04:26:52 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12749",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Backend  HO User",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.25	07-06-2024 04:26:52 PM	Json parting value34434510.100.72.25	07-06-2024 04:26:53 PM	Session BranchId...BACKHO10.100.72.25	07-06-2024 04:26:53 PM	Session Type...BACKHO10.100.72.25	07-06-2024 04:26:53 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.25	07-06-2024 04:26:53 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.25	07-06-2024 04:27:21 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	07-06-2024 04:27:21 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	07-06-2024 04:27:21 PM	JSON POST : 10.100.23.163	07-06-2024 04:27:24 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
+    "fromDate":"2024-06-01",
+    "toDate":"2024-06-07"
+}10.100.23.163	07-06-2024 04:27:24 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.163	07-06-2024 04:27:24 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.23.163	07-06-2024 04:27:24 PM	JSON POST : {
+    "fromDate":"2024-06-01",
+    "toDate":"2024-06-07"
+}10.100.72.25	07-06-2024 04:27:27 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	07-06-2024 04:27:27 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	07-06-2024 04:27:27 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.72.25	07-06-2024 04:27:27 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	07-06-2024 04:27:27 PM	JSON POST : {
+    "billPeriod":"20"
+}10.100.72.25	07-06-2024 04:27:27 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	07-06-2024 04:27:27 PM	JSON POST : 10.100.72.25	07-06-2024 04:27:30 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	07-06-2024 04:27:30 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	07-06-2024 04:27:30 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.72.25	07-06-2024 04:27:30 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	07-06-2024 04:27:30 PM	JSON POST : {
+    "billPeriod":"20"
+}10.100.72.25	07-06-2024 04:27:30 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	07-06-2024 04:27:30 PM	JSON POST : 10.100.72.25	07-06-2024 04:27:31 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	07-06-2024 04:27:31 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	07-06-2024 04:27:31 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.72.25	07-06-2024 04:27:31 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	07-06-2024 04:27:31 PM	JSON POST : {
+    "billPeriod":"20"
+}10.100.72.25	07-06-2024 04:27:31 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	07-06-2024 04:27:31 PM	JSON POST : 10.100.72.25	07-06-2024 04:31:41 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	07-06-2024 04:31:41 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	07-06-2024 04:31:41 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  Value for API - 10.100.72.25	07-06-2024 04:31:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billGenerationAPI.php10.100.72.25	07-06-2024 04:31:41 PM	JSON POST : {
+    "billPeriod":"20"
+}10.100.72.25	07-06-2024 04:31:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	07-06-2024 04:31:41 PM	JSON POST : 10.100.72.25	07-06-2024 04:32:08 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - {
+    "fromDate":"2024-06-01",
+    "toDate":"2024-06-07"
+}10.100.72.25	07-06-2024 04:32:08 PM	[Info] - File location /tinfc1/UAT/collectionreport.php Message:-  URL for list API - https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.72.25	07-06-2024 04:32:08 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/collectionReportAPI.php10.100.72.25	07-06-2024 04:32:08 PM	JSON POST : {
+    "fromDate":"2024-06-01",
+    "toDate":"2024-06-07"
+}10.100.72.25	07-06-2024 05:07:00 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	07-06-2024 05:07:00 PM	JSON POST : 10.100.72.25	07-06-2024 05:07:00 PM	Response return from billInformationAPI: {
+    "status": 0,
+    "billPeriod": [
+        {
+            "Id": "18",
+            "FromDate": "2024-02-22",
+            "ToDate": "2024-02-26",
+            "BillDate": "2024-02-26",
+            "DueDate": "2024-02-26",
+            "DateAdded": "2024-02-29 16:36:50",
+            "AddedBy": "12749",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "FromDate": "2024-03-17",
+            "ToDate": "2024-03-23",
+            "BillDate": "2024-03-24",
+            "DueDate": "2024-03-25",
+            "DateAdded": "2024-03-26 13:05:07",
+            "AddedBy": "12749",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "FromDate": "2024-06-01",
+            "ToDate": "2024-06-07",
+            "BillDate": "2024-06-06",
+            "DueDate": "2024-06-07",
+            "DateAdded": "2024-06-07 16:12:40",
+            "AddedBy": "12749",
+            "Status": "0"
+        }
+    ]
+}10.100.72.25	07-06-2024 05:09:33 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	07-06-2024 05:09:33 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	07-06-2024 05:09:33 PM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.25	07-06-2024 05:09:49 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	07-06-2024 05:09:49 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API post - https://10.150.146.12/UAT_BackEnd/General/ledgerAPI.php10.100.72.25	07-06-2024 05:09:49 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  Value for API post list- {
+    "Type":"Religare",
+    "Branch":"",
+	"fromDate":"1970-01-01",
+	"toDate":"1970-01-01"
+}10.100.72.25	07-06-2024 05:09:49 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	07-06-2024 05:09:49 PM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.25	07-06-2024 05:15:19 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API - 10.100.72.25	07-06-2024 05:15:19 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  URL for API post - https://10.150.146.12/UAT_BackEnd/General/ledgerAPI.php10.100.72.25	07-06-2024 05:15:19 PM	[Info] - File location /tinfc1/UAT/listLedger.php Message:-  Value for API post list- {
+    "Type":"Religare",
+    "Branch":"SLB25536",
+	"fromDate":"1970-01-01",
+	"toDate":"1970-01-01"
+}10.100.72.25	07-06-2024 05:15:19 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.25	07-06-2024 05:15:19 PM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.25	07-06-2024 05:32:49 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.25	07-06-2024 05:32:49 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.25	07-06-2024 05:32:49 PM	JSON POST : 10.100.72.25	07-06-2024 05:33:23 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.72.25	07-06-2024 05:33:23 PM	JSON POST : 10.100.72.25	07-06-2024 05:33:23 PM	Response return from commissionInformationAPI: {
+    "status": 0,
+    "commissionPeriod": [
+        {
+            "Id": "3",
+            "FromDate": "2022-07-08",
+            "ToDate": "2022-08-31",
+            "CommissionDate": "2022-07-07",
+            "DueDate": "2022-08-10",
+            "DateAdded": "2022-10-19 15:17:59",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "2",
+            "FromDate": "2022-09-15",
+            "ToDate": "2022-12-15",
+            "CommissionDate": "2022-09-14",
+            "DueDate": "2022-09-14",
+            "DateAdded": "2022-10-19 14:56:25",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "FromDate": "2023-01-01",
+            "ToDate": "2023-01-04",
+            "CommissionDate": "2023-01-04",
+            "DueDate": "2023-01-04",
+            "DateAdded": "2023-01-04 14:58:47",
+            "AddedBy": "35",
+            "Status": "0"
+        },
+        {
+            "Id": "5",
+            "FromDate": "2023-03-01",
+            "ToDate": "2023-03-31",
+            "CommissionDate": "2023-03-15",
+            "DueDate": "2023-03-31",
+            "DateAdded": "2023-03-14 13:05:56",
+            "AddedBy": "38",
+            "Status": "0"
+        }
+    ]
+}10.100.23.163	07-06-2024 07:51:57 PM	ui YmFja2hv and pas dGVzdA==10.100.23.163	07-06-2024 07:51:57 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.23.163	07-06-2024 07:51:57 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.163	07-06-2024 07:51:57 PM	JSON POST : Array10.100.23.163	07-06-2024 07:51:57 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12749",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Backend  HO User",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.23.163	07-06-2024 07:51:57 PM	Json parting value34434510.100.23.163	07-06-2024 07:51:57 PM	Session BranchId...BACKHO10.100.23.163	07-06-2024 07:51:57 PM	Session Type...BACKHO10.100.23.163	07-06-2024 07:51:57 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.23.163	07-06-2024 07:51:57 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php

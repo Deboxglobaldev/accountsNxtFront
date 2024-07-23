@@ -1,0 +1,28 @@
+10.100.72.207	05-09-2023 11:54:04 AM	****** upload path ****** :uploads/10.100.72.207	05-09-2023 11:54:04 AM	records .. 310.100.72.207	05-09-2023 11:54:04 AM	JSON TO POST ON URL:  http://10.150.146.12/UAT_BackEnd/General/NSDLAcceptedAPI.php :{
+						"Opetation":"ACC",
+						"UserId":"36",
+						"ip":"10.100.72.207",
+						"listOfData":[{ 
+									"AcknowledgmentNumber":"830008600010855",
+									"AcceptedDate":"01-09-2023" 
+								},{ 
+									"AcknowledgmentNumber":"255369700333300",
+									"AcceptedDate":"01-09-2023" 
+								}]
+						}10.100.72.207	05-09-2023 11:54:04 AM	Final Response:  [
+    {
+        "Status": "0",
+        "TotalCount": 2,
+        "UpdatedCount": 2,
+        "listOfData": [
+            {
+                "AcknoNumber": "830008600010855",
+                "StageStatus": "Update"
+            },
+            {
+                "AcknoNumber": "255369700333300",
+                "StageStatus": "Update"
+            }
+        ]
+    }
+]

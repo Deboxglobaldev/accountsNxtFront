@@ -1,0 +1,53 @@
+.nav-religare{
+width: 150px!important;
+}
+.hk-wrapper.hk-vertical-nav .hk-nav .navbar-nav li {
+    width: auto!important;
+}
+.hk-wrapper.hk-vertical-nav .hk-pg-wrapper {
+    margin-left: 150px!important;
+}
+.hk-wrapper.hk-vertical-nav .hk-nav {
+  width: 160px!important;
+}
+.nav-link-text{
+font-size: 12px!important;
+font-weight: 400!important;
+}
+.hk-wrapper.hk-vertical-nav .hk-nav .navbar-nav .nav-item .nav-link {
+    padding: 0.5rem!important;
+}
+.hk-wrapper.hk-vertical-nav .hk-nav .navbar-nav .nav-item .nav-link > i {
+    margin-right: 8px!important;
+}
+.hk-wrapper.hk-vertical-nav.hk-nav-toggle .hk-nav {
+    width: 0px!important;
+}
+.hk-wrapper.hk-vertical-nav.hk-nav-toggle .hk-nav .navbar-nav .nav-item .nav-link-text {
+    display: none!important;
+}
+.hk-wrapper.hk-vertical-nav.hk-nav-toggle .hk-pg-wrapper {
+    margin-left: 2px!important;
+}
+.table-heading{
+ font-size: 13px!important;  
+ font-weight: 500!important; 
+ color: #fff!important; 
+}
+.table-data{
+ font-size: 13px!important; 
+}
+.table-select{
+font-size: 13px!important;
+}
+.hk-sec-wrapper {
+    padding: 1rem!important;
+    margin-bottom: 10px!important;
+}
+.ion-md-analytics:before {
+   color: white!important;
+}
+.hk-wrapper .hk-navbar .feather-icon > svg {
+    width: 29px!important;
+    height: 29px!important;
+}

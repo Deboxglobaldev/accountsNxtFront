@@ -1,0 +1,41 @@
+10.100.72.67	25-07-2023 11:30:26 AM	****** upload path ****** :uploads/10.100.72.67	25-07-2023 11:30:26 AM	records .. 210.100.72.67	25-07-2023 11:30:26 AM	JSON TO POST ON URL:  http://10.150.66.30/UAT_BackEnd/General/NSDLAcceptedAPI.php :{
+						"Opetation":"ACC",
+						"UserId":"36",
+						"ip":"10.100.72.67",
+						"listOfData":[{ 
+									"AcknowledgmentNumber":"255369700342746",
+									"AcceptedDate":"06-07-2023" 
+								}]
+						}10.100.72.67	25-07-2023 11:30:26 AM	Final Response:  [
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 1,
+        "listOfData": [
+            {
+                "AcknoNumber": "255369700342746",
+                "StageStatus": "Update"
+            }
+        ]
+    }
+]10.100.72.67	25-07-2023 12:21:32 PM	****** upload path ****** :uploads/10.100.72.67	25-07-2023 12:21:32 PM	records .. 210.100.72.67	25-07-2023 12:21:32 PM	JSON TO POST ON URL:  http://10.150.66.30/UAT_BackEnd/General/NSDLAcceptedAPI.php :{
+						"Opetation":"ACC",
+						"UserId":"36",
+						"ip":"10.100.72.67",
+						"listOfData":[{ 
+									"AcknowledgmentNumber":"255369700342746",
+									"AcceptedDate":"06-07-2023" 
+								}]
+						}10.100.72.67	25-07-2023 12:21:32 PM	Final Response:  [
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 1,
+        "listOfData": [
+            {
+                "AcknoNumber": "255369700342746",
+                "StageStatus": "Update"
+            }
+        ]
+    }
+]

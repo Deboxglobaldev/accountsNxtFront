@@ -1,0 +1,67 @@
+10.100.23.154	24-04-2024 06:21:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.23.154	24-04-2024 06:21:30 PM	JSON POST : 10.100.23.154	24-04-2024 06:21:31 PM	Response return from commissionInformationAPI: {
+    "status": 0,
+    "commissionPeriod": [
+        {
+            "Id": "3",
+            "FromDate": "2022-07-08",
+            "ToDate": "2022-08-31",
+            "CommissionDate": "2022-07-07",
+            "DueDate": "2022-08-10",
+            "DateAdded": "2022-10-19 15:17:59",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "2",
+            "FromDate": "2022-09-15",
+            "ToDate": "2022-12-15",
+            "CommissionDate": "2022-09-14",
+            "DueDate": "2022-09-14",
+            "DateAdded": "2022-10-19 14:56:25",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "FromDate": "2023-01-01",
+            "ToDate": "2023-01-04",
+            "CommissionDate": "2023-01-04",
+            "DueDate": "2023-01-04",
+            "DateAdded": "2023-01-04 14:58:47",
+            "AddedBy": "35",
+            "Status": "0"
+        },
+        {
+            "Id": "5",
+            "FromDate": "2023-03-01",
+            "ToDate": "2023-03-31",
+            "CommissionDate": "2023-03-15",
+            "DueDate": "2023-03-31",
+            "DateAdded": "2023-03-14 13:05:56",
+            "AddedBy": "38",
+            "Status": "0"
+        }
+    ]
+}10.100.52.28	24-04-2024 06:55:28 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.52.28	24-04-2024 06:55:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.52.28	24-04-2024 06:55:28 PM	JSON POST : Array10.100.52.28	24-04-2024 06:55:28 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Test  User",
+    "RegionId": "1",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.52.28	24-04-2024 06:55:28 PM	Json parting value2553610.100.52.28	24-04-2024 06:55:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.52.28	24-04-2024 06:55:28 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.52.28	24-04-2024 06:55:31 PM	Session BranchId...2553610.100.52.28	24-04-2024 06:55:31 PM	Session Type...BRANCH10.100.52.28	24-04-2024 06:55:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.52.28	24-04-2024 06:55:31 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.52.28	24-04-2024 06:55:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.52.28	24-04-2024 06:55:31 PM	JSON POST : 10.110.11.15	24-04-2024 07:08:37 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.110.11.15	24-04-2024 07:08:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.110.11.15	24-04-2024 07:08:37 PM	JSON POST : Array10.110.11.15	24-04-2024 07:08:37 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Test  User",
+    "RegionId": "1",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.110.11.15	24-04-2024 07:08:37 PM	Json parting value2553610.110.11.15	24-04-2024 07:08:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	24-04-2024 07:08:37 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	24-04-2024 07:08:39 PM	Session BranchId...2553610.110.11.15	24-04-2024 07:08:39 PM	Session Type...BRANCH10.110.11.15	24-04-2024 07:08:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.110.11.15	24-04-2024 07:08:39 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.110.11.15	24-04-2024 07:08:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.110.11.15	24-04-2024 07:08:39 PM	JSON POST : 

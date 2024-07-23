@@ -1,0 +1,64 @@
+10.140.59.169	11-08-2023 11:26:26 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.59.169	11-08-2023 11:26:27 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.169	11-08-2023 11:26:27 AM	JSON POST : {"data":"empty"}10.140.59.169	11-08-2023 11:26:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.169	11-08-2023 11:26:46 AM	JSON POST : {"data":"empty"}10.140.59.169	11-08-2023 11:26:47 AM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.169	11-08-2023 11:26:47 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.169	11-08-2023 11:26:47 AM	JSON POST : Array10.140.59.169	11-08-2023 11:26:47 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "HOUSER",
+    "UserName": "HO User [1]  ",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.59.169	11-08-2023 11:26:47 AM	Json parting value34434510.140.59.169	11-08-2023 11:26:47 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.169	11-08-2023 11:26:47 AM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.169	11-08-2023 11:26:49 AM	Session BranchId...HOUSER10.140.59.169	11-08-2023 11:26:49 AM	Session Type...HOUSER10.140.59.169	11-08-2023 11:26:49 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.169	11-08-2023 11:26:49 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.140.59.169	11-08-2023 11:26:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.169	11-08-2023 11:26:50 AM	JSON POST : 10.140.59.169	11-08-2023 11:28:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.169	11-08-2023 11:28:15 AM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.169	11-08-2023 11:28:53 AM	 PAN/TAN Ack wise status URL for API - http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.169	11-08-2023 11:28:53 AM	 PAN/TAN Ack wise status return from API - {
+    "BranchCode":"all",
+    "fromDate":"2021-10-01",
+    "toDate":"2023-08-11",
+    "DateType":"2",
+    "AckNo":"",
+    "ProductType":"PAN"
+    
+}10.140.59.169	11-08-2023 11:29:38 AM	 PAN/TAN Ack wise status URL for API - http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.169	11-08-2023 11:29:38 AM	 PAN/TAN Ack wise status return from API - {
+    "BranchCode":"all",
+    "fromDate":"2021-04-01",
+    "toDate":"2023-08-11",
+    "DateType":"1",
+    "AckNo":"",
+    "ProductType":"PAN"
+    
+}10.140.59.169	11-08-2023 11:30:19 AM	 PAN/TAN Ack wise status URL for API - http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.169	11-08-2023 11:30:19 AM	 PAN/TAN Ack wise status return from API - {
+    "BranchCode":"all",
+    "fromDate":"2021-04-01",
+    "toDate":"2023-08-11",
+    "DateType":"1",
+    "AckNo":"",
+    "ProductType":"PAN"
+    
+}10.140.59.169	11-08-2023 11:33:25 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.169	11-08-2023 11:33:25 AM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.169	11-08-2023 12:46:44 PM	 queryScreen URL for API - http://10.150.146.12/UAT_BackEnd/General/queryScreenPANAPI.php10.140.59.169	11-08-2023 12:46:44 PM	 queryScreen return from API - {
+    "fromDate":"1970-01-01",
+    "toDate":"1970-01-01",
+    "Branch":"all",
+    "Filter":"APPLNAME",
+    "FilterCond":"=",
+    "FilterName":"JANGBAHADUR"
+}10.140.59.169	11-08-2023 12:53:21 PM	 queryScreen URL for API - http://10.150.146.12/UAT_BackEnd/General/queryScreenPANAPI.php10.140.59.169	11-08-2023 12:53:21 PM	 queryScreen return from API - {
+    "fromDate":"1970-01-01",
+    "toDate":"1970-01-01",
+    "Branch":"all",
+    "Filter":"APPLNAME",
+    "FilterCond":"=",
+    "FilterName":"JANGABAHADUR"
+}10.140.59.169	11-08-2023 12:56:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.169	11-08-2023 12:56:47 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.169	11-08-2023 12:56:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.169	11-08-2023 12:56:52 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.169	11-08-2023 12:56:54 PM	 queryScreen URL for API - http://10.150.146.12/UAT_BackEnd/General/UserWiseQcAPI.php10.140.59.169	11-08-2023 12:56:54 PM	 queryScreen return from API - {
+    "ProductType":"PAN"
+}10.140.59.169	11-08-2023 01:10:02 PM	 queryScreen URL for API - http://10.150.146.12/UAT_BackEnd/General/UserWiseQcAPI.php10.140.59.169	11-08-2023 01:10:02 PM	 queryScreen return from API - {
+    "ProductType":"TAN"
+}10.140.59.169	11-08-2023 01:10:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.169	11-08-2023 01:10:52 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}

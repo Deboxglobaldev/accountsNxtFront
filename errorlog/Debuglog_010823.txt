@@ -1,0 +1,3620 @@
+10.140.59.28	01-08-2023 10:30:55 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.59.28	01-08-2023 10:30:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:30:55 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:31:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:31:11 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:31:11 AM	ui aG91c2Vy and pas dGVzdA==10.140.59.28	01-08-2023 10:31:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 10:31:11 AM	JSON POST : Array10.140.59.28	01-08-2023 10:31:11 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 10:31:11 AM	Json parting value10.140.59.28	01-08-2023 10:31:19 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:31:19 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:31:20 AM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.28	01-08-2023 10:31:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 10:31:20 AM	JSON POST : Array10.140.59.28	01-08-2023 10:31:20 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 10:31:20 AM	Json parting value10.140.59.28	01-08-2023 10:32:48 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.59.28	01-08-2023 10:32:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:32:48 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:33:04 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:33:04 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:33:05 AM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.28	01-08-2023 10:33:05 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 10:33:05 AM	JSON POST : Array10.140.59.28	01-08-2023 10:33:05 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 10:33:05 AM	Json parting value10.140.59.28	01-08-2023 10:33:27 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:33:27 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:33:28 AM	ui aG9leHByZXNzdXNlcjM= and pas dGVzdA==10.140.59.28	01-08-2023 10:33:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 10:33:28 AM	JSON POST : Array10.140.59.28	01-08-2023 10:33:28 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "46",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "HOUSER",
+    "UserName": "HO Express  [User-3]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.59.28	01-08-2023 10:33:28 AM	Json parting value34434510.140.59.28	01-08-2023 10:33:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:33:28 AM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.28	01-08-2023 10:33:29 AM	Session BranchId...HOUSER10.140.59.28	01-08-2023 10:33:29 AM	Session Type...HOUSER10.140.59.28	01-08-2023 10:33:29 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.28	01-08-2023 10:33:29 AM	JSON POST : { "UserType": "HOUSER", "UserId": "46", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.140.59.28	01-08-2023 10:33:30 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.28	01-08-2023 10:33:30 AM	JSON POST : 10.140.59.28	01-08-2023 10:33:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:33:44 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:33:45 AM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.28	01-08-2023 10:33:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 10:33:45 AM	JSON POST : Array10.140.59.28	01-08-2023 10:33:45 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 10:33:45 AM	Json parting value10.140.59.28	01-08-2023 10:33:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:33:59 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:34:00 AM	ui c3VwZXJhZG1pbg== and pas dGVzdA==10.140.59.28	01-08-2023 10:34:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 10:34:00 AM	JSON POST : Array10.140.59.28	01-08-2023 10:34:00 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "146",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "SUPER",
+    "UserName": "Super  Admin",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.59.28	01-08-2023 10:34:00 AM	Json parting value34434510.140.59.28	01-08-2023 10:34:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:34:00 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:34:06 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:34:06 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:34:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.140.59.28	01-08-2023 10:34:20 AM	JSON POST : {
+	"userGroupId" : "2"
+}10.140.59.28	01-08-2023 10:34:20 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "1"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        }
+    ]
+}10.140.59.28	01-08-2023 10:34:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:34:20 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:34:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.140.59.28	01-08-2023 10:34:50 AM	JSON POST : {
+	"userGroupId" : "2"
+}10.140.59.28	01-08-2023 10:34:50 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "1"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        }
+    ]
+}10.140.59.28	01-08-2023 10:34:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:34:50 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:34:53 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:34:53 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:35:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.140.59.28	01-08-2023 10:35:00 AM	JSON POST : {
+	"userGroupId" : "2"
+}10.140.59.28	01-08-2023 10:35:00 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "1"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        }
+    ]
+}10.140.59.28	01-08-2023 10:35:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:35:00 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:35:56 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:35:56 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:35:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.140.59.28	01-08-2023 10:35:59 AM	JSON POST : {
+	"userGroupId" : "2"
+}10.140.59.28	01-08-2023 10:35:59 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "1"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        }
+    ]
+}10.140.59.28	01-08-2023 10:35:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:35:59 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:37:12 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:37:12 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:37:31 AM	Response from setting api: {
+    "Id": "1",
+    "Name": "Religare",
+    "Data_Entry_Flag": "0"
+}10.140.59.28	01-08-2023 10:37:31 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:37:31 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:37:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:37:35 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:37:49 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:37:49 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:37:50 AM	ui aG91c2Vy and pas dGVzdA==10.140.59.28	01-08-2023 10:37:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 10:37:50 AM	JSON POST : Array10.140.59.28	01-08-2023 10:37:50 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 10:37:50 AM	Json parting value10.140.59.28	01-08-2023 10:38:05 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:38:05 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:38:05 AM	ui SE9VU0VSMQ== and pas dGVzdA==10.140.59.28	01-08-2023 10:38:05 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 10:38:05 AM	JSON POST : Array10.140.59.28	01-08-2023 10:38:05 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 10:38:05 AM	Json parting value10.140.59.28	01-08-2023 10:38:13 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:38:13 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:38:13 AM	ui SE9VU0VS and pas dGVzdA==10.140.59.28	01-08-2023 10:38:13 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 10:38:13 AM	JSON POST : Array10.140.59.28	01-08-2023 10:38:13 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 10:38:13 AM	Json parting value10.140.59.28	01-08-2023 10:38:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:38:15 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:38:15 AM	ui  and pas 10.140.59.28	01-08-2023 10:38:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 10:38:15 AM	JSON POST : Array10.140.59.28	01-08-2023 10:38:15 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 10:38:15 AM	Json parting value10.140.59.28	01-08-2023 10:41:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 10:41:00 AM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 10:41:01 AM	ui c3VwZXJhZG1pbg== and pas dGVzdA==10.140.59.28	01-08-2023 10:41:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 10:41:01 AM	JSON POST : Array10.140.59.28	01-08-2023 10:41:01 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "146",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "SUPER",
+    "UserName": "Super  Admin",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.59.28	01-08-2023 10:41:01 AM	Json parting value34434510.140.59.28	01-08-2023 10:41:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:41:01 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:41:16 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:41:16 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:41:18 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.140.59.28	01-08-2023 10:41:18 AM	JSON POST : {
+	"userGroupId" : "5"
+}10.140.59.28	01-08-2023 10:41:18 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "0"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "1"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "1"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "1"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "1"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "1"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "1"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "1"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "1"
+        }
+    ]
+}10.140.59.28	01-08-2023 10:41:18 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:41:18 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:41:49 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:41:49 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:41:52 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.140.59.28	01-08-2023 10:41:52 AM	JSON POST : {
+	"userGroupId" : "1"
+}10.140.59.28	01-08-2023 10:41:52 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "0"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "0"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "0"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "1"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "1"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        }
+    ]
+}10.140.59.28	01-08-2023 10:41:52 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:41:52 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:41:58 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:41:58 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 10:41:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.140.59.28	01-08-2023 10:41:59 AM	JSON POST : {
+	"userGroupId" : "2"
+}10.140.59.28	01-08-2023 10:41:59 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "1"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        }
+    ]
+}10.140.59.28	01-08-2023 10:41:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 10:41:59 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.135	01-08-2023 11:09:57 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.135	01-08-2023 11:09:57 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	01-08-2023 11:09:57 AM	JSON POST : {"data":"empty"}10.100.72.135	01-08-2023 11:10:57 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	01-08-2023 11:10:57 AM	JSON POST : {"data":"empty"}10.100.72.135	01-08-2023 11:10:57 AM	ui c3VwZXJhZG1pbg== and pas dGVzdA==10.100.72.135	01-08-2023 11:10:57 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.135	01-08-2023 11:10:57 AM	JSON POST : Array10.100.72.135	01-08-2023 11:10:57 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "146",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "SUPER",
+    "UserName": "Super  Admin",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.135	01-08-2023 11:10:57 AM	Json parting value34434510.100.72.135	01-08-2023 11:10:57 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	01-08-2023 11:10:57 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.135	01-08-2023 11:11:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	01-08-2023 11:11:11 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.135	01-08-2023 11:11:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.100.72.135	01-08-2023 11:11:22 AM	JSON POST : {
+	"userGroupId" : "2"
+}10.100.72.135	01-08-2023 11:11:22 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "1"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        }
+    ]
+}10.100.72.135	01-08-2023 11:11:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	01-08-2023 11:11:22 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.135	01-08-2023 11:11:34 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	01-08-2023 11:11:34 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.135	01-08-2023 11:11:42 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.100.72.135	01-08-2023 11:11:42 AM	JSON POST : {
+	"userGroupId" : "9"
+}10.100.72.135	01-08-2023 11:11:42 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "0"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "0"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "0"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "0"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        }
+    ]
+}10.100.72.135	01-08-2023 11:11:42 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	01-08-2023 11:11:42 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.135	01-08-2023 11:11:56 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	01-08-2023 11:11:56 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.135	01-08-2023 11:12:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.100.72.135	01-08-2023 11:12:01 AM	JSON POST : {
+	"userGroupId" : "2"
+}10.100.72.135	01-08-2023 11:12:01 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "1"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        }
+    ]
+}10.100.72.135	01-08-2023 11:12:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	01-08-2023 11:12:01 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.204	01-08-2023 11:14:38 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.204	01-08-2023 11:14:38 AM	JSON POST : {"data":"empty"}10.100.72.204	01-08-2023 11:15:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.204	01-08-2023 11:15:11 AM	JSON POST : {"data":"empty"}10.100.72.204	01-08-2023 11:15:12 AM	ui c3VwZXJhZG1pbg== and pas dGVzdA==10.100.72.204	01-08-2023 11:15:12 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.204	01-08-2023 11:15:12 AM	JSON POST : Array10.100.72.204	01-08-2023 11:15:12 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "146",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "SUPER",
+    "UserName": "Super  Admin",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.204	01-08-2023 11:15:12 AM	Json parting value34434510.100.72.204	01-08-2023 11:15:12 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.204	01-08-2023 11:15:12 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.204	01-08-2023 11:15:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.204	01-08-2023 11:15:20 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.204	01-08-2023 11:15:49 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.100.72.204	01-08-2023 11:15:49 AM	JSON POST : {
+	"userGroupId" : "9"
+}10.100.72.204	01-08-2023 11:15:49 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "0"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "0"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "0"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "0"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        }
+    ]
+}10.100.72.204	01-08-2023 11:15:49 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.204	01-08-2023 11:15:49 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.204	01-08-2023 11:16:13 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.100.72.204	01-08-2023 11:16:13 AM	JSON POST : {
+	"userGroupId" : "9"
+}10.100.72.204	01-08-2023 11:16:13 AM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "0"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "0"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "0"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "0"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        }
+    ]
+}10.100.72.204	01-08-2023 11:16:13 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.204	01-08-2023 11:16:13 AM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.135	01-08-2023 12:27:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.100.72.135	01-08-2023 12:27:44 PM	JSON POST : {
+	"userGroupId" : "2"
+}10.100.72.135	01-08-2023 12:27:44 PM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "1"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        },
+        {
+            "Id": "33",
+            "PageName": "Ack Wise Status Report",
+            "PageUrl": "ackwisestatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "34",
+            "PageName": "Query Screen Report",
+            "PageUrl": "queryscreenreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "35",
+            "PageName": "User Wise QC Report",
+            "PageUrl": "userwisereportqc.php",
+            "Status": "0"
+        },
+        {
+            "Id": "36",
+            "PageName": "Vendor Reconcilation Report",
+            "PageUrl": "vendorreconreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "37",
+            "PageName": "Download PDF\/A-1a",
+            "PageUrl": "pdf1adownloadfisher.php",
+            "Status": "0"
+        },
+        {
+            "Id": "38",
+            "PageName": "PDF\/A-1a Reports",
+            "PageUrl": "pdf1aconversion_report.php",
+            "Status": "0"
+        },
+        {
+            "Id": "39",
+            "PageName": "Status Report",
+            "PageUrl": "statusreport.php",
+            "Status": "0"
+        }
+    ]
+}10.100.72.135	01-08-2023 12:27:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	01-08-2023 12:27:44 PM	JSON POST : {
+			"userType" : "SUPER"
+		}10.100.72.135	01-08-2023 12:27:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	01-08-2023 12:27:59 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 01:59:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 01:59:35 PM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 01:59:36 PM	Session BranchId...10.140.59.28	01-08-2023 01:59:36 PM	Session Type...SUPER10.140.59.28	01-08-2023 01:59:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.28	01-08-2023 01:59:36 PM	JSON POST : { "UserType": "SUPER", "UserId": "146", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.59.28	01-08-2023 01:59:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.28	01-08-2023 01:59:36 PM	JSON POST : 10.140.59.28	01-08-2023 01:59:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 01:59:44 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 01:59:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 01:59:51 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 01:59:52 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.28	01-08-2023 01:59:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 01:59:52 PM	JSON POST : Array10.140.59.28	01-08-2023 01:59:52 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 01:59:52 PM	Json parting value10.140.59.28	01-08-2023 02:00:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 02:00:03 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 02:00:05 PM	ui c3VwZXJhZG1pbg== and pas dGVzdA==10.140.59.28	01-08-2023 02:00:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 02:00:05 PM	JSON POST : Array10.140.59.28	01-08-2023 02:00:05 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "146",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "SUPER",
+    "UserName": "Super  Admin",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.59.28	01-08-2023 02:00:05 PM	Json parting value34434510.140.59.28	01-08-2023 02:00:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 02:00:05 PM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 02:00:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 02:00:10 PM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 02:00:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.140.59.28	01-08-2023 02:00:13 PM	JSON POST : {
+	"userGroupId" : "2"
+}10.140.59.28	01-08-2023 02:00:13 PM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "1"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        },
+        {
+            "Id": "33",
+            "PageName": "Ack Wise Status Report",
+            "PageUrl": "ackwisestatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "34",
+            "PageName": "Query Screen Report",
+            "PageUrl": "queryscreenreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "35",
+            "PageName": "User Wise QC Report",
+            "PageUrl": "userwisereportqc.php",
+            "Status": "0"
+        },
+        {
+            "Id": "36",
+            "PageName": "Vendor Reconcilation Report",
+            "PageUrl": "vendorreconreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "37",
+            "PageName": "Download PDF\/A-1a",
+            "PageUrl": "pdf1adownloadfisher.php",
+            "Status": "0"
+        },
+        {
+            "Id": "38",
+            "PageName": "PDF\/A-1a Reports",
+            "PageUrl": "pdf1aconversion_report.php",
+            "Status": "0"
+        },
+        {
+            "Id": "39",
+            "PageName": "Status Report",
+            "PageUrl": "statusreport.php",
+            "Status": "0"
+        }
+    ]
+}10.140.59.28	01-08-2023 02:00:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 02:00:13 PM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 02:00:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 02:00:30 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 02:00:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 02:00:39 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 02:00:39 PM	ui SE9VU0VS and pas dGVzdA==10.140.59.28	01-08-2023 02:00:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 02:00:39 PM	JSON POST : Array10.140.59.28	01-08-2023 02:00:39 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 02:00:39 PM	Json parting value10.140.59.28	01-08-2023 02:00:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 02:00:47 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 02:00:48 PM	ui aG91c2Vy and pas dGVzdA==10.140.59.28	01-08-2023 02:00:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 02:00:48 PM	JSON POST : Array10.140.59.28	01-08-2023 02:00:48 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 02:00:48 PM	Json parting value10.140.59.28	01-08-2023 02:01:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 02:01:05 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 02:01:06 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.28	01-08-2023 02:01:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 02:01:06 PM	JSON POST : Array10.140.59.28	01-08-2023 02:01:06 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.140.59.28	01-08-2023 02:01:06 PM	Json parting value10.100.72.135	01-08-2023 02:47:22 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.135	01-08-2023 02:47:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	01-08-2023 02:47:22 PM	JSON POST : {"data":"empty"}10.100.72.135	01-08-2023 02:47:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	01-08-2023 02:47:27 PM	JSON POST : {"data":"empty"}10.100.72.135	01-08-2023 02:47:28 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.135	01-08-2023 02:47:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.135	01-08-2023 02:47:28 PM	JSON POST : Array10.100.72.135	01-08-2023 02:47:28 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "HOUSER",
+    "UserName": "HO User [1]  ",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.135	01-08-2023 02:47:28 PM	Json parting value34434510.100.72.135	01-08-2023 02:47:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.135	01-08-2023 02:47:28 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.135	01-08-2023 02:47:29 PM	Session BranchId...HOUSER10.100.72.135	01-08-2023 02:47:29 PM	Session Type...HOUSER10.100.72.135	01-08-2023 02:47:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.135	01-08-2023 02:47:29 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.100.72.135	01-08-2023 02:47:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.135	01-08-2023 02:47:30 PM	JSON POST : 10.100.50.146	01-08-2023 02:56:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	01-08-2023 02:56:52 PM	JSON POST : {"data":"empty"}10.100.50.146	01-08-2023 02:57:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	01-08-2023 02:57:21 PM	JSON POST : {"data":"empty"}10.100.50.146	01-08-2023 02:57:22 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.50.146	01-08-2023 02:57:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.50.146	01-08-2023 02:57:22 PM	JSON POST : Array10.100.50.146	01-08-2023 02:57:22 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Branch User  [Branch - 25536]",
+    "RegionId": "2",
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.50.146	01-08-2023 02:57:22 PM	Json parting value2553610.100.50.146	01-08-2023 02:57:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	01-08-2023 02:57:22 PM	JSON POST : {"data":"empty"}10.100.50.146	01-08-2023 02:57:23 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.50.146	01-08-2023 02:57:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.50.146	01-08-2023 02:57:23 PM	JSON POST : Array10.100.50.146	01-08-2023 02:57:23 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Branch User  [Branch - 25536]",
+    "RegionId": "2",
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.50.146	01-08-2023 02:57:23 PM	Json parting value2553610.100.50.146	01-08-2023 02:57:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	01-08-2023 02:57:23 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	01-08-2023 02:57:24 PM	Session BranchId...2553610.100.50.146	01-08-2023 02:57:24 PM	Session Type...BRANCH10.100.50.146	01-08-2023 02:57:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.146	01-08-2023 02:57:24 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.146	01-08-2023 02:57:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.146	01-08-2023 02:57:26 PM	JSON POST : 10.100.50.146	01-08-2023 02:57:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	01-08-2023 02:57:51 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.140.59.28	01-08-2023 03:50:26 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.59.28	01-08-2023 03:50:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 03:50:26 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 03:50:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 03:50:39 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 03:50:39 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.28	01-08-2023 03:50:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 03:50:39 PM	JSON POST : Array10.140.59.28	01-08-2023 03:50:39 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "HOUSER",
+    "UserName": "HO User [1]  ",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.59.28	01-08-2023 03:50:39 PM	Json parting value34434510.140.59.28	01-08-2023 03:50:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 03:50:40 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.28	01-08-2023 03:50:40 PM	Session BranchId...HOUSER10.140.59.28	01-08-2023 03:50:40 PM	Session Type...HOUSER10.140.59.28	01-08-2023 03:50:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.28	01-08-2023 03:50:40 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.140.59.28	01-08-2023 03:50:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.28	01-08-2023 03:50:41 PM	JSON POST : 10.140.59.28	01-08-2023 03:51:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 03:51:11 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 03:51:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 03:51:21 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 03:51:21 PM	ui c3VwZXJhZG1pbg== and pas dGVzdA==10.140.59.28	01-08-2023 03:51:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 03:51:21 PM	JSON POST : Array10.140.59.28	01-08-2023 03:51:21 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "146",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "SUPER",
+    "UserName": "Super  Admin",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.59.28	01-08-2023 03:51:21 PM	Json parting value34434510.140.59.28	01-08-2023 03:51:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 03:51:21 PM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 03:51:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 03:51:30 PM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 03:51:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.140.59.28	01-08-2023 03:51:51 PM	JSON POST : {
+	"userGroupId" : "2"
+}10.140.59.28	01-08-2023 03:51:51 PM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "1"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        },
+        {
+            "Id": "33",
+            "PageName": "Ack Wise Status Report",
+            "PageUrl": "ackwisestatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "34",
+            "PageName": "Query Screen Report",
+            "PageUrl": "queryscreenreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "35",
+            "PageName": "User Wise QC Report",
+            "PageUrl": "userwisereportqc.php",
+            "Status": "0"
+        },
+        {
+            "Id": "36",
+            "PageName": "Vendor Reconcilation Report",
+            "PageUrl": "vendorreconreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "37",
+            "PageName": "Download PDF\/A-1a",
+            "PageUrl": "pdf1adownloadfisher.php",
+            "Status": "0"
+        },
+        {
+            "Id": "38",
+            "PageName": "PDF\/A-1a Reports",
+            "PageUrl": "pdf1aconversion_report.php",
+            "Status": "0"
+        },
+        {
+            "Id": "39",
+            "PageName": "Status Report",
+            "PageUrl": "statusreport.php",
+            "Status": "0"
+        }
+    ]
+}10.140.59.28	01-08-2023 03:51:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 03:51:51 PM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 03:52:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.140.59.28	01-08-2023 03:52:01 PM	JSON POST : {
+	"Status" : "single",
+	"listOfData" : [{
+		"Status" : "1",
+		"userGroupId" : "2",
+		"userPageId" : "33"
+	}]
+}10.140.59.28	01-08-2023 03:52:04 PM	Response return CHANGE PERMISSION API: {
+    "Status": "1"
+}10.140.59.28	01-08-2023 03:52:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.140.59.28	01-08-2023 03:52:08 PM	JSON POST : {
+	"Status" : "single",
+	"listOfData" : [{
+		"Status" : "1",
+		"userGroupId" : "2",
+		"userPageId" : "34"
+	}]
+}10.140.59.28	01-08-2023 03:52:08 PM	Response return CHANGE PERMISSION API: {
+    "Status": "1"
+}10.140.59.28	01-08-2023 03:52:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.140.59.28	01-08-2023 03:52:10 PM	JSON POST : {
+	"Status" : "single",
+	"listOfData" : [{
+		"Status" : "1",
+		"userGroupId" : "2",
+		"userPageId" : "35"
+	}]
+}10.140.59.28	01-08-2023 03:52:10 PM	Response return CHANGE PERMISSION API: {
+    "Status": "1"
+}10.140.59.28	01-08-2023 03:52:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.140.59.28	01-08-2023 03:52:11 PM	JSON POST : {
+	"Status" : "single",
+	"listOfData" : [{
+		"Status" : "1",
+		"userGroupId" : "2",
+		"userPageId" : "36"
+	}]
+}10.140.59.28	01-08-2023 03:52:11 PM	Response return CHANGE PERMISSION API: {
+    "Status": "1"
+}10.140.59.28	01-08-2023 03:52:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.140.59.28	01-08-2023 03:52:14 PM	JSON POST : {
+	"Status" : "single",
+	"listOfData" : [{
+		"Status" : "1",
+		"userGroupId" : "2",
+		"userPageId" : "37"
+	}]
+}10.140.59.28	01-08-2023 03:52:14 PM	Response return CHANGE PERMISSION API: {
+    "Status": "1"
+}10.140.59.28	01-08-2023 03:52:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.140.59.28	01-08-2023 03:52:15 PM	JSON POST : {
+	"Status" : "single",
+	"listOfData" : [{
+		"Status" : "1",
+		"userGroupId" : "2",
+		"userPageId" : "38"
+	}]
+}10.140.59.28	01-08-2023 03:52:15 PM	Response return CHANGE PERMISSION API: {
+    "Status": "1"
+}10.140.59.28	01-08-2023 03:52:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userManageAPI.php10.140.59.28	01-08-2023 03:52:17 PM	JSON POST : {
+	"Status" : "single",
+	"listOfData" : [{
+		"Status" : "1",
+		"userGroupId" : "2",
+		"userPageId" : "39"
+	}]
+}10.140.59.28	01-08-2023 03:52:17 PM	Response return CHANGE PERMISSION API: {
+    "Status": "1"
+}10.140.59.28	01-08-2023 04:41:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 04:41:45 PM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 04:41:46 PM	Session BranchId...10.140.59.28	01-08-2023 04:41:46 PM	Session Type...SUPER10.140.59.28	01-08-2023 04:41:46 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.28	01-08-2023 04:41:46 PM	JSON POST : { "UserType": "SUPER", "UserId": "146", "UserTypeId": "", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.59.28	01-08-2023 04:41:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.28	01-08-2023 04:41:50 PM	JSON POST : 10.140.59.28	01-08-2023 04:42:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 04:42:35 PM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 04:42:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userPageAPI.php10.140.59.28	01-08-2023 04:42:37 PM	JSON POST : {
+	"userGroupId" : "2"
+}10.140.59.28	01-08-2023 04:42:37 PM	RESPONSE RETURN FROM USER PAGE API: {
+    "Status": "1",
+    "DataTable": [
+        {
+            "Id": "1",
+            "PageName": "Dashboard",
+            "PageUrl": "index.php",
+            "Status": "1"
+        },
+        {
+            "Id": "2",
+            "PageName": "Bulk Upload PAN",
+            "PageUrl": "bulkuploaddata.php",
+            "Status": "1"
+        },
+        {
+            "Id": "3",
+            "PageName": "Bulk Upload TAN",
+            "PageUrl": "bulkuploaddatatan.php",
+            "Status": "1"
+        },
+        {
+            "Id": "5",
+            "PageName": "Branch Master",
+            "PageUrl": "listbranch.php",
+            "Status": "1"
+        },
+        {
+            "Id": "6",
+            "PageName": "Region Master",
+            "PageUrl": "listregion.php",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "PageName": "Rejection Reason Master",
+            "PageUrl": "listrejectionreason.php",
+            "Status": "0"
+        },
+        {
+            "Id": "8",
+            "PageName": "Vendor Master",
+            "PageUrl": "listvendors.php",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "PageName": "Religare Office",
+            "PageUrl": "listrloffice.php",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "PageName": "Export NSDL Rejection",
+            "PageUrl": "exportnsdlrejection.php",
+            "Status": "0"
+        },
+        {
+            "Id": "12",
+            "PageName": "Batch Status Report",
+            "PageUrl": "batchstatusreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "13",
+            "PageName": "Export PDF\/A-1a",
+            "PageUrl": "downloadpdf1a.php",
+            "Status": "0"
+        },
+        {
+            "Id": "14",
+            "PageName": "Batch Dashboard",
+            "PageUrl": "selecttoexport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "15",
+            "PageName": "NSDL Single Batch File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "16",
+            "PageName": "NSDL Accecpted File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "17",
+            "PageName": "NSDL Allotment File Upload [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "18",
+            "PageName": "Batch Status [PAN]",
+            "PageUrl": "nsdlstagesubmit.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "19",
+            "PageName": "NSDL Single Batch File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchfile",
+            "Status": "0"
+        },
+        {
+            "Id": "20",
+            "PageName": "NSDL Accecpted File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=accecptedfile",
+            "Status": "0"
+        },
+        {
+            "Id": "21",
+            "PageName": "NSDL Allotment File Upload [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=allotmentfile",
+            "Status": "0"
+        },
+        {
+            "Id": "22",
+            "PageName": "Batch Status [TAN]",
+            "PageUrl": "nsdlstagesubmittan.php?type=batchstatusfile",
+            "Status": "0"
+        },
+        {
+            "Id": "23",
+            "PageName": "Audit Trail",
+            "PageUrl": "auditTrail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "PageName": "Rejection Intimation Report",
+            "PageUrl": "listMail.php",
+            "Status": "0"
+        },
+        {
+            "Id": "24",
+            "PageName": "Daily PAN Discrepancy Report",
+            "PageUrl": "rejectionreport.php",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "PageName": "MIS Upload PAN\/TAN",
+            "PageUrl": "missubmit.php?t=1",
+            "Status": "0"
+        },
+        {
+            "Id": "25",
+            "PageName": "PAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmit.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "26",
+            "PageName": "TAN PDF1A Response Upload",
+            "PageUrl": "nsdlstagesubmittan.php?type=pdf1afile",
+            "Status": "0"
+        },
+        {
+            "Id": "27",
+            "PageName": "Document Management",
+            "PageUrl": "docmanagement.php",
+            "Status": "0"
+        },
+        {
+            "Id": "28",
+            "PageName": "Courier List",
+            "PageUrl": "courierlist.php",
+            "Status": "0"
+        },
+        {
+            "Id": "29",
+            "PageName": "Courier Receiving",
+            "PageUrl": "courierreceiving.php",
+            "Status": "0"
+        },
+        {
+            "Id": "30",
+            "PageName": "MIS Upload eTDS",
+            "PageUrl": "missubmit.php?t=2",
+            "Status": "0"
+        },
+        {
+            "Id": "31",
+            "PageName": "MIS Upload 24G",
+            "PageUrl": "missubmit.php?t=3",
+            "Status": "0"
+        },
+        {
+            "Id": "32",
+            "PageName": "Mobile MIS Upload PAN",
+            "PageUrl": "mobilemissubmit.php",
+            "Status": "0"
+        },
+        {
+            "Id": "33",
+            "PageName": "Ack Wise Status Report",
+            "PageUrl": "ackwisestatusreport.php",
+            "Status": "1"
+        },
+        {
+            "Id": "34",
+            "PageName": "Query Screen Report",
+            "PageUrl": "queryscreenreport.php",
+            "Status": "1"
+        },
+        {
+            "Id": "35",
+            "PageName": "User Wise QC Report",
+            "PageUrl": "userwisereportqc.php",
+            "Status": "1"
+        },
+        {
+            "Id": "36",
+            "PageName": "Vendor Reconcilation Report",
+            "PageUrl": "vendorreconreport.php",
+            "Status": "1"
+        },
+        {
+            "Id": "37",
+            "PageName": "Download PDF\/A-1a",
+            "PageUrl": "pdf1adownloadfisher.php",
+            "Status": "1"
+        },
+        {
+            "Id": "38",
+            "PageName": "PDF\/A-1a Reports",
+            "PageUrl": "pdf1aconversion_report.php",
+            "Status": "1"
+        },
+        {
+            "Id": "39",
+            "PageName": "Status Report",
+            "PageUrl": "statusreport.php",
+            "Status": "1"
+        }
+    ]
+}10.140.59.28	01-08-2023 04:42:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 04:42:37 PM	JSON POST : {
+			"userType" : "SUPER"
+		}10.140.59.28	01-08-2023 04:42:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 04:42:44 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 04:42:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 04:42:50 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 04:43:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.140.59.28	01-08-2023 04:43:00 PM	JSON POST : {"data":"empty"}10.140.59.28	01-08-2023 04:43:00 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.28	01-08-2023 04:43:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.28	01-08-2023 04:43:00 PM	JSON POST : Array10.140.59.28	01-08-2023 04:43:00 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "HOUSER",
+    "UserName": "HO User [1]  ",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.59.28	01-08-2023 04:43:00 PM	Json parting value34434510.140.59.28	01-08-2023 04:43:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 04:43:00 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.28	01-08-2023 04:43:01 PM	Session BranchId...HOUSER10.140.59.28	01-08-2023 04:43:01 PM	Session Type...HOUSER10.140.59.28	01-08-2023 04:43:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.28	01-08-2023 04:43:01 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.140.59.28	01-08-2023 04:43:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.28	01-08-2023 04:43:01 PM	JSON POST : 10.140.59.28	01-08-2023 04:43:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 04:43:07 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.28	01-08-2023 04:43:21 PM	 PAN/TAN Ack wise status URL for API - http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.28	01-08-2023 04:43:21 PM	 PAN/TAN Ack wise status return from API - {
+    "BranchCode":"all",
+    "fromDate":"2023-07-01",
+    "toDate":"2023-08-01",
+    "DateType":"1",
+    "AckNo":"",
+    "ProductType":"PAN"
+    
+}10.140.59.28	01-08-2023 04:43:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 04:43:41 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.28	01-08-2023 04:43:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 04:43:43 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.28	01-08-2023 04:43:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.28	01-08-2023 04:43:44 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.28	01-08-2023 04:43:44 PM	Session BranchId...HOUSER10.140.59.28	01-08-2023 04:43:44 PM	Session Type...HOUSER10.140.59.28	01-08-2023 04:43:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.28	01-08-2023 04:43:44 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.140.59.28	01-08-2023 04:43:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.28	01-08-2023 04:43:45 PM	JSON POST : 10.110.11.15	01-08-2023 06:34:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	01-08-2023 06:34:40 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}

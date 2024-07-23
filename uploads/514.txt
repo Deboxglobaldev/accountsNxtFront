@@ -1,0 +1,343 @@
+PAN File Validation Utility Version  2.19 Date : Thu Mar 03 19:36:41 GMT+05:30 
+2022 
+
+
+Input File Name: 09900P_000514.txt_11211053.PAN 
+
+Out File Name:11211053_Resp.html 
+ 
+
+ File Order No:11211053     File Type: Change Request PAN Application     Upload 
+Type: Regular     Agent ID: 09      User ID: 09900P    No of Records: 29
+
+ 
+
+
+      Line Number
+
+      Field Name
+
+      Field Value
+
+      Response Code
+
+      Response Description
+
+
+      2
+
+      Acknowledgement No.
+
+      098279700615961
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      3
+
+      Acknowledgement No.
+
+      098279700615994
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      4
+
+      Acknowledgement No.
+
+      098279700616005
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      5
+
+      Acknowledgement No.
+
+      098279700616016
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      6
+
+      Acknowledgement No.
+
+      098279700616020
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      7
+
+      Acknowledgement No.
+
+      098279700616031
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      8
+
+      Acknowledgement No.
+
+      098279700616101
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      9
+
+      Acknowledgement No.
+
+      098279700616123
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      10
+
+      Acknowledgement No.
+
+      098279700616160
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      11
+
+      Acknowledgement No.
+
+      098279700616171
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      12
+
+      Acknowledgement No.
+
+      098279700616182
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      13
+
+      Acknowledgement No.
+
+      098279700616193
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      14
+
+      Acknowledgement No.
+
+      098279700616241
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      15
+
+      Acknowledgement No.
+
+      098279700616274
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      16
+
+      Acknowledgement No.
+
+      098279700616285
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      17
+
+      Acknowledgemnt No.
+
+      098279700616311
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      18
+
+      Acknowledgemnt No.
+
+      098279700616333
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      19
+
+      Acknowledgemnt No.
+
+      098279700616344
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      20
+
+      Acknowledgemnt No.
+
+      098279700616355
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      21
+
+      Acknowledgemnt No.
+
+      098279700616392
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      22
+
+      Acknowledgemnt No.
+
+      098279700616414
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      23
+
+      Acknowledgemnt No.
+
+      098279700616425
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      24
+
+      Acknowledgemnt No.
+
+      098279700616436
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      25
+
+      Acknowledgemnt No.
+
+      098279700616543
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      26
+
+      Acknowledgemnt No.
+
+      098279700616650
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      27
+
+      Acknowledgemnt No.
+
+      098279700616672
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      28
+
+      Acknowledgemnt No.
+
+      098279700616683
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      29
+
+      Acknowledgemnt No.
+
+      098279700616731
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      30
+
+      Acknowledgemnt No.
+
+      098279700616786
+
+      PCDBH78002
+
+      Record inserted succesfully

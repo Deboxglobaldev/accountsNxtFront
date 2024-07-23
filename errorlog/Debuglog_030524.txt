@@ -1,0 +1,3 @@
+10.100.21.52	03-05-2024 05:47:12 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	03-05-2024 05:47:12 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.21.52	03-05-2024 05:47:16 PM	Session BranchId...houser10.100.21.52	03-05-2024 05:47:16 PM	Session Type...HOUSER10.100.21.52	03-05-2024 05:47:16 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	03-05-2024 05:47:16 PM	JSON POST : { "UserType": "HOUSER", "UserId": "48", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.21.52	03-05-2024 05:47:16 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	03-05-2024 05:47:16 PM	JSON POST : 

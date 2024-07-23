@@ -1,0 +1,1571 @@
+10.140.36.157	23-02-2024 04:06:07 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.140.36.157	23-02-2024 04:06:12 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	23-02-2024 04:06:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	23-02-2024 04:06:12 PM	JSON POST : Array10.140.36.157	23-02-2024 04:06:12 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.157	23-02-2024 04:06:12 PM	Json parting value34434510.140.36.157	23-02-2024 04:06:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:06:12 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	23-02-2024 04:06:15 PM	Session BranchId...houser10.140.36.157	23-02-2024 04:06:15 PM	Session Type...HOUSER10.140.36.157	23-02-2024 04:06:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 04:06:15 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	23-02-2024 04:06:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	23-02-2024 04:06:15 PM	JSON POST : 10.140.36.157	23-02-2024 04:06:43 PM	ui YmF0Y2h1c2VyMDE= and pas cmVsaWdhcmVAMTIz10.140.36.157	23-02-2024 04:06:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	23-02-2024 04:06:43 PM	JSON POST : Array10.140.36.157	23-02-2024 04:06:43 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "7",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BCP",
+    "UserName": "Surender Verma  [Batch User-1]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	23-02-2024 04:06:43 PM	Json parting value34434510.140.36.157	23-02-2024 04:06:43 PM	Session BranchId...BCP10.140.36.157	23-02-2024 04:06:43 PM	Session Type...BCP10.140.36.157	23-02-2024 04:06:43 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 04:06:43 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 04:06:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:06:43 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:07:14 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"25977470001033"},{"AcknowledgementNumber":"62369470000596"},{"AcknowledgementNumber":"33484470001905"},{"AcknowledgementNumber":"33426470027086"},{"AcknowledgementNumber":"33326470012463"},{"AcknowledgementNumber":"09918470035051"},{"AcknowledgementNumber":"19412470052673"},{"AcknowledgementNumber":"19412470052695"},{"AcknowledgementNumber":"62315470000243"},{"AcknowledgementNumber":"25977470001044"},{"AcknowledgementNumber":"25512470031381"},{"AcknowledgementNumber":"25099470008502"}]
+	}10.140.36.157	23-02-2024 04:07:14 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataTanAPI.php10.140.36.157	23-02-2024 04:07:14 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^002^09^1",
+            "BactID": "000112",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09918470035051",
+                    "BatchString": "2^BH^1^DEL^W^79^3^g^^^^^^^^^^^^^^TAQWA TOURS CORPORATION^1636^KUCHA DAKHNI RAI^DARYAGANJ^^NEW DELHI^9^110002^91^9810294348^0^AAFFT7329A^^^30122023^MOHD GHUFAM^PARTNER^30122023^NEW DELHI^30122023^09918470035051^TAQWATOURS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^003^19^2",
+            "BactID": "000113",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052673",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^3^^^^^^^^^GABA^USHA^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ALKPG2028J^^^30122023^USHA GABA^INDIVIDUAL^30122023^DELHI^30122023^19412470052673^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052695",
+                    "BatchString": "3^BH^2^DEL^W^79^3^e^10^2^^^^^^^^^GABA^VIKAS^^^189^THIRD FLOOR AVTAR ENGLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ACKPG2547A^^^30122023^VIKAS GABA^INIDVIDUAL^30122023^DELHI^30122023^19412470052695^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^004^25^4",
+            "BactID": "000114",
+            "TotalRecord": 4,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "25099470008502",
+                    "BatchString": "2^BH^1^GUJ^WT^414^1^e^10^3^^^^^^^^^PATEL^MIHIRKUMAR^AMBALAL^^F-2^SM COMPLEX^DUDHSAGAR DAIRY^AHMEDABAD PALANPUR HIGHY^MEHSANA^11^384002^091^9687690508^0^CVKPP1954K^^^30122023^MINIR A PATEL^PROPRITOR^30122023^MEHSANA^30122023^25099470008502^KMPATELACC1@GMAIL.COM^^^",
+                    "Stage": "I~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25512470031381",
+                    "BatchString": "3^BH^2^LKN^WT^15^1^g^^^^^^^^^^^^^^HIGHWAY TYRES^24^SWALEY NAGAR^OPP GULATI DHARAM^KANTA BAREILLY^BAREILLY^31^243001^91^9897267154^0^AAEFH8780Q^^^30122023^IZHAR AHMAD KHAN^PARTNERSHIP^30122023^DELHI^30122023^25512470031381^KHANIZHAR77IK@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001033",
+                    "BatchString": "4^BH^3^KAR^CT^181^4^g^^^^^^^^^^^^^^SHRAVANA KUMAR'S TRUST^NO 1757^7TH MAIN^BENDI INDIA BANK^JUDICIAL LAYOUT YELAHANK^BANGALORE^15^560065^91^8553289956^0^ABHTS5043B^^^30122023^SHARAVAN KUMAR S^PARTNER^30122023^BANGALORE^30122023^25977470001033^SP.SUBRAMANYA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001044",
+                    "BatchString": "5^BH^4^KAR^CT^181^4^g^^^^^^^^^^^^^^MUDLINE CONSTRUCTIONS^NO 127\/S SECOND FLOOR^NANJPPA MAIN ROAD^2ND BLOCK BEL LAYOUT^VIDYARANYAPURA^BENGALURU^15^560097^91^9742351232^0^ABZFM2314D^^^30122023^MUDLINECONSTRUCTIONS^PARTNER^30122023^BANGLURU^30122023^25977470001044^INFO@CSACQ.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^005^33^2",
+            "BactID": "000115",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027086",
+                    "BatchString": "2^BH^1^WBG^WT^161^4^g^^^^^^^^^^^^^^HANDLOOM LUNGI CENTRE^ROOM 147 148^16 PAGEYA PUTTY STRESS^^^KOLKATA^32^700007^91^9830059049^0^^^^30122023^SUDARLAM S^PARTNER^30122023^KOLKATA^30122023^33426470027086^SUDARSHAN_SARDA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "33484470001905",
+                    "BatchString": "3^BH^2^APR^WT^96^5^e^10^2^^^^^^^^^TUMMALAPALLI^PRASAD^^^32-8-10\/1^PALLEPU VARI ST REET^NEAR BOYS HIGH SCHOL BACK^TANUKU^WEST GODAVARI^2^534211^91^9849221131^0^ADIPT5157C^^^30122023^TUMMALAPALLI PRASAD^INDIVIDUAL^30122023^WEST GODAWARI^30122023^33484470001905^PRASAD.COLPAL@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^006^62^2",
+            "BactID": "000116",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62315470000243",
+                    "BatchString": "2^BH^1^BPL^CT^110^1^e^10^2^^^^^^^^^AGRAWAL^ADITYA^^^A-2^MAHARAJA APARTMENT^SHAKAR NAGAR^^RAIPUR^33^492007^91^9826122296^0^CIFPA1820B^^^30122023^ADITYA AGRAWAL^PROPRITER^30122023^CUTTACK^30122023^62315470000243^ADITYA.AGRAWAL127@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "62369470000596",
+                    "BatchString": "3^BH^2^KNP^WT^96^2^g^^^^^^^^^^^^^^SOAN BRANDS^H 80 UPPER GROUND^GAUR GREEN CITY`^VAIBHAV KHAND^ENDIRAPURAM^GHAZIABAD^31^201014^91^9818947122^0^^^^30122023^SONIA GULATI^PARTNER^30122023^GHAZIABAD^30122023^62369470000596^LOVE.GULATI2610@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^007^33^1",
+            "BactID": "000117",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33326470012463",
+                    "BatchString": "2^BH^1^JBPT01322G^Y^c^N^^^^^^^DIRECTOR^TOP NOTCH LIFESTYLE PRIVATE LIMITED^^^^^^^N^TOP NOTCH LIFESTYLE^PRINATE LIMITED^C\/O GOPAL DAS MAKHIJA^PLOT NO 5 AVINASH^RAIPUR^33^492001^91^8602000006^N^0^N^AAGCI0608H^N^^^^^RAM^DIRECTOR^30122023^RAIPUR^30122023^33326470012463^TOPNOTCHLICESTYLE01@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	23-02-2024 04:07:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:07:14 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:10:12 PM	Session BranchId...BCP10.140.36.157	23-02-2024 04:10:12 PM	Session Type...BCP10.140.36.157	23-02-2024 04:10:12 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 04:10:12 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 04:10:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:10:12 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:10:24 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"25977470001033"},{"AcknowledgementNumber":"62369470000596"},{"AcknowledgementNumber":"33484470001905"},{"AcknowledgementNumber":"33426470027086"},{"AcknowledgementNumber":"33326470012463"},{"AcknowledgementNumber":"09918470035051"},{"AcknowledgementNumber":"19412470052673"},{"AcknowledgementNumber":"19412470052695"},{"AcknowledgementNumber":"62315470000243"},{"AcknowledgementNumber":"25977470001044"},{"AcknowledgementNumber":"25512470031381"},{"AcknowledgementNumber":"25099470008502"}]
+	}10.140.36.157	23-02-2024 04:10:24 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataTanAPI.php10.140.36.157	23-02-2024 04:10:24 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^008^09^1",
+            "BactID": "000118",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09918470035051",
+                    "BatchString": "2^BH^1^DEL^W^79^3^g^^^^^^^^^^^^^^TAQWA TOURS CORPORATION^1636^KUCHA DAKHNI RAI^DARYAGANJ^^NEW DELHI^9^110002^91^9810294348^0^AAFFT7329A^^^30122023^MOHD GHUFAM^PARTNER^30122023^NEW DELHI^30122023^09918470035051^TAQWATOURS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^009^19^2",
+            "BactID": "000119",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052673",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^3^^^^^^^^^GABA^USHA^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ALKPG2028J^^^30122023^USHA GABA^INDIVIDUAL^30122023^DELHI^30122023^19412470052673^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052695",
+                    "BatchString": "3^BH^2^DEL^W^79^3^e^10^2^^^^^^^^^GABA^VIKAS^^^189^THIRD FLOOR AVTAR ENGLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ACKPG2547A^^^30122023^VIKAS GABA^INIDVIDUAL^30122023^DELHI^30122023^19412470052695^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^010^25^4",
+            "BactID": "000120",
+            "TotalRecord": 4,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "25099470008502",
+                    "BatchString": "2^BH^1^GUJ^WT^414^1^e^10^3^^^^^^^^^PATEL^MIHIRKUMAR^AMBALAL^^F-2^SM COMPLEX^DUDHSAGAR DAIRY^AHMEDABAD PALANPUR HIGHY^MEHSANA^11^384002^091^9687690508^0^CVKPP1954K^^^30122023^MINIR A PATEL^PROPRITOR^30122023^MEHSANA^30122023^25099470008502^KMPATELACC1@GMAIL.COM^^^",
+                    "Stage": "I~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25512470031381",
+                    "BatchString": "3^BH^2^LKN^WT^15^1^g^^^^^^^^^^^^^^HIGHWAY TYRES^24^SWALEY NAGAR^OPP GULATI DHARAM^KANTA BAREILLY^BAREILLY^31^243001^91^9897267154^0^AAEFH8780Q^^^30122023^IZHAR AHMAD KHAN^PARTNERSHIP^30122023^DELHI^30122023^25512470031381^KHANIZHAR77IK@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001033",
+                    "BatchString": "4^BH^3^KAR^CT^181^4^g^^^^^^^^^^^^^^SHRAVANA KUMAR'S TRUST^NO 1757^7TH MAIN^BENDI INDIA BANK^JUDICIAL LAYOUT YELAHANK^BANGALORE^15^560065^91^8553289956^0^ABHTS5043B^^^30122023^SHARAVAN KUMAR S^PARTNER^30122023^BANGALORE^30122023^25977470001033^SP.SUBRAMANYA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001044",
+                    "BatchString": "5^BH^4^KAR^CT^181^4^g^^^^^^^^^^^^^^MUDLINE CONSTRUCTIONS^NO 127\/S SECOND FLOOR^NANJPPA MAIN ROAD^2ND BLOCK BEL LAYOUT^VIDYARANYAPURA^BENGALURU^15^560097^91^9742351232^0^ABZFM2314D^^^30122023^MUDLINECONSTRUCTIONS^PARTNER^30122023^BANGLURU^30122023^25977470001044^INFO@CSACQ.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^011^33^2",
+            "BactID": "000121",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027086",
+                    "BatchString": "2^BH^1^WBG^WT^161^4^g^^^^^^^^^^^^^^HANDLOOM LUNGI CENTRE^ROOM 147 148^16 PAGEYA PUTTY STRESS^^^KOLKATA^32^700007^91^9830059049^0^^^^30122023^SUDARLAM S^PARTNER^30122023^KOLKATA^30122023^33426470027086^SUDARSHAN_SARDA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "33484470001905",
+                    "BatchString": "3^BH^2^APR^WT^96^5^e^10^2^^^^^^^^^TUMMALAPALLI^PRASAD^^^32-8-10\/1^PALLEPU VARI ST REET^NEAR BOYS HIGH SCHOL BACK^TANUKU^WEST GODAVARI^2^534211^91^9849221131^0^ADIPT5157C^^^30122023^TUMMALAPALLI PRASAD^INDIVIDUAL^30122023^WEST GODAWARI^30122023^33484470001905^PRASAD.COLPAL@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^012^62^2",
+            "BactID": "000122",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62315470000243",
+                    "BatchString": "2^BH^1^BPL^CT^110^1^e^10^2^^^^^^^^^AGRAWAL^ADITYA^^^A-2^MAHARAJA APARTMENT^SHAKAR NAGAR^^RAIPUR^33^492007^91^9826122296^0^CIFPA1820B^^^30122023^ADITYA AGRAWAL^PROPRITER^30122023^CUTTACK^30122023^62315470000243^ADITYA.AGRAWAL127@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "62369470000596",
+                    "BatchString": "3^BH^2^KNP^WT^96^2^g^^^^^^^^^^^^^^SOAN BRANDS^H 80 UPPER GROUND^GAUR GREEN CITY`^VAIBHAV KHAND^ENDIRAPURAM^GHAZIABAD^31^201014^91^9818947122^0^^^^30122023^SONIA GULATI^PARTNER^30122023^GHAZIABAD^30122023^62369470000596^LOVE.GULATI2610@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^013^33^1",
+            "BactID": "000123",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33326470012463",
+                    "BatchString": "2^BH^1^JBPT01322G^Y^c^N^^^^^^^DIRECTOR^TOP NOTCH LIFESTYLE PRIVATE LIMITED^^^^^^^N^TOP NOTCH LIFESTYLE^PRINATE LIMITED^C\/O GOPAL DAS MAKHIJA^PLOT NO 5 AVINASH^RAIPUR^33^492001^91^8602000006^N^0^N^AAGCI0608H^N^^^^^RAM^DIRECTOR^30122023^RAIPUR^30122023^33326470012463^TOPNOTCHLICESTYLE01@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	23-02-2024 04:10:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:10:24 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:14:35 PM	Session BranchId...BCP10.140.36.157	23-02-2024 04:14:35 PM	Session Type...BCP10.140.36.157	23-02-2024 04:14:35 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 04:14:35 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 04:14:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:14:35 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:15:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:15:08 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:15:27 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	23-02-2024 04:15:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	23-02-2024 04:15:27 PM	JSON POST : Array10.140.36.157	23-02-2024 04:15:27 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.157	23-02-2024 04:15:27 PM	Json parting value34434510.140.36.157	23-02-2024 04:15:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:15:27 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	23-02-2024 04:15:27 PM	Session BranchId...houser10.140.36.157	23-02-2024 04:15:27 PM	Session Type...HOUSER10.140.36.157	23-02-2024 04:15:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 04:15:27 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	23-02-2024 04:15:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	23-02-2024 04:15:27 PM	JSON POST : 10.140.36.157	23-02-2024 04:15:37 PM	ui YmF0Y2h1c2VyMDE= and pas cmVsaWdhcmVAMTIz10.140.36.157	23-02-2024 04:15:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	23-02-2024 04:15:37 PM	JSON POST : Array10.140.36.157	23-02-2024 04:15:37 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "7",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BCP",
+    "UserName": "Surender Verma  [Batch User-1]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	23-02-2024 04:15:37 PM	Json parting value34434510.140.36.157	23-02-2024 04:15:37 PM	Session BranchId...BCP10.140.36.157	23-02-2024 04:15:37 PM	Session Type...BCP10.140.36.157	23-02-2024 04:15:37 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 04:15:37 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 04:15:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:15:37 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:16:05 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"25977470001033"},{"AcknowledgementNumber":"62369470000596"},{"AcknowledgementNumber":"33484470001905"},{"AcknowledgementNumber":"33426470027086"},{"AcknowledgementNumber":"33326470012463"},{"AcknowledgementNumber":"09918470035051"},{"AcknowledgementNumber":"19412470052673"},{"AcknowledgementNumber":"19412470052695"},{"AcknowledgementNumber":"62315470000243"},{"AcknowledgementNumber":"25977470001044"},{"AcknowledgementNumber":"25512470031381"},{"AcknowledgementNumber":"25099470008502"}]
+	}10.140.36.157	23-02-2024 04:16:05 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataTanAPI.php10.140.36.157	23-02-2024 04:16:05 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^014^09^1",
+            "BactID": "000124",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09918470035051",
+                    "BatchString": "2^BH^1^DEL^W^79^3^g^^^^^^^^^^^^^^TAQWA TOURS CORPORATION^1636^KUCHA DAKHNI RAI^DARYAGANJ^^NEW DELHI^9^110002^91^9810294348^0^AAFFT7329A^^^30122023^MOHD GHUFAM^PARTNER^30122023^NEW DELHI^30122023^09918470035051^TAQWATOURS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^015^19^2",
+            "BactID": "000125",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052673",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^3^^^^^^^^^GABA^USHA^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ALKPG2028J^^^30122023^USHA GABA^INDIVIDUAL^30122023^DELHI^30122023^19412470052673^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052695",
+                    "BatchString": "3^BH^2^DEL^W^79^3^e^10^2^^^^^^^^^GABA^VIKAS^^^189^THIRD FLOOR AVTAR ENGLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ACKPG2547A^^^30122023^VIKAS GABA^INIDVIDUAL^30122023^DELHI^30122023^19412470052695^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^016^25^4",
+            "BactID": "000126",
+            "TotalRecord": 4,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "25099470008502",
+                    "BatchString": "2^BH^1^GUJ^WT^414^1^e^10^3^^^^^^^^^PATEL^MIHIRKUMAR^AMBALAL^^F-2^SM COMPLEX^DUDHSAGAR DAIRY^AHMEDABAD PALANPUR HIGHY^MEHSANA^11^384002^091^9687690508^0^CVKPP1954K^^^30122023^MINIR A PATEL^PROPRITOR^30122023^MEHSANA^30122023^25099470008502^KMPATELACC1@GMAIL.COM^^^",
+                    "Stage": "I~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25512470031381",
+                    "BatchString": "3^BH^2^LKN^WT^15^1^g^^^^^^^^^^^^^^HIGHWAY TYRES^24^SWALEY NAGAR^OPP GULATI DHARAM^KANTA BAREILLY^BAREILLY^31^243001^91^9897267154^0^AAEFH8780Q^^^30122023^IZHAR AHMAD KHAN^PARTNERSHIP^30122023^DELHI^30122023^25512470031381^KHANIZHAR77IK@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001033",
+                    "BatchString": "4^BH^3^KAR^CT^181^4^g^^^^^^^^^^^^^^SHRAVANA KUMAR'S TRUST^NO 1757^7TH MAIN^BENDI INDIA BANK^JUDICIAL LAYOUT YELAHANK^BANGALORE^15^560065^91^8553289956^0^ABHTS5043B^^^30122023^SHARAVAN KUMAR S^PARTNER^30122023^BANGALORE^30122023^25977470001033^SP.SUBRAMANYA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001044",
+                    "BatchString": "5^BH^4^KAR^CT^181^4^g^^^^^^^^^^^^^^MUDLINE CONSTRUCTIONS^NO 127\/S SECOND FLOOR^NANJPPA MAIN ROAD^2ND BLOCK BEL LAYOUT^VIDYARANYAPURA^BENGALURU^15^560097^91^9742351232^0^ABZFM2314D^^^30122023^MUDLINECONSTRUCTIONS^PARTNER^30122023^BANGLURU^30122023^25977470001044^INFO@CSACQ.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^017^33^2",
+            "BactID": "000127",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027086",
+                    "BatchString": "2^BH^1^WBG^WT^161^4^g^^^^^^^^^^^^^^HANDLOOM LUNGI CENTRE^ROOM 147 148^16 PAGEYA PUTTY STRESS^^^KOLKATA^32^700007^91^9830059049^0^^^^30122023^SUDARLAM S^PARTNER^30122023^KOLKATA^30122023^33426470027086^SUDARSHAN_SARDA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "33484470001905",
+                    "BatchString": "3^BH^2^APR^WT^96^5^e^10^2^^^^^^^^^TUMMALAPALLI^PRASAD^^^32-8-10\/1^PALLEPU VARI ST REET^NEAR BOYS HIGH SCHOL BACK^TANUKU^WEST GODAVARI^2^534211^91^9849221131^0^ADIPT5157C^^^30122023^TUMMALAPALLI PRASAD^INDIVIDUAL^30122023^WEST GODAWARI^30122023^33484470001905^PRASAD.COLPAL@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^018^62^2",
+            "BactID": "000128",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62315470000243",
+                    "BatchString": "2^BH^1^BPL^CT^110^1^e^10^2^^^^^^^^^AGRAWAL^ADITYA^^^A-2^MAHARAJA APARTMENT^SHAKAR NAGAR^^RAIPUR^33^492007^91^9826122296^0^CIFPA1820B^^^30122023^ADITYA AGRAWAL^PROPRITER^30122023^CUTTACK^30122023^62315470000243^ADITYA.AGRAWAL127@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "62369470000596",
+                    "BatchString": "3^BH^2^KNP^WT^96^2^g^^^^^^^^^^^^^^SOAN BRANDS^H 80 UPPER GROUND^GAUR GREEN CITY`^VAIBHAV KHAND^ENDIRAPURAM^GHAZIABAD^31^201014^91^9818947122^0^^^^30122023^SONIA GULATI^PARTNER^30122023^GHAZIABAD^30122023^62369470000596^LOVE.GULATI2610@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^019^33^1",
+            "BactID": "000129",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33326470012463",
+                    "BatchString": "2^BH^1^JBPT01322G^Y^c^N^^^^^^^DIRECTOR^TOP NOTCH LIFESTYLE PRIVATE LIMITED^^^^^^^N^TOP NOTCH LIFESTYLE^PRINATE LIMITED^C\/O GOPAL DAS MAKHIJA^PLOT NO 5 AVINASH^RAIPUR^33^492001^91^8602000006^N^0^N^AAGCI0608H^N^^^^^RAM^DIRECTOR^30122023^RAIPUR^30122023^33326470012463^TOPNOTCHLICESTYLE01@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	23-02-2024 04:16:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:16:06 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:29:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:29:25 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:29:32 PM	Session BranchId...BCP10.140.36.157	23-02-2024 04:29:32 PM	Session Type...BCP10.140.36.157	23-02-2024 04:29:32 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 04:29:32 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 04:29:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:29:32 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:29:43 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"25977470001033"},{"AcknowledgementNumber":"62369470000596"},{"AcknowledgementNumber":"33484470001905"},{"AcknowledgementNumber":"33426470027086"},{"AcknowledgementNumber":"33326470012463"},{"AcknowledgementNumber":"09918470035051"},{"AcknowledgementNumber":"19412470052673"},{"AcknowledgementNumber":"19412470052695"},{"AcknowledgementNumber":"62315470000243"},{"AcknowledgementNumber":"25977470001044"},{"AcknowledgementNumber":"25512470031381"},{"AcknowledgementNumber":"25099470008502"}]
+	}10.140.36.157	23-02-2024 04:29:43 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataTanAPI.php10.140.36.157	23-02-2024 04:29:43 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^020^09^1",
+            "BactID": "000130",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09918470035051",
+                    "BatchString": "2^BH^1^DEL^W^79^3^g^^^^^^^^^^^^^^TAQWA TOURS CORPORATION^1636^KUCHA DAKHNI RAI^DARYAGANJ^^NEW DELHI^9^110002^91^9810294348^0^AAFFT7329A^^^30122023^MOHD GHUFAM^PARTNER^30122023^NEW DELHI^30122023^09918470035051^TAQWATOURS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^021^19^2",
+            "BactID": "000131",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052673",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^3^^^^^^^^^GABA^USHA^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ALKPG2028J^^^30122023^USHA GABA^INDIVIDUAL^30122023^DELHI^30122023^19412470052673^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052695",
+                    "BatchString": "3^BH^2^DEL^W^79^3^e^10^2^^^^^^^^^GABA^VIKAS^^^189^THIRD FLOOR AVTAR ENGLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ACKPG2547A^^^30122023^VIKAS GABA^INIDVIDUAL^30122023^DELHI^30122023^19412470052695^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^022^25^4",
+            "BactID": "000132",
+            "TotalRecord": 4,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "25099470008502",
+                    "BatchString": "2^BH^1^GUJ^WT^414^1^e^10^3^^^^^^^^^PATEL^MIHIRKUMAR^AMBALAL^^F-2^SM COMPLEX^DUDHSAGAR DAIRY^AHMEDABAD PALANPUR HIGHY^MEHSANA^11^384002^091^9687690508^0^CVKPP1954K^^^30122023^MINIR A PATEL^PROPRITOR^30122023^MEHSANA^30122023^25099470008502^KMPATELACC1@GMAIL.COM^^^",
+                    "Stage": "I~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25512470031381",
+                    "BatchString": "3^BH^2^LKN^WT^15^1^g^^^^^^^^^^^^^^HIGHWAY TYRES^24^SWALEY NAGAR^OPP GULATI DHARAM^KANTA BAREILLY^BAREILLY^31^243001^91^9897267154^0^AAEFH8780Q^^^30122023^IZHAR AHMAD KHAN^PARTNERSHIP^30122023^DELHI^30122023^25512470031381^KHANIZHAR77IK@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001033",
+                    "BatchString": "4^BH^3^KAR^CT^181^4^g^^^^^^^^^^^^^^SHRAVANA KUMAR'S TRUST^NO 1757^7TH MAIN^BENDI INDIA BANK^JUDICIAL LAYOUT YELAHANK^BANGALORE^15^560065^91^8553289956^0^ABHTS5043B^^^30122023^SHARAVAN KUMAR S^PARTNER^30122023^BANGALORE^30122023^25977470001033^SP.SUBRAMANYA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001044",
+                    "BatchString": "5^BH^4^KAR^CT^181^4^g^^^^^^^^^^^^^^MUDLINE CONSTRUCTIONS^NO 127\/S SECOND FLOOR^NANJPPA MAIN ROAD^2ND BLOCK BEL LAYOUT^VIDYARANYAPURA^BENGALURU^15^560097^91^9742351232^0^ABZFM2314D^^^30122023^MUDLINECONSTRUCTIONS^PARTNER^30122023^BANGLURU^30122023^25977470001044^INFO@CSACQ.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^023^33^2",
+            "BactID": "000133",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027086",
+                    "BatchString": "2^BH^1^WBG^WT^161^4^g^^^^^^^^^^^^^^HANDLOOM LUNGI CENTRE^ROOM 147 148^16 PAGEYA PUTTY STRESS^^^KOLKATA^32^700007^91^9830059049^0^^^^30122023^SUDARLAM S^PARTNER^30122023^KOLKATA^30122023^33426470027086^SUDARSHAN_SARDA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "33484470001905",
+                    "BatchString": "3^BH^2^APR^WT^96^5^e^10^2^^^^^^^^^TUMMALAPALLI^PRASAD^^^32-8-10\/1^PALLEPU VARI ST REET^NEAR BOYS HIGH SCHOL BACK^TANUKU^WEST GODAVARI^2^534211^91^9849221131^0^ADIPT5157C^^^30122023^TUMMALAPALLI PRASAD^INDIVIDUAL^30122023^WEST GODAWARI^30122023^33484470001905^PRASAD.COLPAL@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^024^62^2",
+            "BactID": "000134",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62315470000243",
+                    "BatchString": "2^BH^1^BPL^CT^110^1^e^10^2^^^^^^^^^AGRAWAL^ADITYA^^^A-2^MAHARAJA APARTMENT^SHAKAR NAGAR^^RAIPUR^33^492007^91^9826122296^0^CIFPA1820B^^^30122023^ADITYA AGRAWAL^PROPRITER^30122023^CUTTACK^30122023^62315470000243^ADITYA.AGRAWAL127@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "62369470000596",
+                    "BatchString": "3^BH^2^KNP^WT^96^2^g^^^^^^^^^^^^^^SOAN BRANDS^H 80 UPPER GROUND^GAUR GREEN CITY`^VAIBHAV KHAND^ENDIRAPURAM^GHAZIABAD^31^201014^91^9818947122^0^^^^30122023^SONIA GULATI^PARTNER^30122023^GHAZIABAD^30122023^62369470000596^LOVE.GULATI2610@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^025^33^1",
+            "BactID": "000135",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33326470012463",
+                    "BatchString": "2^BH^1^JBPT01322G^Y^c^N^^^^^^^DIRECTOR^TOP NOTCH LIFESTYLE PRIVATE LIMITED^^^^^^^N^TOP NOTCH LIFESTYLE^PRINATE LIMITED^C\/O GOPAL DAS MAKHIJA^PLOT NO 5 AVINASH^RAIPUR^33^492001^91^8602000006^N^0^N^AAGCI0608H^N^^^^^RAM^DIRECTOR^30122023^RAIPUR^30122023^33326470012463^TOPNOTCHLICESTYLE01@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	23-02-2024 04:29:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:29:43 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:31:20 PM	ui YmF0Y2h1c2VyMDE= and pas cmVsaWdhcmVAMTIz10.140.36.157	23-02-2024 04:31:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	23-02-2024 04:31:20 PM	JSON POST : Array10.140.36.157	23-02-2024 04:31:20 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "7",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BCP",
+    "UserName": "Surender Verma  [Batch User-1]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	23-02-2024 04:31:20 PM	Json parting value34434510.140.36.157	23-02-2024 04:31:20 PM	Session BranchId...BCP10.140.36.157	23-02-2024 04:31:20 PM	Session Type...BCP10.140.36.157	23-02-2024 04:31:20 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 04:31:20 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 04:31:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:31:20 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:33:20 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowDataTan.php?aid=6230547001262310.140.36.157	23-02-2024 04:33:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:33:20 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:34:23 PM	Session BranchId...BCP10.140.36.157	23-02-2024 04:34:23 PM	Session Type...BCP10.140.36.157	23-02-2024 04:34:23 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 04:34:23 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 04:34:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:34:23 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 04:38:18 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowDataTan.php?aid=1941247005268410.140.36.157	23-02-2024 04:38:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 04:38:18 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:01:17 PM	Session BranchId...BCP10.140.36.157	23-02-2024 05:01:17 PM	Session Type...BCP10.140.36.157	23-02-2024 05:01:17 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 05:01:17 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 05:01:17 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:01:17 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:18:38 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowDataTan.php?aid=0989447002859010.140.36.157	23-02-2024 05:18:38 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:18:38 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:18:43 PM	Session BranchId...BCP10.140.36.157	23-02-2024 05:18:43 PM	Session Type...BCP10.140.36.157	23-02-2024 05:18:43 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 05:18:43 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 05:18:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:18:43 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:20:18 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowDataTan.php?aid=0982747001164510.140.36.157	23-02-2024 05:20:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:20:18 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:20:37 PM	Session BranchId...BCP10.140.36.157	23-02-2024 05:20:37 PM	Session Type...BCP10.140.36.157	23-02-2024 05:20:37 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 05:20:37 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 05:20:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:20:37 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:20:39 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowDataTan.php?aid=0989447002859010.140.36.157	23-02-2024 05:20:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:20:39 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:20:55 PM	Session BranchId...BCP10.140.36.157	23-02-2024 05:20:55 PM	Session Type...BCP10.140.36.157	23-02-2024 05:20:55 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 05:20:55 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 05:20:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:20:55 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:20:57 PM	GET API URL HIT: http://10.150.146.12/UAT_BackEnd/User1Entry/callAcknowDataTan.php?aid=0977647000671510.140.36.157	23-02-2024 05:20:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:20:57 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:21:15 PM	Session BranchId...BCP10.140.36.157	23-02-2024 05:21:15 PM	Session Type...BCP10.140.36.157	23-02-2024 05:21:15 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 05:21:15 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 05:21:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:21:15 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:29:29 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"25977470001033"},{"AcknowledgementNumber":"62369470000596"},{"AcknowledgementNumber":"33484470001905"},{"AcknowledgementNumber":"33426470027086"},{"AcknowledgementNumber":"33326470012463"},{"AcknowledgementNumber":"09918470035051"},{"AcknowledgementNumber":"19412470052673"},{"AcknowledgementNumber":"19412470052695"},{"AcknowledgementNumber":"62315470000243"},{"AcknowledgementNumber":"25977470001044"},{"AcknowledgementNumber":"25512470031381"},{"AcknowledgementNumber":"25099470008502"}]
+	}10.140.36.157	23-02-2024 05:29:29 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataTanAPI.php10.140.36.157	23-02-2024 05:29:29 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^026^09^1",
+            "BactID": "000136",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09918470035051",
+                    "BatchString": "2^BH^1^DEL^W^79^3^g^^^^^^^^^^^^^^TAQWA TOURS CORPORATION^1636^KUCHA DAKHNI RAI^DARYAGANJ^^NEW DELHI^9^110002^91^9810294348^0^AAFFT7329A^^^30122023^MOHD GHUFAM^PARTNER^30122023^NEW DELHI^30122023^09918470035051^TAQWATOURS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^027^19^2",
+            "BactID": "000137",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052673",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^3^^^^^^^^^GABA^USHA^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ALKPG2028J^^^30122023^USHA GABA^INDIVIDUAL^30122023^DELHI^30122023^19412470052673^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052695",
+                    "BatchString": "3^BH^2^DEL^W^79^3^e^10^2^^^^^^^^^GABA^VIKAS^^^189^THIRD FLOOR AVTAR ENGLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ACKPG2547A^^^30122023^VIKAS GABA^INIDVIDUAL^30122023^DELHI^30122023^19412470052695^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^028^25^4",
+            "BactID": "000138",
+            "TotalRecord": 4,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "25099470008502",
+                    "BatchString": "2^BH^1^GUJ^WT^414^1^e^10^3^^^^^^^^^PATEL^MIHIRKUMAR^AMBALAL^^F-2^SM COMPLEX^DUDHSAGAR DAIRY^AHMEDABAD PALANPUR HIGHY^MEHSANA^11^384002^091^9687690508^0^CVKPP1954K^^^30122023^MINIR A PATEL^PROPRITOR^30122023^MEHSANA^30122023^25099470008502^KMPATELACC1@GMAIL.COM^^^",
+                    "Stage": "I~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25512470031381",
+                    "BatchString": "3^BH^2^LKN^WT^15^1^g^^^^^^^^^^^^^^HIGHWAY TYRES^24^SWALEY NAGAR^OPP GULATI DHARAM^KANTA BAREILLY^BAREILLY^31^243001^91^9897267154^0^AAEFH8780Q^^^30122023^IZHAR AHMAD KHAN^PARTNERSHIP^30122023^DELHI^30122023^25512470031381^KHANIZHAR77IK@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001033",
+                    "BatchString": "4^BH^3^KAR^CT^181^4^g^^^^^^^^^^^^^^SHRAVANA KUMAR'S TRUST^NO 1757^7TH MAIN^BENDI INDIA BANK^JUDICIAL LAYOUT YELAHANK^BANGALORE^15^560065^91^8553289956^0^ABHTS5043B^^^30122023^SHARAVAN KUMAR S^PARTNER^30122023^BANGALORE^30122023^25977470001033^SP.SUBRAMANYA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001044",
+                    "BatchString": "5^BH^4^KAR^CT^181^4^g^^^^^^^^^^^^^^MUDLINE CONSTRUCTIONS^NO 127\/S SECOND FLOOR^NANJPPA MAIN ROAD^2ND BLOCK BEL LAYOUT^VIDYARANYAPURA^BENGALURU^15^560097^91^9742351232^0^ABZFM2314D^^^30122023^MUDLINECONSTRUCTIONS^PARTNER^30122023^BANGLURU^30122023^25977470001044^INFO@CSACQ.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^029^33^2",
+            "BactID": "000139",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027086",
+                    "BatchString": "2^BH^1^WBG^WT^161^4^g^^^^^^^^^^^^^^HANDLOOM LUNGI CENTRE^ROOM 147 148^16 PAGEYA PUTTY STRESS^^^KOLKATA^32^700007^91^9830059049^0^^^^30122023^SUDARLAM S^PARTNER^30122023^KOLKATA^30122023^33426470027086^SUDARSHAN_SARDA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "33484470001905",
+                    "BatchString": "3^BH^2^APR^WT^96^5^e^10^2^^^^^^^^^TUMMALAPALLI^PRASAD^^^32-8-10\/1^PALLEPU VARI ST REET^NEAR BOYS HIGH SCHOL BACK^TANUKU^WEST GODAVARI^2^534211^91^9849221131^0^ADIPT5157C^^^30122023^TUMMALAPALLI PRASAD^INDIVIDUAL^30122023^WEST GODAWARI^30122023^33484470001905^PRASAD.COLPAL@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^030^62^2",
+            "BactID": "000140",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62315470000243",
+                    "BatchString": "2^BH^1^BPL^CT^110^1^e^10^2^^^^^^^^^AGRAWAL^ADITYA^^^A-2^MAHARAJA APARTMENT^SHAKAR NAGAR^^RAIPUR^33^492007^91^9826122296^0^CIFPA1820B^^^30122023^ADITYA AGRAWAL^PROPRITER^30122023^CUTTACK^30122023^62315470000243^ADITYA.AGRAWAL127@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "62369470000596",
+                    "BatchString": "3^BH^2^KNP^WT^96^2^g^^^^^^^^^^^^^^SOAN BRANDS^H 80 UPPER GROUND^GAUR GREEN CITY`^VAIBHAV KHAND^ENDIRAPURAM^GHAZIABAD^31^201014^91^9818947122^0^^^^30122023^SONIA GULATI^PARTNER^30122023^GHAZIABAD^30122023^62369470000596^LOVE.GULATI2610@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^031^33^1",
+            "BactID": "000141",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33326470012463",
+                    "BatchString": "2^BH^1^JBPT01322G^Y^c^N^^^^^^^DIRECTOR^TOP NOTCH LIFESTYLE PRIVATE LIMITED^^^^^^^N^TOP NOTCH LIFESTYLE^PRINATE LIMITED^C\/O GOPAL DAS MAKHIJA^PLOT NO 5 AVINASH^RAIPUR^33^492001^91^8602000006^N^0^N^AAGCI0608H^N^^^^^RAM^DIRECTOR^30122023^RAIPUR^30122023^33326470012463^TOPNOTCHLICESTYLE01@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	23-02-2024 05:29:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:29:29 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:33:27 PM	Session BranchId...BCP10.140.36.157	23-02-2024 05:33:27 PM	Session Type...BCP10.140.36.157	23-02-2024 05:33:27 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 05:33:27 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 05:33:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:33:27 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:33:51 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.36.157	23-02-2024 05:33:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	23-02-2024 05:33:51 PM	JSON POST : Array10.140.36.157	23-02-2024 05:33:51 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.36.157	23-02-2024 05:33:51 PM	Json parting value34434510.140.36.157	23-02-2024 05:33:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:33:51 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.36.157	23-02-2024 05:33:51 PM	Session BranchId...houser10.140.36.157	23-02-2024 05:33:51 PM	Session Type...HOUSER10.140.36.157	23-02-2024 05:33:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 05:33:51 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.36.157	23-02-2024 05:33:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.157	23-02-2024 05:33:51 PM	JSON POST : 10.140.36.157	23-02-2024 05:33:58 PM	ui YmF0Y2h1c2VyMDE= and pas cmVsaWdhcmVAMTIz10.140.36.157	23-02-2024 05:33:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	23-02-2024 05:33:58 PM	JSON POST : Array10.140.36.157	23-02-2024 05:33:58 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "7",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BCP",
+    "UserName": "Surender Verma  [Batch User-1]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	23-02-2024 05:33:58 PM	Json parting value34434510.140.36.157	23-02-2024 05:33:58 PM	Session BranchId...BCP10.140.36.157	23-02-2024 05:33:58 PM	Session Type...BCP10.140.36.157	23-02-2024 05:33:58 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 05:33:58 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 05:33:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:33:58 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:34:50 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"25977470001033"},{"AcknowledgementNumber":"62369470000596"},{"AcknowledgementNumber":"33484470001905"},{"AcknowledgementNumber":"33426470027086"},{"AcknowledgementNumber":"33326470012463"},{"AcknowledgementNumber":"09918470035051"},{"AcknowledgementNumber":"19412470052673"},{"AcknowledgementNumber":"19412470052695"},{"AcknowledgementNumber":"62315470000243"},{"AcknowledgementNumber":"25977470001044"},{"AcknowledgementNumber":"25512470031381"},{"AcknowledgementNumber":"25099470008502"}]
+	}10.140.36.157	23-02-2024 05:34:50 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataTanAPI.php10.140.36.157	23-02-2024 05:34:50 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^032^09^1",
+            "BactID": "000142",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09918470035051",
+                    "BatchString": "2^BH^1^DEL^W^79^3^g^^^^^^^^^^^^^^TAQWA TOURS CORPORATION^1636^KUCHA DAKHNI RAI^DARYAGANJ^^NEW DELHI^9^110002^91^9810294348^0^AAFFT7329A^^^30122023^MOHD GHUFAM^PARTNER^30122023^NEW DELHI^30122023^09918470035051^TAQWATOURS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^033^19^2",
+            "BactID": "000143",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052673",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^3^^^^^^^^^GABA^USHA^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ALKPG2028J^^^30122023^USHA GABA^INDIVIDUAL^30122023^DELHI^30122023^19412470052673^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052695",
+                    "BatchString": "3^BH^2^DEL^W^79^3^e^10^2^^^^^^^^^GABA^VIKAS^^^189^THIRD FLOOR AVTAR ENGLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ACKPG2547A^^^30122023^VIKAS GABA^INIDVIDUAL^30122023^DELHI^30122023^19412470052695^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^034^25^4",
+            "BactID": "000144",
+            "TotalRecord": 4,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "25099470008502",
+                    "BatchString": "2^BH^1^GUJ^WT^414^1^e^10^3^^^^^^^^^PATEL^MIHIRKUMAR^AMBALAL^^F-2^SM COMPLEX^DUDHSAGAR DAIRY^AHMEDABAD PALANPUR HIGHY^MEHSANA^11^384002^091^9687690508^0^CVKPP1954K^^^30122023^MINIR A PATEL^PROPRITOR^30122023^MEHSANA^30122023^25099470008502^KMPATELACC1@GMAIL.COM^^^",
+                    "Stage": "I~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25512470031381",
+                    "BatchString": "3^BH^2^LKN^WT^15^1^g^^^^^^^^^^^^^^HIGHWAY TYRES^24^SWALEY NAGAR^OPP GULATI DHARAM^KANTA BAREILLY^BAREILLY^31^243001^91^9897267154^0^AAEFH8780Q^^^30122023^IZHAR AHMAD KHAN^PARTNERSHIP^30122023^DELHI^30122023^25512470031381^KHANIZHAR77IK@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001033",
+                    "BatchString": "4^BH^3^KAR^CT^181^4^g^^^^^^^^^^^^^^SHRAVANA KUMAR'S TRUST^NO 1757^7TH MAIN^BENDI INDIA BANK^JUDICIAL LAYOUT YELAHANK^BANGALORE^15^560065^91^8553289956^0^ABHTS5043B^^^30122023^SHARAVAN KUMAR S^PARTNER^30122023^BANGALORE^30122023^25977470001033^SP.SUBRAMANYA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001044",
+                    "BatchString": "5^BH^4^KAR^CT^181^4^g^^^^^^^^^^^^^^MUDLINE CONSTRUCTIONS^NO 127\/S SECOND FLOOR^NANJPPA MAIN ROAD^2ND BLOCK BEL LAYOUT^VIDYARANYAPURA^BENGALURU^15^560097^91^9742351232^0^ABZFM2314D^^^30122023^MUDLINECONSTRUCTIONS^PARTNER^30122023^BANGLURU^30122023^25977470001044^INFO@CSACQ.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^035^33^2",
+            "BactID": "000145",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027086",
+                    "BatchString": "2^BH^1^WBG^WT^161^4^g^^^^^^^^^^^^^^HANDLOOM LUNGI CENTRE^ROOM 147 148^16 PAGEYA PUTTY STRESS^^^KOLKATA^32^700007^91^9830059049^0^^^^30122023^SUDARLAM S^PARTNER^30122023^KOLKATA^30122023^33426470027086^SUDARSHAN_SARDA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "33484470001905",
+                    "BatchString": "3^BH^2^APR^WT^96^5^e^10^2^^^^^^^^^TUMMALAPALLI^PRASAD^^^32-8-10\/1^PALLEPU VARI ST REET^NEAR BOYS HIGH SCHOL BACK^TANUKU^WEST GODAVARI^2^534211^91^9849221131^0^ADIPT5157C^^^30122023^TUMMALAPALLI PRASAD^INDIVIDUAL^30122023^WEST GODAWARI^30122023^33484470001905^PRASAD.COLPAL@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^036^62^2",
+            "BactID": "000146",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62315470000243",
+                    "BatchString": "2^BH^1^BPL^CT^110^1^e^10^2^^^^^^^^^AGRAWAL^ADITYA^^^A-2^MAHARAJA APARTMENT^SHAKAR NAGAR^^RAIPUR^33^492007^91^9826122296^0^CIFPA1820B^^^30122023^ADITYA AGRAWAL^PROPRITER^30122023^CUTTACK^30122023^62315470000243^ADITYA.AGRAWAL127@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "62369470000596",
+                    "BatchString": "3^BH^2^KNP^WT^96^2^g^^^^^^^^^^^^^^SOAN BRANDS^H 80 UPPER GROUND^GAUR GREEN CITY`^VAIBHAV KHAND^ENDIRAPURAM^GHAZIABAD^31^201014^91^9818947122^0^^^^30122023^SONIA GULATI^PARTNER^30122023^GHAZIABAD^30122023^62369470000596^LOVE.GULATI2610@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^037^33^1",
+            "BactID": "000147",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33326470012463",
+                    "BatchString": "2^BH^1^JBPT01322G^Y^c^N^^^^^^^DIRECTOR^TOP NOTCH LIFESTYLE PRIVATE LIMITED^^^^^^^N^TOP NOTCH LIFESTYLE^PRINATE LIMITED^C\/O GOPAL DAS MAKHIJA^PLOT NO 5 AVINASH^RAIPUR^33^492001^91^8602000006^N^0^N^AAGCI0608H^N^^^^^RAM^DIRECTOR^30122023^RAIPUR^30122023^33326470012463^TOPNOTCHLICESTYLE01@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	23-02-2024 05:34:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:34:50 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:35:35 PM	Session BranchId...BCP10.140.36.157	23-02-2024 05:35:35 PM	Session Type...BCP10.140.36.157	23-02-2024 05:35:35 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 05:35:35 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 05:35:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:35:35 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:42:38 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"25977470001033"},{"AcknowledgementNumber":"62369470000596"},{"AcknowledgementNumber":"33484470001905"},{"AcknowledgementNumber":"33426470027086"},{"AcknowledgementNumber":"33326470012463"},{"AcknowledgementNumber":"09918470035051"},{"AcknowledgementNumber":"19412470052673"},{"AcknowledgementNumber":"19412470052695"},{"AcknowledgementNumber":"62315470000243"},{"AcknowledgementNumber":"25977470001044"},{"AcknowledgementNumber":"25512470031381"},{"AcknowledgementNumber":"25099470008502"}]
+	}10.140.36.157	23-02-2024 05:42:38 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataTanAPI.php10.140.36.157	23-02-2024 05:42:38 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^038^09^1",
+            "BactID": "000148",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09918470035051",
+                    "BatchString": "2^BH^1^DEL^W^79^3^g^^^^^^^^^^^^^^TAQWA TOURS CORPORATION^1636^KUCHA DAKHNI RAI^DARYAGANJ^^NEW DELHI^9^110002^91^9810294348^0^AAFFT7329A^^^30122023^MOHD GHUFAM^PARTNER^30122023^NEW DELHI^30122023^09918470035051^TAQWATOURS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^039^19^2",
+            "BactID": "000149",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052673",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^3^^^^^^^^^GABA^USHA^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ALKPG2028J^^^30122023^USHA GABA^INDIVIDUAL^30122023^DELHI^30122023^19412470052673^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052695",
+                    "BatchString": "3^BH^2^DEL^W^79^3^e^10^2^^^^^^^^^GABA^VIKAS^^^189^THIRD FLOOR AVTAR ENGLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ACKPG2547A^^^30122023^VIKAS GABA^INIDVIDUAL^30122023^DELHI^30122023^19412470052695^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^040^25^4",
+            "BactID": "000150",
+            "TotalRecord": 4,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "25099470008502",
+                    "BatchString": "2^BH^1^GUJ^WT^414^1^e^10^3^^^^^^^^^PATEL^MIHIRKUMAR^AMBALAL^^F-2^SM COMPLEX^DUDHSAGAR DAIRY^AHMEDABAD PALANPUR HIGHY^MEHSANA^11^384002^091^9687690508^0^CVKPP1954K^^^30122023^MINIR A PATEL^PROPRITOR^30122023^MEHSANA^30122023^25099470008502^KMPATELACC1@GMAIL.COM^^^",
+                    "Stage": "I~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25512470031381",
+                    "BatchString": "3^BH^2^LKN^WT^15^1^g^^^^^^^^^^^^^^HIGHWAY TYRES^24^SWALEY NAGAR^OPP GULATI DHARAM^KANTA BAREILLY^BAREILLY^31^243001^91^9897267154^0^AAEFH8780Q^^^30122023^IZHAR AHMAD KHAN^PARTNERSHIP^30122023^DELHI^30122023^25512470031381^KHANIZHAR77IK@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001033",
+                    "BatchString": "4^BH^3^KAR^CT^181^4^g^^^^^^^^^^^^^^SHRAVANA KUMAR'S TRUST^NO 1757^7TH MAIN^BENDI INDIA BANK^JUDICIAL LAYOUT YELAHANK^BANGALORE^15^560065^91^8553289956^0^ABHTS5043B^^^30122023^SHARAVAN KUMAR S^PARTNER^30122023^BANGALORE^30122023^25977470001033^SP.SUBRAMANYA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001044",
+                    "BatchString": "5^BH^4^KAR^CT^181^4^g^^^^^^^^^^^^^^MUDLINE CONSTRUCTIONS^NO 127\/S SECOND FLOOR^NANJPPA MAIN ROAD^2ND BLOCK BEL LAYOUT^VIDYARANYAPURA^BENGALURU^15^560097^91^9742351232^0^ABZFM2314D^^^30122023^MUDLINECONSTRUCTIONS^PARTNER^30122023^BANGLURU^30122023^25977470001044^INFO@CSACQ.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^041^33^2",
+            "BactID": "000151",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027086",
+                    "BatchString": "2^BH^1^WBG^WT^161^4^g^^^^^^^^^^^^^^HANDLOOM LUNGI CENTRE^ROOM 147 148^16 PAGEYA PUTTY STRESS^^^KOLKATA^32^700007^91^9830059049^0^^^^30122023^SUDARLAM S^PARTNER^30122023^KOLKATA^30122023^33426470027086^SUDARSHAN_SARDA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "33484470001905",
+                    "BatchString": "3^BH^2^APR^WT^96^5^e^10^2^^^^^^^^^TUMMALAPALLI^PRASAD^^^32-8-10\/1^PALLEPU VARI ST REET^NEAR BOYS HIGH SCHOL BACK^TANUKU^WEST GODAVARI^2^534211^91^9849221131^0^ADIPT5157C^^^30122023^TUMMALAPALLI PRASAD^INDIVIDUAL^30122023^WEST GODAWARI^30122023^33484470001905^PRASAD.COLPAL@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^042^62^2",
+            "BactID": "000152",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62315470000243",
+                    "BatchString": "2^BH^1^BPL^CT^110^1^e^10^2^^^^^^^^^AGRAWAL^ADITYA^^^A-2^MAHARAJA APARTMENT^SHAKAR NAGAR^^RAIPUR^33^492007^91^9826122296^0^CIFPA1820B^^^30122023^ADITYA AGRAWAL^PROPRITER^30122023^CUTTACK^30122023^62315470000243^ADITYA.AGRAWAL127@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "62369470000596",
+                    "BatchString": "3^BH^2^KNP^WT^96^2^g^^^^^^^^^^^^^^SOAN BRANDS^H 80 UPPER GROUND^GAUR GREEN CITY`^VAIBHAV KHAND^ENDIRAPURAM^GHAZIABAD^31^201014^91^9818947122^0^^^^30122023^SONIA GULATI^PARTNER^30122023^GHAZIABAD^30122023^62369470000596^LOVE.GULATI2610@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^043^33^1",
+            "BactID": "000153",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33326470012463",
+                    "BatchString": "2^BH^1^JBPT01322G^Y^c^N^^^^^^^DIRECTOR^TOP NOTCH LIFESTYLE PRIVATE LIMITED^^^^^^^N^TOP NOTCH LIFESTYLE^PRINATE LIMITED^C\/O GOPAL DAS MAKHIJA^PLOT NO 5 AVINASH^RAIPUR^33^492001^91^8602000006^N^0^N^AAGCI0608H^N^^^^^RAM^DIRECTOR^30122023^RAIPUR^30122023^33326470012463^TOPNOTCHLICESTYLE01@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	23-02-2024 05:42:38 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:42:38 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:45:54 PM	ui YmF0Y2h1c2VyMDE= and pas cmVsaWdhcmVAMTIz10.140.36.157	23-02-2024 05:45:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.157	23-02-2024 05:45:54 PM	JSON POST : Array10.140.36.157	23-02-2024 05:45:54 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "7",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BCP",
+    "UserName": "Surender Verma  [Batch User-1]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.157	23-02-2024 05:45:54 PM	Json parting value34434510.140.36.157	23-02-2024 05:45:54 PM	Session BranchId...BCP10.140.36.157	23-02-2024 05:45:54 PM	Session Type...BCP10.140.36.157	23-02-2024 05:45:54 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 05:45:54 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 05:45:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:45:54 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 05:46:18 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"25977470001033"},{"AcknowledgementNumber":"62369470000596"},{"AcknowledgementNumber":"33484470001905"},{"AcknowledgementNumber":"33426470027086"},{"AcknowledgementNumber":"33326470012463"},{"AcknowledgementNumber":"09918470035051"},{"AcknowledgementNumber":"19412470052673"},{"AcknowledgementNumber":"19412470052695"},{"AcknowledgementNumber":"62315470000243"},{"AcknowledgementNumber":"25977470001044"},{"AcknowledgementNumber":"25512470031381"},{"AcknowledgementNumber":"25099470008502"}]
+	}10.140.36.157	23-02-2024 05:46:18 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataTanAPI.php10.140.36.157	23-02-2024 05:46:18 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^044^09^1",
+            "BactID": "000154",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09918470035051",
+                    "BatchString": "2^BH^1^DEL^W^79^3^g^^^^^^^^^^^^^^TAQWA TOURS CORPORATION^1636^KUCHA DAKHNI RAI^DARYAGANJ^^NEW DELHI^9^110002^91^9810294348^0^AAFFT7329A^^^30122023^MOHD GHUFAM^PARTNER^30122023^NEW DELHI^30122023^09918470035051^TAQWATOURS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^045^19^2",
+            "BactID": "000155",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052673",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^3^^^^^^^^^GABA^USHA^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ALKPG2028J^^^30122023^USHA GABA^INDIVIDUAL^30122023^DELHI^30122023^19412470052673^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052695",
+                    "BatchString": "3^BH^2^DEL^W^79^3^e^10^2^^^^^^^^^GABA^VIKAS^^^189^THIRD FLOOR AVTAR ENGLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ACKPG2547A^^^30122023^VIKAS GABA^INIDVIDUAL^30122023^DELHI^30122023^19412470052695^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^046^25^4",
+            "BactID": "000156",
+            "TotalRecord": 4,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "25099470008502",
+                    "BatchString": "2^BH^1^GUJ^WT^414^1^e^10^3^^^^^^^^^PATEL^MIHIRKUMAR^AMBALAL^^F-2^SM COMPLEX^DUDHSAGAR DAIRY^AHMEDABAD PALANPUR HIGHY^MEHSANA^11^384002^091^9687690508^0^CVKPP1954K^^^30122023^MINIR A PATEL^PROPRITOR^30122023^MEHSANA^30122023^25099470008502^KMPATELACC1@GMAIL.COM^^^",
+                    "Stage": "I~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25512470031381",
+                    "BatchString": "3^BH^2^LKN^WT^15^1^g^^^^^^^^^^^^^^HIGHWAY TYRES^24^SWALEY NAGAR^OPP GULATI DHARAM^KANTA BAREILLY^BAREILLY^31^243001^91^9897267154^0^AAEFH8780Q^^^30122023^IZHAR AHMAD KHAN^PARTNERSHIP^30122023^DELHI^30122023^25512470031381^KHANIZHAR77IK@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001033",
+                    "BatchString": "4^BH^3^KAR^CT^181^4^g^^^^^^^^^^^^^^SHRAVANA KUMAR'S TRUST^NO 1757^7TH MAIN^BENDI INDIA BANK^JUDICIAL LAYOUT YELAHANK^BANGALORE^15^560065^91^8553289956^0^ABHTS5043B^^^30122023^SHARAVAN KUMAR S^PARTNER^30122023^BANGALORE^30122023^25977470001033^SP.SUBRAMANYA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001044",
+                    "BatchString": "5^BH^4^KAR^CT^181^4^g^^^^^^^^^^^^^^MUDLINE CONSTRUCTIONS^NO 127\/S SECOND FLOOR^NANJPPA MAIN ROAD^2ND BLOCK BEL LAYOUT^VIDYARANYAPURA^BENGALURU^15^560097^91^9742351232^0^ABZFM2314D^^^30122023^MUDLINECONSTRUCTIONS^PARTNER^30122023^BANGLURU^30122023^25977470001044^INFO@CSACQ.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^047^33^2",
+            "BactID": "000157",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027086",
+                    "BatchString": "2^BH^1^WBG^WT^161^4^g^^^^^^^^^^^^^^HANDLOOM LUNGI CENTRE^ROOM 147 148^16 PAGEYA PUTTY STRESS^^^KOLKATA^32^700007^91^9830059049^0^^^^30122023^SUDARLAM S^PARTNER^30122023^KOLKATA^30122023^33426470027086^SUDARSHAN_SARDA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "33484470001905",
+                    "BatchString": "3^BH^2^APR^WT^96^5^e^10^2^^^^^^^^^TUMMALAPALLI^PRASAD^^^32-8-10\/1^PALLEPU VARI ST REET^NEAR BOYS HIGH SCHOL BACK^TANUKU^WEST GODAVARI^2^534211^91^9849221131^0^ADIPT5157C^^^30122023^TUMMALAPALLI PRASAD^INDIVIDUAL^30122023^WEST GODAWARI^30122023^33484470001905^PRASAD.COLPAL@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^048^62^2",
+            "BactID": "000158",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62315470000243",
+                    "BatchString": "2^BH^1^BPL^CT^110^1^e^10^2^^^^^^^^^AGRAWAL^ADITYA^^^A-2^MAHARAJA APARTMENT^SHAKAR NAGAR^^RAIPUR^33^492007^91^9826122296^0^CIFPA1820B^^^30122023^ADITYA AGRAWAL^PROPRITER^30122023^CUTTACK^30122023^62315470000243^ADITYA.AGRAWAL127@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "62369470000596",
+                    "BatchString": "3^BH^2^KNP^WT^96^2^g^^^^^^^^^^^^^^SOAN BRANDS^H 80 UPPER GROUND^GAUR GREEN CITY`^VAIBHAV KHAND^ENDIRAPURAM^GHAZIABAD^31^201014^91^9818947122^0^^^^30122023^SONIA GULATI^PARTNER^30122023^GHAZIABAD^30122023^62369470000596^LOVE.GULATI2610@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^049^33^1",
+            "BactID": "000159",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33326470012463",
+                    "BatchString": "2^BH^1^JBPT01322G^Y^c^N^^^^^^^DIRECTOR^TOP NOTCH LIFESTYLE PRIVATE LIMITED^^^^^^^N^TOP NOTCH LIFESTYLE^PRINATE LIMITED^C\/O GOPAL DAS MAKHIJA^PLOT NO 5 AVINASH^RAIPUR^33^492001^91^8602000006^N^0^N^AAGCI0608H^N^^^^^RAM^DIRECTOR^30122023^RAIPUR^30122023^33326470012463^TOPNOTCHLICESTYLE01@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	23-02-2024 05:46:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 05:46:18 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 06:02:57 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 06:02:57 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 06:03:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 06:03:03 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 06:03:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 06:03:06 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 06:03:09 PM	Session BranchId...BCP10.140.36.157	23-02-2024 06:03:09 PM	Session Type...BCP10.140.36.157	23-02-2024 06:03:09 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 06:03:09 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 06:03:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 06:03:09 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 06:03:44 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"09113470010971"},{"AcknowledgementNumber":"25977470001033"},{"AcknowledgementNumber":"09113470010982"},{"AcknowledgementNumber":"62369470000596"},{"AcknowledgementNumber":"09944470004092"},{"AcknowledgementNumber":"09304470002774"},{"AcknowledgementNumber":"19653470006063"},{"AcknowledgementNumber":"33484470001905"},{"AcknowledgementNumber":"09827470011645"},{"AcknowledgementNumber":"09063470024991"},{"AcknowledgementNumber":"09920470036352"},{"AcknowledgementNumber":"33426470027086"},{"AcknowledgementNumber":"33326470012463"},{"AcknowledgementNumber":"09918470035051"},{"AcknowledgementNumber":"09088470006173"},{"AcknowledgementNumber":"33465470003733"},{"AcknowledgementNumber":"19412470052673"},{"AcknowledgementNumber":"19412470052695"},{"AcknowledgementNumber":"83023050000166"},{"AcknowledgementNumber":"09920470036363"},{"AcknowledgementNumber":"83039170000135"},{"AcknowledgementNumber":"19412470052706"},{"AcknowledgementNumber":"62315470000243"},{"AcknowledgementNumber":"33426470027075"},{"AcknowledgementNumber":"19412470052684"},{"AcknowledgementNumber":"09335470027096"},{"AcknowledgementNumber":"62305470012623"},{"AcknowledgementNumber":"62288470007326"},{"AcknowledgementNumber":"09894470028590"},{"AcknowledgementNumber":"09776470006715"},{"AcknowledgementNumber":"25977470001044"},{"AcknowledgementNumber":"25512470031381"},{"AcknowledgementNumber":"83035210001472"},{"AcknowledgementNumber":"62315470000254"},{"AcknowledgementNumber":"25099470008502"}]
+	}10.140.36.157	23-02-2024 06:03:44 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataTanAPI.php10.140.36.157	23-02-2024 06:03:44 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^050^09^5",
+            "BactID": "000076",
+            "TotalRecord": 5,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09063470024991",
+                    "BatchString": "2^BH^1^WBG^CT^165^1^g^^^^^^^^^^^^^^RAMKRISHNA TRADERS^RAMKRISHANA TRADER^SACHITRA PAUL SARANI^^SILIGURI^SILIGURI^32^734006^91^7001578804^0^AAYFR4023N^^^30122023^RUMPA SAHA^PARTNER^30122023^SILIGURI^30122023^09063470024991^RAMKRISHNATRADERS2018@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "09113470010971",
+                    "BatchString": "3^BH^2^APR^WT^96^5^g^^^^^^^^^^^^^^S V INFRA DEVELOPERS^125 H NO 8-7-89\/6\/P-II \/^125 CHATTANYA NAGAR^BN REDDY NAGAR^KHARMANGHAT^RANGAREDDY^36^500070^91^9490120032^0^^^^30122023^SVINDRA DEVELOPERS^PARTNER^30122023^HYDERABAD^30122023^09113470010971^VENKAT.SOLIPETA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "09113470010982",
+                    "BatchString": "4^BH^3^APR^CT^115^1^e^^^^^^^^^^^gunturu^ARUNA KUMARI^^^3-1-413\/MYG\/407^INR SHAKUNTALA APTS^SHIVAPURI COLONY^L B NAGAR^RANGAREDDY^36^500074^91^9866029851^0^AIQPA7841R^^^30122023^ARUNA KUMARI^INDIVIDUAL^30122023^HYDERABAD^30122023^09113470010982^RATTAIAH_ARUNA@YAHOO.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "09304470002774",
+                    "BatchString": "5^BH^4^WBG^CT^162^1^g^^^^^^^^^^^^^^RADHA MADHAV GROUP^3^LMC SARANI^3RD BYD LANE^BAKSARA^HOWRAH^32^711110^91^9874454844^0^ABHFR0945H^^^30122023^ANIRBAN MALLICK^PARTNER^30122023^HOWRAH^30122023^09304470002774^SUMAN.DOARI@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "09335470027096",
+                    "BatchString": "6^BH^5^NWR^CT^401^1^e^10^2^^^^^^^^^MAHAJAN^ANIL^^^HOUSE NO 10^DOORDBRSHAN ENCLAVE^PHASE 2^^JALANDHAR^26^144003^91^9417290943^0^ABAPM0127F^^^30122023^ANILMAHAJAN^INDIVIDUAL^30122023^JALANDHAR^30122023^09335470027096^KAYGEESPORTS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^051^09^3",
+            "BactID": "000078",
+            "TotalRecord": 3,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09920470036352",
+                    "BatchString": "2^BH^1^NWR^WT^403^2^e^10^2^^^^^^^^^DHAWAN^SAURABH^^^HOUSE NO 1321^SECTPR 37-8^^^CHANDIGARH^26^160036^91^8054511101^0^CDIPD1921R^^^30122023^SAURASH DHAWAN^INDIVIDUAL^30122023^CHANDIGARH^30122023^09920470036352^SOBBY1321@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "09920470036363",
+                    "BatchString": "3^BH^2^NWR^WT^403^1^e^10^2^^^^^^^^^MADAAN^SHUBHAM^^^E-302 6TH FLOOR^VISTA TOWER^SECTOR 75^^MOHALI^26^160055^91^9050005596^0^BZEPM5262H^^^30122023^SHUBHAM MODAAN^INDIVIDUAL^30122023^CHANDIGARH^30122023^09920470036363^SHUBHAMADAAAN@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "09944470004092",
+                    "BatchString": "4^BH^3^DEL^W^79^3^g^^^^^^^^^^^^^^BIGNIFY SOLUTIONS^103 US COMPLEX^120 MATHURA ROAD^MATHURA ROAD^^NEW DELHI^9^110025^091^9958485577^0^ABBFB0102C^^^30122023^RAJIV KHOSLA^PARTNER^30122023^DELHI^30122023^09944470004092^RAJIV-KHOSLA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^052^83^3",
+            "BactID": "000079",
+            "TotalRecord": 3,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "83023050000166",
+                    "BatchString": "2^BH^1^KAR^WT^182^5^e^10^3^^^^^^^^^GUPTA^SUSHMA^FLAT NO 105 F BLOCK^^CONFIDENT ATIK APARTMENT^NEAR HP PETROL BUNK^SOMPURA GATE^^BENGALURU^15^562125^080^9741665522^0^CMZPG5579F^^^30122023^SUSHMA GUPTA^SELF^30122023^BANGALORE^30122023^83023050000166^SUSHMAGUPTA.0910@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "83035210001472",
+                    "BatchString": "3^BH^2^MUM^WT^81^1^g^^^^^^^^^^^^^^SIDDHIVINAYAK DRYFRUITS^SHOP NO E16 PHASE II^RETAILSIDE APMCMASALAMB^KET^TURBHE NAVI^NAVI^19^400705^91^9833422590^0^AFEES1943R^^^30122023^RAMESH^PARTNER^30122023^MUMBAI^30122023^83035210001472^SIDDHIVINAYAKDRYFRUITS123@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "83039170000135",
+                    "BatchString": "4^BH^3^NWR^WT^74^6^a^^^GRAM PANCHAYAT, SONF^^^^SARPANCH^^^^^^^^GRAM PANCHAYAT SONI^CHARKHI DADRI^^^DADRI^12^127306^91^9050431648^0^^^^30122023^HEENA^INDIVIDUAL^30122023^DADRO^30122023^83039170000135^GOYALASSOCIATE88@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^053^09^3",
+            "BactID": "000107",
+            "TotalRecord": 3,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09776470006715",
+                    "BatchString": "2^BH^1^KAR^WT^612^1^g^^^^^^^^^^^^^^BRIGHT ENTERPRISES^BRIGHT ENTERPRISES^LOKESH ARCHADE^OPP SANMAN RESIDENCY^AVK COLLEGE ROAD^HASSAN^15^573201^91^9164585754^0^^^^30122023^KP SINGH^PROPEITOR^30122023^HASSAN^30122023^09776470006715^BRIGHTSHIVA123@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "09827470011645",
+                    "BatchString": "3^BH^2^DLC^WT^511^1^f^12^2^^^^^^^^M\/S SUKANTA PAL^PAL^SUKANTA^^^JEWDHARA^ASSAM ROAD^KALNA^^BURDWAN^32^713409^91^9830043576^0^KGLPP0039P^CALS42319E^^30122023^SUKANTA^PROPRIETER^30122023^KALNA^30122023^09827470011645^SUKANTAABT@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "09894470028590",
+                    "BatchString": "4^BH^3^DEL^W^79^3^e^10^2^^^^^^^^^SARAWAGI^DEEPAK^^^F-209 PLOT NO 4^ADITYA PLAZA^KARKARDOOMA^COMMUNITY CENTER^DELHI^9^110092^91^9910952969^0^AJSPS6142G^^^30122023^DEEPAK SARAWAGI^INDIVIDUAL^30122023^DELHI^30122023^09894470028590^CARK209@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^054^19^3",
+            "BactID": "000108",
+            "TotalRecord": 3,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052684",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^2^^^^^^^^^GABA^RIPUNJAY^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^DYAPG7756Q^^^30122023^RIPUNJAY GABA^INDIVIDUAL^30122023^NEW DLEHI^30122023^19412470052684^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052706",
+                    "BatchString": "3^BH^2^DEL^W^79^3^g^^^^^^^^^^^^^^SAMRUDDHI MUTUAL BENEFIT TRUST^PLOT 19 BLOCK B^POCKET 4^DWARKA SEC 23^^NEW DELHI^9^110075^91^7827911569^0^^^^30122023^HEENA^PARTNER^30122023^NEW DELHI^30122023^19412470052706^COMPLIANCE@NSBASSOCIATES.ORG^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "19653470006063",
+                    "BatchString": "4^BH^3^KAR^WT^184^1^g^^^^^^^^^^^^^^SARATHI TRAVEL^92^SINDHUR B^S Y ROAD^TSWADI^PANAJI^10^403001^91^9823141662^0^AAKFS9248Q^^^30122023^SHILPA DHARCOAT^PARTNER^30122023^PANAJI^30122023^19653470006063^SARATHITRAVELGOA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^055^33^1",
+            "BactID": "000109",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027075",
+                    "BatchString": "2^BH^1^DLC^WT^511^1^g^^^^^^^^^^^^^^THE CHLORIDE EXECUTIVE GRATUITY FUND^EXIDE HOUSE^59E CGIWRUBGGEE ROAD^CHOWRINGHEE ROAD^^KOLKATA^32^700020^033^23023523^0^AAATT5461A^^^30122023^ARYA KUMAR CHOUDHURY^TRUSTEE^30122023^KOLKATA^30122023^33426470027075^PRADIP.MUKHOPADHYAY@EXIDE.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^056^62^3",
+            "BactID": "000110",
+            "TotalRecord": 3,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62288470007326",
+                    "BatchString": "2^BH^1^NGP^WT^51^1^d^^^^^^^DIRECTOR^YOGESHWAR REAL ESTATES PVT LTD^DIRECTOR^^^^^^639A^DAULAT AATA CHA KKI^PACHPAWALI CHIM ABAI^TIMKI MAHATAMA F ULE^NAGPUR^19^440018^91^9923059977^0^^^^30122023^PRADEEP NIMAJE^DIRECTOR^30122023^NAGPUR^30122023^62288470007326^SUKESHNIMJE114@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "62305470012623",
+                    "BatchString": "3^BH^2^NWR^WT^74^6^e^10^2^^^^^^^^^KATARIA^SUMIT^^^SHOP O 97^KATARIA HANDLOOM^S D COLLEGE ROAD^^PANIPAT^12^132103^91^9416334456^0^ANOPK3324A^^^30122023^SUMIT KATAIA^PROPITOR^30122023^PANIPAT^30122023^62305470012623^ANILDUTTADVOCATE@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                },
+                {
+                    "AcknowledgementNumber": "62315470000254",
+                    "BatchString": "4^BH^3^BBN^WT^12^2^g^^^^^^^^^^^^^^MAHARAJA BHAGIRATH MAHINDRA BAHADUR FOUNDATION^AT THE PALACE^DHENKAMAL^^^DHENKANAL^24^759001^91^9748478335^0^AAJTM0461C^^^30122023^MAHARAJA BHAGPATH^PARTNER^30122023^DHENKANAL^30122023^62315470000254^MEENALKUMARI@HOT.MAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^057^33^1",
+            "BactID": "000111",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33465470003733",
+                    "BatchString": "2^BH^1^KNP^WT^96^2^e^10^2^^^^^^^^^JHA^ARVIND^KUMAR^^140\/103 UG FLOOR^SHIPRA SUN CITY^GYANKUNJ D-2^INDIRAPURAM^GHAZIABAD^31^282101^91^9990829555^0^^^^30122023^RAM^KARTA^30122023^GHAZIABAD^30122023^33465470003733^INFO@AJRETAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^058^09^1",
+            "BactID": "000160",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09918470035051",
+                    "BatchString": "2^BH^1^DEL^W^79^3^g^^^^^^^^^^^^^^TAQWA TOURS CORPORATION^1636^KUCHA DAKHNI RAI^DARYAGANJ^^NEW DELHI^9^110002^91^9810294348^0^AAFFT7329A^^^30122023^MOHD GHUFAM^PARTNER^30122023^NEW DELHI^30122023^09918470035051^TAQWATOURS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^059^19^2",
+            "BactID": "000161",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052673",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^3^^^^^^^^^GABA^USHA^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ALKPG2028J^^^30122023^USHA GABA^INDIVIDUAL^30122023^DELHI^30122023^19412470052673^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052695",
+                    "BatchString": "3^BH^2^DEL^W^79^3^e^10^2^^^^^^^^^GABA^VIKAS^^^189^THIRD FLOOR AVTAR ENGLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ACKPG2547A^^^30122023^VIKAS GABA^INIDVIDUAL^30122023^DELHI^30122023^19412470052695^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^060^25^4",
+            "BactID": "000162",
+            "TotalRecord": 4,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "25099470008502",
+                    "BatchString": "2^BH^1^GUJ^WT^414^1^e^10^3^^^^^^^^^PATEL^MIHIRKUMAR^AMBALAL^^F-2^SM COMPLEX^DUDHSAGAR DAIRY^AHMEDABAD PALANPUR HIGHY^MEHSANA^11^384002^091^9687690508^0^CVKPP1954K^^^30122023^MINIR A PATEL^PROPRITOR^30122023^MEHSANA^30122023^25099470008502^KMPATELACC1@GMAIL.COM^^^",
+                    "Stage": "I~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25512470031381",
+                    "BatchString": "3^BH^2^LKN^WT^15^1^g^^^^^^^^^^^^^^HIGHWAY TYRES^24^SWALEY NAGAR^OPP GULATI DHARAM^KANTA BAREILLY^BAREILLY^31^243001^91^9897267154^0^AAEFH8780Q^^^30122023^IZHAR AHMAD KHAN^PARTNERSHIP^30122023^DELHI^30122023^25512470031381^KHANIZHAR77IK@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001033",
+                    "BatchString": "4^BH^3^KAR^CT^181^4^g^^^^^^^^^^^^^^SHRAVANA KUMAR'S TRUST^NO 1757^7TH MAIN^BENDI INDIA BANK^JUDICIAL LAYOUT YELAHANK^BANGALORE^15^560065^91^8553289956^0^ABHTS5043B^^^30122023^SHARAVAN KUMAR S^PARTNER^30122023^BANGALORE^30122023^25977470001033^SP.SUBRAMANYA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001044",
+                    "BatchString": "5^BH^4^KAR^CT^181^4^g^^^^^^^^^^^^^^MUDLINE CONSTRUCTIONS^NO 127\/S SECOND FLOOR^NANJPPA MAIN ROAD^2ND BLOCK BEL LAYOUT^VIDYARANYAPURA^BENGALURU^15^560097^91^9742351232^0^ABZFM2314D^^^30122023^MUDLINECONSTRUCTIONS^PARTNER^30122023^BANGLURU^30122023^25977470001044^INFO@CSACQ.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^061^33^2",
+            "BactID": "000163",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027086",
+                    "BatchString": "2^BH^1^WBG^WT^161^4^g^^^^^^^^^^^^^^HANDLOOM LUNGI CENTRE^ROOM 147 148^16 PAGEYA PUTTY STRESS^^^KOLKATA^32^700007^91^9830059049^0^^^^30122023^SUDARLAM S^PARTNER^30122023^KOLKATA^30122023^33426470027086^SUDARSHAN_SARDA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "33484470001905",
+                    "BatchString": "3^BH^2^APR^WT^96^5^e^10^2^^^^^^^^^TUMMALAPALLI^PRASAD^^^32-8-10\/1^PALLEPU VARI ST REET^NEAR BOYS HIGH SCHOL BACK^TANUKU^WEST GODAVARI^2^534211^91^9849221131^0^ADIPT5157C^^^30122023^TUMMALAPALLI PRASAD^INDIVIDUAL^30122023^WEST GODAWARI^30122023^33484470001905^PRASAD.COLPAL@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^062^62^2",
+            "BactID": "000164",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62315470000243",
+                    "BatchString": "2^BH^1^BPL^CT^110^1^e^10^2^^^^^^^^^AGRAWAL^ADITYA^^^A-2^MAHARAJA APARTMENT^SHAKAR NAGAR^^RAIPUR^33^492007^91^9826122296^0^CIFPA1820B^^^30122023^ADITYA AGRAWAL^PROPRITER^30122023^CUTTACK^30122023^62315470000243^ADITYA.AGRAWAL127@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "62369470000596",
+                    "BatchString": "3^BH^2^KNP^WT^96^2^g^^^^^^^^^^^^^^SOAN BRANDS^H 80 UPPER GROUND^GAUR GREEN CITY`^VAIBHAV KHAND^ENDIRAPURAM^GHAZIABAD^31^201014^91^9818947122^0^^^^30122023^SONIA GULATI^PARTNER^30122023^GHAZIABAD^30122023^62369470000596^LOVE.GULATI2610@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^063^09^1",
+            "BactID": "000077",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09088470006173",
+                    "BatchString": "2^BH^1^CALP21831F^Y^g^N^^^^^^^^^^^^^^RASG GURUKUL HOMES LLP^N^FLAT G1 GROUND FLOOR^759 LAKE TOWN^LAKE TOWN^^NORTH 24 PARGANAS^32^700089^91^9874790023^N^0^N^ABEFP2408G^N^^^^^SUBRANSHU GUPTA^PARTNER^30122023^NORTH 24 PARGANAS^30122023^09088470006173^WORKATSUBRANSHU@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BC"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^064^33^1",
+            "BactID": "000165",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33326470012463",
+                    "BatchString": "2^BH^1^JBPT01322G^Y^c^N^^^^^^^DIRECTOR^TOP NOTCH LIFESTYLE PRIVATE LIMITED^^^^^^^N^TOP NOTCH LIFESTYLE^PRINATE LIMITED^C\/O GOPAL DAS MAKHIJA^PLOT NO 5 AVINASH^RAIPUR^33^492001^91^8602000006^N^0^N^AAGCI0608H^N^^^^^RAM^DIRECTOR^30122023^RAIPUR^30122023^33326470012463^TOPNOTCHLICESTYLE01@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	23-02-2024 06:03:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 06:03:44 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 06:03:58 PM	Session BranchId...BCP10.140.36.157	23-02-2024 06:03:58 PM	Session Type...BCP10.140.36.157	23-02-2024 06:03:58 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 06:03:58 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 06:03:58 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 06:03:58 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 06:09:32 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"25977470001033"},{"AcknowledgementNumber":"62369470000596"},{"AcknowledgementNumber":"33484470001905"},{"AcknowledgementNumber":"33426470027086"},{"AcknowledgementNumber":"33326470012463"},{"AcknowledgementNumber":"09918470035051"},{"AcknowledgementNumber":"19412470052673"},{"AcknowledgementNumber":"19412470052695"},{"AcknowledgementNumber":"62315470000243"},{"AcknowledgementNumber":"25977470001044"},{"AcknowledgementNumber":"25512470031381"},{"AcknowledgementNumber":"25099470008502"}]
+	}10.140.36.157	23-02-2024 06:09:32 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataTanAPI.php10.140.36.157	23-02-2024 06:09:32 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^065^09^1",
+            "BactID": "000166",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09918470035051",
+                    "BatchString": "2^BH^1^DEL^W^79^3^g^^^^^^^^^^^^^^TAQWA TOURS CORPORATION^1636^KUCHA DAKHNI RAI^DARYAGANJ^^NEW DELHI^9^110002^91^9810294348^0^AAFFT7329A^^^30122023^MOHD GHUFAM^PARTNER^30122023^NEW DELHI^30122023^09918470035051^TAQWATOURS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^066^19^2",
+            "BactID": "000167",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052673",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^3^^^^^^^^^GABA^USHA^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ALKPG2028J^^^30122023^USHA GABA^INDIVIDUAL^30122023^DELHI^30122023^19412470052673^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052695",
+                    "BatchString": "3^BH^2^DEL^W^79^3^e^10^2^^^^^^^^^GABA^VIKAS^^^189^THIRD FLOOR AVTAR ENGLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ACKPG2547A^^^30122023^VIKAS GABA^INIDVIDUAL^30122023^DELHI^30122023^19412470052695^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^067^25^4",
+            "BactID": "000168",
+            "TotalRecord": 4,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "25099470008502",
+                    "BatchString": "2^BH^1^GUJ^WT^414^1^e^10^3^^^^^^^^^PATEL^MIHIRKUMAR^AMBALAL^^F-2^SM COMPLEX^DUDHSAGAR DAIRY^AHMEDABAD PALANPUR HIGHY^MEHSANA^11^384002^091^9687690508^0^CVKPP1954K^^^30122023^MINIR A PATEL^PROPRITOR^30122023^MEHSANA^30122023^25099470008502^KMPATELACC1@GMAIL.COM^^^",
+                    "Stage": "I~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25512470031381",
+                    "BatchString": "3^BH^2^LKN^WT^15^1^g^^^^^^^^^^^^^^HIGHWAY TYRES^24^SWALEY NAGAR^OPP GULATI DHARAM^KANTA BAREILLY^BAREILLY^31^243001^91^9897267154^0^AAEFH8780Q^^^30122023^IZHAR AHMAD KHAN^PARTNERSHIP^30122023^DELHI^30122023^25512470031381^KHANIZHAR77IK@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001033",
+                    "BatchString": "4^BH^3^KAR^CT^181^4^g^^^^^^^^^^^^^^SHRAVANA KUMAR'S TRUST^NO 1757^7TH MAIN^BENDI INDIA BANK^JUDICIAL LAYOUT YELAHANK^BANGALORE^15^560065^91^8553289956^0^ABHTS5043B^^^30122023^SHARAVAN KUMAR S^PARTNER^30122023^BANGALORE^30122023^25977470001033^SP.SUBRAMANYA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001044",
+                    "BatchString": "5^BH^4^KAR^CT^181^4^g^^^^^^^^^^^^^^MUDLINE CONSTRUCTIONS^NO 127\/S SECOND FLOOR^NANJPPA MAIN ROAD^2ND BLOCK BEL LAYOUT^VIDYARANYAPURA^BENGALURU^15^560097^91^9742351232^0^ABZFM2314D^^^30122023^MUDLINECONSTRUCTIONS^PARTNER^30122023^BANGLURU^30122023^25977470001044^INFO@CSACQ.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^068^33^2",
+            "BactID": "000169",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027086",
+                    "BatchString": "2^BH^1^WBG^WT^161^4^g^^^^^^^^^^^^^^HANDLOOM LUNGI CENTRE^ROOM 147 148^16 PAGEYA PUTTY STRESS^^^KOLKATA^32^700007^91^9830059049^0^^^^30122023^SUDARLAM S^PARTNER^30122023^KOLKATA^30122023^33426470027086^SUDARSHAN_SARDA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "33484470001905",
+                    "BatchString": "3^BH^2^APR^WT^96^5^e^10^2^^^^^^^^^TUMMALAPALLI^PRASAD^^^32-8-10\/1^PALLEPU VARI ST REET^NEAR BOYS HIGH SCHOL BACK^TANUKU^WEST GODAVARI^2^534211^91^9849221131^0^ADIPT5157C^^^30122023^TUMMALAPALLI PRASAD^INDIVIDUAL^30122023^WEST GODAWARI^30122023^33484470001905^PRASAD.COLPAL@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^069^62^2",
+            "BactID": "000170",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62315470000243",
+                    "BatchString": "2^BH^1^BPL^CT^110^1^e^10^2^^^^^^^^^AGRAWAL^ADITYA^^^A-2^MAHARAJA APARTMENT^SHAKAR NAGAR^^RAIPUR^33^492007^91^9826122296^0^CIFPA1820B^^^30122023^ADITYA AGRAWAL^PROPRITER^30122023^CUTTACK^30122023^62315470000243^ADITYA.AGRAWAL127@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "62369470000596",
+                    "BatchString": "3^BH^2^KNP^WT^96^2^g^^^^^^^^^^^^^^SOAN BRANDS^H 80 UPPER GROUND^GAUR GREEN CITY`^VAIBHAV KHAND^ENDIRAPURAM^GHAZIABAD^31^201014^91^9818947122^0^^^^30122023^SONIA GULATI^PARTNER^30122023^GHAZIABAD^30122023^62369470000596^LOVE.GULATI2610@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^070^33^1",
+            "BactID": "000171",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33326470012463",
+                    "BatchString": "2^BH^1^JBPT01322G^Y^c^N^^^^^^^DIRECTOR^TOP NOTCH LIFESTYLE PRIVATE LIMITED^^^^^^^N^TOP NOTCH LIFESTYLE^PRINATE LIMITED^C\/O GOPAL DAS MAKHIJA^PLOT NO 5 AVINASH^RAIPUR^33^492001^91^8602000006^N^0^N^AAGCI0608H^N^^^^^RAM^DIRECTOR^30122023^RAIPUR^30122023^33326470012463^TOPNOTCHLICESTYLE01@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	23-02-2024 06:09:32 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 06:09:32 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 06:09:37 PM	Session BranchId...BCP10.140.36.157	23-02-2024 06:09:37 PM	Session Type...BCP10.140.36.157	23-02-2024 06:09:37 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.36.157	23-02-2024 06:09:37 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.157	23-02-2024 06:09:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 06:09:37 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.36.157	23-02-2024 06:09:50 PM	JSON to post for batch generation----{
+		"UserId":"7",
+		"ip":"10.140.36.157",
+		"ListOfACKO":[{"AcknowledgementNumber":"25977470001033"},{"AcknowledgementNumber":"62369470000596"},{"AcknowledgementNumber":"33484470001905"},{"AcknowledgementNumber":"33426470027086"},{"AcknowledgementNumber":"33326470012463"},{"AcknowledgementNumber":"09918470035051"},{"AcknowledgementNumber":"19412470052673"},{"AcknowledgementNumber":"19412470052695"},{"AcknowledgementNumber":"62315470000243"},{"AcknowledgementNumber":"25977470001044"},{"AcknowledgementNumber":"25512470031381"},{"AcknowledgementNumber":"25099470008502"}]
+	}10.140.36.157	23-02-2024 06:09:50 PM	JSON POST ON URL: http://10.150.146.12/UAT_BackEnd/BatchGeneration/BatchDataTanAPI.php10.140.36.157	23-02-2024 06:09:50 PM	Response fron batch generation api---
+{
+    "status": 0,
+    "message": "Successfull",
+    "BatchCreationResult": [
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^071^09^1",
+            "BactID": "000172",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "09918470035051",
+                    "BatchString": "2^BH^1^DEL^W^79^3^g^^^^^^^^^^^^^^TAQWA TOURS CORPORATION^1636^KUCHA DAKHNI RAI^DARYAGANJ^^NEW DELHI^9^110002^91^9810294348^0^AAFFT7329A^^^30122023^MOHD GHUFAM^PARTNER^30122023^NEW DELHI^30122023^09918470035051^TAQWATOURS@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^072^19^2",
+            "BactID": "000173",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "19412470052673",
+                    "BatchString": "2^BH^1^DEL^W^79^3^e^10^3^^^^^^^^^GABA^USHA^^^189^THIRD FLOOR AVTAR ENCLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ALKPG2028J^^^30122023^USHA GABA^INDIVIDUAL^30122023^DELHI^30122023^19412470052673^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "19412470052695",
+                    "BatchString": "3^BH^2^DEL^W^79^3^e^10^2^^^^^^^^^GABA^VIKAS^^^189^THIRD FLOOR AVTAR ENGLAVE^A-4^PASCHIM VIHAR^NEW DELHI^9^110063^91^9811946045^0^ACKPG2547A^^^30122023^VIKAS GABA^INIDVIDUAL^30122023^DELHI^30122023^19412470052695^VIKASG12@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^073^25^4",
+            "BactID": "000174",
+            "TotalRecord": 4,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "25099470008502",
+                    "BatchString": "2^BH^1^GUJ^WT^414^1^e^10^3^^^^^^^^^PATEL^MIHIRKUMAR^AMBALAL^^F-2^SM COMPLEX^DUDHSAGAR DAIRY^AHMEDABAD PALANPUR HIGHY^MEHSANA^11^384002^091^9687690508^0^CVKPP1954K^^^30122023^MINIR A PATEL^PROPRITOR^30122023^MEHSANA^30122023^25099470008502^KMPATELACC1@GMAIL.COM^^^",
+                    "Stage": "I~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25512470031381",
+                    "BatchString": "3^BH^2^LKN^WT^15^1^g^^^^^^^^^^^^^^HIGHWAY TYRES^24^SWALEY NAGAR^OPP GULATI DHARAM^KANTA BAREILLY^BAREILLY^31^243001^91^9897267154^0^AAEFH8780Q^^^30122023^IZHAR AHMAD KHAN^PARTNERSHIP^30122023^DELHI^30122023^25512470031381^KHANIZHAR77IK@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001033",
+                    "BatchString": "4^BH^3^KAR^CT^181^4^g^^^^^^^^^^^^^^SHRAVANA KUMAR'S TRUST^NO 1757^7TH MAIN^BENDI INDIA BANK^JUDICIAL LAYOUT YELAHANK^BANGALORE^15^560065^91^8553289956^0^ABHTS5043B^^^30122023^SHARAVAN KUMAR S^PARTNER^30122023^BANGALORE^30122023^25977470001033^SP.SUBRAMANYA@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "25977470001044",
+                    "BatchString": "5^BH^4^KAR^CT^181^4^g^^^^^^^^^^^^^^MUDLINE CONSTRUCTIONS^NO 127\/S SECOND FLOOR^NANJPPA MAIN ROAD^2ND BLOCK BEL LAYOUT^VIDYARANYAPURA^BENGALURU^15^560097^91^9742351232^0^ABZFM2314D^^^30122023^MUDLINECONSTRUCTIONS^PARTNER^30122023^BANGLURU^30122023^25977470001044^INFO@CSACQ.CO.IN^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^074^33^2",
+            "BactID": "000175",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33426470027086",
+                    "BatchString": "2^BH^1^WBG^WT^161^4^g^^^^^^^^^^^^^^HANDLOOM LUNGI CENTRE^ROOM 147 148^16 PAGEYA PUTTY STRESS^^^KOLKATA^32^700007^91^9830059049^0^^^^30122023^SUDARLAM S^PARTNER^30122023^KOLKATA^30122023^33426470027086^SUDARSHAN_SARDA@HOTMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "33484470001905",
+                    "BatchString": "3^BH^2^APR^WT^96^5^e^10^2^^^^^^^^^TUMMALAPALLI^PRASAD^^^32-8-10\/1^PALLEPU VARI ST REET^NEAR BOYS HIGH SCHOL BACK^TANUKU^WEST GODAVARI^2^534211^91^9849221131^0^ADIPT5157C^^^30122023^TUMMALAPALLI PRASAD^INDIVIDUAL^30122023^WEST GODAWARI^30122023^33484470001905^PRASAD.COLPAL@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TAN^R^23022024^075^62^2",
+            "BactID": "000176",
+            "TotalRecord": 2,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "62315470000243",
+                    "BatchString": "2^BH^1^BPL^CT^110^1^e^10^2^^^^^^^^^AGRAWAL^ADITYA^^^A-2^MAHARAJA APARTMENT^SHAKAR NAGAR^^RAIPUR^33^492007^91^9826122296^0^CIFPA1820B^^^30122023^ADITYA AGRAWAL^PROPRITER^30122023^CUTTACK^30122023^62315470000243^ADITYA.AGRAWAL127@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                },
+                {
+                    "AcknowledgementNumber": "62369470000596",
+                    "BatchString": "3^BH^2^KNP^WT^96^2^g^^^^^^^^^^^^^^SOAN BRANDS^H 80 UPPER GROUND^GAUR GREEN CITY`^VAIBHAV KHAND^ENDIRAPURAM^GHAZIABAD^31^201014^91^9818947122^0^^^^30122023^SONIA GULATI^PARTNER^30122023^GHAZIABAD^30122023^62369470000596^LOVE.GULATI2610@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        },
+        {
+            "BatchHeader": "1^FH^TCD^R^23022024^076^33^1",
+            "BactID": "000177",
+            "TotalRecord": 1,
+            "BatchData": [
+                {
+                    "AcknowledgementNumber": "33326470012463",
+                    "BatchString": "2^BH^1^JBPT01322G^Y^c^N^^^^^^^DIRECTOR^TOP NOTCH LIFESTYLE PRIVATE LIMITED^^^^^^^N^TOP NOTCH LIFESTYLE^PRINATE LIMITED^C\/O GOPAL DAS MAKHIJA^PLOT NO 5 AVINASH^RAIPUR^33^492001^91^8602000006^N^0^N^AAGCI0608H^N^^^^^RAM^DIRECTOR^30122023^RAIPUR^30122023^33326470012463^TOPNOTCHLICESTYLE01@GMAIL.COM^^^",
+                    "Stage": "F~BCP~BTN~BY"
+                }
+            ]
+        }
+    ]
+}10.140.36.157	23-02-2024 06:09:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.157	23-02-2024 06:09:50 PM	JSON POST : {
+			"userType" : "BCP"
+		}

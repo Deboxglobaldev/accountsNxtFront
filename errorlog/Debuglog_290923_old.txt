@@ -1,0 +1,1494 @@
+10.100.72.250	29-09-2023 11:05:10 AM	ui YmFja2hv and pas dGVzdA==10.100.72.250	29-09-2023 11:05:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	29-09-2023 11:05:10 AM	JSON POST : Array10.100.72.250	29-09-2023 11:05:11 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12749",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Backend  HO User",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.250	29-09-2023 11:05:11 AM	Json parting value34434510.100.72.250	29-09-2023 11:05:12 AM	Session BranchId...BACKHO10.100.72.250	29-09-2023 11:05:12 AM	Session Type...BACKHO10.100.72.250	29-09-2023 11:05:12 AM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.250	29-09-2023 11:05:12 AM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.250	29-09-2023 11:09:20 AM	Session BranchId...BACKHO10.100.72.250	29-09-2023 11:09:20 AM	Session Type...BACKHO10.100.72.250	29-09-2023 11:09:20 AM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.250	29-09-2023 11:09:20 AM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.250	29-09-2023 11:10:58 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:10:58 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:11:36 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.72.250	29-09-2023 11:11:36 AM	JSON POST : {
+        "voucherNo":"",
+        "accountCode":"SLB25536",
+        "fromDate":"",
+        "toDate":""
+    }10.100.72.250	29-09-2023 11:11:36 AM	Response return from account Audit Trail API: {
+    "Status": "0",
+    "listOfData": [
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": null,
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 6988",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:40",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 15378 to 8390"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 200",
+            "AmountType": "Debit",
+            "VoucherType": "Journal Voucher",
+            "Voucher": "JV-280923-94",
+            "DateTime": "2023-09-28 13:49:44",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8390 to 8190"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-280923-11",
+            "DateTime": "2023-09-28 15:28:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8190 to 8690"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1000",
+            "AmountType": "Debit",
+            "VoucherType": "Bank Payment",
+            "Voucher": "BP-280923-9",
+            "DateTime": "2023-09-28 15:32:15",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8690 to 7690"
+        }
+    ]
+}10.100.72.250	29-09-2023 11:11:36 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:11:36 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:13:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listVoucherEntryAPI.php10.100.72.250	29-09-2023 11:13:20 AM	JSON POST : {
+  	"VoucherNo":"BG2809202393",
+	"TransactionDate":"",
+  "Type":"BR"
+}10.100.72.250	29-09-2023 11:13:20 AM	Response return from listVoucherEntryAPI: {
+    "status": 0,
+    "VoucherData": []
+}10.100.72.250	29-09-2023 11:13:35 AM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:- At begining of Call10.100.72.250	29-09-2023 11:13:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:13:35 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"LB0004",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:13:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:13:35 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:13:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:13:35 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:13:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:13:35 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:13:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:13:35 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:14:43 AM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:- At begining of Call10.100.72.250	29-09-2023 11:14:43 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/addBankReceiptAPI.php10.100.72.250	29-09-2023 11:14:43 AM	JSON POST : {
+	"VoucherDate":"2023-09-29",
+	"EntryDate":"2023-09-29",
+	"UserId":"12749",
+	"ip":"10.100.72.250",
+	"BankAccount":"SLB0008",
+	"ListOfTransaction":[{
+				"AccountName":"SLB25536",
+				"Credit":"1500",
+				"Narration":"this is for test"
+			}]
+	
+}10.100.72.250	29-09-2023 11:14:44 AM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:-  Saving addBankReceiptAPI.. Saved Successfull10.100.72.250	29-09-2023 11:14:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:14:44 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"LB0004",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:14:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:14:44 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:14:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:14:44 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:14:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:14:44 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:14:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:14:44 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:16:06 AM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:- At begining of Call10.100.72.250	29-09-2023 11:16:06 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:16:06 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"LB0004",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:16:06 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:16:06 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:16:06 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:16:06 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:16:06 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:16:06 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:16:06 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:16:06 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:17:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.72.250	29-09-2023 11:17:03 AM	JSON POST : {
+        "voucherNo":"",
+        "accountCode":"SLB25536",
+        "fromDate":"",
+        "toDate":""
+    }10.100.72.250	29-09-2023 11:17:03 AM	Response return from account Audit Trail API: {
+    "Status": "0",
+    "listOfData": [
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": null,
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 6988",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:40",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 15378 to 8390"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 200",
+            "AmountType": "Debit",
+            "VoucherType": "Journal Voucher",
+            "Voucher": "JV-280923-94",
+            "DateTime": "2023-09-28 13:49:44",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8390 to 8190"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-280923-11",
+            "DateTime": "2023-09-28 15:28:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8190 to 8690"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1000",
+            "AmountType": "Debit",
+            "VoucherType": "Bank Payment",
+            "Voucher": "BP-280923-9",
+            "DateTime": "2023-09-28 15:32:15",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8690 to 7690"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-12",
+            "DateTime": "2023-09-29 11:14:44",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from 7690 to 9190"
+        }
+    ]
+}10.100.72.250	29-09-2023 11:17:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:17:03 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:18:55 AM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:- At begining of Call10.100.72.250	29-09-2023 11:18:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:18:55 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"LB0004",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:18:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:18:55 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:18:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:18:55 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:18:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:18:55 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:18:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:18:55 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:19:28 AM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:- At begining of Call10.100.72.250	29-09-2023 11:19:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/addBankReceiptAPI.php10.100.72.250	29-09-2023 11:19:28 AM	JSON POST : {
+	"VoucherDate":"2023-09-25",
+	"EntryDate":"2023-09-29",
+	"UserId":"12749",
+	"ip":"10.100.72.250",
+	"BankAccount":"SLB0008",
+	"ListOfTransaction":[{
+				"AccountName":"SLB25536",
+				"Credit":"500",
+				"Narration":""
+			}]
+	
+}10.100.72.250	29-09-2023 11:19:28 AM	[Info] - File location /tinfc1/UAT/addBankReceipt.php Message:-  Saving addBankReceiptAPI.. Saved Successfull10.100.72.250	29-09-2023 11:19:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:19:28 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"LB0004",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:19:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:19:28 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:19:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:19:28 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:19:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:19:28 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:19:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:19:28 AM	JSON POST : {
+					"AccountName":"",
+					"GroupId":"",
+					"Status":"1"
+				}10.100.72.250	29-09-2023 11:19:32 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.72.250	29-09-2023 11:19:32 AM	JSON POST : {
+        "voucherNo":"",
+        "accountCode":"SLB25536",
+        "fromDate":"",
+        "toDate":""
+    }10.100.72.250	29-09-2023 11:19:32 AM	Response return from account Audit Trail API: {
+    "Status": "0",
+    "listOfData": [
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": null,
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 6988",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:40",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 15378 to 8390"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 200",
+            "AmountType": "Debit",
+            "VoucherType": "Journal Voucher",
+            "Voucher": "JV-280923-94",
+            "DateTime": "2023-09-28 13:49:44",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8390 to 8190"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-280923-11",
+            "DateTime": "2023-09-28 15:28:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8190 to 8690"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1000",
+            "AmountType": "Debit",
+            "VoucherType": "Bank Payment",
+            "Voucher": "BP-280923-9",
+            "DateTime": "2023-09-28 15:32:15",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8690 to 7690"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-12",
+            "DateTime": "2023-09-29 11:14:44",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from 7690 to 9190"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-13",
+            "DateTime": "2023-09-29 11:19:28",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from 9190 to 9690"
+        }
+    ]
+}10.100.72.250	29-09-2023 11:19:32 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:19:32 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:22:19 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.72.250	29-09-2023 11:22:19 AM	JSON POST : {
+        "voucherNo":"BR-290923-13	",
+        "accountCode":"",
+        "fromDate":"",
+        "toDate":""
+    }10.100.72.250	29-09-2023 11:22:19 AM	Response return from account Audit Trail API: {
+    "Status": "0",
+    "listOfData": [
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": null,
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "SLB0006",
+            "AccountName": "NSDL",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 13729",
+            "AmountType": "Credit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 15390 to 29119"
+        },
+        {
+            "AccountCode": "SLB62015",
+            "AccountName": "62015",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1070",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:40",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from -2424 to -3494"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 6988",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:40",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 15378 to 8390"
+        },
+        {
+            "AccountCode": "SLB19146",
+            "AccountName": "19146",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 4815",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from -605.5 to -5420.5"
+        },
+        {
+            "AccountCode": "SLB09856",
+            "AccountName": "09856",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 856",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 72 to -784"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 200",
+            "AmountType": "Debit",
+            "VoucherType": "Journal Voucher",
+            "Voucher": "JV-280923-94",
+            "DateTime": "2023-09-28 13:49:44",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8390 to 8190"
+        },
+        {
+            "AccountCode": "SLB0008",
+            "AccountName": "ICICI Bank",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 200",
+            "AmountType": "Credit",
+            "VoucherType": "Journal Voucher",
+            "Voucher": "JV-280923-94",
+            "DateTime": "2023-09-28 13:49:44",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from -402 to -202"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-280923-11",
+            "DateTime": "2023-09-28 15:28:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8190 to 8690"
+        },
+        {
+            "AccountCode": "SLB0008",
+            "AccountName": "ICICI Bank",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Debit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-280923-11",
+            "DateTime": "2023-09-28 15:28:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from -202 to -702"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1000",
+            "AmountType": "Debit",
+            "VoucherType": "Bank Payment",
+            "Voucher": "BP-280923-9",
+            "DateTime": "2023-09-28 15:32:15",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8690 to 7690"
+        },
+        {
+            "AccountCode": "SLB62015",
+            "AccountName": "62015",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 100",
+            "AmountType": "Debit",
+            "VoucherType": "Bank Payment",
+            "Voucher": "BP-280923-9",
+            "DateTime": "2023-09-28 15:32:15",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from -3494 to -3594"
+        },
+        {
+            "AccountCode": "SLB0008",
+            "AccountName": "ICICI Bank",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1100",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Payment",
+            "Voucher": "BP-280923-9",
+            "DateTime": "2023-09-28 15:32:15",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from -702 to 398"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-12",
+            "DateTime": "2023-09-29 11:14:44",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from 7690 to 9190"
+        },
+        {
+            "AccountCode": "SLB0008",
+            "AccountName": "ICICI Bank",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1500",
+            "AmountType": "Debit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-12",
+            "DateTime": "2023-09-29 11:14:44",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from 398 to -1102"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-13",
+            "DateTime": "2023-09-29 11:19:28",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from 9190 to 9690"
+        },
+        {
+            "AccountCode": "SLB0008",
+            "AccountName": "ICICI Bank",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Debit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-13",
+            "DateTime": "2023-09-29 11:19:28",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from -1102 to -1602"
+        }
+    ]
+}10.100.72.250	29-09-2023 11:22:19 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:22:19 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:22:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.72.250	29-09-2023 11:22:48 AM	JSON POST : {
+        "voucherNo":"JV-280923-94",
+        "accountCode":"",
+        "fromDate":"",
+        "toDate":""
+    }10.100.72.250	29-09-2023 11:22:48 AM	Response return from account Audit Trail API: {
+    "Status": "0",
+    "listOfData": [
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 200",
+            "AmountType": "Debit",
+            "VoucherType": "Journal Voucher",
+            "Voucher": "JV-280923-94",
+            "DateTime": "2023-09-28 13:49:44",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8390 to 8190"
+        },
+        {
+            "AccountCode": "SLB0008",
+            "AccountName": "ICICI Bank",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 200",
+            "AmountType": "Credit",
+            "VoucherType": "Journal Voucher",
+            "Voucher": "JV-280923-94",
+            "DateTime": "2023-09-28 13:49:44",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from -402 to -202"
+        }
+    ]
+}10.100.72.250	29-09-2023 11:22:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:22:48 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:23:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.72.250	29-09-2023 11:23:45 AM	JSON POST : {
+        "voucherNo":"",
+        "accountCode":"",
+        "fromDate":"2023-09-28",
+        "toDate":"2023-09-29"
+    }10.100.72.250	29-09-2023 11:23:45 AM	Response return from account Audit Trail API: {
+    "Status": "0",
+    "listOfData": [
+        {
+            "AccountCode": "SLB0006",
+            "AccountName": "NSDL",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 13729",
+            "AmountType": "Credit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 15390 to 29119"
+        },
+        {
+            "AccountCode": "SLB62015",
+            "AccountName": "62015",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1070",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:40",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from -2424 to -3494"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 6988",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:40",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 15378 to 8390"
+        },
+        {
+            "AccountCode": "SLB19146",
+            "AccountName": "19146",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 4815",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from -605.5 to -5420.5"
+        },
+        {
+            "AccountCode": "SLB09856",
+            "AccountName": "09856",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 856",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 72 to -784"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 200",
+            "AmountType": "Debit",
+            "VoucherType": "Journal Voucher",
+            "Voucher": "JV-280923-94",
+            "DateTime": "2023-09-28 13:49:44",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8390 to 8190"
+        },
+        {
+            "AccountCode": "SLB0008",
+            "AccountName": "ICICI Bank",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 200",
+            "AmountType": "Credit",
+            "VoucherType": "Journal Voucher",
+            "Voucher": "JV-280923-94",
+            "DateTime": "2023-09-28 13:49:44",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from -402 to -202"
+        }
+    ]
+}10.100.72.250	29-09-2023 11:23:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:23:45 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:23:56 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.72.250	29-09-2023 11:23:56 AM	JSON POST : {
+        "voucherNo":"25536",
+        "accountCode":"",
+        "fromDate":"2023-09-28",
+        "toDate":"2023-09-29"
+    }10.100.72.250	29-09-2023 11:23:56 AM	Response return from account Audit Trail API: {
+    "Status": "0",
+    "listOfData": []
+}10.100.72.250	29-09-2023 11:23:56 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:23:56 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:24:02 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.72.250	29-09-2023 11:24:02 AM	JSON POST : {
+        "voucherNo":"25536",
+        "accountCode":"",
+        "fromDate":"2023-09-01",
+        "toDate":"2023-09-29"
+    }10.100.72.250	29-09-2023 11:24:02 AM	Response return from account Audit Trail API: {
+    "Status": "0",
+    "listOfData": []
+}10.100.72.250	29-09-2023 11:24:02 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:24:02 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:24:07 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.72.250	29-09-2023 11:24:07 AM	JSON POST : {
+        "voucherNo":"",
+        "accountCode":"SLB25536",
+        "fromDate":"2023-09-01",
+        "toDate":"2023-09-29"
+    }10.100.72.250	29-09-2023 11:24:07 AM	Response return from account Audit Trail API: {
+    "Status": "0",
+    "listOfData": [
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 6988",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:40",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 15378 to 8390"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 200",
+            "AmountType": "Debit",
+            "VoucherType": "Journal Voucher",
+            "Voucher": "JV-280923-94",
+            "DateTime": "2023-09-28 13:49:44",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8390 to 8190"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-280923-11",
+            "DateTime": "2023-09-28 15:28:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8190 to 8690"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1000",
+            "AmountType": "Debit",
+            "VoucherType": "Bank Payment",
+            "Voucher": "BP-280923-9",
+            "DateTime": "2023-09-28 15:32:15",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8690 to 7690"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-13",
+            "DateTime": "2023-09-29 11:19:28",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from 9190 to 9690"
+        }
+    ]
+}10.100.72.250	29-09-2023 11:24:07 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:24:07 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:24:37 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:24:37 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:24:40 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.72.250	29-09-2023 11:24:40 AM	JSON POST : {
+        "voucherNo":"",
+        "accountCode":"SLB25536",
+        "fromDate":"",
+        "toDate":""
+    }10.100.72.250	29-09-2023 11:24:40 AM	Response return from account Audit Trail API: {
+    "Status": "0",
+    "listOfData": [
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": null,
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "",
+            "AccountName": "",
+            "UserName": "",
+            "Amount": "Update from 0 to ",
+            "AmountType": null,
+            "VoucherType": null,
+            "Voucher": null,
+            "DateTime": null,
+            "IPAddress": null,
+            "Balance": "Balance Updated from  to "
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 6988",
+            "AmountType": "Debit",
+            "VoucherType": "Bill Generation",
+            "Voucher": "BG2809202393",
+            "DateTime": "2023-09-28 13:45:40",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 15378 to 8390"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 200",
+            "AmountType": "Debit",
+            "VoucherType": "Journal Voucher",
+            "Voucher": "JV-280923-94",
+            "DateTime": "2023-09-28 13:49:44",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8390 to 8190"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-280923-11",
+            "DateTime": "2023-09-28 15:28:41",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8190 to 8690"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1000",
+            "AmountType": "Debit",
+            "VoucherType": "Bank Payment",
+            "Voucher": "BP-280923-9",
+            "DateTime": "2023-09-28 15:32:15",
+            "IPAddress": "10.100.72.16",
+            "Balance": "Balance Updated from 8690 to 7690"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-12",
+            "DateTime": "2023-09-29 11:14:44",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from 7690 to 9190"
+        },
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-13",
+            "DateTime": "2023-09-29 11:19:28",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from 9190 to 9690"
+        }
+    ]
+}10.100.72.250	29-09-2023 11:24:40 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:24:40 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:24:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:24:50 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:24:52 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAccAuditTrailAPI.php10.100.72.250	29-09-2023 11:24:52 AM	JSON POST : {
+        "voucherNo":"BR-290923-12",
+        "accountCode":"",
+        "fromDate":"",
+        "toDate":""
+    }10.100.72.250	29-09-2023 11:24:52 AM	Response return from account Audit Trail API: {
+    "Status": "0",
+    "listOfData": [
+        {
+            "AccountCode": "SLB25536",
+            "AccountName": "25536",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1500",
+            "AmountType": "Credit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-12",
+            "DateTime": "2023-09-29 11:14:44",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from 7690 to 9190"
+        },
+        {
+            "AccountCode": "SLB0008",
+            "AccountName": "ICICI Bank",
+            "UserName": "Backend HO User",
+            "Amount": "Update from 0 to 1500",
+            "AmountType": "Debit",
+            "VoucherType": "Bank Receipt",
+            "Voucher": "BR-290923-12",
+            "DateTime": "2023-09-29 11:14:44",
+            "IPAddress": "10.100.72.250",
+            "Balance": "Balance Updated from 398 to -1102"
+        }
+    ]
+}10.100.72.250	29-09-2023 11:24:52 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:24:52 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 11:27:16 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listVoucherEntryAPI.php10.100.72.250	29-09-2023 11:27:16 AM	JSON POST : {
+  	"VoucherNo":"BR-290923-12",
+	"TransactionDate":"",
+  "Type":"BR"
+}10.100.72.250	29-09-2023 11:27:16 AM	Response return from listVoucherEntryAPI: {
+    "status": 0,
+    "VoucherData": [
+        {
+            "Number": 1,
+            "Id": "36",
+            "VoucherNo": "BR-290923-12",
+            "TransactionDate": "2023-09-29",
+            "DateAdded": "2023-09-29 11:14:44",
+            "Type": "BR",
+            "AddedBy": "12749",
+            "ListOfArray": {
+                "AccountName": "SLB0008",
+                "Amount": 1500,
+                "listOfData": [
+                    {
+                        "AccountName": "SLB25536",
+                        "Credit": "1500",
+                        "Narration": "this is for test"
+                    }
+                ]
+            }
+        }
+    ]
+}10.140.59.208	29-09-2023 11:35:39 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.250	29-09-2023 11:40:20 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/accountNameAPI.php10.100.72.250	29-09-2023 11:40:20 AM	JSON POST : {
+                                                    "AccountName":"",
+                                                    "GroupId":"",
+                                                    "Status":"1"
+                                                }10.100.72.250	29-09-2023 12:11:50 PM	ui MjU1MzYwMg== and pas dGVzdA==10.100.72.250	29-09-2023 12:11:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	29-09-2023 12:11:50 PM	JSON POST : Array10.100.72.250	29-09-2023 12:11:50 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "1",
+    "BranchId": "25536",
+    "Role": "2",
+    "Type": "branch",
+    "UserName": "Branch User  (2553602)",
+    "RegionId": "7",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.72.250	29-09-2023 12:11:50 PM	Json parting value2553610.100.72.250	29-09-2023 12:11:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 12:11:50 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	29-09-2023 12:12:02 PM	Session BranchId...2553610.100.72.250	29-09-2023 12:12:02 PM	Session Type...BRANCH10.100.72.250	29-09-2023 12:12:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	29-09-2023 12:12:02 PM	JSON POST : { "UserType": "BRANCH", "UserId": "1", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "2"}10.100.72.250	29-09-2023 12:12:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	29-09-2023 12:12:10 PM	JSON POST : 10.100.72.250	29-09-2023 12:12:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 12:12:33 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.16	29-09-2023 12:18:39 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.16	29-09-2023 12:18:53 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.16	29-09-2023 12:18:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.16	29-09-2023 12:18:53 PM	JSON POST : Array10.100.72.16	29-09-2023 12:18:53 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.72.16	29-09-2023 12:18:53 PM	Json parting value34434510.100.72.16	29-09-2023 12:18:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.16	29-09-2023 12:18:53 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.16	29-09-2023 12:18:56 PM	Session BranchId...houser10.100.72.16	29-09-2023 12:18:56 PM	Session Type...HOUSER10.100.72.16	29-09-2023 12:18:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.16	29-09-2023 12:18:56 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.16	29-09-2023 12:18:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.16	29-09-2023 12:18:56 PM	JSON POST : 10.100.72.16	29-09-2023 12:19:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.16	29-09-2023 12:19:05 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.16	29-09-2023 12:19:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.100.72.16	29-09-2023 12:19:45 PM	JSON POST : {
+					"AcknowledgementNo":"830025300001170",
+					"productType":"PAN"
+				}10.100.72.16	29-09-2023 12:19:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.16	29-09-2023 12:19:45 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.16	29-09-2023 12:25:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.100.72.16	29-09-2023 12:25:08 PM	JSON POST : {
+					"AcknowledgementNo":"830025300001170",
+					"productType":"TAN"
+				}10.100.72.16	29-09-2023 12:25:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.16	29-09-2023 12:25:08 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.16	29-09-2023 12:25:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.100.72.16	29-09-2023 12:25:24 PM	JSON POST : {
+					"AcknowledgementNo":"830025300001170",
+					"productType":"PAN"
+				}10.100.72.16	29-09-2023 12:25:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.16	29-09-2023 12:25:24 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	29-09-2023 12:30:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 12:30:27 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	29-09-2023 12:34:28 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 12:34:28 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	29-09-2023 12:36:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.100.72.250	29-09-2023 12:36:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.100.72.250	29-09-2023 12:36:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.100.72.250	29-09-2023 12:36:21 PM	Upload Type FOR PAN Branch:25536----EXPRESS10.100.72.250	29-09-2023 12:36:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: EXPRESS & UserId: 110.100.72.250	29-09-2023 12:36:21 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.100.72.250	29-09-2023 12:36:21 PM	Copy Success: 62368470000185.pdf10.100.72.250	29-09-2023 12:36:21 PM	PDF Path: /u01/uploads_uat/panpdf/62368470000185.pdf10.100.72.250	29-09-2023 12:36:22 PM	*****outside image copy foreach****10.100.72.250	29-09-2023 12:36:22 PM	THIS IS PAGE: 010.100.72.250	29-09-2023 12:36:22 PM	THIS IS PAGE: 110.100.72.250	29-09-2023 12:36:22 PM	THIS IS PAGE: 210.100.72.250	29-09-2023 12:36:22 PM	THIS IS PAGE: 310.100.72.250	29-09-2023 12:36:22 PM	THIS IS PAGE: 410.100.72.250	29-09-2023 12:36:22 PM	THIS IS PAGE: 510.100.72.250	29-09-2023 12:36:22 PM	Total Image page count: 610.100.72.250	29-09-2023 12:36:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.100.72.250	29-09-2023 12:36:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  {
+    "AckNumber": "62368470000185",
+    "status": "Non-Complience",
+    "remark": "Unable to pass the Color Toll-Gate",
+    "SequenceNo": "0"
+}10.100.72.250	29-09-2023 12:36:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  Empty reply from server and status code: 10.100.72.250	29-09-2023 12:36:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.100.72.250	29-09-2023 12:36:22 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.100.72.250	29-09-2023 12:36:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 12:36:22 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	29-09-2023 12:39:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 12:39:39 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	29-09-2023 12:40:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 12:40:03 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	29-09-2023 12:40:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.100.72.250	29-09-2023 12:40:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.100.72.250	29-09-2023 12:40:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.100.72.250	29-09-2023 12:40:04 PM	Upload Type FOR TAN Branch:25536----EXPRESS10.100.72.250	29-09-2023 12:40:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: EXPRESS & UserId: 110.100.72.250	29-09-2023 12:40:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.100.72.250	29-09-2023 12:40:04 PM	Copy Success: 62368470000185.pdf10.100.72.250	29-09-2023 12:40:04 PM	PDF Path: /u01/uploads_uat/tanpdf/62368470000185.pdf10.100.72.250	29-09-2023 12:40:04 PM	*****outside image copy foreach****10.100.72.250	29-09-2023 12:40:04 PM	THIS IS PAGE: 010.100.72.250	29-09-2023 12:40:04 PM	THIS IS PAGE: 110.100.72.250	29-09-2023 12:40:04 PM	THIS IS PAGE: 210.100.72.250	29-09-2023 12:40:04 PM	THIS IS PAGE: 310.100.72.250	29-09-2023 12:40:04 PM	THIS IS PAGE: 410.100.72.250	29-09-2023 12:40:04 PM	THIS IS PAGE: 510.100.72.250	29-09-2023 12:40:04 PM	Total Image page count: 610.100.72.250	29-09-2023 12:40:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.100.72.250	29-09-2023 12:40:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  {
+    "AckNumber": "62368470000185",
+    "status": "Non-Complience",
+    "remark": "Unable to pass the Color Toll-Gate",
+    "SequenceNo": "0"
+}10.100.72.250	29-09-2023 12:40:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  Empty reply from server and status code: 10.100.72.250	29-09-2023 12:40:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.100.72.250	29-09-2023 12:40:04 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.100.72.250	29-09-2023 12:58:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 12:58:33 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	29-09-2023 01:02:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 01:02:40 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	29-09-2023 01:03:41 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 01:03:41 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	29-09-2023 01:04:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 01:04:31 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	29-09-2023 01:05:11 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.100.72.250	29-09-2023 01:05:11 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.100.72.250	29-09-2023 01:05:11 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: TAN10.100.72.250	29-09-2023 01:05:11 PM	Upload Type FOR TAN Branch:25536----EXPRESS10.100.72.250	29-09-2023 01:05:11 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: EXPRESS & UserId: 110.100.72.250	29-09-2023 01:05:11 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.100.72.250	29-09-2023 01:05:11 PM	Copy Success: 62368470000185.pdf10.100.72.250	29-09-2023 01:05:11 PM	PDF Path: /u01/uploads_uat/tanpdf/62368470000185.pdf10.100.72.250	29-09-2023 01:05:12 PM	*****outside image copy foreach****10.100.72.250	29-09-2023 01:05:12 PM	THIS IS PAGE: 010.100.72.250	29-09-2023 01:05:12 PM	THIS IS PAGE: 110.100.72.250	29-09-2023 01:05:12 PM	THIS IS PAGE: 210.100.72.250	29-09-2023 01:05:12 PM	THIS IS PAGE: 310.100.72.250	29-09-2023 01:05:12 PM	THIS IS PAGE: 410.100.72.250	29-09-2023 01:05:12 PM	THIS IS PAGE: 510.100.72.250	29-09-2023 01:05:12 PM	Total Image page count: 610.100.72.250	29-09-2023 01:05:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkactiontan.php10.100.72.250	29-09-2023 01:05:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  {
+    "AckNumber": "62368470000185",
+    "status": "Non-Complience",
+    "remark": "Unable to pass the Color Toll-Gate",
+    "SequenceNo": "0"
+}10.100.72.250	29-09-2023 01:05:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  Empty reply from server and status code: 10.100.72.250	29-09-2023 01:05:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.100.72.250	29-09-2023 01:05:12 PM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.100.72.250	29-09-2023 01:05:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	29-09-2023 01:05:14 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}

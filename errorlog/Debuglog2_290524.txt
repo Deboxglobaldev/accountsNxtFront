@@ -1,0 +1,99 @@
+10.100.21.52	29-05-2024 05:10:30 PM	****** upload path ****** :uploads/10.100.21.52	29-05-2024 05:10:30 PM	records .. 510.100.21.52	29-05-2024 05:10:30 PM	JSON TO POST ON URL:  https://10.150.146.12/UAT_BackEnd/General/NSDLAcceptedAPI_TAN.php :{
+				"Opetation":"ACC",
+				"UserId":"52",
+				"ip":"10.100.21.52",
+				"listOfData":[{ 
+							"AcknowledgmentNumber":"26744470005610",
+							"AcceptedDate":"01-05-2024" 
+					},{ 
+							"AcknowledgmentNumber":"26744470005433",
+							"AcceptedDate":"19-03-2024" 
+					}]
+			 }10.100.21.52	29-05-2024 05:17:12 PM	****** upload path ****** :uploads/10.100.21.52	29-05-2024 05:17:12 PM	records .. 310.100.21.52	29-05-2024 05:17:12 PM	records ..       1287600102-05-2024255369700500482PAN	10.100.21.52	29-05-2024 05:17:12 PM	JSON TO POST ON URL:  https://10.150.146.12/UAT_BackEnd/General/NSDLAcceptedAPI.php :{
+						"Opetation":"ACC",
+						"UserId":"52",
+						"ip":"10.100.21.52",
+						"listOfData":[{
+									"AcknowledgmentNumber":"255369700500482",
+									"AcceptedDate":"02-05-2024"
+								},{
+									"AcknowledgmentNumber":"255369700494436",
+									"AcceptedDate":"19-03-2024"
+								}]
+						}10.100.21.52	29-05-2024 05:17:12 PM	Final Response:  [
+    {
+        "Status": "0",
+        "TotalCount": 2,
+        "UpdatedCount": 0,
+        "listOfData": [
+            {
+                "AcknoNumber": "255369700500482",
+                "StageStatus": "Batch Not Created"
+            },
+            {
+                "AcknoNumber": "255369700494436",
+                "StageStatus": "Batch Not Created"
+            }
+        ]
+    }
+]10.100.21.52	29-05-2024 06:29:56 PM	****** upload path ****** :uploads/10.100.21.52	29-05-2024 06:29:56 PM	records .. 210.100.21.52	29-05-2024 06:29:56 PM	records ..       1287600102-05-2024095019702776250PAN10.100.21.52	29-05-2024 06:29:56 PM	JSON TO POST ON URL:  https://10.150.146.12/UAT_BackEnd/General/NSDLAcceptedAPI.php :{
+						"Opetation":"ACC",
+						"UserId":"52",
+						"ip":"10.100.21.52",
+						"listOfData":[{
+									"AcknowledgmentNumber":"095019702776250",
+									"AcceptedDate":"02-05-2024"
+								}]
+						}10.100.21.52	29-05-2024 06:29:56 PM	Final Response:  [
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 1,
+        "listOfData": [
+            {
+                "AcknoNumber": "095019702776250",
+                "StageStatus": "Update"
+            }
+        ]
+    }
+]10.100.21.52	29-05-2024 06:43:04 PM	****** upload path ****** :uploads/10.100.21.52	29-05-2024 06:43:04 PM	records .. 510.100.21.52	29-05-2024 06:43:13 PM	****** upload path ****** :uploads/10.100.21.52	29-05-2024 06:43:13 PM	records .. 510.100.21.52	29-05-2024 06:44:48 PM	****** upload path ****** :uploads/10.100.21.52	29-05-2024 06:44:48 PM	records .. 510.100.21.52	29-05-2024 06:45:25 PM	****** upload path ****** :uploads/10.100.21.52	29-05-2024 06:45:25 PM	records .. 510.100.21.52	29-05-2024 06:45:59 PM	****** upload path ****** :uploads/10.100.21.52	29-05-2024 06:45:59 PM	records .. 210.100.21.52	29-05-2024 06:45:59 PM	records .. 1287600102-05-2024095019702776250PAN10.100.21.52	29-05-2024 06:45:59 PM	JSON TO POST ON URL:  https://10.150.146.12/UAT_BackEnd/General/NSDLAcceptedAPI.php :{
+						"Opetation":"ACC",
+						"UserId":"52",
+						"ip":"10.100.21.52",
+						"listOfData":[{
+									"AcknowledgmentNumber":"095019702776250",
+									"AcceptedDate":"02-05-2024"
+								}]
+						}10.100.21.52	29-05-2024 06:45:59 PM	Final Response:  [
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 0,
+        "listOfData": [
+            {
+                "AcknoNumber": "095019702776250",
+                "StageStatus": "Already Updated"
+            }
+        ]
+    }
+]10.100.21.52	29-05-2024 06:52:26 PM	****** upload path ****** :uploads/10.100.21.52	29-05-2024 06:52:26 PM	records .. 210.100.21.52	29-05-2024 06:52:26 PM	records ..       1287600602-05-2024095019702776261PAN10.100.21.52	29-05-2024 06:52:26 PM	JSON TO POST ON URL:  https://10.150.146.12/UAT_BackEnd/General/NSDLAcceptedAPI.php :{
+						"Opetation":"ACC",
+						"UserId":"52",
+						"ip":"10.100.21.52",
+						"listOfData":[{
+									"AcknowledgmentNumber":"095019702776261",
+									"AcceptedDate":"02-05-2024"
+								}]
+						}10.100.21.52	29-05-2024 06:52:26 PM	Final Response:  [
+    {
+        "Status": "0",
+        "TotalCount": 1,
+        "UpdatedCount": 1,
+        "listOfData": [
+            {
+                "AcknoNumber": "095019702776261",
+                "StageStatus": "Update"
+            }
+        ]
+    }
+]

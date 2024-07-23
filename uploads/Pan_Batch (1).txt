@@ -1,0 +1,4 @@
+	DateFile NameFile StatusResponse File
+      1110667014-02-2022000174.txtAccepted11106670_RESP.html
+      1110667314-02-2022000175.txtRejected11106673_RESP.html
+      

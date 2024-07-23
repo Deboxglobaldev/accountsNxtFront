@@ -1,0 +1,1 @@
+10.100.72.67	17-06-2023 12:36:49 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	17-06-2023 12:36:49 PM	JSON POST : {"data":"empty"}

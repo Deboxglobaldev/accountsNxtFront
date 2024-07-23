@@ -1,0 +1,3 @@
+10.110.11.15	19-12-2023 02:07:56 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.110.11.15	19-12-2023 02:07:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	19-12-2023 02:07:56 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}

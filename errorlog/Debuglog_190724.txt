@@ -1,0 +1,40 @@
+10.110.11.15	19-07-2024 02:02:51 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.110.11.15	19-07-2024 02:02:54 PM	ui YmFja2hv and pas dGVzdA==10.110.11.15	19-07-2024 02:02:54 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.110.11.15	19-07-2024 02:02:54 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.110.11.15	19-07-2024 02:02:54 PM	JSON POST : Array10.110.11.15	19-07-2024 02:02:54 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12749",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Backend  HO User",
+    "ErrorCode": "00",
+    "Status": "Success",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.110.11.15	19-07-2024 02:02:54 PM	Json parting value34434510.110.11.15	19-07-2024 02:02:54 PM	Session BranchId...BACKHO10.110.11.15	19-07-2024 02:02:54 PM	Session Type...BACKHO10.110.11.15	19-07-2024 02:02:54 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.110.11.15	19-07-2024 02:02:54 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.110.11.15	19-07-2024 02:04:39 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	19-07-2024 02:04:39 PM	JSON POST : {
+			"userType" : "BACKHO"
+		}10.100.23.152	19-07-2024 06:33:49 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.23.152	19-07-2024 06:33:49 PM	JSON POST : {
+  "SchemeId":"87"
+}10.100.23.152	19-07-2024 06:34:21 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.23.152	19-07-2024 06:34:21 PM	Response from url data jaypal {"userId":"2553601","password":"test"}10.100.23.152	19-07-2024 06:34:21 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.152	19-07-2024 06:34:21 PM	JSON POST : Array10.100.23.152	19-07-2024 06:34:21 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Test  User",
+    "ErrorCode": "00",
+    "Status": "Success",
+    "RegionId": "1",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.23.152	19-07-2024 06:34:21 PM	Json parting value2553610.100.23.152	19-07-2024 06:34:21 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.152	19-07-2024 06:34:21 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.23.152	19-07-2024 06:34:21 PM	Session BranchId...2553610.100.23.152	19-07-2024 06:34:21 PM	Session Type...BRANCH10.100.23.152	19-07-2024 06:34:21 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.152	19-07-2024 06:34:21 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.23.152	19-07-2024 06:34:22 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.23.152	19-07-2024 06:34:22 PM	JSON POST : 10.100.23.152	19-07-2024 06:35:57 PM	ui YmFja2hv and pas dGVzdA==10.100.23.152	19-07-2024 06:35:57 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.23.152	19-07-2024 06:35:57 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.152	19-07-2024 06:35:57 PM	JSON POST : Array10.100.23.152	19-07-2024 06:35:57 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12749",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Backend  HO User",
+    "ErrorCode": "00",
+    "Status": "Success",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.23.152	19-07-2024 06:35:57 PM	Json parting value34434510.100.23.152	19-07-2024 06:35:57 PM	Session BranchId...BACKHO10.100.23.152	19-07-2024 06:35:57 PM	Session Type...BACKHO10.100.23.152	19-07-2024 06:35:57 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.23.152	19-07-2024 06:35:57 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php

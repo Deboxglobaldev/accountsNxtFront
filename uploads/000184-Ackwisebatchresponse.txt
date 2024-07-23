@@ -1,0 +1,69 @@
+PAN File Validation Utility Version  2.18 Date : Thu Oct 07 00:08:04 GMT+05:30 
+2021 
+
+
+Input File Name: 09900O_000184.txt_10426440.PAN 
+
+Out File Name:10426440_Resp.html 
+ 
+
+ File Order No:10426443     File Type: Change Request PAN Application     Upload 
+Type: Regular     Agent ID: 25      User ID: 09900O    No of Records: 4
+
+ 
+
+
+      Line Number
+
+      Field Name
+
+      Field Value
+
+      Response Code
+
+      Response Description
+
+
+      2
+
+      Acknowledgemnt No.
+
+      255369700388530
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      3
+
+      Acknowledgemnt No.
+
+      255369700388541
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      4
+
+      Acknowledgemnt No.
+
+      255369700388552
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      5
+
+      Acknowledgemnt No.
+
+      255369700388563
+
+      PCDBH78002
+
+      Record inserted succesfully
+

@@ -1,0 +1,46 @@
+php_value upload_max_filesize 1000M
+php_value post_max_size 2000M
+php_value memory_limit 3000M
+php_value max_execution_time 25000
+php_value max_input_time 25000
+php_value display_errors On
+
+#Disable directory browsing
+Options -Indexes
+
+Options +FollowSymLinks
+RewriteEngine on
+ErrorDocument 403 <h1>404&nbsp;Page&nbsp;not&nbsp;found</h1>
+ErrorDocument 404 <h1>404&nbsp;Page&nbsp;not&nbsp;found</h1>
+RewriteCond     %{SERVER_PORT} ^$
+RewriteRule     ^(.*)$ http://%{SERVER_NAME}%{REQUEST_URI} [L,R]
+
+RewriteRule ^home$ index.php  [NC,L]
+RewriteRule ^bulkuploaddata$ bulkuploaddata.php  [NC,L]
+RewriteRule ^bulkuploaddatatan$ bulkuploaddatatan.php  [NC,L]
+RewriteRule ^missubmit$ missubmit.php  [NC,L]
+RewriteRule ^listbranch$ listbranch.php  [NC,L]
+RewriteRule ^listregion$ listregion.php  [NC,L]
+RewriteRule ^listrejectionreason$ listrejectionreason.php  [NC,L]
+RewriteRule ^listvendors$ listvendors.php  [NC,L]
+RewriteRule ^listrloffice$ listrloffice.php  [NC,L]
+RewriteRule ^exportnsdlrejection$ exportnsdlrejection.php  [NC,L]
+RewriteRule ^listMail$ listMail.php  [NC,L]
+RewriteRule ^exportnsdlrejection$ exportnsdlrejection.php  [NC,L]
+RewriteRule ^auditTrail$ auditTrail.php  [NC,L]
+RewriteRule ^batchstatusreport$ batchstatusreport.php  [NC,L]
+RewriteRule ^downloadpdf1a$ downloadpdf1a.php  [NC,L]
+RewriteRule ^login$ login.php  [NC,L]
+RewriteRule ^backofficedashboard$ backofficedashboard.php  [NC,L]
+RewriteRule ^logout$ logout.php  [NC,L]
+RewriteRule ^qc_pdftan$ qc_pdftan.php  [NC,L]
+RewriteRule ^qc_pdf$ qc_pdf.php  [NC,L]
+RewriteRule ^filesubmit$ filesubmit.php  [NC,L]
+RewriteRule ^filesubmittan$ filesubmittan.php  [NC,L]
+RewriteRule ^cropingstage$ cropingstage.php  [NC,L]
+RewriteRule ^dataentry$ dataentry.php  [NC,L]
+RewriteRule ^dataentrytan$ dataentrytan.php  [NC,L]
+RewriteRule ^frmaction$ frmaction.php  [NC,L]
+RewriteRule ^cropingstage$ cropingstage.php  [NC,L]
+
+

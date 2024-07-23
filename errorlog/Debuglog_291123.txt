@@ -1,0 +1,216 @@
+10.140.36.56	29-11-2023 10:19:42 AM	ui bWFuaXNoYTNAZXh0LnJlbGlnYXJlLmlu and pas TWFuaUB5YWw=10.140.36.56	29-11-2023 10:19:42 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.56	29-11-2023 10:19:42 AM	JSON POST : Array10.140.36.56	29-11-2023 10:19:42 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12459",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "QCP",
+    "UserName": "Manisha Nayal  [QC - User]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.56	29-11-2023 10:19:42 AM	Json parting value34434510.140.36.132	29-11-2023 10:26:05 AM	ui cWN1c2VyNQ== and pas dGVzdA==10.140.36.132	29-11-2023 10:26:05 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.132	29-11-2023 10:26:05 AM	JSON POST : Array10.140.36.132	29-11-2023 10:26:05 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "50",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surabhi Japlot  [QC]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.132	29-11-2023 10:26:05 AM	Json parting value34434510.140.36.132	29-11-2023 10:26:05 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 10:26:05 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 10:26:08 AM	Session BranchId...QCP10.140.36.132	29-11-2023 10:26:08 AM	Session Type...QCP10.140.36.132	29-11-2023 10:26:08 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.132	29-11-2023 10:26:08 AM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.132	29-11-2023 10:26:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.132	29-11-2023 10:26:11 AM	JSON POST : 10.140.36.132	29-11-2023 10:26:15 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	29-11-2023 10:26:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 10:26:15 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 10:26:27 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	29-11-2023 10:26:27 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	29-11-2023 10:26:27 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.36.132	29-11-2023 10:26:27 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 10:26:27 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 10:26:30 AM	http://10.150.146.12/UAT_BackEnd/General/createuserAPI.php?CodeId=2553610.140.36.132	29-11-2023 10:26:30 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 10:26:30 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 10:26:35 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	29-11-2023 10:26:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 10:26:35 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 10:27:02 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.132	29-11-2023 10:27:02 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 10:27:02 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 10:27:08 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	29-11-2023 10:27:08 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 10:27:08 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 10:27:11 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	29-11-2023 10:27:11 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.36.132	29-11-2023 10:27:11 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.140.36.132	29-11-2023 10:27:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 10:27:11 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:29:26 AM	ui cWN1c2VyNQ== and pas dGVzdA==10.140.36.56	29-11-2023 10:29:26 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.56	29-11-2023 10:29:26 AM	JSON POST : Array10.140.36.56	29-11-2023 10:29:26 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "50",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surabhi Japlot  [QC]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.56	29-11-2023 10:29:26 AM	Json parting value34434510.140.36.56	29-11-2023 10:29:26 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:29:26 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:29:26 AM	Session BranchId...QCP10.140.36.56	29-11-2023 10:29:26 AM	Session Type...QCP10.140.36.56	29-11-2023 10:29:26 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.56	29-11-2023 10:29:26 AM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.56	29-11-2023 10:29:27 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.56	29-11-2023 10:29:27 AM	JSON POST : 10.140.36.56	29-11-2023 10:30:03 AM	ui bWFuaXNoYTNAZXh0LnJlbGlnYXJlLmlu and pas TWFuaUB5YWw=10.140.36.56	29-11-2023 10:30:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.56	29-11-2023 10:30:03 AM	JSON POST : Array10.140.36.56	29-11-2023 10:30:03 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12459",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "QCP",
+    "UserName": "Manisha Nayal  [QC - User]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.56	29-11-2023 10:30:03 AM	Json parting value34434510.140.36.56	29-11-2023 10:30:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:30:03 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:30:03 AM	Session BranchId...QCP10.140.36.56	29-11-2023 10:30:03 AM	Session Type...QCP10.140.36.56	29-11-2023 10:30:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.56	29-11-2023 10:30:03 AM	JSON POST : { "UserType": "QCP", "UserId": "12459", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.140.36.56	29-11-2023 10:30:04 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.56	29-11-2023 10:30:04 AM	JSON POST : 10.140.36.56	29-11-2023 10:30:25 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:30:25 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:30:25 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:30:25 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:30:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:30:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:30:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=110.140.36.56	29-11-2023 10:30:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:30:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:30:59 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:31:15 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:31:15 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:31:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:31:15 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:31:28 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:31:28 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:31:28 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=210.140.36.56	29-11-2023 10:31:28 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:31:28 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:31:28 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:31:33 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:31:33 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:31:33 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:31:33 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:31:38 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:31:38 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:31:38 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=210.140.36.56	29-11-2023 10:31:38 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:31:38 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:31:38 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:31:44 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:31:44 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:31:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:31:44 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:31:48 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:31:48 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:31:48 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=310.140.36.56	29-11-2023 10:31:48 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:31:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:31:48 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:31:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:31:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:31:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=310.140.36.56	29-11-2023 10:31:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:31:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Data Save ..10.140.36.56	29-11-2023 10:31:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data as  .. editId=3&Name=Chennai&Code=3242&Status=110.140.36.56	29-11-2023 10:31:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addregionbasicInfo.php10.140.36.56	29-11-2023 10:31:59 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data API Call Result  .. Update Successfully10.140.36.56	29-11-2023 10:31:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:31:59 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:32:07 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:32:07 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:32:07 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:32:15 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:32:15 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:32:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:32:15 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:32:23 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:32:23 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:32:23 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=410.140.36.56	29-11-2023 10:32:23 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:32:23 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:32:23 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:32:33 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:32:33 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:32:33 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=410.140.36.56	29-11-2023 10:32:33 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:32:33 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Data Save ..10.140.36.56	29-11-2023 10:32:33 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data as  .. editId=4&Name=Kolkatta&Code=152&Status=110.140.36.56	29-11-2023 10:32:33 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addregionbasicInfo.php10.140.36.56	29-11-2023 10:32:33 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data API Call Result  .. Update Successfully10.140.36.56	29-11-2023 10:32:33 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:32:33 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:32:37 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:32:37 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:32:37 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:32:37 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:32:46 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:32:46 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:32:46 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=110.140.36.56	29-11-2023 10:32:46 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:32:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:32:46 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:32:54 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:32:54 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:32:54 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=110.140.36.56	29-11-2023 10:32:54 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:32:54 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Data Save ..10.140.36.56	29-11-2023 10:32:54 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data as  .. editId=1&Name=Hyderabad&Code=1&Status=110.140.36.56	29-11-2023 10:32:54 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addregionbasicInfo.php10.140.36.56	29-11-2023 10:32:54 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data API Call Result  .. Update Successfully10.140.36.56	29-11-2023 10:32:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:32:54 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:32:59 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:32:59 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:32:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:32:59 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:33:14 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:33:14 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:33:14 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=110.140.36.56	29-11-2023 10:33:14 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:33:14 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:33:14 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:33:34 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:33:34 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:33:34 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=110.140.36.56	29-11-2023 10:33:34 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:33:34 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Data Save ..10.140.36.56	29-11-2023 10:33:34 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data as  .. editId=1&Name=Orissa&Code=1&Status=110.140.36.56	29-11-2023 10:33:34 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addregionbasicInfo.php10.140.36.56	29-11-2023 10:33:34 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data API Call Result  .. Update Successfully10.140.36.56	29-11-2023 10:33:34 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:33:34 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:33:39 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:33:39 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:33:39 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:33:39 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:34:04 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:34:04 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:34:04 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=110.140.36.56	29-11-2023 10:34:04 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:34:04 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:34:04 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:34:08 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:34:08 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:34:08 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:34:08 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:34:29 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:34:29 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:34:29 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=110.140.36.56	29-11-2023 10:34:29 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:34:29 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:34:29 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:34:45 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:34:45 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:34:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:34:45 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:35:02 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:35:02 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:35:02 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=110.140.36.56	29-11-2023 10:35:02 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:35:02 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:35:02 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:35:21 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:35:21 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- Call for Retrival 10.140.36.56	29-11-2023 10:35:21 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php?editId=110.140.36.56	29-11-2023 10:35:21 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  JSON Retsult for Data Retrival ..Array10.140.36.56	29-11-2023 10:35:21 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Data Save ..10.140.36.56	29-11-2023 10:35:21 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data as  .. editId=1&Name=Hyderabad&Code=4&Status=110.140.36.56	29-11-2023 10:35:21 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addregionbasicInfo.php10.140.36.56	29-11-2023 10:35:21 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data API Call Result  .. Update Successfully10.140.36.56	29-11-2023 10:35:21 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:35:21 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:35:24 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:35:24 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:35:24 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:35:24 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:35:54 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:35:54 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:35:54 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:36:15 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:- At begining of Call10.140.36.56	29-11-2023 10:36:15 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Data Save ..10.140.36.56	29-11-2023 10:36:15 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data as  .. editId=&Name=Delhi+NCR&Code=10&Status=110.140.36.56	29-11-2023 10:36:15 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addregionbasicInfo.php10.140.36.56	29-11-2023 10:36:15 AM	[Info] - File location /tinfc1/UAT/addregion.php Message:-  Saving Data API Call Result  .. Insert Data Successfully10.140.36.56	29-11-2023 10:36:15 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:36:15 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:36:17 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:36:17 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 10:36:17 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:36:17 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:37:10 AM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.56	29-11-2023 10:37:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:37:10 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 10:37:22 AM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.56	29-11-2023 10:37:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 10:37:22 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 11:18:42 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 11:18:42 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 11:18:42 AM	Session BranchId...QCP10.140.36.132	29-11-2023 11:18:42 AM	Session Type...QCP10.140.36.132	29-11-2023 11:18:42 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.132	29-11-2023 11:18:42 AM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.132	29-11-2023 11:18:43 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.132	29-11-2023 11:18:43 AM	JSON POST : 10.140.36.56	29-11-2023 11:22:33 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 11:22:33 AM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 11:22:33 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 11:22:33 AM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 03:07:48 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - 10.140.36.56	29-11-2023 03:07:48 PM	[Info] - File location /tinfc1/UAT/listregion.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/regioninfoList.php10.140.36.56	29-11-2023 03:07:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 03:07:48 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 03:11:23 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.56	29-11-2023 03:11:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 03:11:23 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.56	29-11-2023 03:11:29 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.56	29-11-2023 03:11:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.56	29-11-2023 03:11:29 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 04:09:39 PM	ui cWN1c2VyNQ== and pas dGVzdA==10.140.36.132	29-11-2023 04:09:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.36.132	29-11-2023 04:09:39 PM	JSON POST : Array10.140.36.132	29-11-2023 04:09:39 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "50",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surabhi Japlot  [QC]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.36.132	29-11-2023 04:09:39 PM	Json parting value34434510.140.36.132	29-11-2023 04:09:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 04:09:39 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 04:09:40 PM	Session BranchId...QCP10.140.36.132	29-11-2023 04:09:40 PM	Session Type...QCP10.140.36.132	29-11-2023 04:09:40 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.36.132	29-11-2023 04:09:40 PM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.36.132	29-11-2023 04:09:44 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.36.132	29-11-2023 04:09:44 PM	JSON POST : 10.140.36.132	29-11-2023 04:09:51 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.140.36.132	29-11-2023 04:09:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 04:09:51 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.36.132	29-11-2023 04:09:56 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.140.36.132	29-11-2023 04:09:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.36.132	29-11-2023 04:09:56 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.59.123	29-11-2023 05:59:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.123	29-11-2023 05:59:34 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.59.123	29-11-2023 05:59:35 PM	Session BranchId...QCP10.140.59.123	29-11-2023 05:59:35 PM	Session Type...QCP10.140.59.123	29-11-2023 05:59:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.123	29-11-2023 05:59:35 PM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.59.123	29-11-2023 05:59:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.123	29-11-2023 05:59:35 PM	JSON POST : 10.140.59.123	29-11-2023 06:00:00 PM	ui YmF0Y2h1c2VyMw== and pas dGVzdA==10.140.59.123	29-11-2023 06:00:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.123	29-11-2023 06:00:00 PM	JSON POST : Array10.140.59.123	29-11-2023 06:00:00 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "51",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "BCP",
+    "UserName": "Surabhi Japlot  [Batch User-3]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.59.123	29-11-2023 06:00:00 PM	Json parting value34434510.140.59.123	29-11-2023 06:00:00 PM	Session BranchId...BCP10.140.59.123	29-11-2023 06:00:00 PM	Session Type...BCP10.140.59.123	29-11-2023 06:00:00 PM	JSON to post dashboard data:  ----{ "UserType": "BCP", "UserId": "", "UserTypeId": "BCP"}10.140.59.123	29-11-2023 06:00:00 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.123	29-11-2023 06:00:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.123	29-11-2023 06:00:00 PM	JSON POST : {
+			"userType" : "BCP"
+		}10.140.59.123	29-11-2023 06:00:25 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.140.59.123	29-11-2023 06:00:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.123	29-11-2023 06:00:25 PM	JSON POST : Array10.140.59.123	29-11-2023 06:00:25 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Test User  [Branch - 25536]",
+    "RegionId": "7",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.59.123	29-11-2023 06:00:25 PM	Json parting value2553610.140.59.123	29-11-2023 06:00:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.123	29-11-2023 06:00:25 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.140.59.123	29-11-2023 06:00:26 PM	Session BranchId...2553610.140.59.123	29-11-2023 06:00:26 PM	Session Type...BRANCH10.140.59.123	29-11-2023 06:00:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.123	29-11-2023 06:00:26 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.140.59.123	29-11-2023 06:00:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.123	29-11-2023 06:00:27 PM	JSON POST : 10.140.59.123	29-11-2023 06:01:14 PM	ui cWN1c2VyNQ== and pas dGVzdA==10.140.59.123	29-11-2023 06:01:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.123	29-11-2023 06:01:14 PM	JSON POST : Array10.140.59.123	29-11-2023 06:01:14 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "50",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "QCP",
+    "UserName": "Surabhi Japlot  [QC]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.140.59.123	29-11-2023 06:01:14 PM	Json parting value34434510.140.59.123	29-11-2023 06:01:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.123	29-11-2023 06:01:14 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.140.59.123	29-11-2023 06:01:14 PM	Session BranchId...QCP10.140.59.123	29-11-2023 06:01:14 PM	Session Type...QCP10.140.59.123	29-11-2023 06:01:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.123	29-11-2023 06:01:14 PM	JSON POST : { "UserType": "QCP", "UserId": "50", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": ""}10.140.59.123	29-11-2023 06:01:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.123	29-11-2023 06:01:15 PM	JSON POST : 10.140.59.123	29-11-2023 06:01:25 PM	ui aG91c2VyMQ== and pas dGVzdA==10.140.59.123	29-11-2023 06:01:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.140.59.123	29-11-2023 06:01:25 PM	JSON POST : Array10.140.59.123	29-11-2023 06:01:25 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.140.59.123	29-11-2023 06:01:25 PM	Json parting value34434510.140.59.123	29-11-2023 06:01:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.123	29-11-2023 06:01:25 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.123	29-11-2023 06:01:25 PM	Session BranchId...houser10.140.59.123	29-11-2023 06:01:25 PM	Session Type...HOUSER10.140.59.123	29-11-2023 06:01:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.140.59.123	29-11-2023 06:01:25 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.140.59.123	29-11-2023 06:01:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.140.59.123	29-11-2023 06:01:26 PM	JSON POST : 10.140.59.123	29-11-2023 06:01:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.123	29-11-2023 06:01:54 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.123	29-11-2023 06:01:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.123	29-11-2023 06:01:54 PM	JSON POST : 10.140.59.123	29-11-2023 06:02:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.123	29-11-2023 06:02:12 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"all",
+        "fromDate":"2023-11-01",
+        "toDate":"2023-11-29",
+        "DateType":"1",
+        "AckNo":"",
+        "ProductType":"PAN"
+        
+    }10.140.59.123	29-11-2023 06:02:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.123	29-11-2023 06:02:13 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.123	29-11-2023 06:02:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.123	29-11-2023 06:02:13 PM	JSON POST : 10.140.59.123	29-11-2023 06:02:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.140.59.123	29-11-2023 06:02:27 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"8301108",
+        "fromDate":"2023-11-01",
+        "toDate":"2023-11-29",
+        "DateType":"1",
+        "AckNo":"",
+        "ProductType":"PAN"
+        
+    }10.140.59.123	29-11-2023 06:02:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.140.59.123	29-11-2023 06:02:27 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.140.59.123	29-11-2023 06:02:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.140.59.123	29-11-2023 06:02:27 PM	JSON POST : 

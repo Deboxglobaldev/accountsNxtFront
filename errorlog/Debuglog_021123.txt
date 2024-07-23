@@ -1,0 +1,14 @@
+10.110.11.15	02-11-2023 03:24:37 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.110.11.15	02-11-2023 03:24:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.110.11.15	02-11-2023 03:24:37 PM	JSON POST : Array10.110.11.15	02-11-2023 03:24:37 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Test User  [Branch - 25536]",
+    "RegionId": "7",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.110.11.15	02-11-2023 03:24:37 PM	Json parting value2553610.110.11.15	02-11-2023 03:24:37 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	02-11-2023 03:24:37 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	02-11-2023 03:24:39 PM	Session BranchId...2553610.110.11.15	02-11-2023 03:24:39 PM	Session Type...BRANCH10.110.11.15	02-11-2023 03:24:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.110.11.15	02-11-2023 03:24:39 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.110.11.15	02-11-2023 03:24:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.110.11.15	02-11-2023 03:24:48 PM	JSON POST : 10.110.11.15	02-11-2023 05:56:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	02-11-2023 05:56:00 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	02-11-2023 05:56:01 PM	Session BranchId...2553610.110.11.15	02-11-2023 05:56:01 PM	Session Type...BRANCH10.110.11.15	02-11-2023 05:56:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.110.11.15	02-11-2023 05:56:01 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.110.11.15	02-11-2023 05:56:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.110.11.15	02-11-2023 05:56:05 PM	JSON POST : 

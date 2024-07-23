@@ -1,0 +1,204 @@
+10.100.72.250	22-12-2023 03:14:31 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.250	22-12-2023 03:14:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	22-12-2023 03:14:31 PM	JSON POST : Array10.100.72.250	22-12-2023 03:14:31 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.72.250	22-12-2023 03:14:31 PM	Json parting value34434510.100.72.250	22-12-2023 03:14:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 03:14:31 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 03:14:34 PM	Session BranchId...houser10.100.72.250	22-12-2023 03:14:34 PM	Session Type...HOUSER10.100.72.250	22-12-2023 03:14:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	22-12-2023 03:14:34 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.250	22-12-2023 03:14:38 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	22-12-2023 03:14:38 PM	JSON POST : 10.100.72.250	22-12-2023 03:14:46 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 03:14:46 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 03:14:46 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 03:15:18 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 03:15:18 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 03:15:18 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 03:15:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 03:15:18 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 03:16:14 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.250	22-12-2023 03:16:14 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- Call for Retrival 10.100.72.250	22-12-2023 03:16:14 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Retrival API Call ..http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php?editId=1521910.100.72.250	22-12-2023 03:16:14 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  JSON Retsult for Data Retrival ..{
+    "Id": "15219",
+    "Name": "NOIDA",
+    "AddressOne": "Religare Broking Limited 2nd floor ,A-6, Sect -4,Dist Gautam Buddha Nagar",
+    "AddressTwo": "Adjacent to HDFC Bank",
+    "City": "NOIDA",
+    "PinCode": "201301",
+    "State": "31",
+    "PrimaryPhone": "1204868714",
+    "SecondaryPhone": "",
+    "PrimaryEmail": "rajuddin@religare.com",
+    "SecondaryEmail": "",
+    "ContactPerson": "Rajuddin                                                                                                                                                                                                ",
+    "CenterType": "1",
+    "AgentNumber": "25",
+    "Region": "7",
+    "PanNumber": "0",
+    "TanNumber": "",
+    "GstNumber": "",
+    "BranchCode": "25536",
+    "FinancialCode": "01",
+    "BankName": "0",
+    "AccountNumber": "0",
+    "IfscCode": "0",
+    "BranchName": "0",
+    "Status": "1",
+    "JsonItem": "",
+    "BankName2": "",
+    "AccountNumber2": "",
+    "IfscCode2": "",
+    "BranchName2": "",
+    "Created_by": "1",
+    "Updated_by": null,
+    "Created_date": "2022-04-02",
+    "Created_time": "10:15:15",
+    "Updated_date": null,
+    "Updated_time": null,
+    "SelfDig_Flag": "1",
+    "ActivationDate": "2021-10-01",
+    "ClosureDate": "1970-01-01",
+    "TrainerName": "",
+    "FranchiseCode": "B",
+    "TrainingDate": "1970-01-01",
+    "SelfDig_FlagTan": "1"
+}10.100.72.250	22-12-2023 03:16:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 03:16:14 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 03:57:59 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.250	22-12-2023 03:57:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	22-12-2023 03:57:59 PM	JSON POST : Array10.100.72.250	22-12-2023 03:57:59 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.72.250	22-12-2023 03:57:59 PM	Json parting value34434510.100.72.250	22-12-2023 03:57:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 03:57:59 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 03:58:12 PM	Session BranchId...houser10.100.72.250	22-12-2023 03:58:12 PM	Session Type...HOUSER10.100.72.250	22-12-2023 03:58:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	22-12-2023 03:58:12 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.250	22-12-2023 03:58:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	22-12-2023 03:58:13 PM	JSON POST : 10.100.72.250	22-12-2023 03:58:23 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 03:58:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 03:58:23 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 03:58:42 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.250	22-12-2023 03:58:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 03:58:42 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:00:01 PM	ui YmFja2hv and pas dGVzdA==10.100.72.250	22-12-2023 04:00:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	22-12-2023 04:00:01 PM	JSON POST : Array10.100.72.250	22-12-2023 04:00:01 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12749",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Backend  HO User",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.250	22-12-2023 04:00:01 PM	Json parting value34434510.100.72.250	22-12-2023 04:00:01 PM	Session BranchId...BACKHO10.100.72.250	22-12-2023 04:00:01 PM	Session Type...BACKHO10.100.72.250	22-12-2023 04:00:01 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.250	22-12-2023 04:00:01 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.250	22-12-2023 04:00:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/commissionInformationAPI.php10.100.72.250	22-12-2023 04:00:36 PM	JSON POST : 10.100.72.250	22-12-2023 04:00:37 PM	Response return from commissionInformationAPI: {
+    "status": 0,
+    "commissionPeriod": [
+        {
+            "Id": "3",
+            "FromDate": "2022-07-08",
+            "ToDate": "2022-08-31",
+            "CommissionDate": "2022-07-07",
+            "DueDate": "2022-08-10",
+            "DateAdded": "2022-10-19 15:17:59",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "2",
+            "FromDate": "2022-09-15",
+            "ToDate": "2022-12-15",
+            "CommissionDate": "2022-09-14",
+            "DueDate": "2022-09-14",
+            "DateAdded": "2022-10-19 14:56:25",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "4",
+            "FromDate": "2023-01-01",
+            "ToDate": "2023-01-04",
+            "CommissionDate": "2023-01-04",
+            "DueDate": "2023-01-04",
+            "DateAdded": "2023-01-04 14:58:47",
+            "AddedBy": "35",
+            "Status": "0"
+        },
+        {
+            "Id": "5",
+            "FromDate": "2023-03-01",
+            "ToDate": "2023-03-31",
+            "CommissionDate": "2023-03-15",
+            "DueDate": "2023-03-31",
+            "DateAdded": "2023-03-14 13:05:56",
+            "AddedBy": "38",
+            "Status": "0"
+        }
+    ]
+}10.100.72.250	22-12-2023 04:00:57 PM	[Info] - File location /tinfc1/UAT/addCommissionInformation.php Message:- At begining of Call10.100.72.250	22-12-2023 04:01:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/schemeMasterAPI.php10.100.72.250	22-12-2023 04:01:42 PM	JSON POST : 10.100.72.250	22-12-2023 04:02:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.72.250	22-12-2023 04:02:07 PM	JSON POST : {
+  "SchemeId":"87"
+}10.100.72.250	22-12-2023 04:08:05 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.250	22-12-2023 04:08:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:08:05 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:12:27 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.250	22-12-2023 04:12:27 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.100.72.250	22-12-2023 04:12:27 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=&Name=abc&AddressOne=test&AddressTwo=&City=Noida&PinCode=201301&State=31&PrimaryPhone=7899875885&SecondaryPhone=&PrimaryEmail=test%40gmail.com&SecondaryEmail=&ContactPerson=test+abc&ActivationDate=22-12-2023&ClosureDate=&CenterType=1&AgentNumber=00&Region=1&PanNumber=3243243242&TanNumber=&GstNumber=&BranchCode=0000000&FinancialCode=322&BankName=423dfsds&AccountNumber=32423423423&IfscCode=dfs32423&BranchName=sdfdas3r3&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&FranchCode=000000&TrainingDate=&TrainnerName=&SelfDig_Flag=0&SelfDig_Flag_TAN=0&Acceptance=&Digitization=&Incentive=10.100.72.250	22-12-2023 04:12:27 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.100.72.250	22-12-2023 04:12:27 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Insert Data Successfully10.100.72.250	22-12-2023 04:12:27 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:12:27 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:12:51 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:12:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:12:51 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:13:19 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:13:19 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 04:13:19 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 04:13:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:13:19 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:13:35 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:13:35 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 04:13:35 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 04:13:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:13:35 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:13:48 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:13:48 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 04:13:48 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 04:13:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:13:48 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:17:21 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.250	22-12-2023 04:17:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:17:21 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:17:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/schemeMasterAPI.php10.100.72.250	22-12-2023 04:17:59 PM	JSON POST : 10.100.72.250	22-12-2023 04:19:10 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.72.250	22-12-2023 04:19:10 PM	JSON POST : {
+  "SchemeId":"87"
+}10.100.72.250	22-12-2023 04:19:53 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:19:53 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 04:19:53 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 04:19:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:19:53 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:30:08 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.250	22-12-2023 04:30:08 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.100.72.250	22-12-2023 04:30:08 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=&Name=abc&AddressOne=sfdsd&AddressTwo=&City=sdsd&PinCode=121210&State=5&PrimaryPhone=433534534&SecondaryPhone=&PrimaryEmail=test%40mail.com&SecondaryEmail=&ContactPerson=test+user&ActivationDate=22-12-2023&ClosureDate=&CenterType=1&AgentNumber=00&Region=10&PanNumber=43534dfasd&TanNumber=&GstNumber=&BranchCode=0000000&FinancialCode=2342342&BankName=0000&AccountNumber=354534534&IfscCode=000&BranchName=00000&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&FranchCode=r43534&TrainingDate=&TrainnerName=&SelfDig_Flag=0&SelfDig_Flag_TAN=0&Acceptance=&Digitization=&Incentive=&schemeName=8710.100.72.250	22-12-2023 04:30:08 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.100.72.250	22-12-2023 04:30:08 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Insert Data Successfully10.100.72.250	22-12-2023 04:30:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:30:08 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:30:15 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:30:15 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 04:30:15 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 04:30:15 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:30:15 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:30:23 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:30:23 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 04:30:23 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 04:30:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:30:23 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:31:19 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:31:19 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 04:31:19 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 04:31:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:31:19 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:31:30 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:31:30 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 04:31:30 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 04:31:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:31:30 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:31:51 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:31:51 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 04:31:51 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 04:31:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:31:51 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:32:06 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:32:06 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 04:32:06 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 04:32:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:32:06 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:36:47 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.72.250	22-12-2023 04:36:47 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	22-12-2023 04:36:47 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.72.250	22-12-2023 04:36:48 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:36:48 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	22-12-2023 04:38:24 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.72.250	22-12-2023 04:38:24 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	22-12-2023 04:38:24 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.23.132	22-12-2023 06:10:24 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.23.132	22-12-2023 06:10:29 PM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.23.132	22-12-2023 06:10:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.132	22-12-2023 06:10:29 PM	JSON POST : Array10.100.23.132	22-12-2023 06:10:29 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Test User  [Branch - 25536]",
+    "RegionId": "7",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.23.132	22-12-2023 06:10:29 PM	Json parting value2553610.100.23.132	22-12-2023 06:10:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.132	22-12-2023 06:10:29 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.23.132	22-12-2023 06:10:30 PM	Session BranchId...2553610.100.23.132	22-12-2023 06:10:30 PM	Session Type...BRANCH10.100.23.132	22-12-2023 06:10:30 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.132	22-12-2023 06:10:30 PM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.23.132	22-12-2023 06:10:35 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.23.132	22-12-2023 06:10:35 PM	JSON POST : 10.100.23.132	22-12-2023 06:10:50 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.23.132	22-12-2023 06:10:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.23.132	22-12-2023 06:10:50 PM	JSON POST : Array10.100.23.132	22-12-2023 06:10:50 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.23.132	22-12-2023 06:10:50 PM	Json parting value34434510.100.23.132	22-12-2023 06:10:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.132	22-12-2023 06:10:50 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.23.132	22-12-2023 06:10:50 PM	Session BranchId...houser10.100.23.132	22-12-2023 06:10:50 PM	Session Type...HOUSER10.100.23.132	22-12-2023 06:10:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.23.132	22-12-2023 06:10:50 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.23.132	22-12-2023 06:10:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.23.132	22-12-2023 06:10:51 PM	JSON POST : 10.100.23.132	22-12-2023 06:10:55 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.23.132	22-12-2023 06:10:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.132	22-12-2023 06:10:55 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.23.132	22-12-2023 06:11:01 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.23.132	22-12-2023 06:11:01 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.132	22-12-2023 06:11:01 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.23.132	22-12-2023 06:44:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.23.132	22-12-2023 06:44:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Data Save ..10.100.23.132	22-12-2023 06:44:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data as  .. editId=&Name=Test+Branch&AddressOne=Religare&AddressTwo=Club+125&City=Noida&PinCode=201301&State=31&PrimaryPhone=7903122236&SecondaryPhone=&PrimaryEmail=shagaf.siddiqui%40religare.com&SecondaryEmail=&ContactPerson=Shagaf+Siddiqui&ActivationDate=22-12-2023&ClosureDate=&CenterType=2&AgentNumber=50&Region=7&PanNumber=ABCD12324F&TanNumber=&GstNumber=&BranchCode=64783&FinancialCode=12345&BankName=HDFC&AccountNumber=123456788990&IfscCode=1122334455&BranchName=Noida&BankName2=&AccountNumber2=&IfscCode2=&BranchName2=&Status=1&itemdata=&FranchCode=012345&TrainingDate=&TrainnerName=&SelfDig_Flag=0&SelfDig_Flag_TAN=0&Acceptance=&Digitization=&Incentive=&schemeName=8710.100.23.132	22-12-2023 06:44:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data URL  .. http://10.150.146.12/UAT_BackEnd/General/addbranchbasicInfo.php10.100.23.132	22-12-2023 06:44:23 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:-  Saving Data API Call Result  .. Insert Data Successfully10.100.23.132	22-12-2023 06:44:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.132	22-12-2023 06:44:23 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.23.132	22-12-2023 06:44:38 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.23.132	22-12-2023 06:44:38 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.132	22-12-2023 06:44:38 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.23.132	22-12-2023 06:44:49 PM	[Info] - File location /tinfc1/UAT/branch1.php Message:- At begining of Call10.100.23.132	22-12-2023 06:44:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.132	22-12-2023 06:44:49 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.23.132	22-12-2023 06:44:55 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.23.132	22-12-2023 06:44:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.132	22-12-2023 06:44:55 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.23.132	22-12-2023 06:44:59 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - 10.100.23.132	22-12-2023 06:44:59 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  URL for API - http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.23.132	22-12-2023 06:44:59 PM	[Info] - File location /tinfc1/UAT/listbranch.php Message:-  Post data Array10.100.23.132	22-12-2023 06:44:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.23.132	22-12-2023 06:44:59 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}

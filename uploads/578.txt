@@ -1,0 +1,83 @@
+PAN File Validation Utility Version  2.19 Date : Tue Mar 15 22:32:24 GMT+05:30 
+2022 
+
+
+Input File Name: 09900P_000578.txt_11277081.PAN 
+
+Out File Name:11277081_Resp.html 
+ 
+
+ File Order No:11277081     File Type: Change Request PAN Application     Upload 
+Type: Regular     Agent ID: 25      User ID: 09900P    No of Records: 4
+
+ 
+
+
+      Line Number
+
+      Field Name
+
+      Field Value
+
+      Response Code
+
+      Response Description
+
+
+      2
+
+      Acknowledgemnt No.
+
+      255369700386640
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      3
+
+      Acknowledgemnt No.
+
+      255369700386651
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      4
+
+      Acknowledgemnt No.
+
+      255369700386776
+
+      PCDBH78002
+
+      Record inserted succesfully
+
+
+      5
+
+      Acknowledgement No.
+
+      255369700330426
+
+      PCDBH64011
+
+      Acknowledgement number already exists in database(for regular files)
+
+
+      5
+
+      Acknowledgement Number/Aadhaar Number/Aadhaar Flag/Birth Year/Birth 
+      date/Applicant Name/Gender 
+
+      ACK NUM :255369700330426, uMaskId:XXXXXXXX3658, UID FLAG:2, Birth 
+      Date:11121969 First Name : Middle Name : Last Name :AMARNATH Gender :M
+
+      PANBH01149
+
+      Acknowledgement Number/Aadhaar Numer/Aadhaar Flag/Date Of Birth OR Year Of 
+      Birth/Applicants First OR Middle OR Last Name/Gender not present/matching 
+      in/with ONLINE_PAAM_APPN Database.

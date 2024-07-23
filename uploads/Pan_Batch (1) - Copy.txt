@@ -1,0 +1,28 @@
+elcome TIN UserTax Information Network
+of Income Tax Department 
+
+
+Upload
+File
+statusViews
+Downloads
+BO
+TAN OperationsPAN
+WISDA ViewsCirculars
+View
+LicenseSAM/PAAM
+Aceptance Details  Log-Off
+
+      User:09900E  
+
+
+
+
+
+
+PAN File Status
+      File 
+      Ref NoFile 
+      Received 
+      DateFile NameFile StatusResponse File
+      1110667024-02-2022000196.txtAccepted11106670_RESP.html

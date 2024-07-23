@@ -1,0 +1,196 @@
+10.100.72.135	03-08-2023 11:02:14 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.72.135	03-08-2023 11:02:14 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	03-08-2023 11:02:14 AM	JSON POST : {"data":"empty"}10.100.72.135	03-08-2023 11:02:26 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	03-08-2023 11:02:26 AM	JSON POST : {"data":"empty"}10.100.72.135	03-08-2023 11:02:26 AM	ui YmFja2hv and pas dGVzdA==10.100.72.135	03-08-2023 11:02:26 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.135	03-08-2023 11:02:26 AM	JSON POST : Array10.100.72.135	03-08-2023 11:02:26 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "38",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Back  HO",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.135	03-08-2023 11:02:26 AM	Json parting value34434510.100.72.135	03-08-2023 11:02:27 AM	Session BranchId...BACKHO10.100.72.135	03-08-2023 11:02:27 AM	Session Type...BACKHO10.100.72.135	03-08-2023 11:02:27 AM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.135	03-08-2023 11:02:27 AM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.135	03-08-2023 11:02:51 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.135	03-08-2023 11:02:51 AM	JSON POST : 10.100.72.135	03-08-2023 11:02:51 AM	Response return from billInformationAPI: {
+    "status": 0,
+    "billPeriod": [
+        {
+            "Id": "8",
+            "FromDate": "2020-01-01",
+            "ToDate": "2020-12-31",
+            "BillDate": "2020-12-01",
+            "DueDate": "2020-12-01",
+            "DateAdded": "2022-09-06 15:01:37",
+            "AddedBy": "1",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "FromDate": "2021-01-01",
+            "ToDate": "2021-12-31",
+            "BillDate": "2019-01-01",
+            "DueDate": "2021-12-01",
+            "DateAdded": "2022-08-23 18:16:39",
+            "AddedBy": "1",
+            "Status": "0"
+        },
+        {
+            "Id": "1",
+            "FromDate": "2022-01-01",
+            "ToDate": "2022-12-31",
+            "BillDate": "2022-01-01",
+            "DueDate": "2022-12-01",
+            "DateAdded": "2022-08-09 12:15:15",
+            "AddedBy": "1",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "FromDate": "2023-01-01",
+            "ToDate": "2023-01-01",
+            "BillDate": "1970-01-01",
+            "DueDate": "1970-01-01",
+            "DateAdded": "2022-12-15 10:56:45",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "FromDate": "2023-01-02",
+            "ToDate": "2023-01-04",
+            "BillDate": "2023-01-02",
+            "DueDate": "2023-01-02",
+            "DateAdded": "2023-01-04 14:56:17",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "FromDate": "2023-03-01",
+            "ToDate": "2023-03-31",
+            "BillDate": "2023-03-01",
+            "DueDate": "2023-03-31",
+            "DateAdded": "2023-03-07 13:35:57",
+            "AddedBy": "38",
+            "Status": "0"
+        }
+    ]
+}10.100.72.135	03-08-2023 11:03:01 AM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.135	03-08-2023 11:03:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.135	03-08-2023 11:03:01 AM	JSON POST : 10.100.72.204	03-08-2023 12:00:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.204	03-08-2023 12:00:00 PM	JSON POST : {"data":"empty"}10.100.72.204	03-08-2023 12:01:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.204	03-08-2023 12:01:07 PM	JSON POST : {"data":"empty"}10.100.72.204	03-08-2023 12:01:11 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.204	03-08-2023 12:01:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.204	03-08-2023 12:01:11 PM	JSON POST : Array10.100.72.204	03-08-2023 12:01:11 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "HOUSER",
+    "UserName": "HO User [1]  ",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.204	03-08-2023 12:01:11 PM	Json parting value34434510.100.72.204	03-08-2023 12:01:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.204	03-08-2023 12:01:12 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.204	03-08-2023 12:01:13 PM	Session BranchId...HOUSER10.100.72.204	03-08-2023 12:01:13 PM	Session Type...HOUSER10.100.72.204	03-08-2023 12:01:13 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.204	03-08-2023 12:01:13 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "HOUSER", "AcknowledgementNo": "", "uploadType": ""}10.100.72.204	03-08-2023 12:01:14 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.204	03-08-2023 12:01:14 PM	JSON POST : 10.100.72.204	03-08-2023 12:01:25 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.204	03-08-2023 12:01:25 PM	JSON POST : {"data":"empty"}10.100.72.204	03-08-2023 12:01:33 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.204	03-08-2023 12:01:33 PM	JSON POST : {"data":"empty"}10.100.72.204	03-08-2023 12:01:34 PM	ui YmFja2hv and pas dGVzdA==10.100.72.204	03-08-2023 12:01:34 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.204	03-08-2023 12:01:34 PM	JSON POST : Array10.100.72.204	03-08-2023 12:01:34 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "38",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Back  HO",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.204	03-08-2023 12:01:34 PM	Json parting value34434510.100.72.204	03-08-2023 12:01:34 PM	Session BranchId...BACKHO10.100.72.204	03-08-2023 12:01:34 PM	Session Type...BACKHO10.100.72.204	03-08-2023 12:01:34 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.204	03-08-2023 12:01:34 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.204	03-08-2023 12:06:40 PM	Session BranchId...BACKHO10.100.72.204	03-08-2023 12:06:40 PM	Session Type...BACKHO10.100.72.204	03-08-2023 12:06:40 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.204	03-08-2023 12:06:40 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.204	03-08-2023 12:06:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.204	03-08-2023 12:06:51 PM	JSON POST : {
+			"userType" : "BACKHO"
+		}10.100.72.204	03-08-2023 01:20:07 PM	Session BranchId...BACKHO10.100.72.204	03-08-2023 01:20:07 PM	Session Type...BACKHO10.100.72.204	03-08-2023 01:20:07 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.204	03-08-2023 01:20:07 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.135	03-08-2023 03:13:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.135	03-08-2023 03:13:36 PM	JSON POST : 10.100.72.135	03-08-2023 03:13:36 PM	Response return from billInformationAPI: {
+    "status": 0,
+    "billPeriod": [
+        {
+            "Id": "8",
+            "FromDate": "2020-01-01",
+            "ToDate": "2020-12-31",
+            "BillDate": "2020-12-01",
+            "DueDate": "2020-12-01",
+            "DateAdded": "2022-09-06 15:01:37",
+            "AddedBy": "1",
+            "Status": "0"
+        },
+        {
+            "Id": "7",
+            "FromDate": "2021-01-01",
+            "ToDate": "2021-12-31",
+            "BillDate": "2019-01-01",
+            "DueDate": "2021-12-01",
+            "DateAdded": "2022-08-23 18:16:39",
+            "AddedBy": "1",
+            "Status": "0"
+        },
+        {
+            "Id": "1",
+            "FromDate": "2022-01-01",
+            "ToDate": "2022-12-31",
+            "BillDate": "2022-01-01",
+            "DueDate": "2022-12-01",
+            "DateAdded": "2022-08-09 12:15:15",
+            "AddedBy": "1",
+            "Status": "0"
+        },
+        {
+            "Id": "9",
+            "FromDate": "2023-01-01",
+            "ToDate": "2023-01-01",
+            "BillDate": "1970-01-01",
+            "DueDate": "1970-01-01",
+            "DateAdded": "2022-12-15 10:56:45",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "10",
+            "FromDate": "2023-01-02",
+            "ToDate": "2023-01-04",
+            "BillDate": "2023-01-02",
+            "DueDate": "2023-01-02",
+            "DateAdded": "2023-01-04 14:56:17",
+            "AddedBy": "38",
+            "Status": "0"
+        },
+        {
+            "Id": "11",
+            "FromDate": "2023-03-01",
+            "ToDate": "2023-03-31",
+            "BillDate": "2023-03-01",
+            "DueDate": "2023-03-31",
+            "DateAdded": "2023-03-07 13:35:57",
+            "AddedBy": "38",
+            "Status": "0"
+        }
+    ]
+}10.100.72.135	03-08-2023 03:13:38 PM	Session BranchId...BACKHO10.100.72.135	03-08-2023 03:13:38 PM	Session Type...BACKHO10.100.72.135	03-08-2023 03:13:38 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.135	03-08-2023 03:13:38 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.135	03-08-2023 03:13:42 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	03-08-2023 03:13:42 PM	JSON POST : {"data":"empty"}10.100.72.135	03-08-2023 03:13:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.135	03-08-2023 03:13:47 PM	JSON POST : {"data":"empty"}10.100.72.135	03-08-2023 03:13:47 PM	ui YmFja2hv and pas dGVzdA==10.100.72.135	03-08-2023 03:13:47 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.135	03-08-2023 03:13:47 PM	JSON POST : Array10.100.72.135	03-08-2023 03:13:47 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "38",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Back  HO",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.135	03-08-2023 03:13:47 PM	Json parting value34434510.100.72.135	03-08-2023 03:13:47 PM	Session BranchId...BACKHO10.100.72.135	03-08-2023 03:13:47 PM	Session Type...BACKHO10.100.72.135	03-08-2023 03:13:47 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.135	03-08-2023 03:13:47 PM	  API hit URL: http://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.135	03-08-2023 03:13:51 PM	[Info] - File location /tinfc1/UAT/billGeneration.php Message:-  URL for API - 10.100.72.135	03-08-2023 03:13:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.72.135	03-08-2023 03:13:51 PM	JSON POST : 10.100.72.135	03-08-2023 04:49:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/schemeMasterAPI.php10.100.72.135	03-08-2023 04:49:21 PM	JSON POST : 10.100.72.135	03-08-2023 04:49:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.72.135	03-08-2023 04:49:31 PM	JSON POST : {
+  "SchemeId":"87"
+}10.100.72.135	03-08-2023 04:53:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/addCommissionRateAPI.php10.100.72.135	03-08-2023 04:53:53 PM	JSON POST : {
+					"fromDate": "2023-08-03",
+					"toDate": "2024-03-01",
+					"SchemeId": "87",
+					"Type": "2",
+					"AppFrom": "",
+					"AppTo": "",
+					"Validity": "4",
+					"Amount": "5",
+					"Status": "1",
+					"RateId": "",
+					"CreatedBy": "38"
+				}10.100.72.135	03-08-2023 04:53:53 PM	RESPONCE RETURN FROM ADD SCHEME DATA API: Added Successfuly10.100.72.135	03-08-2023 04:53:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.72.135	03-08-2023 04:53:53 PM	JSON POST : {
+  "SchemeId":"87"
+}10.100.72.135	03-08-2023 04:53:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.72.135	03-08-2023 04:53:59 PM	JSON POST : {
+  "SchemeId":"87"
+}10.100.72.135	03-08-2023 04:54:07 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.72.135	03-08-2023 04:54:07 PM	JSON POST : {
+  "SchemeId":"87"
+}10.100.72.135	03-08-2023 04:54:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/schemeMasterAPI.php10.100.72.135	03-08-2023 04:54:09 PM	JSON POST : 10.100.72.135	03-08-2023 04:54:11 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.72.135	03-08-2023 04:54:11 PM	JSON POST : {
+  "SchemeId":"87"
+}10.100.72.135	03-08-2023 04:54:43 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.72.135	03-08-2023 04:54:43 PM	JSON POST : {
+  "SchemeId":"87"
+}10.100.72.135	03-08-2023 05:56:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/listCommissionRate.php10.100.72.135	03-08-2023 05:56:53 PM	JSON POST : {
+			"SchemeId":"87",
+			"RateId":"18"
+		  }10.100.72.135	03-08-2023 05:57:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/schemeMasterAPI.php10.100.72.135	03-08-2023 05:57:09 PM	JSON POST : 

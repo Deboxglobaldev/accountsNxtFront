@@ -1,0 +1,10 @@
+10.100.72.25	06-06-2024 03:26:14 PM	ui YmFja2hv and pas dGVzdA==10.100.72.25	06-06-2024 03:26:14 PM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.72.25	06-06-2024 03:26:14 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.25	06-06-2024 03:26:14 PM	JSON POST : Array10.100.72.25	06-06-2024 03:26:14 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12749",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Backend  HO User",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.25	06-06-2024 03:26:14 PM	Json parting value34434510.100.72.25	06-06-2024 03:26:14 PM	Session BranchId...BACKHO10.100.72.25	06-06-2024 03:26:14 PM	Session Type...BACKHO10.100.72.25	06-06-2024 03:26:14 PM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.72.25	06-06-2024 03:26:14 PM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.72.25	06-06-2024 03:27:15 PM	[Info] - File location /tinfc1/UAT/ageingreport.php Message:-  URL for API - 10.100.50.150	06-06-2024 04:22:52 PM	[ERR] - Session called 'branchId' is empty, expecting a branch Id

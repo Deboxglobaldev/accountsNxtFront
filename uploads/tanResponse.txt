@@ -1,0 +1,42 @@
+TAN File Validation Utility Version: 3.57 Date : Thu Dec 02 16:22:33 GMT+05:30 
+2021 
+
+
+
+ File Order No:370313     File Type: New TAN Application     Upload Type: 
+Regular     Agent ID: 33      User ID: 09900Q    No of Records: 3
+
+ 
+
+
+      Line Number
+
+      Field Name
+
+      Field Value
+
+      Response Code
+
+      Response Description
+
+
+      4
+
+      Acknowledgemnt No.
+
+      25536470008361
+
+      TAN9999999
+
+      Accepted
+
+4
+
+      Acknowledgemnt No.
+
+      25536470008744
+
+      TAN9999999
+
+      Accepted
+

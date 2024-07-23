@@ -1,0 +1,233 @@
+10.100.72.250	18-10-2023 05:04:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.100.72.250	18-10-2023 05:04:03 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"all",
+        "fromDate":"2023-10-01",
+        "toDate":"2023-10-18",
+        "DateType":"1",
+        "AckNo":"",
+        "ProductType":"PAN"
+        
+    }10.100.72.250	18-10-2023 05:04:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:04:03 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:04:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:04:03 PM	JSON POST : 10.100.72.250	18-10-2023 05:04:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.100.72.250	18-10-2023 05:04:21 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"25536",
+        "fromDate":"2023-10-01",
+        "toDate":"2023-10-18",
+        "DateType":"1",
+        "AckNo":"",
+        "ProductType":"PAN"
+        
+    }10.100.72.250	18-10-2023 05:04:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:04:22 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:04:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:04:22 PM	JSON POST : 10.100.72.250	18-10-2023 05:04:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.100.72.250	18-10-2023 05:04:39 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"all",
+        "fromDate":"2023-10-01",
+        "toDate":"2023-10-18",
+        "DateType":"1",
+        "AckNo":"",
+        "ProductType":"PAN"
+        
+    }10.100.72.250	18-10-2023 05:04:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:04:39 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:04:39 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:04:39 PM	JSON POST : 10.100.72.250	18-10-2023 05:05:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:05:26 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:05:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:05:26 PM	JSON POST : 10.100.72.250	18-10-2023 05:07:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:07:26 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:07:26 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:07:26 PM	JSON POST : 10.100.72.250	18-10-2023 05:08:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:08:51 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:08:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:08:51 PM	JSON POST : 10.100.72.250	18-10-2023 05:09:46 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:09:46 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:09:46 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:09:46 PM	JSON POST : 10.100.72.250	18-10-2023 05:09:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:09:50 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	18-10-2023 05:09:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:09:55 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:09:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:09:55 PM	JSON POST : 10.100.72.250	18-10-2023 05:10:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:10:02 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:10:02 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:10:02 PM	JSON POST : 10.100.72.250	18-10-2023 05:10:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/queryScreenPANAPI.php10.100.72.250	18-10-2023 05:10:52 PM	JSON POST : {
+        "type":"0",
+        "fromDate":"2023-10-01",
+        "toDate":"2023-10-18",
+        "Branch":"all",
+        "Filter":"",
+        "FilterCond":"",
+        "FilterName":""
+    }10.100.72.250	18-10-2023 05:10:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:10:52 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:10:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:10:52 PM	JSON POST : 10.100.72.250	18-10-2023 05:11:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/queryScreenPANAPI.php10.100.72.250	18-10-2023 05:11:12 PM	JSON POST : {
+        "type":"0",
+        "fromDate":"2023-10-01",
+        "toDate":"2023-10-18",
+        "Branch":"25536",
+        "Filter":"",
+        "FilterCond":"",
+        "FilterName":""
+    }10.100.72.250	18-10-2023 05:11:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:11:12 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:11:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:11:12 PM	JSON POST : 10.100.72.250	18-10-2023 05:11:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:11:50 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:11:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:11:50 PM	JSON POST : 10.100.72.250	18-10-2023 05:11:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:11:54 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:11:54 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:11:54 PM	JSON POST : 10.100.72.250	18-10-2023 05:13:00 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:13:00 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:13:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 05:13:52 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:13:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.25	18-10-2023 05:13:52 PM	JSON POST : 10.100.72.250	18-10-2023 05:14:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:14:09 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:14:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.100.72.25	18-10-2023 05:14:16 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"all",
+        "fromDate":"2023-08-01",
+        "toDate":"2023-10-18",
+        "DateType":"2",
+        "AckNo":"",
+        "ProductType":"PAN"
+        
+    }10.100.72.250	18-10-2023 05:14:20 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/statusReportAPI.php10.100.72.250	18-10-2023 05:14:20 PM	JSON POST : {
+        "type":"1",
+        "fromDate":"2023-06-01",
+        "toDate":"2023-10-18",
+        "ProductType":"PAN"
+    }10.100.72.250	18-10-2023 05:16:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:16:12 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:16:29 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:16:29 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:19:22 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:19:22 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:19:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 05:19:52 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:19:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.25	18-10-2023 05:19:52 PM	JSON POST : 10.100.72.25	18-10-2023 05:19:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 05:19:53 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:19:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 05:19:53 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:19:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 05:19:53 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:19:53 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 05:19:53 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:20:06 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/UserWiseQcAPI.php10.100.72.250	18-10-2023 05:20:06 PM	JSON POST : {
+    "type":"1",
+    "ProductType":"PAN",
+    "fromDate":"2023-10-01",
+    "toDate":"2023-10-18"
+}10.100.72.250	18-10-2023 05:20:31 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/UserWiseQcAPI.php10.100.72.250	18-10-2023 05:20:31 PM	JSON POST : {
+    "type":"1",
+    "ProductType":"TAN",
+    "fromDate":"2023-10-01",
+    "toDate":"2023-10-18"
+}10.100.72.250	18-10-2023 05:22:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:22:36 PM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.72.250	18-10-2023 05:22:51 PM	ui aG91c2VyMQ== and pas dGVzdA==10.100.72.250	18-10-2023 05:22:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.72.250	18-10-2023 05:22:51 PM	JSON POST : Array10.100.72.250	18-10-2023 05:22:51 PM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.72.250	18-10-2023 05:22:51 PM	Json parting value34434510.100.72.250	18-10-2023 05:22:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:22:51 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:22:51 PM	Session BranchId...houser10.100.72.250	18-10-2023 05:22:51 PM	Session Type...HOUSER10.100.72.250	18-10-2023 05:22:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.250	18-10-2023 05:22:51 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.250	18-10-2023 05:22:52 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.250	18-10-2023 05:22:52 PM	JSON POST : 10.100.72.250	18-10-2023 05:22:59 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:22:59 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:23:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:23:03 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:23:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:23:05 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:23:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:23:05 PM	JSON POST : 10.100.72.250	18-10-2023 05:23:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/dailydiscrepancyreport.php10.100.72.250	18-10-2023 05:23:08 PM	JSON POST : {
+  "fromDate":"",
+  "toDate":"",
+  "productType":"",
+  "BranchCode":"All"
+}10.100.72.250	18-10-2023 05:23:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:23:08 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:23:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:23:36 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:23:36 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.250	18-10-2023 05:23:36 PM	JSON POST : 10.100.72.250	18-10-2023 05:24:03 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:24:03 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.250	18-10-2023 05:24:08 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.250	18-10-2023 05:24:08 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:29:18 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 05:29:18 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:29:19 PM	Session BranchId...houser10.100.72.25	18-10-2023 05:29:19 PM	Session Type...HOUSER10.100.72.25	18-10-2023 05:29:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.25	18-10-2023 05:29:19 PM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.72.25	18-10-2023 05:29:19 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.72.25	18-10-2023 05:29:19 PM	JSON POST : 10.100.72.25	18-10-2023 05:29:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 05:29:23 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:29:23 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.25	18-10-2023 05:29:23 PM	JSON POST : 10.100.72.25	18-10-2023 05:30:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.100.72.25	18-10-2023 05:30:56 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"25536",
+        "fromDate":"2023-08-01",
+        "toDate":"2023-10-18",
+        "DateType":"2",
+        "AckNo":"",
+        "ProductType":"PAN"
+        
+    }10.100.72.25	18-10-2023 05:30:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 05:30:56 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 05:30:56 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.25	18-10-2023 05:30:56 PM	JSON POST : 10.100.72.25	18-10-2023 06:54:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 06:54:51 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 06:54:51 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.25	18-10-2023 06:54:51 PM	JSON POST : 10.100.72.25	18-10-2023 06:55:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.100.72.25	18-10-2023 06:55:12 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"25536",
+        "fromDate":"2023-08-01",
+        "toDate":"2023-10-18",
+        "DateType":"2",
+        "AckNo":"",
+        "ProductType":"PAN"
+        
+    }10.100.72.25	18-10-2023 06:55:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 06:55:12 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 06:55:12 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.25	18-10-2023 06:55:12 PM	JSON POST : 10.100.72.25	18-10-2023 06:56:16 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.100.72.25	18-10-2023 06:56:16 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"25536",
+        "fromDate":"2023-03-01",
+        "toDate":"2023-10-18",
+        "DateType":"2",
+        "AckNo":"",
+        "ProductType":"PAN"
+        
+    }10.100.72.25	18-10-2023 06:56:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 06:56:21 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 06:56:21 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.25	18-10-2023 06:56:21 PM	JSON POST : 10.100.72.25	18-10-2023 06:57:49 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.100.72.25	18-10-2023 06:57:49 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"25536",
+        "fromDate":"2023-03-01",
+        "toDate":"2023-10-18",
+        "DateType":"2",
+        "AckNo":"",
+        "ProductType":"PAN"
+        
+    }10.100.72.25	18-10-2023 06:57:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 06:57:55 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 06:57:55 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.25	18-10-2023 06:57:55 PM	JSON POST : 10.100.72.25	18-10-2023 06:58:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.100.72.25	18-10-2023 06:58:05 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"25536",
+        "fromDate":"2023-03-01",
+        "toDate":"2023-10-18",
+        "DateType":"2",
+        "AckNo":"255369700441730",
+        "ProductType":"PAN"
+        
+    }10.100.72.25	18-10-2023 06:58:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 06:58:05 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 06:58:05 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.25	18-10-2023 06:58:05 PM	JSON POST : 10.100.72.25	18-10-2023 06:59:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.100.72.25	18-10-2023 06:59:09 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"25536",
+        "fromDate":"2023-03-01",
+        "toDate":"2023-10-18",
+        "DateType":"2",
+        "AckNo":"255369700441730",
+        "ProductType":"PAN"
+        
+    }10.100.72.25	18-10-2023 06:59:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 06:59:09 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 06:59:09 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.25	18-10-2023 06:59:09 PM	JSON POST : 10.100.72.25	18-10-2023 06:59:45 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/AckWiseReportAPI.php10.100.72.25	18-10-2023 06:59:45 PM	JSON POST : {
+        "type":"0",
+        "BranchCode":"25536",
+        "fromDate":"2023-03-01",
+        "toDate":"2023-10-18",
+        "DateType":"2",
+        "AckNo":"",
+        "ProductType":"PAN"
+        
+    }10.100.72.25	18-10-2023 06:59:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.72.25	18-10-2023 06:59:50 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.72.25	18-10-2023 06:59:50 PM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/branchinfoList.php10.100.72.25	18-10-2023 06:59:50 PM	JSON POST : 

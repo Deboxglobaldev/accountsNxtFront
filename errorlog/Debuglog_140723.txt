@@ -1,0 +1,219 @@
+10.100.72.67	14-07-2023 05:13:41 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	14-07-2023 05:13:41 PM	JSON POST : {"data":"empty"}10.100.72.67	14-07-2023 05:14:03 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	14-07-2023 05:14:03 PM	JSON POST : {"data":"empty"}10.100.72.67	14-07-2023 05:14:06 PM	ui aG91c2VyMDE= and pas dGVzdA==10.100.72.67	14-07-2023 05:14:06 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php10.100.72.67	14-07-2023 05:14:06 PM	JSON POST : Array10.100.72.67	14-07-2023 05:14:06 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: "Invalid Credentials"10.100.72.67	14-07-2023 05:14:06 PM	Json parting value10.100.72.67	14-07-2023 05:14:14 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	14-07-2023 05:14:14 PM	JSON POST : {"data":"empty"}10.100.72.67	14-07-2023 05:14:17 PM	ui dmVuZG9yMTM= and pas dGVzdA==10.100.72.67	14-07-2023 05:14:17 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php10.100.72.67	14-07-2023 05:14:17 PM	JSON POST : Array10.100.72.67	14-07-2023 05:14:17 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "57",
+    "BranchId": "V1003",
+    "Role": "2",
+    "Type": "vendor",
+    "UserName": "Shiv Kumar  [Vendor-V1003]",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.67	14-07-2023 05:14:17 PM	Json parting valueV100310.100.72.67	14-07-2023 05:14:17 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:14:17 PM	JSON POST : {
+			"userType" : "VENDOR"
+		}10.100.72.67	14-07-2023 05:14:18 PM	Session BranchId...vendor10.100.72.67	14-07-2023 05:14:18 PM	Session Type...VENDOR10.100.72.67	14-07-2023 05:14:18 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.67	14-07-2023 05:14:18 PM	JSON POST : { "UserType": "VENDOR", "UserId": "57", "UserTypeId": "vendor", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "2"}10.100.72.67	14-07-2023 05:14:20 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php10.100.72.67	14-07-2023 05:14:20 PM	JSON POST : 10.100.72.67	14-07-2023 05:14:20 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/vendorDetailAPI.php10.100.72.67	14-07-2023 05:14:20 PM	JSON POST : {
+				"vendorId":"V1003",
+				"userId":"57"
+			}10.100.72.67	14-07-2023 05:14:21 PM	TOTAL UNASSIN IN BUCKET FOR VENDOR: {
+    "AckNoPool": 2000,
+    "VendorLimit": "100"
+}10.100.72.67	14-07-2023 05:14:30 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/vendorAssignAPI.php10.100.72.67	14-07-2023 05:14:30 PM	JSON POST : {
+			"userId":"57",
+			"CodeId":"V1003"
+		}10.100.72.67	14-07-2023 05:14:33 PM	RESPONCE RETURN VENDOR SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "PAN FORM SUCCESSFULLY ASSIGNED."
+}10.100.72.67	14-07-2023 05:14:33 PM	Dashboard load for vendor self assignment10.100.72.67	14-07-2023 05:14:33 PM	Session BranchId...vendor10.100.72.67	14-07-2023 05:14:33 PM	Session Type...VENDOR10.100.72.67	14-07-2023 05:14:33 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.67	14-07-2023 05:14:33 PM	JSON POST : { "UserType": "VENDOR", "UserId": "57", "UserTypeId": "vendor", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "2"}10.100.72.67	14-07-2023 05:14:35 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php10.100.72.67	14-07-2023 05:14:35 PM	JSON POST : 10.100.72.67	14-07-2023 05:14:35 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/vendorDetailAPI.php10.100.72.67	14-07-2023 05:14:35 PM	JSON POST : {
+				"vendorId":"V1003",
+				"userId":"57"
+			}10.100.72.67	14-07-2023 05:14:36 PM	TOTAL UNASSIN IN BUCKET FOR VENDOR: {
+    "AckNoPool": 1990,
+    "VendorLimit": "100"
+}10.100.72.67	14-07-2023 05:22:08 PM	image path: /u01/uploads_uat/panimages/255369700335164_1.jpg10.100.72.67	14-07-2023 05:22:08 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:22:08 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:22:08 PM	JSON POST : {
+			"userType" : "VENDOR"
+		}10.100.72.67	14-07-2023 05:22:29 PM	Image path is: /u01/uploads_uat/panimages/255369700335164_1.jpg10.100.72.67	14-07-2023 05:22:36 PM	Image path is: /u01/uploads_uat/panimages/255369700335164_1.jpg10.100.72.67	14-07-2023 05:22:38 PM	image path: /u01/uploads_uat/panimages/255369700335164_1.jpg10.100.72.67	14-07-2023 05:22:38 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:22:38 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/cropactionapi.php10.100.72.67	14-07-2023 05:22:38 PM	JSON POST : {"hiddenphotoval":"1","hiddenimageval":"1","imageType":"Sig","aid":"255369700335164","action":"cropimage","userId":"57","ip":"10.100.72.67"}10.100.72.67	14-07-2023 05:22:38 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:22:38 PM	JSON POST : {
+			"userType" : "VENDOR"
+		}10.100.72.67	14-07-2023 05:22:38 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:22:38 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:22:38 PM	JSON POST : {
+			"userType" : "VENDOR"
+		}10.100.72.67	14-07-2023 05:23:32 PM	JSON to post for dataenrty form 1----{ "status": "0", "message": "Update Record", "page": "1", "formtype": "49A", "Role": "2", "recordlist":{ "AREACODE": "KNP", "AOTYPPE": "W", "RANGECODE": "17", "AONO": "1", "applicanttitlecode": "3", "applicantlastname": "KUMARI", "applicationfirstname": "CHANDA", "applicantmiddlename": " ", "NAMETOBEPRINTED": "CHANDA KUMARI", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "F","fatherlastname": "RAM", "fatherfirstname": "VACHANDEV", "fathermiddlename": " ", "resiflatorblockno": "FLAT 123", "resibuildingorvillage": "HOUSE NO 77 D", "resipostoffice": "VVHGFH", "resiareasubdivision": "UTYUY", "resitownorcountry": "QWEQWEQW", "resistatecode": "18", "resipincode": "474001", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "19101996",  "acknowledmentnumber": "255369700335164","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": "", "officeflatorblock": "", "officebuildingorvillage": "", "officestreeorpostoffice": "", "officeareaorsubdivision": "", "officetownorcontry": "", "officestatecode": "", "officepincode": "", "COMMADDRESS": "", "countryisd": "", "STDCODE": "", "TELPHONE": "7061284161", "EMAIL": "", "REGNUM": "", "INDIANCITIZEN": "I", "ADHARNUM": "", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "CHANDA KUMARI", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": "", "orgname": "", "isbusinessorprofession": "", "businessorprfessioncode": "", "anotherincomesrctypecode": "", "ratitlecode": "", "ralastname": "", "rafistname": "", "ramiddlename": "", "raflatorblock": "", "rabuildingorvillage": "", "streetorpostoffice": "", "raareasubdivision": "", "ratownorcountry": "", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": "","isdiscreattinfclevel":"N","dateofdescreresolution": "","verifiername": "","verifiercapcitycode": "","verificationplace": "","verificationdate": "","modeofapplication": "","acknowledmentnumber": "255369700335164", "officezip": "" }}10.100.72.67	14-07-2023 05:23:32 PM	URL to hit on dataenrty form 1----http://192.168.210.82/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.100.72.67	14-07-2023 05:23:32 PM	Response return from dataentry page 1 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "255369700335164"
+}10.100.72.67	14-07-2023 05:23:33 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:23:33 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:23:33 PM	JSON POST : {
+			"userType" : "VENDOR"
+		}10.100.72.67	14-07-2023 05:25:06 PM	JSON to post for dataenrty form 2----{ "status": "0", "message": "Update Record", "page": "2", "formtype": "49A", "Role": "2", "recordlist":{ "AREACODE": "KNP", "AOTYPPE": "W", "RANGECODE": "17", "AONO": "1", "applicanttitlecode": "3", "applicantlastname": "KUMARI", "applicationfirstname": "CHANDA", "applicantmiddlename": " ", "NAMETOBEPRINTED": "CHANDA KUMARI", "APPKNOWBY": "N", "APPOTITLE": " ", "APPOLNAME": " ", "APPOFNAME": " ", "APPOMNAME": " ", "SEX": "F","fatherlastname": "RAM", "fatherfirstname": "VACHANDEV", "fathermiddlename": " ", "resiflatorblockno": "FLAT 123", "resibuildingorvillage": "HOUSE NO 77 D", "resipostoffice": "VVHGFH", "resiareasubdivision": "UTYUY", "resitownorcountry": "QWEQWEQW", "resistatecode": "18", "resipincode": "474001", "STATUSOFAPPLICANT": "P", "DATEOFBIRTH": "19101996",  "acknowledmentnumber": "255369700335164","motherlastename": " ", "motherfirstname": " ", "mothermiddlename": " ", "fatherormothernameoncard": "F", "residencezip": "", "OFFICENAME": " ", "officeflatorblock": " ", "officebuildingorvillage": " ", "officestreeorpostoffice": " ", "officeareaorsubdivision": " ", "officetownorcontry": " ", "officestatecode": "", "officepincode": "", "COMMADDRESS": "R", "countryisd": "91", "STDCODE": "232242", "TELPHONE": "7061284161", "EMAIL": " ", "REGNUM": " ", "INDIANCITIZEN": "I", "ADHARNUM": " ", "adharflag": "2", "adharenrolmentid": "", "nameasadhar": "CHANDA KUMARI", "countryofcitizen": "","isdcodeofcitizencountry":"", "issalried": " ", "orgname": " ", "isbusinessorprofession": " ", "businessorprfessioncode": " ", "anotherincomesrctypecode": "H", "ratitlecode": " ", "ralastname": " ", "rafistname": " ", "ramiddlename": " ", "raflatorblock": " ", "rabuildingorvillage": " ", "streetorpostoffice": " ", "raareasubdivision": " ", "ratownorcountry": " ", "rastatecode": "", "rapincoe": "", "POI": "038", "POA": "044", "dobdocumentcode": "0010", "profofdateofbirth": "0010", "iskyc": "","acknwoledmentdate": "14072023", "isphysicalpanwanted": "Y","isphotoattached": "Y","issignatureattached": "Y","isminor": " ","isdiscreattinfclevel":"N","dateofdescreresolution": " ","verifiername": "SELF","verifiercapcitycode": "01","verificationplace": "MORENA","verificationdate": "14-07-2023","modeofapplication": "T","acknowledmentnumber": "255369700335164", "officezip": "" }}10.100.72.67	14-07-2023 05:25:06 PM	  API call to save the Data for Data Entry2 http://192.168.210.82/UAT_BackEnd/User1Entry/PanDataUpdateAPI.php10.100.72.67	14-07-2023 05:25:06 PM	Response return from dataentry page 2 ----
+{
+    "status": "0",
+    "message": "Record Updated Successfully",
+    "RecordUpdated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "255369700335164"
+}10.100.72.67	14-07-2023 05:25:07 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:25:07 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:25:07 PM	JSON POST : {
+			"userType" : "VENDOR"
+		}10.100.72.67	14-07-2023 05:25:11 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:25:15 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData1.php?aid=25536970033516410.100.72.67	14-07-2023 05:25:15 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData2.php?aid=25536970033516410.100.72.67	14-07-2023 05:25:25 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData1.php?aid=25536970033516410.100.72.67	14-07-2023 05:25:25 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData2.php?aid=25536970033516410.100.72.67	14-07-2023 05:25:30 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:25:30 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.100.72.67	14-07-2023 05:25:30 PM	JSON POST : { "UserId": "57", "UserName": "","ip": "10.100.72.67", "Stage": "F~DGP~DIE~IP", "FormType": "49A", "AcknowledgementNumber":"255369700335164", "resolutionDate":"", "inwardDate":""}10.100.72.67	14-07-2023 05:25:31 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 0,
+    "formtype": "49A",
+    "AcknowledgementNumber": "255369700335164",
+    "Erorlist": "'Date of Verification' should be less than or equal to Date of Acknowledgement.|"
+}10.100.72.67	14-07-2023 05:26:38 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:26:38 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:26:38 PM	JSON POST : {
+			"userType" : "VENDOR"
+		}10.100.72.67	14-07-2023 05:26:42 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:26:46 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:26:46 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.100.72.67	14-07-2023 05:26:46 PM	JSON POST : { "UserId": "57", "UserName": "","ip": "10.100.72.67", "Stage": "F~DGP~DIE~IP", "FormType": "49A", "AcknowledgementNumber":"255369700335164", "resolutionDate":"", "inwardDate":""}10.100.72.67	14-07-2023 05:26:46 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "255369700335164",
+    "Erorlist": ""
+}10.100.72.67	14-07-2023 05:26:46 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/HOOperation/mailcronjob.php10.100.72.67	14-07-2023 05:26:47 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:26:47 PM	JSON POST : {
+			"userType" : "VENDOR"
+		}10.100.72.67	14-07-2023 05:26:47 PM	Session BranchId...vendor10.100.72.67	14-07-2023 05:26:47 PM	Session Type...VENDOR10.100.72.67	14-07-2023 05:26:47 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.67	14-07-2023 05:26:47 PM	JSON POST : { "UserType": "VENDOR", "UserId": "57", "UserTypeId": "vendor", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "2"}10.100.72.67	14-07-2023 05:26:49 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php10.100.72.67	14-07-2023 05:26:49 PM	JSON POST : 10.100.72.67	14-07-2023 05:26:49 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/vendorDetailAPI.php10.100.72.67	14-07-2023 05:26:49 PM	JSON POST : {
+				"vendorId":"V1003",
+				"userId":"57"
+			}10.100.72.67	14-07-2023 05:26:50 PM	TOTAL UNASSIN IN BUCKET FOR VENDOR: {
+    "AckNoPool": 1990,
+    "VendorLimit": "100"
+}10.100.72.67	14-07-2023 05:27:24 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	14-07-2023 05:27:24 PM	JSON POST : {"data":"empty"}10.100.72.67	14-07-2023 05:27:33 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/qcSchedularAPI.php10.100.72.67	14-07-2023 05:27:33 PM	JSON POST : {"data":"empty"}10.100.72.67	14-07-2023 05:27:36 PM	ui cWN1c2VyMQ== and pas dGVzdA==10.100.72.67	14-07-2023 05:27:36 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userlogin.php10.100.72.67	14-07-2023 05:27:36 PM	JSON POST : Array10.100.72.67	14-07-2023 05:27:36 PM	Response from url http://192.168.210.82/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "3",
+    "BranchId": "09114",
+    "Role": "1",
+    "Type": "QCP",
+    "UserName": "satendra1  QC",
+    "RegionId": "2",
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.72.67	14-07-2023 05:27:36 PM	Json parting value0911410.100.72.67	14-07-2023 05:27:36 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:27:36 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:27:36 PM	Session BranchId...QCP10.100.72.67	14-07-2023 05:27:36 PM	Session Type...QCP10.100.72.67	14-07-2023 05:27:36 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.67	14-07-2023 05:27:36 PM	JSON POST : { "UserType": "QCP", "UserId": "3", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.72.67	14-07-2023 05:27:39 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php10.100.72.67	14-07-2023 05:27:39 PM	JSON POST : 10.100.72.67	14-07-2023 05:27:44 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/subscribeAPI.php10.100.72.67	14-07-2023 05:27:44 PM	JSON POST : {
+						"status":"single",
+						"listofAck":[
+							{
+								"acknowledgmentno":"255369700335164",
+								"userId":"3",
+								"productType":"PAN",
+								"UserType":"QCP"
+							}
+						]
+					}10.100.72.67	14-07-2023 05:27:44 PM	RESPONCE RETURN SLEF ASSIGNMENT API: {
+    "status": 0,
+    "Message": "Successfully Assigned"
+}10.100.72.67	14-07-2023 05:27:44 PM	Dashboard load for single assignment10.100.72.67	14-07-2023 05:27:45 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:27:45 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:27:45 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:27:50 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:27:55 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/callAcknowData.php?aid=25536970033516410.100.72.67	14-07-2023 05:27:55 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/User1Entry/PanSubmitValidatorAPI.php10.100.72.67	14-07-2023 05:27:55 PM	JSON POST : { "UserId": "3", "UserName": "","ip": "10.100.72.67", "Stage": "F~QCP~QC1~DV", "FormType": "49A", "AcknowledgementNumber":"255369700335164", "resolutionDate":"", "inwardDate":""}10.100.72.67	14-07-2023 05:27:55 PM	Response return from validate PAN review page: 
+ {
+    "status": "0",
+    "Validated": 1,
+    "formtype": "49A",
+    "AcknowledgementNumber": "255369700335164",
+    "Erorlist": ""
+}10.100.72.67	14-07-2023 05:27:55 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/HOOperation/mailcronjob.php10.100.72.67	14-07-2023 05:27:56 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:27:56 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:27:56 PM	Session BranchId...QCP10.100.72.67	14-07-2023 05:27:56 PM	Session Type...QCP10.100.72.67	14-07-2023 05:27:56 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.72.67	14-07-2023 05:27:56 PM	JSON POST : { "UserType": "QCP", "UserId": "3", "UserTypeId": "QCP", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.72.67	14-07-2023 05:27:59 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/Dashboards/countAPI.php10.100.72.67	14-07-2023 05:27:59 PM	JSON POST : 10.100.72.67	14-07-2023 05:30:47 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.67	14-07-2023 05:30:47 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://192.168.210.82/UAT_BackEnd/General/vendorinfoList.php10.100.72.67	14-07-2023 05:30:47 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:30:47 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:30:53 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:30:53 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:30:53 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/productinfoList.php10.100.72.67	14-07-2023 05:30:53 PM	JSON POST : 10.100.72.67	14-07-2023 05:30:53 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/General/listproduct.php?branchCode=&type=product10.100.72.67	14-07-2023 05:30:53 PM	response return from product mapping list : 10.100.72.67	14-07-2023 05:31:02 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.67	14-07-2023 05:31:02 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://192.168.210.82/UAT_BackEnd/General/vendorinfoList.php10.100.72.67	14-07-2023 05:31:02 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:31:02 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:31:05 PM	http://192.168.210.82/UAT_BackEnd/General/createuserAPI.php?CodeId=VD12210.100.72.67	14-07-2023 05:31:05 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:31:05 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:31:16 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.67	14-07-2023 05:31:16 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://192.168.210.82/UAT_BackEnd/General/vendorinfoList.php10.100.72.67	14-07-2023 05:31:16 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:31:16 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:31:20 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.100.72.67	14-07-2023 05:31:20 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- Call for Retrival 10.100.72.67	14-07-2023 05:31:20 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Retrival API Call ..http://192.168.210.82/UAT_BackEnd/General/vendorinfoList.php?editId=110.100.72.67	14-07-2023 05:31:20 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  JSON Retsult for Data Retrival ..{
+    "Id": "1",
+    "Name": "Vendor A",
+    "AddressOne": "B65",
+    "AddressTwo": "Patel Nagar",
+    "City": "NEW DELHI",
+    "PinCode": "110091",
+    "State": "21",
+    "PrimaryPhone": "9953648099",
+    "SecondaryPhone": "",
+    "PrimaryEmail": "test@gmail.com",
+    "SecondaryEmail": "",
+    "ContactPerson": "Test",
+    "CenterType": "1",
+    "Region": "3",
+    "PanNumber": "45464687",
+    "TanNumber": "45646546",
+    "GstNumber": "5454654",
+    "BranchCode": "VD111",
+    "FinancialCode": "6464",
+    "BankName": "",
+    "AccountNumber": "546546545645465",
+    "IfscCode": "IFSC001",
+    "BranchName": "Patel Nagar",
+    "Status": "1",
+    "JsonItem": "",
+    "BankName2": "",
+    "AccountNumber2": "",
+    "IfscCode2": "",
+    "BranchName2": "",
+    "Created_by": "1",
+    "Updated_by": null,
+    "Created_date": "2022-04-08",
+    "Created_time": "08:46:07",
+    "Updated_date": null,
+    "Updated_time": null,
+    "MaxCapacity": "100"
+}10.100.72.67	14-07-2023 05:31:20 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:31:20 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:31:35 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.67	14-07-2023 05:31:35 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://192.168.210.82/UAT_BackEnd/General/vendorinfoList.php10.100.72.67	14-07-2023 05:31:35 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:31:35 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:31:52 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:31:52 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:31:52 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/productinfoList.php10.100.72.67	14-07-2023 05:31:52 PM	JSON POST : 10.100.72.67	14-07-2023 05:31:52 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/General/listproduct.php?branchCode=&type=product10.100.72.67	14-07-2023 05:31:52 PM	response return from product mapping list : 10.100.72.67	14-07-2023 05:31:53 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.67	14-07-2023 05:31:53 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://192.168.210.82/UAT_BackEnd/General/vendorinfoList.php10.100.72.67	14-07-2023 05:31:53 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:31:53 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:31:54 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:31:54 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:31:54 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/productinfoList.php10.100.72.67	14-07-2023 05:31:54 PM	JSON POST : 10.100.72.67	14-07-2023 05:31:54 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/General/listproduct.php?branchCode=&type=product10.100.72.67	14-07-2023 05:31:54 PM	response return from product mapping list : 10.100.72.67	14-07-2023 05:32:03 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.67	14-07-2023 05:32:03 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://192.168.210.82/UAT_BackEnd/General/vendorinfoList.php10.100.72.67	14-07-2023 05:32:03 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:32:03 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:32:05 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:32:05 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:32:05 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/productinfoList.php10.100.72.67	14-07-2023 05:32:05 PM	JSON POST : 10.100.72.67	14-07-2023 05:32:05 PM	GET API URL HIT: http://192.168.210.82/UAT_BackEnd/General/listproduct.php?branchCode=&type=product10.100.72.67	14-07-2023 05:32:05 PM	response return from product mapping list : 10.100.72.67	14-07-2023 05:34:29 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.67	14-07-2023 05:34:29 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://192.168.210.82/UAT_BackEnd/General/vendorinfoList.php10.100.72.67	14-07-2023 05:34:29 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:34:29 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:34:34 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- At begining of Call10.100.72.67	14-07-2023 05:34:34 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:- Call for Retrival 10.100.72.67	14-07-2023 05:34:34 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  Retrival API Call ..http://192.168.210.82/UAT_BackEnd/General/vendorinfoList.php?editId=110.100.72.67	14-07-2023 05:34:34 PM	[Info] - File location /tinfc1/UAT/addvendor.php Message:-  JSON Retsult for Data Retrival ..{
+    "Id": "1",
+    "Name": "Vendor A",
+    "AddressOne": "B65",
+    "AddressTwo": "Patel Nagar",
+    "City": "NEW DELHI",
+    "PinCode": "110091",
+    "State": "21",
+    "PrimaryPhone": "9953648099",
+    "SecondaryPhone": "",
+    "PrimaryEmail": "test@gmail.com",
+    "SecondaryEmail": "",
+    "ContactPerson": "Test",
+    "CenterType": "1",
+    "Region": "3",
+    "PanNumber": "45464687",
+    "TanNumber": "45646546",
+    "GstNumber": "5454654",
+    "BranchCode": "VD111",
+    "FinancialCode": "6464",
+    "BankName": "",
+    "AccountNumber": "546546545645465",
+    "IfscCode": "IFSC001",
+    "BranchName": "Patel Nagar",
+    "Status": "1",
+    "JsonItem": "",
+    "BankName2": "",
+    "AccountNumber2": "",
+    "IfscCode2": "",
+    "BranchName2": "",
+    "Created_by": "1",
+    "Updated_by": null,
+    "Created_date": "2022-04-08",
+    "Created_time": "08:46:07",
+    "Updated_date": null,
+    "Updated_time": null,
+    "MaxCapacity": "100"
+}10.100.72.67	14-07-2023 05:34:34 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:34:34 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:35:14 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - 10.100.72.67	14-07-2023 05:35:14 PM	[Info] - File location /tinfc1/UAT/listvendors.php Message:-  URL for API - http://192.168.210.82/UAT_BackEnd/General/vendorinfoList.php10.100.72.67	14-07-2023 05:35:14 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:35:14 PM	JSON POST : {
+			"userType" : "QCP"
+		}10.100.72.67	14-07-2023 05:35:17 PM	http://192.168.210.82/UAT_BackEnd/General/createuserAPI.php?CodeId=VD11110.100.72.67	14-07-2023 05:35:17 PM	POST API URL HIT: http://192.168.210.82/UAT_BackEnd/General/userHeaderAPI.php10.100.72.67	14-07-2023 05:35:17 PM	JSON POST : {
+			"userType" : "QCP"
+		}

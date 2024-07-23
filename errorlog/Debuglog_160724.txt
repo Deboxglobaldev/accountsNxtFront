@@ -1,0 +1,470 @@
+10.100.21.52	16-07-2024 10:16:05 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	16-07-2024 10:16:05 AM	JSON POST : {
+			"userType" : "BACKHO"
+		}10.100.21.52	16-07-2024 10:16:06 AM	Session BranchId...BACKHO10.100.21.52	16-07-2024 10:16:06 AM	Session Type...BACKHO10.100.21.52	16-07-2024 10:16:06 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	16-07-2024 10:16:06 AM	JSON POST : { "UserType": "BACKHO", "UserId": "12749", "UserTypeId": "BACKHO", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.21.52	16-07-2024 10:16:06 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	16-07-2024 10:16:06 AM	JSON POST : 10.100.21.52	16-07-2024 10:17:11 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	16-07-2024 10:17:11 AM	JSON POST : {
+			"userType" : "BACKHO"
+		}10.100.21.52	16-07-2024 10:17:11 AM	Session BranchId...BACKHO10.100.21.52	16-07-2024 10:17:11 AM	Session Type...BACKHO10.100.21.52	16-07-2024 10:17:11 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	16-07-2024 10:17:11 AM	JSON POST : { "UserType": "BACKHO", "UserId": "12749", "UserTypeId": "BACKHO", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.21.52	16-07-2024 10:17:11 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	16-07-2024 10:17:11 AM	JSON POST : 10.100.21.52	16-07-2024 10:27:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	16-07-2024 10:27:02 AM	JSON POST : {
+			"userType" : "BACKHO"
+		}10.100.21.52	16-07-2024 10:27:02 AM	Session BranchId...BACKHO10.100.21.52	16-07-2024 10:27:02 AM	Session Type...BACKHO10.100.21.52	16-07-2024 10:27:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	16-07-2024 10:27:02 AM	JSON POST : { "UserType": "BACKHO", "UserId": "12749", "UserTypeId": "BACKHO", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.21.52	16-07-2024 10:27:02 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	16-07-2024 10:27:02 AM	JSON POST : 10.100.21.52	16-07-2024 10:27:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	16-07-2024 10:27:04 AM	JSON POST : {
+			"userType" : "BACKHO"
+		}10.100.21.52	16-07-2024 10:27:04 AM	Session BranchId...BACKHO10.100.21.52	16-07-2024 10:27:04 AM	Session Type...BACKHO10.100.21.52	16-07-2024 10:27:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	16-07-2024 10:27:04 AM	JSON POST : { "UserType": "BACKHO", "UserId": "12749", "UserTypeId": "BACKHO", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.21.52	16-07-2024 10:27:04 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	16-07-2024 10:27:04 AM	JSON POST : 10.100.21.52	16-07-2024 10:27:12 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	16-07-2024 10:27:12 AM	JSON POST : {
+			"userType" : "BACKHO"
+		}10.100.21.52	16-07-2024 10:27:12 AM	Session BranchId...BACKHO10.100.21.52	16-07-2024 10:27:12 AM	Session Type...BACKHO10.100.21.52	16-07-2024 10:27:12 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	16-07-2024 10:27:12 AM	JSON POST : { "UserType": "BACKHO", "UserId": "12749", "UserTypeId": "BACKHO", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.21.52	16-07-2024 10:27:12 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	16-07-2024 10:27:12 AM	JSON POST : 10.100.21.52	16-07-2024 10:27:51 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	16-07-2024 10:27:51 AM	JSON POST : {
+			"userType" : "BACKHO"
+		}10.100.21.52	16-07-2024 10:27:52 AM	Session BranchId...BACKHO10.100.21.52	16-07-2024 10:27:52 AM	Session Type...BACKHO10.100.21.52	16-07-2024 10:27:52 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	16-07-2024 10:27:52 AM	JSON POST : { "UserType": "BACKHO", "UserId": "12749", "UserTypeId": "BACKHO", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.21.52	16-07-2024 10:27:52 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	16-07-2024 10:27:52 AM	JSON POST : 10.100.21.52	16-07-2024 10:28:13 AM	ui YmFja2hv and pas dGVzdA==10.100.21.52	16-07-2024 10:28:13 AM	Response from url data jaypal {"userId":"backho","password":"test"}10.100.21.52	16-07-2024 10:28:13 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.21.52	16-07-2024 10:28:13 AM	JSON POST : Array10.100.21.52	16-07-2024 10:28:13 AM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "12749",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "BACKHO",
+    "UserName": "Backend  HO User",
+    "ErrorCode": "00",
+    "Status": "Success",
+    "RegionId": null,
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "SELF_DIGI"
+}10.100.21.52	16-07-2024 10:28:13 AM	Json parting value34434510.100.21.52	16-07-2024 10:28:13 AM	Session BranchId...BACKHO10.100.21.52	16-07-2024 10:28:13 AM	Session Type...BACKHO10.100.21.52	16-07-2024 10:28:13 AM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.21.52	16-07-2024 10:28:13 AM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.21.52	16-07-2024 11:18:00 AM	Session BranchId...BACKHO10.100.21.52	16-07-2024 11:18:00 AM	Session Type...BACKHO10.100.21.52	16-07-2024 11:18:00 AM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.21.52	16-07-2024 11:18:00 AM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.21.52	16-07-2024 11:19:05 AM	Session BranchId...BACKHO10.100.21.52	16-07-2024 11:19:05 AM	Session Type...BACKHO10.100.21.52	16-07-2024 11:19:05 AM	JSON to post dashboard data:  ----{ "UserType": "BACKHO", "UserId": "", "UserTypeId": "BACKHO","page":"backofficedashboard","fromRange":"","toRange":""}10.100.21.52	16-07-2024 11:19:05 AM	  API hit URL: https://10.150.146.12/UAT_BackEnd/Dashboards/BackOfficeDashboardHistoryAPI.php10.100.21.52	16-07-2024 11:19:38 AM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listVoucherEntryAPI.php10.100.21.52	16-07-2024 11:19:38 AM	JSON POST : {
+  	"VoucherNo":"",
+	"TransactionDate":"",
+  "Type":"JV"
+}10.100.21.52	16-07-2024 11:19:38 AM	Response return from listVoucherEntryAPI: {
+    "status": 0,
+    "VoucherData": [
+        {
+            "Number": 1,
+            "Id": "42",
+            "VoucherNo": "JV-050424-99",
+            "TransactionDate": "2024-04-05",
+            "DateAdded": "2024-04-05 16:48:08",
+            "Type": "JV",
+            "AddedBy": "12749",
+            "ListOfArray": [
+                {
+                    "AccountName": "SLB25536",
+                    "Credit": "0",
+                    "Debit": "800",
+                    "Narration": "test"
+                },
+                {
+                    "AccountName": "SLB0007",
+                    "Credit": "800",
+                    "Debit": "0",
+                    "Narration": "test"
+                }
+            ]
+        },
+        {
+            "Number": 2,
+            "Id": "47",
+            "VoucherNo": "JV-090724-109",
+            "TransactionDate": "2024-07-09",
+            "DateAdded": "2024-07-09 12:09:48",
+            "Type": "JV",
+            "AddedBy": "12749",
+            "ListOfArray": [
+                {
+                    "AccountName": "Select",
+                    "Credit": "111",
+                    "Debit": "0",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "Select",
+                    "Credit": "0",
+                    "Debit": "111",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "Select",
+                    "Credit": "0",
+                    "Debit": "0",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "Select",
+                    "Credit": "0",
+                    "Debit": "0",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "Select",
+                    "Credit": "0",
+                    "Debit": "0",
+                    "Narration": ""
+                }
+            ]
+        },
+        {
+            "Number": 3,
+            "Id": "51",
+            "VoucherNo": "JV-090724-110",
+            "TransactionDate": "2024-07-09",
+            "DateAdded": "2024-07-09 12:34:52",
+            "Type": "JV",
+            "AddedBy": "12749",
+            "ListOfArray": [
+                {
+                    "AccountName": "Select",
+                    "Credit": "011",
+                    "Debit": "0",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "Select",
+                    "Credit": "0",
+                    "Debit": "011",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "Select",
+                    "Credit": "0",
+                    "Debit": "0",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "Select",
+                    "Credit": "0",
+                    "Debit": "0",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "Select",
+                    "Credit": "0",
+                    "Debit": "0",
+                    "Narration": ""
+                }
+            ]
+        },
+        {
+            "Number": 4,
+            "Id": "57",
+            "VoucherNo": "JV-090724-111",
+            "TransactionDate": "2024-07-10",
+            "DateAdded": "2024-07-09 15:31:48",
+            "Type": "JV",
+            "AddedBy": "12749",
+            "ListOfArray": [
+                {
+                    "AccountName": "SLB25536",
+                    "Credit": "0",
+                    "Debit": "100",
+                    "Narration": "test"
+                },
+                {
+                    "AccountName": "SLB0006",
+                    "Credit": "100",
+                    "Debit": "0",
+                    "Narration": "test"
+                }
+            ]
+        },
+        {
+            "Number": 5,
+            "Id": "58",
+            "VoucherNo": "JV-090724-112",
+            "TransactionDate": "2024-07-15",
+            "DateAdded": "2024-07-09 15:36:36",
+            "Type": "JV",
+            "AddedBy": "12749",
+            "ListOfArray": [
+                {
+                    "AccountName": "SLB09001",
+                    "Credit": "0",
+                    "Debit": "500",
+                    "Narration": "test"
+                },
+                {
+                    "AccountName": "SLB0006",
+                    "Credit": "500",
+                    "Debit": "0",
+                    "Narration": "test"
+                },
+                {
+                    "AccountName": "Select",
+                    "Credit": "0",
+                    "Debit": "0",
+                    "Narration": "test"
+                },
+                {
+                    "AccountName": "Select",
+                    "Credit": "0",
+                    "Debit": "0",
+                    "Narration": "test"
+                },
+                {
+                    "AccountName": "Select",
+                    "Credit": "0",
+                    "Debit": "0",
+                    "Narration": "test"
+                }
+            ]
+        },
+        {
+            "Number": 6,
+            "Id": "62",
+            "VoucherNo": "JV-110724-115",
+            "TransactionDate": "2024-07-11",
+            "DateAdded": "2024-07-11 12:07:54",
+            "Type": "JV",
+            "AddedBy": "12749",
+            "ListOfArray": [
+                {
+                    "AccountName": "SLB09001",
+                    "Credit": "0",
+                    "Debit": "1999",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "SLB09001",
+                    "Credit": "1999",
+                    "Debit": "0",
+                    "Narration": ""
+                }
+            ]
+        },
+        {
+            "Number": 7,
+            "Id": "63",
+            "VoucherNo": "JV-120724-118",
+            "TransactionDate": "2024-07-12",
+            "DateAdded": "2024-07-12 12:21:58",
+            "Type": "JV",
+            "AddedBy": "12749",
+            "ListOfArray": [
+                {
+                    "AccountName": "SLB09001",
+                    "Credit": "0",
+                    "Debit": "3000",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "SLB09001",
+                    "Credit": "2000",
+                    "Debit": "0",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "SLB0005",
+                    "Credit": "1000",
+                    "Debit": "0",
+                    "Narration": ""
+                }
+            ]
+        },
+        {
+            "Number": 8,
+            "Id": "64",
+            "VoucherNo": "JV-120724-119",
+            "TransactionDate": "2024-07-14",
+            "DateAdded": "2024-07-12 12:25:34",
+            "Type": "JV",
+            "AddedBy": "12749",
+            "ListOfArray": [
+                {
+                    "AccountName": "SLB09001",
+                    "Credit": "0",
+                    "Debit": "5000",
+                    "Narration": "commision"
+                },
+                {
+                    "AccountName": "SLB09008",
+                    "Credit": "0",
+                    "Debit": "3000",
+                    "Narration": "commision"
+                },
+                {
+                    "AccountName": "SLB0005",
+                    "Credit": "10000",
+                    "Debit": "0",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "SLB09028",
+                    "Credit": "0",
+                    "Debit": "2000",
+                    "Narration": "commision"
+                }
+            ]
+        },
+        {
+            "Number": 9,
+            "Id": "65",
+            "VoucherNo": "JV-150724-120",
+            "TransactionDate": "2024-07-15",
+            "DateAdded": "2024-07-15 14:35:05",
+            "Type": "JV",
+            "AddedBy": "12749",
+            "ListOfArray": [
+                {
+                    "AccountName": "SLB09001",
+                    "Credit": "0",
+                    "Debit": "2000",
+                    "Narration": "Debited against NSDL PAAM recharge"
+                },
+                {
+                    "AccountName": "SLB09008",
+                    "Credit": "0",
+                    "Debit": "3000",
+                    "Narration": "Debited against NSDL PAAM recharge"
+                },
+                {
+                    "AccountName": "SLB0006",
+                    "Credit": "5000",
+                    "Debit": "0",
+                    "Narration": "Credited against NSDL PAAM recharge"
+                }
+            ]
+        },
+        {
+            "Number": 10,
+            "Id": "66",
+            "VoucherNo": "JV-150724-121",
+            "TransactionDate": "2024-07-15",
+            "DateAdded": "2024-07-15 15:35:48",
+            "Type": "JV",
+            "AddedBy": "12749",
+            "ListOfArray": [
+                {
+                    "AccountName": "SLB09001",
+                    "Credit": "0",
+                    "Debit": "1000",
+                    "Narration": "debit from 09001 ffff"
+                },
+                {
+                    "AccountName": "SLB09008",
+                    "Credit": "1000",
+                    "Debit": "0",
+                    "Narration": "debit from 09001 ffff"
+                }
+            ]
+        },
+        {
+            "Number": 11,
+            "Id": "67",
+            "VoucherNo": "JV-150724-122",
+            "TransactionDate": "2024-07-15",
+            "DateAdded": "2024-07-15 15:39:28",
+            "Type": "JV",
+            "AddedBy": "12749",
+            "ListOfArray": [
+                {
+                    "AccountName": "SLB09001",
+                    "Credit": "0",
+                    "Debit": "1000",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "SLB09008",
+                    "Credit": "0",
+                    "Debit": "1000",
+                    "Narration": ""
+                },
+                {
+                    "AccountName": "SLB09028",
+                    "Credit": "2000",
+                    "Debit": "0",
+                    "Narration": ""
+                }
+            ]
+        }
+    ]
+}10.100.21.52	16-07-2024 12:27:16 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/billInformationAPI.php10.100.21.52	16-07-2024 12:27:16 PM	JSON POST : 10.100.21.52	16-07-2024 12:27:27 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listVoucherEntryAPI.php10.100.21.52	16-07-2024 12:27:27 PM	JSON POST : {
+  	"VoucherNo":"",
+	"TransactionDate":"",
+  "Type":"BR"
+}10.100.21.52	16-07-2024 12:27:27 PM	Response return from listVoucherEntryAPI: {
+    "status": 0,
+    "VoucherData": [
+        {
+            "Number": 1,
+            "Id": "43",
+            "VoucherNo": "BR-050424-16",
+            "TransactionDate": "2024-04-05",
+            "DateAdded": "2024-04-05 16:50:10",
+            "Type": "BR",
+            "AddedBy": "12749",
+            "ListOfArray": {
+                "AccountName": "SLB0007",
+                "Amount": 5000,
+                "listOfData": [
+                    {
+                        "AccountName": "SLB25536",
+                        "Credit": "5000",
+                        "Narration": "bank receipt"
+                    }
+                ]
+            }
+        },
+        {
+            "Number": 2,
+            "Id": "46",
+            "VoucherNo": "BR-090724-17",
+            "TransactionDate": "2024-07-09",
+            "DateAdded": "2024-07-16 12:08:22",
+            "Type": "BR",
+            "AddedBy": "12749",
+            "ListOfArray": {
+                "AccountName": "SLB0012",
+                "Amount": 233,
+                "listOfData": [
+                    {
+                        "AccountName": "SLB09001",
+                        "Credit": "111",
+                        "Narration": ""
+                    },
+                    {
+                        "AccountName": "SLB09001",
+                        "Credit": "111",
+                        "Narration": ""
+                    },
+                    {
+                        "AccountName": "SLB09001",
+                        "Credit": "11",
+                        "Narration": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Number": 3,
+            "Id": "59",
+            "VoucherNo": "BR-090724-19",
+            "TransactionDate": "2024-07-09",
+            "DateAdded": "2024-07-09 15:42:00",
+            "Type": "BR",
+            "AddedBy": "12749",
+            "ListOfArray": {
+                "AccountName": "SLB0007",
+                "Amount": 100,
+                "listOfData": [
+                    {
+                        "AccountName": "SLB25536",
+                        "Credit": "100",
+                        "Narration": "test"
+                    }
+                ]
+            }
+        }
+    ]
+}10.100.21.52	16-07-2024 12:27:41 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listVoucherEntryAPI.php10.100.21.52	16-07-2024 12:27:41 PM	JSON POST : {
+  	"VoucherNo":"",
+	"TransactionDate":"2024-07-15",
+  "Type":"BR"
+}10.100.21.52	16-07-2024 12:27:41 PM	Response return from listVoucherEntryAPI: {
+    "status": 0,
+    "VoucherData": []
+}10.100.21.52	16-07-2024 12:27:48 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listVoucherEntryAPI.php10.100.21.52	16-07-2024 12:27:48 PM	JSON POST : {
+  	"VoucherNo":"",
+	"TransactionDate":"2024-07-15",
+  "Type":"BR"
+}10.100.21.52	16-07-2024 12:27:48 PM	Response return from listVoucherEntryAPI: {
+    "status": 0,
+    "VoucherData": []
+}10.100.21.52	16-07-2024 12:27:51 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/listVoucherEntryAPI.php10.100.21.52	16-07-2024 12:27:51 PM	JSON POST : {
+  	"VoucherNo":"",
+	"TransactionDate":"2024-07-01",
+  "Type":"BR"
+}10.100.21.52	16-07-2024 12:27:51 PM	Response return from listVoucherEntryAPI: {
+    "status": 0,
+    "VoucherData": []
+}10.100.21.52	16-07-2024 03:17:17 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	16-07-2024 03:17:17 PM	JSON POST : {
+			"userType" : "BACKHO"
+		}10.100.21.52	16-07-2024 03:17:18 PM	Session BranchId...BACKHO10.100.21.52	16-07-2024 03:17:18 PM	Session Type...BACKHO10.100.21.52	16-07-2024 03:17:18 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	16-07-2024 03:17:18 PM	JSON POST : { "UserType": "BACKHO", "UserId": "12749", "UserTypeId": "BACKHO", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "","Role": "1"}10.100.21.52	16-07-2024 03:17:18 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	16-07-2024 03:17:18 PM	JSON POST : 

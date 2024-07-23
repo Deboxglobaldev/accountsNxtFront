@@ -1,0 +1,142 @@
+10.100.50.146	28-07-2023 10:46:25 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	28-07-2023 10:46:25 AM	JSON POST : {"data":"empty"}10.100.50.146	28-07-2023 11:00:59 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	28-07-2023 11:00:59 AM	JSON POST : {"data":"empty"}10.100.50.146	28-07-2023 11:01:04 AM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.50.146	28-07-2023 11:01:04 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userlogin.php10.100.50.146	28-07-2023 11:01:04 AM	JSON POST : Array10.100.50.146	28-07-2023 11:01:04 AM	Response from url http://10.150.66.30//UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Branch User  [Branch - 25536]",
+    "RegionId": "2",
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.50.146	28-07-2023 11:01:04 AM	Json parting value2553610.100.50.146	28-07-2023 11:01:05 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:01:05 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:01:06 AM	Session BranchId...2553610.100.50.146	28-07-2023 11:01:06 AM	Session Type...BRANCH10.100.50.146	28-07-2023 11:01:06 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.146	28-07-2023 11:01:06 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.146	28-07-2023 11:01:09 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/Dashboards/countAPI.php10.100.50.146	28-07-2023 11:01:09 AM	JSON POST : 10.110.11.15	28-07-2023 11:08:59 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	28-07-2023 11:08:59 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:09:09 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	28-07-2023 11:09:09 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:09:34 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.110.11.15	28-07-2023 11:09:34 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.110.11.15	28-07-2023 11:09:34 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.110.11.15	28-07-2023 11:09:34 AM	Upload Type FOR PAN Branch:25536----SELF_DIGI10.110.11.15	28-07-2023 11:09:34 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: SELF_DIGI & UserId: 210.110.11.15	28-07-2023 11:09:34 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.110.11.15	28-07-2023 11:09:34 AM	Copy Success: 809849700048454.pdf10.110.11.15	28-07-2023 11:09:34 AM	PDF Path: /u01/uploads_uat/panpdf/809849700048454.pdf10.110.11.15	28-07-2023 11:09:35 AM	*****outside image copy foreach****10.110.11.15	28-07-2023 11:09:35 AM	Total Image page count: 010.110.11.15	28-07-2023 11:09:35 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.66.30//UAT_BackEnd/BulkUpload/bulkaction.php10.100.50.146	28-07-2023 11:10:57 AM	[ERR] - Session called 'branchId' is empty, expecting a branch Id10.100.50.146	28-07-2023 11:10:58 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	28-07-2023 11:10:58 AM	JSON POST : {"data":"empty"}10.100.50.146	28-07-2023 11:12:47 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	28-07-2023 11:12:47 AM	JSON POST : {"data":"empty"}10.100.50.146	28-07-2023 11:12:48 AM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.50.146	28-07-2023 11:12:48 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userlogin.php10.100.50.146	28-07-2023 11:12:48 AM	JSON POST : Array10.100.50.146	28-07-2023 11:12:48 AM	Response from url http://10.150.66.30//UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Branch User  [Branch - 25536]",
+    "RegionId": "2",
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.50.146	28-07-2023 11:12:48 AM	Json parting value2553610.100.50.146	28-07-2023 11:12:48 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:12:48 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:13:02 AM	Session BranchId...2553610.100.50.146	28-07-2023 11:13:02 AM	Session Type...BRANCH10.100.50.146	28-07-2023 11:13:02 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.146	28-07-2023 11:13:02 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.146	28-07-2023 11:13:04 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/Dashboards/countAPI.php10.100.50.146	28-07-2023 11:13:04 AM	JSON POST : 10.100.50.146	28-07-2023 11:14:58 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:14:58 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:15:20 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:15:20 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:15:20 AM	Session BranchId...2553610.100.50.146	28-07-2023 11:15:20 AM	Session Type...BRANCH10.100.50.146	28-07-2023 11:15:20 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.146	28-07-2023 11:15:20 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.146	28-07-2023 11:15:23 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/Dashboards/countAPI.php10.100.50.146	28-07-2023 11:15:23 AM	JSON POST : 10.100.50.146	28-07-2023 11:16:44 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:16:44 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:16:49 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/getAuditTrailAPI.php10.100.50.146	28-07-2023 11:16:49 AM	JSON POST : {
+					"AcknowledgementNo":"255369700382171",
+					"productType":""
+				}10.100.50.146	28-07-2023 11:16:49 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:16:49 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:16:58 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/getAuditTrailAPI.php10.100.50.146	28-07-2023 11:16:58 AM	JSON POST : {
+					"AcknowledgementNo":"255369700382171",
+					"productType":"PAN"
+				}10.100.50.146	28-07-2023 11:16:58 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:16:58 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:18:12 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:18:12 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:22:24 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	28-07-2023 11:22:24 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:22:25 AM	Session BranchId...2553610.110.11.15	28-07-2023 11:22:25 AM	Session Type...BRANCH10.110.11.15	28-07-2023 11:22:25 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/Dashboards/DashboardAPI.php10.110.11.15	28-07-2023 11:22:25 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.110.11.15	28-07-2023 11:22:28 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/Dashboards/countAPI.php10.110.11.15	28-07-2023 11:22:28 AM	JSON POST : 10.110.11.15	28-07-2023 11:24:36 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	28-07-2023 11:24:36 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:24:37 AM	POST API URL HIT: http://10.150.66.30//UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:24:37 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:24:47 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.110.11.15	28-07-2023 11:24:47 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.110.11.15	28-07-2023 11:24:47 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.110.11.15	28-07-2023 11:24:47 AM	Upload Type FOR PAN Branch:25536----SELF_DIGI10.110.11.15	28-07-2023 11:24:47 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: SELF_DIGI & UserId: 210.110.11.15	28-07-2023 11:24:47 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.110.11.15	28-07-2023 11:24:47 AM	Copy Success: 809849700048454.pdf10.110.11.15	28-07-2023 11:24:47 AM	PDF Path: /u01/uploads_uat/panpdf/809849700048454.pdf10.110.11.15	28-07-2023 11:24:48 AM	*****outside image copy foreach****10.110.11.15	28-07-2023 11:24:48 AM	Total Image page count: 010.110.11.15	28-07-2023 11:24:48 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.66.30//UAT_BackEnd/BulkUpload/bulkaction.php10.100.50.146	28-07-2023 11:30:42 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:30:42 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:30:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:30:44 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:30:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:30:48 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:31:07 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:31:07 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:35:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	28-07-2023 11:35:00 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:35:00 AM	Session BranchId...2553610.110.11.15	28-07-2023 11:35:00 AM	Session Type...BRANCH10.110.11.15	28-07-2023 11:35:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.110.11.15	28-07-2023 11:35:00 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.110.11.15	28-07-2023 11:35:06 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.110.11.15	28-07-2023 11:35:06 AM	JSON POST : 10.100.50.146	28-07-2023 11:36:02 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:36:02 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:37:37 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.110.11.15	28-07-2023 11:37:37 AM	JSON POST : {"data":"empty"}10.110.11.15	28-07-2023 11:37:43 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.110.11.15	28-07-2023 11:37:43 AM	JSON POST : {"data":"empty"}10.110.11.15	28-07-2023 11:37:44 AM	ui MjU1MzYwMQ== and pas dGVzdA==10.110.11.15	28-07-2023 11:37:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.110.11.15	28-07-2023 11:37:44 AM	JSON POST : Array10.110.11.15	28-07-2023 11:37:44 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Branch User  [Branch - 25536]",
+    "RegionId": "2",
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "EXPRESS"
+}10.110.11.15	28-07-2023 11:37:44 AM	Json parting value2553610.110.11.15	28-07-2023 11:37:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	28-07-2023 11:37:44 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:37:45 AM	Session BranchId...2553610.110.11.15	28-07-2023 11:37:45 AM	Session Type...BRANCH10.110.11.15	28-07-2023 11:37:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.110.11.15	28-07-2023 11:37:45 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.110.11.15	28-07-2023 11:37:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.110.11.15	28-07-2023 11:37:46 AM	JSON POST : 10.100.50.146	28-07-2023 11:37:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:37:50 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:37:55 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	28-07-2023 11:37:55 AM	JSON POST : {"data":"empty"}10.100.50.146	28-07-2023 11:38:00 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/qcSchedularAPI.php10.100.50.146	28-07-2023 11:38:00 AM	JSON POST : {"data":"empty"}10.100.50.146	28-07-2023 11:38:01 AM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.50.146	28-07-2023 11:38:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.50.146	28-07-2023 11:38:01 AM	JSON POST : Array10.100.50.146	28-07-2023 11:38:01 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Branch User  [Branch - 25536]",
+    "RegionId": "2",
+    "SelfDigFlag": "SELF_DIGI",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.50.146	28-07-2023 11:38:01 AM	Json parting value2553610.100.50.146	28-07-2023 11:38:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:38:01 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:38:01 AM	Session BranchId...2553610.100.50.146	28-07-2023 11:38:01 AM	Session Type...BRANCH10.100.50.146	28-07-2023 11:38:01 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.146	28-07-2023 11:38:01 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.146	28-07-2023 11:38:03 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.146	28-07-2023 11:38:03 AM	JSON POST : 10.110.11.15	28-07-2023 11:38:10 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	28-07-2023 11:38:10 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:38:14 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:38:14 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:38:16 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/getAuditTrailAPI.php10.110.11.15	28-07-2023 11:38:16 AM	JSON POST : {
+					"AcknowledgementNo":"255369700335886",
+					"productType":"PAN"
+				}10.110.11.15	28-07-2023 11:38:16 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	28-07-2023 11:38:16 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:38:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	28-07-2023 11:38:45 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:38:59 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.110.11.15	28-07-2023 11:38:59 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.110.11.15	28-07-2023 11:39:00 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.110.11.15	28-07-2023 11:39:00 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.110.11.15	28-07-2023 11:39:00 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.110.11.15	28-07-2023 11:39:00 AM	Upload Type FOR PAN Branch:25536----SELF_DIGI10.110.11.15	28-07-2023 11:39:00 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: SELF_DIGI & UserId: 210.110.11.15	28-07-2023 11:39:00 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.110.11.15	28-07-2023 11:39:00 AM	Copy Success: 255369700335886.pdf10.110.11.15	28-07-2023 11:39:00 AM	PDF Path: /u01/uploads_uat/panpdf/255369700335886.pdf10.110.11.15	28-07-2023 11:39:00 AM	*****outside image copy foreach****10.110.11.15	28-07-2023 11:39:00 AM	THIS IS PAGE: 010.110.11.15	28-07-2023 11:39:00 AM	THIS IS PAGE: 110.110.11.15	28-07-2023 11:39:00 AM	THIS IS PAGE: 210.110.11.15	28-07-2023 11:39:00 AM	THIS IS PAGE: 310.110.11.15	28-07-2023 11:39:00 AM	Total Image page count: 410.110.11.15	28-07-2023 11:39:00 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.110.11.15	28-07-2023 11:39:00 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+<br />
+<b>Warning</b>:  pg_query(): Query failed: ERROR:  relation &quot;panprogres.commissionmaster&quot; does not exist
+LINE 1: SELECT &quot;Acknowledgement-no&quot; FROM panprogres.commissionMaster...
+                                         ^ in <b>/var/www/html/UAT_BackEnd/BulkUpload/function.php</b> on line <b>50</b><br />
+<br />
+<b>Warning</b>:  pg_num_rows() expects parameter 1 to be resource, bool given in <b>/var/www/html/UAT_BackEnd/BulkUpload/function.php</b> on line <b>51</b><br />
+{
+    "AckNumber": "255369700335886",
+    "status": "Successfull",
+    "remark": "Successfull Upload",
+    "SequenceNo": "0"
+}10.110.11.15	28-07-2023 11:39:00 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.110.11.15	28-07-2023 11:39:00 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.110.11.15	28-07-2023 11:39:00 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.100.50.146	28-07-2023 11:40:52 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:40:52 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:40:58 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:40:58 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:41:33 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.100.50.146	28-07-2023 11:41:33 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.100.50.146	28-07-2023 11:41:33 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.100.50.146	28-07-2023 11:41:33 AM	Upload Type FOR PAN Branch:25536----SELF_DIGI10.100.50.146	28-07-2023 11:41:33 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: SELF_DIGI & UserId: 210.100.50.146	28-07-2023 11:41:33 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.100.50.146	28-07-2023 11:41:33 AM	Copy Success: 098279700625562.pdf10.100.50.146	28-07-2023 11:41:33 AM	PDF Path: /u01/uploads_uat/panpdf/098279700625562.pdf10.100.50.146	28-07-2023 11:41:33 AM	*****outside image copy foreach****10.100.50.146	28-07-2023 11:41:33 AM	THIS IS PAGE: 010.100.50.146	28-07-2023 11:41:33 AM	THIS IS PAGE: 110.100.50.146	28-07-2023 11:41:33 AM	THIS IS PAGE: 210.100.50.146	28-07-2023 11:41:33 AM	THIS IS PAGE: 310.100.50.146	28-07-2023 11:41:33 AM	Total Image page count: 410.100.50.146	28-07-2023 11:41:33 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.100.50.146	28-07-2023 11:41:33 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+{
+    "AckNumber": "098279700625562",
+    "status": "Unable To Uplaod",
+    "remark": "Unmatched File",
+    "SequenceNo": "0"
+}10.100.50.146	28-07-2023 11:41:33 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.100.50.146	28-07-2023 11:41:33 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.100.50.146	28-07-2023 11:41:33 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********10.100.50.146	28-07-2023 11:41:35 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:41:35 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:42:49 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:42:49 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:42:50 AM	Session BranchId...2553610.100.50.146	28-07-2023 11:42:50 AM	Session Type...BRANCH10.100.50.146	28-07-2023 11:42:50 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.146	28-07-2023 11:42:50 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.146	28-07-2023 11:42:51 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.146	28-07-2023 11:42:51 AM	JSON POST : 10.100.50.146	28-07-2023 11:43:51 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:43:51 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:44:32 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.146	28-07-2023 11:44:32 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.146	28-07-2023 11:44:34 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD STARTS*********10.100.50.146	28-07-2023 11:44:34 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Total File count :  110.100.50.146	28-07-2023 11:44:34 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- DATA SENT VIA POST: {"TotalFileUpload":"1","CurrentFileUpload":"0"} & ITS PRODUCT TYPE: PAN10.100.50.146	28-07-2023 11:44:34 AM	Upload Type FOR PAN Branch:25536----SELF_DIGI10.100.50.146	28-07-2023 11:44:34 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- Session data: UserType--BRANCH & uploadType: SELF_DIGI & UserId: 210.100.50.146	28-07-2023 11:44:34 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Starts From Here****** 10.100.50.146	28-07-2023 11:44:34 AM	Copy Success: 255369700375274.pdf10.100.50.146	28-07-2023 11:44:34 AM	PDF Path: /u01/uploads_uat/panpdf/255369700375274.pdf10.100.50.146	28-07-2023 11:44:34 AM	*****outside image copy foreach****10.100.50.146	28-07-2023 11:44:35 AM	THIS IS PAGE: 010.100.50.146	28-07-2023 11:44:35 AM	THIS IS PAGE: 110.100.50.146	28-07-2023 11:44:35 AM	THIS IS PAGE: 210.100.50.146	28-07-2023 11:44:35 AM	THIS IS PAGE: 310.100.50.146	28-07-2023 11:44:35 AM	Total Image page count: 410.100.50.146	28-07-2023 11:44:35 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  API URL :  http://10.150.146.12/UAT_BackEnd/BulkUpload/bulkaction.php10.100.50.146	28-07-2023 11:44:35 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Return Value from API :  
+<br />
+<b>Warning</b>:  pg_query(): Query failed: ERROR:  relation &quot;panprogres.commissionmaster&quot; does not exist
+LINE 1: SELECT &quot;Acknowledgement-no&quot; FROM panprogres.commissionMaster...
+                                         ^ in <b>/var/www/html/UAT_BackEnd/BulkUpload/function.php</b> on line <b>50</b><br />
+<br />
+<b>Warning</b>:  pg_num_rows() expects parameter 1 to be resource, bool given in <b>/var/www/html/UAT_BackEnd/BulkUpload/function.php</b> on line <b>51</b><br />
+{
+    "AckNumber": "255369700375274",
+    "status": "Successfull",
+    "remark": "Successfull Upload",
+    "SequenceNo": "0"
+}10.100.50.146	28-07-2023 11:44:35 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:-  Response Curl message :  File uploaded successfully and status code: 20010.100.50.146	28-07-2023 11:44:35 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *******Loop Ends Here****** 10.100.50.146	28-07-2023 11:44:35 AM	[Info] - File location /tinfc1/UAT/uploadcurl.php Message:- *********FILE UPLOAD ENDS*********

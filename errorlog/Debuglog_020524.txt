@@ -1,0 +1,36 @@
+10.100.21.52	02-05-2024 12:00:32 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/HOOperation/forgotpasswordapi.php10.100.21.52	02-05-2024 12:00:32 PM	JSON POST : {
+        "URL" : "https://tinexpertuat.religareonline.com/tinfc1/UAT/resetpassword.php?uid=amF5cGFsMUByZWxpZ2FyZS5jb20=",
+        "UserId" : "jaypal1@religare.com"
+    }10.100.21.52	02-05-2024 12:00:32 PM	RESPONSE FROM FORGOT PAGE: {
+    "status": 0,
+    "Message": "User ID does not Found."
+}10.100.21.52	02-05-2024 12:00:44 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/HOOperation/forgotpasswordapi.php10.100.21.52	02-05-2024 12:00:44 PM	JSON POST : {
+        "URL" : "https://tinexpertuat.religareonline.com/tinfc1/UAT/resetpassword.php?uid=",
+        "UserId" : ""
+    }10.100.21.52	02-05-2024 12:00:44 PM	RESPONSE FROM FORGOT PAGE: {
+    "status": 0,
+    "Message": "Reset Password Link is sent to Your Registered Email Address."
+}10.100.21.52	02-05-2024 12:01:10 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/HOOperation/forgotpasswordapi.php10.100.21.52	02-05-2024 12:01:10 PM	JSON POST : {
+        "URL" : "https://tinexpertuat.religareonline.com/tinfc1/UAT/resetpassword.php?uid=",
+        "UserId" : ""
+    }10.100.21.52	02-05-2024 12:01:10 PM	RESPONSE FROM FORGOT PAGE: {
+    "status": 0,
+    "Message": "Reset Password Link is sent to Your Registered Email Address."
+}10.100.21.52	02-05-2024 12:01:57 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/HOOperation/forgotpasswordapi.php10.100.21.52	02-05-2024 12:01:57 PM	JSON POST : {
+        "URL" : "https://tinexpertuat.religareonline.com/tinfc1/UAT/resetpassword.php?uid=Sm9obicgQU5EIDE9MQ==",
+        "UserId" : "John' AND 1=1"
+    }10.100.21.52	02-05-2024 12:01:57 PM	RESPONSE FROM FORGOT PAGE: {
+    "status": 0,
+    "Message": "User ID does not Found."
+}10.100.21.52	02-05-2024 03:04:38 PM	ui aG9leHByZXNzdXNlcjM= and pas dGVzdA==10.100.21.52	02-05-2024 03:04:38 PM	Response from url data jaypal {"userId":"hoexpressuser3","password":"test"}10.100.21.52	02-05-2024 03:04:38 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.21.52	02-05-2024 03:04:38 PM	JSON POST : Array10.100.21.52	02-05-2024 03:04:38 PM	Response from url https://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "48",
+    "BranchId": "344345",
+    "Role": "",
+    "Type": "houser",
+    "UserName": "HO Express  [User-3]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.21.52	02-05-2024 03:04:38 PM	Json parting value34434510.100.21.52	02-05-2024 03:04:38 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.21.52	02-05-2024 03:04:38 PM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.21.52	02-05-2024 03:04:38 PM	Session BranchId...houser10.100.21.52	02-05-2024 03:04:38 PM	Session Type...HOUSER10.100.21.52	02-05-2024 03:04:38 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.21.52	02-05-2024 03:04:38 PM	JSON POST : { "UserType": "HOUSER", "UserId": "48", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.21.52	02-05-2024 03:04:38 PM	POST API URL HIT: https://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.21.52	02-05-2024 03:04:38 PM	JSON POST : 

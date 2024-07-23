@@ -1,0 +1,60 @@
+10.100.50.150	12-03-2024 11:39:16 AM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.50.150	12-03-2024 11:39:16 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.50.150	12-03-2024 11:39:16 AM	JSON POST : Array10.100.50.150	12-03-2024 11:39:17 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Test  User",
+    "RegionId": "1",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.50.150	12-03-2024 11:39:17 AM	Json parting value2553610.100.50.150	12-03-2024 11:39:17 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	12-03-2024 11:39:17 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.150	12-03-2024 11:39:37 AM	Session BranchId...2553610.100.50.150	12-03-2024 11:39:37 AM	Session Type...BRANCH10.100.50.150	12-03-2024 11:39:37 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.150	12-03-2024 11:39:37 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.150	12-03-2024 11:39:37 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.150	12-03-2024 11:39:37 AM	JSON POST : 10.100.50.150	12-03-2024 11:40:11 AM	ui aG91c2VyMQ== and pas dGVzdA==10.100.50.150	12-03-2024 11:40:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.50.150	12-03-2024 11:40:11 AM	JSON POST : Array10.100.50.150	12-03-2024 11:40:11 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.50.150	12-03-2024 11:40:11 AM	Json parting value34434510.100.50.150	12-03-2024 11:40:11 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	12-03-2024 11:40:11 AM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.50.150	12-03-2024 11:40:12 AM	Session BranchId...houser10.100.50.150	12-03-2024 11:40:12 AM	Session Type...HOUSER10.100.50.150	12-03-2024 11:40:12 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.150	12-03-2024 11:40:12 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.50.150	12-03-2024 11:40:12 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.150	12-03-2024 11:40:12 AM	JSON POST : 10.100.50.150	12-03-2024 11:40:48 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	12-03-2024 11:40:48 AM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.50.150	12-03-2024 11:41:06 AM	***  Inside misuploadfile.php 10.100.50.150	12-03-2024 11:41:06 AM	***  Inside misuploadfile.php -> IF File is not emptpy & session Id: 3510.100.50.150	12-03-2024 11:41:06 AM	****** upload path ****** :uploads/10.100.50.150	12-03-2024 11:41:06 AM	URL HIT BY MIS UPLOAD FOR PAN :http://10.150.146.12/UAT_BackEnd/General/misupload.php?UserId=35&ip=10.100.50.15010.100.50.150	12-03-2024 11:41:06 AM	{
+    "Status": "Successes",
+    "TotalRecordProcessed": 1,
+    "NewRecords": "",
+    "Duplicates": "",
+    "FaildRecCcount": 0,
+    "FailedRecords": []
+}10.100.50.150	12-03-2024 11:41:22 AM	ui MjU1MzYwMQ== and pas dGVzdA==10.100.50.150	12-03-2024 11:41:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.50.150	12-03-2024 11:41:22 AM	JSON POST : Array10.100.50.150	12-03-2024 11:41:22 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "2",
+    "BranchId": "25536",
+    "Role": "1",
+    "Type": "branch",
+    "UserName": "Test  User",
+    "RegionId": "1",
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.50.150	12-03-2024 11:41:22 AM	Json parting value2553610.100.50.150	12-03-2024 11:41:22 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	12-03-2024 11:41:22 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.150	12-03-2024 11:41:23 AM	Session BranchId...2553610.100.50.150	12-03-2024 11:41:23 AM	Session Type...BRANCH10.100.50.150	12-03-2024 11:41:23 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.150	12-03-2024 11:41:23 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.150	12-03-2024 11:41:23 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.150	12-03-2024 11:41:23 AM	JSON POST : 10.100.50.150	12-03-2024 11:41:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	12-03-2024 11:41:45 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.150	12-03-2024 11:41:46 AM	Session BranchId...2553610.100.50.150	12-03-2024 11:41:46 AM	Session Type...BRANCH10.100.50.150	12-03-2024 11:41:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.150	12-03-2024 11:41:46 AM	JSON POST : { "UserType": "BRANCH", "UserId": "2", "UserTypeId": "25536", "AcknowledgementNo": "252539700000615", "productType": "", "formType": "", "subStage": "MU","Role": "1"}10.100.50.150	12-03-2024 11:41:46 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.150	12-03-2024 11:41:46 AM	JSON POST : 10.100.50.150	12-03-2024 11:41:58 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	12-03-2024 11:41:58 AM	JSON POST : {
+			"userType" : "BRANCH"
+		}10.100.50.150	12-03-2024 11:42:44 AM	ui aG91c2VyMQ== and pas dGVzdA==10.100.50.150	12-03-2024 11:42:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userlogin.php10.100.50.150	12-03-2024 11:42:44 AM	JSON POST : Array10.100.50.150	12-03-2024 11:42:44 AM	Response from url http://10.150.146.12/UAT_BackEnd/General/userlogin.php is: {
+    "Id": "35",
+    "BranchId": "344345",
+    "Role": "1",
+    "Type": "houser",
+    "UserName": "Shatrughan  [HO-User]",
+    "RegionId": null,
+    "SelfDigFlag": "EXPRESS",
+    "SelfDigFlagTan": "EXPRESS"
+}10.100.50.150	12-03-2024 11:42:44 AM	Json parting value34434510.100.50.150	12-03-2024 11:42:44 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	12-03-2024 11:42:44 AM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.50.150	12-03-2024 11:42:45 AM	Session BranchId...houser10.100.50.150	12-03-2024 11:42:45 AM	Session Type...HOUSER10.100.50.150	12-03-2024 11:42:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.150	12-03-2024 11:42:45 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "", "uploadType": ""}10.100.50.150	12-03-2024 11:42:45 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.150	12-03-2024 11:42:45 AM	JSON POST : 10.100.50.150	12-03-2024 11:42:53 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/General/userHeaderAPI.php10.100.50.150	12-03-2024 11:42:53 AM	JSON POST : {
+			"userType" : "HOUSER"
+		}10.100.50.150	12-03-2024 11:42:53 AM	Session BranchId...houser10.100.50.150	12-03-2024 11:42:53 AM	Session Type...HOUSER10.100.50.150	12-03-2024 11:42:53 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/DashboardAPI.php10.100.50.150	12-03-2024 11:42:53 AM	JSON POST : { "UserType": "HOUSER", "UserId": "35", "UserTypeId": "houser", "AcknowledgementNo": "252539700000615", "uploadType": "1"}10.100.50.150	12-03-2024 11:42:53 AM	POST API URL HIT: http://10.150.146.12/UAT_BackEnd/Dashboards/countAPI.php10.100.50.150	12-03-2024 11:42:53 AM	JSON POST : 
