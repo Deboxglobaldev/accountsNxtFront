@@ -20,12 +20,10 @@ $jsonData = '{
 $url = $serverurlapi."masters/addAccountGroupAPI.php";
 
 $resultData = postCurlData($url,$jsonData);
-
-
-
 logger($InfoMessage." Saving addAccountGroupAPI.. ".$resultData );
+
 $responseArr = json_decode($resultData);
-$_SESSION['error']=$responseArr['message'];
+$_SESSION['error']=$responseArr->message;
 
 }
 
