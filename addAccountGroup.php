@@ -1,37 +1,31 @@
-<?php  
+<?php
 // get url
 include 'inc.php';
 include "logincheck.php";
 $InfoMessage = "[Info] - File location ".$_SERVER['PHP_SELF']." Message:- " ;
 logger($InfoMessage."At begining of Call");
- 
+
 //insert bank voucher entry
 if(isset($_POST['addbranchinfo'])){
 logger($InfoMessage." Data Save .." );
 
-$jsonData = array(
-         "name" => trim($_POST['name']),
-		 "accountGroup" => trim($_POST['accountGroup'])
-);
+$jsonData = '{
+		"name" : "'.trim($_POST['name']).'",
+		 "accountGroup": "'.trim($_POST['accountGroup']).'"
+}';
 
-$insertData = http_build_query($jsonData);
 
-$url = $serverurlapi."General/addAccountGroupAPI.php";
-$ch = curl_init();
-logger($InfoMessage." Saving Data URL  .. ".$url );
-logger($InfoMessage." Saving Data as  .. ".$insertData );
-curl_setopt($ch, CURLOPT_URL, $url);
-curl_setopt($ch, CURLOPT_POST, 1);
-curl_setopt($ch, CURLOPT_POSTFIELDS, $insertData);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
-$resultData = curl_exec($ch);
-logger($InfoMessage." Saving Data API Call Result  .. ".$resultData );
-curl_close($ch);
+
+
+$url = $serverurlapi."masters/addAccountGroupAPI.php";
+
+$resultData = postCurlData($url,$jsonData);
+
+
 
 logger($InfoMessage." Saving addAccountGroupAPI.. ".$resultData );
-$_SESSION['error']=$resultData;
+$responseArr = json_decode($resultData);
+$_SESSION['error']=$responseArr['message'];
 
 }
 
@@ -92,15 +86,15 @@ label {
 				<option value="5" <?php if($branchData['accountGroup']=='5'){ echo "selected"; } ?>>Expense</option>
 			  </select>
           </div>
-		  
-          
+
+
         </div>
       </div>
     </section>
     <section class="">
       <div class="container-fluid full-bd">
         <div class="row">
-          
+
         </div>
       </div>
     </section>
@@ -164,9 +158,9 @@ label {
 $( function() {
 	//var today = new Date();
 	//var tomorrow = new Date();
-	$( ".datepicker" ).datepicker({ 
+	$( ".datepicker" ).datepicker({
 		dateFormat: 'dd-mm-yy',
-		
+
 	});
 });
 
@@ -190,7 +184,7 @@ $(document).ready(function(){
 			}
 		},
 		messages :{
-		   
+
 		},
 		submitHandler: function(form) {
 		  form.submit();
