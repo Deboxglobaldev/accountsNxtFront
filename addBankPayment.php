@@ -1,10 +1,10 @@
-<?php  
+<?php
 
 include 'inc.php';
 include "logincheck.php";
 $InfoMessage = "[Info] - File location ".$_SERVER['PHP_SELF']." Message:- " ;
 logger($InfoMessage."At begining of Call");
- 
+
 //insert bank voucher entry
 if(isset($_POST['addbranchinfo'])){
 
@@ -15,9 +15,9 @@ foreach($_POST['accountName'] as $accountRow){
 				"AccountName":"'.$_POST['accountName'][$no].'",
 				"Debit":"'.$_POST['debit'][$no].'",
 				"Narration":"'.$_POST['narration'][$no].'"
-			},'; 
-	
-	
+			},';
+
+
 $no++;
 }
 
@@ -29,10 +29,10 @@ $jsonData = '{
 	"ip":"'.$_SERVER["REMOTE_ADDR"].'",
 	"BankAccount":"'.$_POST['bankAccount'].'",
 	"ListOfTransaction":['.rtrim($transactionJson,',').']
-	
+
 }';
 
-$url = $serverurlapi."General/addBankPaymentAPI.php";
+$url = $serverurlapi."vouchers/addBankPaymentAPI.php";
 $response = postCurlData($url,$jsonData);
 $res = json_decode($response,true);
 
@@ -67,7 +67,7 @@ label {
 }
 .selectize-input{
     border: 1px solid #767676!important;
-    border-radius: 2px!important;	
+    border-radius: 2px!important;
 }
 </style>
 <!-- HK Wrapper -->
@@ -113,18 +113,18 @@ label {
           <div style="margin-top:20px" class="col-md-2">
 			   	<select class="inp-w ui-select wd-tr"  placeholder="Select..." name="bankAccount" required="">
 			   			<option></option>
-			   			<?php 
+			   			<?php
 			   			$jsonData = '{
 					"AccountName":"",
-					"GroupId":"LB0004",
+					"GroupId":"",
 					"Status":"1"
 				}';
-				$newurl = $serverurlapi."General/accountNameAPI.php";
+				$newurl = $serverurlapi."masters/accountNameAPI.php";
 				$resultData = postCurlData($newurl,$jsonData);
 				//logger('Response return from account Name API: '.$resultData);
 				$accountData = json_decode($resultData);
 				if(isset($accountData->status)=='true'){
-				if(isset($accountData->AccountNameData)){                    
+				if(isset($accountData->AccountNameData)){
 				foreach($accountData->AccountNameData as $resultList){
 					?>
 			   	<option value="<?php echo $resultList->Id; ?>"><?php echo $resultList->AccountName; ?></option>
@@ -134,7 +134,7 @@ label {
        </div>
       </div>
     </section>
-	
+
     <section class="">
       <div class="container-fluid full-bd">
         <div class="row">
@@ -152,22 +152,22 @@ label {
 			   		<i class="fa fa-trash" aria-hidden="true" style="color:#FF0000;font-size: 18px;cursor:pointer;" onclick="funDeleteRow(<?php echo $w; ?>);"></i>
            <?php } ?>
 			   	</td>
-			   	
+
 			   	<td>
-			   	<select class="inp-w ui-select wd-tr" name="accountName[]" required="">
+			   	<select class="inp-w ui-select wd-tr" name="accountName[]" >
 			   			<option value=""></option>
-			   			<?php 
+			   			<?php
 			   			$jsonData = '{
 					"AccountName":"",
 					"GroupId":"",
 					"Status":"1"
 				}';
-				$newurl = $serverurlapi."General/accountNameAPI.php";
+				$newurl = $serverurlapi."masters/accountNameAPI.php";
 				$resultData = postCurlData($newurl,$jsonData);
 				//logger('Response return from account Name API: '.$resultData);
 				$accountData = json_decode($resultData);
 				if(isset($accountData->status)=='true'){
-				if(isset($accountData->AccountNameData)){                    
+				if(isset($accountData->AccountNameData)){
 				foreach($accountData->AccountNameData as $resultList){
 					?>
 			   	<option value="<?php echo $resultList->Id; ?>"><?php echo $resultList->AccountName; ?></option>
@@ -188,37 +188,37 @@ label {
         </div>
       </div>
     </section>
- <script> 
+ <script>
 
-        let rowno = 6; 
-        $(document).ready(function () { 
-            $(".add-row").click(function () { 
+        let rowno = 6;
+        $(document).ready(function () {
+            $(".add-row").click(function () {
 				$('#commonrow').hide();
-                rows = "<tr id='row_"+rowno+"'><td><i class='fa fa-trash' aria-hidden='true' style='color:#FF0000;font-size: 18px;cursor:pointer;' onclick='funDeleteRow("+rowno+");'></i></td><td><select class='inp-w ui-select wd-tr' name='accountName[]' required ><option value=''></option><?php 
+                rows = "<tr id='row_"+rowno+"'><td><i class='fa fa-trash' aria-hidden='true' style='color:#FF0000;font-size: 18px;cursor:pointer;' onclick='funDeleteRow("+rowno+");'></i></td><td><select class='inp-w ui-select wd-tr' name='accountName[]' ><option value=''></option><?php
 				$jsonData = '{
 					"AccountName":"",
 					"GroupId":"",
 					"Status":"1"
 				}';
-				$newurl = $serverurlapi."General/accountNameAPI.php";
+				$newurl = $serverurlapi."masters/accountNameAPI.php";
 				$resultData = postCurlData($newurl,$jsonData);
 				//logger('Response return from account Name API: '.$resultData);
 				$accountData = json_decode($resultData);
 				if(isset($accountData->status)=='true'){
-				if(isset($accountData->AccountNameData)){                    
+				if(isset($accountData->AccountNameData)){
 				$no=1;
 				foreach($accountData->AccountNameData as $resultList){
-				?><option value='<?php echo $resultList->AccountName; ?>'><?php echo $resultList->AccountName; ?></option><?php } } } ?></select></td><td><input type='number' name='debit[]' onkeyup='funcDebitEnable("+rowno+");' onBlur='funcSumValue();' id='debit_"+rowno+"' class='debitsum inp-t newdate' value='0' ></td><td><input type='text' name='narration[]' id='narration_"+rowno+"' class='inp-t newdate'></td></tr>"; 
-                tableBody = $("table tbody"); 
-                tableBody.append(rows); 
-                rowno++; 
-            }); 
-        }); 
-		
+				?><option value='<?php echo $resultList->AccountName; ?>'><?php echo $resultList->AccountName; ?></option><?php } } } ?></select></td><td><input type='number' name='debit[]' onkeyup='funcDebitEnable("+rowno+");' onBlur='funcSumValue();' id='debit_"+rowno+"' class='debitsum inp-t newdate' value='0' ></td><td><input type='text' name='narration[]' id='narration_"+rowno+"' class='inp-t newdate'></td></tr>";
+                tableBody = $("table tbody");
+                tableBody.append(rows);
+                rowno++;
+            });
+        });
+
 		function funDeleteRow(id){
 			$('#row_'+id).empty();
 		}
-		
+
 // 		function funcDebitEnable(rowid){
 // var debit = $('#debit_'+rowid).val();
 // 			if(debit > 0){
@@ -228,31 +228,31 @@ label {
 // 		}
 
 // 			function funcDebitEnable(rowid){
-			
+
 // var debit = $('#debit_'+rowid).val();
 // 			if(debit > 0){
 // 				$('#debit_'+rowid).val(debit);
 // 				$('#debit_'+rowid).val(0);
 // 			}
 // 		}
-		
+
 // 		function funcSumValue(){
 // 			var totalSumDebit = 0;
 // 			var totalSumDebit = 0;
 // 			$('.debitsum').each(function () {
 // 				totalSumDebit += parseFloat(this.value);
 // 			});
-			
+
 // 			$('.debitsum').each(function () {
 // 				totalSumDebit += parseFloat(this.value);
-// 			});			
-			
+// 			});
+
 // 			if(totalSumDebit==totalSumDebit){
 // 				$('#btnsubmit').show();
 // 			}else{
 // 				$('#btnsubmit').hide();
 // 			}
-			  
+
 // 		}
 
 	$("table tr:nth-child(2) td:last-child input").keyup(function(){
@@ -267,7 +267,7 @@ label {
           sortField: 'text'
       });
   });
-    </script>    
+    </script>
     <hr class="dot-row">
     <section>
       <div class="nxrt full-bd" style="width: fit-content;">
@@ -328,9 +328,9 @@ label {
 $( function() {
 	//var today = new Date();
 	//var tomorrow = new Date();
-	$( ".datepicker" ).datepicker({ 
+	$( ".datepicker" ).datepicker({
 		dateFormat: 'dd-mm-yy',
-		
+
 	});
 });
 
@@ -343,10 +343,10 @@ $(document).ready(function(){
            this.element(element);
         },
 		rules :{
-			
+
 		},
 		messages :{
-		   
+
 		},
 		submitHandler: function(form) {
 		  form.submit();

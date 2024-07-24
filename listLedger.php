@@ -14,7 +14,7 @@ $searching = '{
 	"fromDate":"'.date('Y-m-d',strtotime($_POST['fromDate'])).'",
 	"toDate":"'.date('Y-m-d',strtotime($_POST['toDate'])).'"
 }';
-$url = $serverurlapi."General/ledgerAPI.php";
+$url = $serverurlapi."vouchers/ledgerAPI.php";
 
 if($_POST['action']=="searchaction")
 {
@@ -161,7 +161,7 @@ $(document).ready(function(){
 					"GroupId":"",
 					"Status":"1"
 				}';
-				$newurl = $serverurlapi."General/accountNameAPI.php";
+				$newurl = $serverurlapi."masters/accountNameAPI.php";
 				$resultData = postCurlData($newurl,$jsonData);
 				//logger('Response return from account Name API: '.$resultData);
 				$accountData = json_decode($resultData);

@@ -1,5 +1,5 @@
-<?php 
-// get url 
+<?php
+// get url
 include "inc.php";
 include "logincheck.php";
 $InfoMessage = "[Info] - File location ".$_SERVER['PHP_SELF']." Message:- " ;
@@ -11,14 +11,14 @@ if($_GET['action']=="searchaction"){
 $VoucherNo = trim($_GET['VoucherNo']);
 $TransactionDate = trim($_GET['TransactionDate']);
 $Type = "BP";
-  
+
 $jsonData = '{
   	"VoucherNo":"'.$VoucherNo.'",
 	"TransactionDate":"'.$TransactionDate.'",
   "Type":"'.$Type.'"
 }';
 
-$newurl = $serverurlapi."General/listVoucherEntryAPI.php";
+$newurl = $serverurlapi."vouchers/listVoucherEntryAPI.php";
 $resultData = postCurlData($newurl,$jsonData);
 logger('Response return from listVoucherEntryAPI: '.$resultData);
 $accountData = json_decode($resultData);
@@ -123,16 +123,16 @@ $(document).ready(function(){
             <tbody id="tablesearch">
               <?php
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->VoucherData)){                    
+    if(isset($accountData->VoucherData)){
     $no=1;
 	$arrData='';
 	foreach($accountData->VoucherData as $resultList){
 
   $value =  get_object_vars($resultList->ListOfArray);
-	
+
   ?>
               <tr class="uyt hgte" style="background: #e0f5e0;font-size: 12px !important;border-bottom: 1px solid #ccc;">
-               
+
                 <td><?php echo date('d-M-Y',strtotime($resultList->TransactionDate)); ?></td>
 				 <td><?php echo $resultList->VoucherNo; ?></td>
                 <td>-</td>
@@ -154,15 +154,15 @@ $(document).ready(function(){
               </tr>
               <?php
             }
-			
-			
+
+
     $no++;
-   } 
-   
+   }
+
    ?>
               <?php
-   
-   
+
+
 }
   }
   else{?>
@@ -202,17 +202,17 @@ $(document).ready(function(){
       })
     }
     });
-    
+
     });
 
-    window.setInterval(function(){ 
+    window.setInterval(function(){
       checked = $("#tabledata input[type=checkbox]:checked").length;
-      if(!checked) { 
+      if(!checked) {
     $("#approvebutton").hide();
       } else {
-	  
+
     $("#approvebutton").show();
-    } 
+    }
 }, 100);
 </script>
 <?php include 'footer.php'; ?>
@@ -220,7 +220,7 @@ $(document).ready(function(){
 </html>
 <script>
 $( function() {
-  $( ".datepicker" ).datepicker({ 
+  $( ".datepicker" ).datepicker({
     dateFormat: 'yy-mm-dd',
     maxDate: 0
   });
@@ -232,7 +232,7 @@ function funccheck(no,voucher){
 	var confirmed = confirm("Do you want to Approve Voucher no "+voucher);
 	if(confirmed){
 		$('#hide'+voucher).load('frmaction.php?act=walletApprove&voucher='+voucher);
-		
+
 	}
 
 }

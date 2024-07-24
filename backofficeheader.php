@@ -156,20 +156,15 @@
                                     Voucher</span></a>
                         </li>
                         <li class="nav-item">
+			                <a class="nav-link" href="addContraVoucher.php"><span class="nav-link-text text-white seq">Contra Voucher</span></a>
+		                </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="listBankReceipt.php"><span class="nav-link-text text-white seq">Bank
                                     Receipt</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="listBankPayment.php"><span class="nav-link-text text-white seq">Bank
                                     Payment</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="listBankVoucherEntry.php"><span class="nav-link-text text-white seq">Verify
-                                    Voucher</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="listLedger.php"><span class="nav-link-text text-white seq">Account
-                                    Statement</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="addDebitVoucher.php"><span class="nav-link-text text-white seq">Debit
@@ -180,9 +175,13 @@
                                     Note</span></a>
                         </li>
                         <li class="nav-item">
-			                <a class="nav-link" href="addContraVoucher.php"><span class="nav-link-text text-white seq">Contra Voucher</span></a>
-		                </li>
-
+                            <a class="nav-link" href="listBankVoucherEntry.php"><span class="nav-link-text text-white seq">Verify
+                                    Voucher</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="listLedger.php"><span class="nav-link-text text-white seq">Account
+                                    Statement</span></a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link" href="billSummary.php"><span class="nav-link-text text-white seq">Bill
                                     Summary</span></a>
@@ -192,8 +191,8 @@
                                     Summary</span></a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="trialbalance.php"><span class="nav-link-text text-white seq">Trial
-                        Balance</span></a>
+                            <a class="nav-link" href="trialbalance.php"><span class="nav-link-text text-white seq">Trial
+                                Balance</span></a>
                         </li>
                     </ul>
                 </li>
