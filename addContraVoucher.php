@@ -33,10 +33,10 @@ $jsonData = '{
 
 }';
 
-$url = $serverurlapi."vouchers/dcVoucherNoteAPI.php";
+$url = $serverurlapi."vouchers/addContraVoucherAPI.php";
 $response = postCurlData($url,$jsonData);
 $res = json_decode($response,true);
-logger($InfoMessage." Saving dcVoucherNoteAPI.. ".$response);
+logger($InfoMessage." Saving addContraVoucherAPI.. ".$response);
 $_SESSION['error']=$response;
 
 }
