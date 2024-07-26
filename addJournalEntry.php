@@ -8,17 +8,19 @@ logger($InfoMessage."At begining of Call");
 //insert bank voucher entry
 if(isset($_POST['addbranchinfo'])){
 
+	//print_r($_POST); die;
 $no = 0;
 $transactionJson = '';
 foreach($_POST['accountName'] as $accountRow){
-	$transactionJson.= '{
-				"AccountName":"'.$_POST['accountName'][$no].'",
-				"Credit":"'.$_POST['credit'][$no].'",
-				"Debit":"'.$_POST['debit'][$no].'",
-				"Narration":"'.$_POST['narration'][$no].'"
-			},';
-
-
+	//logger($InfoMessage."-----".$_POST['accountName'][$no]."-----");
+	if($_POST['accountName'][$no]!=''){
+		$transactionJson.= '{
+			"AccountName":"'.$_POST['accountName'][$no].'",
+			"Credit":"'.$_POST['credit'][$no].'",
+			"Debit":"'.$_POST['debit'][$no].'",
+			"Narration":"'.$_POST['narration'][$no].'"
+		},';
+	}
 $no++;
 }
 
@@ -125,7 +127,7 @@ label {
 
 			   	<td>
 			   	<select class="inp-w ui-select wd-tr" name="accountName[]">
-			   			<option>Select</option>
+			   			<option value=''>Select</option>
 			   			<?php
 			   			$jsonData = '{
 					"AccountName":"",
@@ -167,7 +169,7 @@ label {
         $(document).ready(function () {
             $(".add-row").click(function () {
 				$('#commonrow').hide();
-                rows = "<tr id='row_"+rowno+"'><td><i class='fa fa-trash' aria-hidden='true' style='color:#FF0000;font-size: 18px;cursor:pointer;' onclick='funDeleteRow("+rowno+");'></i></td><td><select class='inp-w ui-select wd-tr' name='accountName[]' ><option>Select</option><?php
+                rows = "<tr id='row_"+rowno+"'><td><i class='fa fa-trash' aria-hidden='true' style='color:#FF0000;font-size: 18px;cursor:pointer;' onclick='funDeleteRow("+rowno+");'></i></td><td><select class='inp-w ui-select wd-tr' name='accountName[]' ><option value=''>Select</option><?php
 				$jsonData = '{
 					"AccountName":"",
 					"GroupId":"",

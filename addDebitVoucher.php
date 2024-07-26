@@ -11,12 +11,13 @@ if(isset($_POST['addbranchinfo'])){
 $no = 0;
 $transactionJson = '';
 foreach($_POST['accountName'] as $accountRow){
-	$transactionJson.= '{
+	if($_POST['accountName'][$no]!=''){
+		$transactionJson.= '{
 				"AccountName":"'.$_POST['accountName'][$no].'",
 				"Code":"'.$_POST['code'][$no].'",
 				"Amount":"'.$_POST['amount'][$no].'"
 			},';
-
+	}
 
 $no++;
 }
@@ -91,7 +92,7 @@ label {
           </div>
           <div class="col-md-2">
             <select class="inp-w ui-select wd-tr" name="accountHead" id="accountHead" required="">
-              <option>Select</option>
+              <option value=''>Select</option>
               <?php
 			   			$jsonData = '{
 					"AccountName":"",
@@ -140,7 +141,7 @@ label {
 			   	<td><i class="fa fa-trash" aria-hidden="true" style="color:#FF0000;font-size: 18px;cursor:pointer;" onClick="funDeleteRow(<?php echo $w; ?>);"></i></td>
 			   	<td>
 			   	<select class="inp-w ui-select wd-tr" name="accountName[]" required="">
-			   			<option>Select</option>
+			   			<option value=''>Select</option>
 			   			<?php
 			   			$jsonData = '{
 					"AccountName":"",
@@ -178,7 +179,7 @@ label {
         $(document).ready(function () {
             $(".add-row").click(function () {
 				$('#commonrow').hide();
-                rows = "<tr id='row_"+rowno+"'><td><i class='fa fa-trash' aria-hidden='true' style='color:#FF0000;font-size: 18px;cursor:pointer;' onclick='funDeleteRow("+rowno+");'></i></td><td><select class='inp-w ui-select wd-tr' name='accountName[]' required ><option>Select</option><?php
+                rows = "<tr id='row_"+rowno+"'><td><i class='fa fa-trash' aria-hidden='true' style='color:#FF0000;font-size: 18px;cursor:pointer;' onclick='funDeleteRow("+rowno+");'></i></td><td><select class='inp-w ui-select wd-tr' name='accountName[]' required ><option value=''>Select</option><?php
 				$jsonData = '{
 					"AccountName":"",
 					"GroupId":"",
@@ -186,7 +187,7 @@ label {
 				}';
 				$newurl = $serverurlapi."masters/accountNameAPI.php";
 				$resultData = postCurlData($newurl,$jsonData);
-				logger('Response return from account Name API: '.$resultData);
+				//logger('Response return from account Name API: '.$resultData);
 				$accountData = json_decode($resultData);
 				if(isset($accountData->status)=='true'){
 				if(isset($accountData->AccountNameData)){

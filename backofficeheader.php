@@ -183,14 +183,6 @@
                                     Statement</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="billSummary.php"><span class="nav-link-text text-white seq">Bill
-                                    Summary</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="commissionSummary.php"><span class="nav-link-text text-white seq">Commission
-                                    Summary</span></a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link" href="trialbalance.php"><span class="nav-link-text text-white seq">Trial
                                 Balance</span></a>
                         </li>

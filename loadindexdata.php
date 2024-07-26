@@ -1,6 +1,6 @@
 <?php
 include "inc.php";
-
+/*
 
 	if($_SESSION["Type"]=="HOUSER"){
 		$jsonPost = '{ "UserType": "'.$_SESSION["Type"].'", "UserId": "'.$_SESSION["UID"].'", "UserTypeId": "'.$_SESSION["branchId"].'", "AcknowledgementNo": "'.$_REQUEST['aid'].'", "uploadType": "'.$_REQUEST['uploadType'].'"}';
@@ -48,10 +48,10 @@ include "inc.php";
 		$pan  = $dashData[0]->SummaryCounts[0]->SummaryCount;
 		$tanCount  = $dashData[0]->SummaryCounts[0]->SummaryTanCount;
 
-	}
+	} */
 
 ?>
-
+<!--
 
 <section class="hk-sec-wrapper">
   <div class="grid-container">
@@ -60,7 +60,7 @@ include "inc.php";
         <h6>PAN</h6>
         <h2>
         	<?php echo ($pan!='') ? $pan : "0"; ?>
-          <!-- </a> -->
+
         </h2>
       </div>
     </div>
@@ -122,13 +122,6 @@ include "inc.php";
   </div>
 </section>
 
-<!-- <section class="hk-sec-wrapper">
-  <div class="grid-container">
-
-
-  </div>
-</section> -->
-
 <style>
 .filterCls{
 	padding: 2px;
@@ -165,7 +158,7 @@ padding: 3px !important;
 
 <?php  if(isset($_SESSION['error'])!=''){ ?>
 <div class="bs-example" id="messageDiv">
-	<!-- Success Alert -->
+
 	<div class="alert alert-dismissible fade show" style="border: solid 2px; border-block-color: green; font-weight: 800; font-size: 17px; color: green;">
 		  <?php echo $_SESSION['error'];unset($_SESSION['error']); ?>
 		<button type="button" class="close" data-dismiss="alert">&times;</button>
@@ -325,9 +318,10 @@ function funcShowFilter(pType){
 funcShowFilter("PAN");
 </script>
 <?php } ?>
+-->
 <!--<div id="tabledata" style="padding: 10px;">-->
 
-
+<!--
 <?php if($_SESSION["Type"]=="VENDOR"){ ?>
 <form class="form-horizontal" name="formaction" method="post" action="frmaction.php" target="actoinfrm">
 	<input type="hidden" name="vendorCode" value="<?php echo $_SESSION['BID']; ?>"  />
@@ -559,7 +553,6 @@ foreach($dashData[0]->DataTable as $list)
 	<button type="submit" id="btnSubmit" class="btn btn-default" onClick="funcLoading();" style="font-size:12px; padding:5px; border:1px solid #5ea923; width:57px;"><?php echo $assinValue; ?></button>
 </form>
 
-<!--search filter-->
 <script>
 function submitSelfForm(ackNo,productType,stage,assignTo){
 	$('#redirecturl').val(stage);
@@ -674,3 +667,4 @@ $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip();
 });
 </script>
+--->

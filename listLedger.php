@@ -136,7 +136,6 @@ $(document).ready(function(){
     <form action="" method="POST" autocomplete="nope" id="exportfrm" />
         <div class="row gy-bvc">
 
-		<?php if(strtoupper($_SESSION['Type'])!='BRANCH'){ ?>
        <!--  <div class="col-md-2" style="display:none">
           <div >
           <h6 style="font-weight: initial;">Type</h6>
@@ -174,10 +173,6 @@ $(document).ready(function(){
 			   	</select>
           </div>
         </div>
-		<?php } else{ ?>
-		<input type="hidden" name="Type" value="Branch" >
-		<input type="hidden" name="Branch" value="<?php echo $_SESSION["BID"]; ?>" >
-		<?php } ?>
 		<div class="col-md-2" style="display: none;">
           <div >
           <h6 style="font-weight: initial;">Voucher No</h6>

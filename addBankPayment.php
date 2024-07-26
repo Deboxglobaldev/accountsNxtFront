@@ -11,12 +11,13 @@ if(isset($_POST['addbranchinfo'])){
 $no = 0;
 $transactionJson = '';
 foreach($_POST['accountName'] as $accountRow){
+	if($_POST['accountName'][$no]!=''){
 	$transactionJson.= '{
 				"AccountName":"'.$_POST['accountName'][$no].'",
 				"Debit":"'.$_POST['debit'][$no].'",
 				"Narration":"'.$_POST['narration'][$no].'"
 			},';
-
+	}
 
 $no++;
 }

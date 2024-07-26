@@ -1,12 +1,12 @@
-<?php 
+<?php
 // get url
 include "inc.php";
 include "logincheck.php";
 
 $InfoMessage = "[Info] - File location ".$_SERVER['PHP_SELF']." Message:- ";
 
-$voucherNo = $_POST['voucherNo'];  
-$accountCode = $_POST['accountCode']; 
+$voucherNo = $_POST['voucherNo'];
+$accountCode = $_POST['accountCode'];
 
 if (trim($_POST['fromDate'])!= '' && trim($_POST['toDate'])!='') {
     $fromDate = date('Y-m-d', strtotime($_POST['fromDate']));
@@ -20,11 +20,11 @@ $searching = '{
         "toDate":"'.$toDate.'"
     }';
 
-$url = $serverurlapi."General/getAccAuditTrailAPI.php";
+$url = $serverurlapi."reports/getAccAuditTrailAPI.php";
 
 if(isset($_POST['action'])=='searchaction')
 {
-  
+
 $response = postCurlData($url,$searching);
 //logger("Response return from account Audit Trail API: ". $response);
 $dashData = json_decode($response);
@@ -35,52 +35,52 @@ if($_POST['action']=="exportaction"){
 
 
 $response = postCurlData($url,$searching);
-//logger("Response return from account Audit Trail EXPORT API: ". $response); 
+//logger("Response return from account Audit Trail EXPORT API: ". $response);
 $dashData = json_decode($response);
 
 
-// Filter the excel data 
-/*function filterData(&$str){ 
-    $str = preg_replace("/\t/", "\\t", $str); 
-    $str = preg_replace("/\r?\n/", "\\n", $str); 
-    if(strstr($str, '"')) $str = '"' . str_replace('"', '""', $str) . '"'; 
+// Filter the excel data
+/*function filterData(&$str){
+    $str = preg_replace("/\t/", "\\t", $str);
+    $str = preg_replace("/\r?\n/", "\\n", $str);
+    if(strstr($str, '"')) $str = '"' . str_replace('"', '""', $str) . '"';
 } */
 
-// Excel file name for download 
-$fileName = "AccountAudit_Trail.xls"; 
+// Excel file name for download
+$fileName = "AccountAudit_Trail.xls";
 
-// Column names 
-$fields = array('AccountCode', 'AccountName', 'Amount', 'AmountType', 'VoucherType', 'Voucher' , 'Balance' ,'Date' , 'UserName' , 'UserIP'); 
- 
- 
-// Display column names as first row 
-$excelData = implode("\t", array_values($fields)) . "\n"; 
+// Column names
+$fields = array('AccountCode', 'AccountName', 'Amount', 'AmountType', 'VoucherType', 'Voucher' , 'Balance' ,'Date' , 'UserName' , 'UserIP');
+
+
+// Display column names as first row
+$excelData = implode("\t", array_values($fields)) . "\n";
 
 	if(isset($dashData->Status)=='true'){
-		if(isset($dashData->listOfData)){                    
+		if(isset($dashData->listOfData)){
 			$no=1;
 			foreach($dashData->listOfData as $resultList){
 			//$dateTime = explode(' ', $resultList->Date);
 			//$date = $dateTime[0];
 			//$time = $dateTime[1];
 			//$showDate = date_create($date);
-				
-				
-				 $lineData = array($resultList->AccountCode,$resultList->AccountName,$resultList->Amount,$resultList->AmountType,$resultList->VoucherType,$resultList->Voucher,$resultList->Balance,$resultList->DateTime,$resultList->UserName,$resultList->IPAddress); 
-						//array_walk($lineData, 'filterData'); 
-						$excelData .= implode("\t", array_values($lineData)) . "\n"; 
-				
+
+
+				 $lineData = array($resultList->AccountCode,$resultList->AccountName,$resultList->Amount,$resultList->AmountType,$resultList->VoucherType,$resultList->Voucher,$resultList->Balance,$resultList->DateTime,$resultList->UserName,$resultList->IPAddress);
+						//array_walk($lineData, 'filterData');
+						$excelData .= implode("\t", array_values($lineData)) . "\n";
+
 			}
 		$no++;
 		}
 	}
-	
-	// Headers for download 
-header("Content-Type: application/vnd.ms-excel"); 
-header("Content-Disposition: attachment; filename=\"$fileName\""); 
-// Render excel data 
-echo $excelData; 
- 
+
+	// Headers for download
+header("Content-Type: application/vnd.ms-excel");
+header("Content-Disposition: attachment; filename=\"$fileName\"");
+// Render excel data
+echo $excelData;
+
 exit;
 }
 
@@ -152,24 +152,24 @@ exit;
                                 <h6 style="font-weight: initial;">Account&nbsp;Name</h6>
                                 <select name="accountCode" class="form-control" >
                                     <option value="">Select</option>
-                                    <?php 
+                                    <?php
                                     $jsonData = '{
                                                     "AccountName":"",
                                                     "GroupId":"",
                                                     "Status":"1"
                                                 }';
-                                    $newurl = $serverurlapi."General/accountNameAPI.php";
+                                    $newurl = $serverurlapi."masters/accountNameAPI.php";
                                     $resultData = postCurlData($newurl,$jsonData);
                                     //logger('Response return from account Name API: '.$resultData);
                                     $accountData = json_decode($resultData);
                                     if(isset($accountData->status)=='true'){
-                                    if(isset($accountData->AccountNameData)){                    
+                                    if(isset($accountData->AccountNameData)){
                                     foreach($accountData->AccountNameData as $resultList){
                                         ?>
                                         <option value="<?php echo $resultList->Id; ?>" <?php if($_POST['accountCode']==$resultList->Id){ echo 'selected'; }?>>
                                         <?php echo $resultList->AccountName; ?></option>
                                     <?php } } }	?>
-                                    
+
                                 </select>
                             </div>
                         </div>
@@ -242,13 +242,13 @@ exit;
     $no=1;
 	if($dashData->listOfData!=''){
     foreach($dashData->listOfData as $resultList){
-	
+
 	if($resultList->AccountCode!=''){
 		//$dateTime = explode(' ', $resultList->DateTime);
 		//$date = $dateTime[0];
 		//$time = $dateTime[1];
 		//$showDate = date_create($date);
-		
+
     ?>
                         <tr>
                             <!-- <td><?php echo $no; ?></td> -->
@@ -268,9 +268,9 @@ exit;
                             </td>
                         </tr>
                         <?php
-$no++;    
+$no++;
 }
-     
+
 	 } }else{ ?>
                         <tr>
                             <td colspan="10">
@@ -279,7 +279,7 @@ $no++;
                         </tr>
 
                         <?php }
-    
+
     }else{ ?>
                         <tr>
                             <td colspan="10">
