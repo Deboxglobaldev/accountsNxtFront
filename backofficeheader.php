@@ -160,7 +160,7 @@
 		                </li>
                         <li class="nav-item">
                             <a class="nav-link" href="listBankReceipt.php"><span class="nav-link-text text-white seq">Bank
-                                    Receipt</span></a>
+                                    Voucher</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="listBankPayment.php"><span class="nav-link-text text-white seq">Bank

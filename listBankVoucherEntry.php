@@ -1,5 +1,5 @@
-<?php 
-// get url 
+<?php
+// get url
 include "inc.php";
 include "logincheck.php";
 $InfoMessage = "[Info] - File location ".$_SERVER['PHP_SELF']." Message:- " ;
@@ -19,14 +19,14 @@ if($_POST['action']=='approveall'){
 				"voucherNumber":"'.$voucherNumber.'"
 			},';
 	}
-	
+
 	$jsonPost = '{
 		"userId": "'.$_SESSION['UID'].'",
     "ip":"'.$_SERVER["REMOTE_ADDR"].'",
 		"ListOfVoucher":['.rtrim($ackJson,',').']
 	}';
-	
-	$url =  $serverurlapi."General/updateRechargeAPI.php";
+
+	$url =  $serverurlapi."vouchers/updateRechargeAPI.php";
 	$response = postCurlData($url,$jsonPost);
 	logger("RESPONCE RETURN from Recharge approve API: ". $response);
 	$responseData = json_decode($response);
@@ -37,8 +37,8 @@ if($_POST['action']=='approveall'){
 	}else{
 		$_SESSION['error'] = 'Error in Approve.';
 	}
-	
-	
+
+
 }
 
 
@@ -51,7 +51,7 @@ $jsondelete = '{
 $branchCode = trim($_GET['branchCode']);
 $voucherNo = trim($_GET['voucherNo']);
 // $productType = trim($_GET['productType']);
-  
+
 $url = $serverurlapi."General/editDeleteRechargeAPI.php";
 $resultData = postCurlData($url,$jsondelete);
 //logger('Response return from listBranchRechargeAPI: '.$resultData);
@@ -65,7 +65,7 @@ $voucherNo = trim($_POST['voucherNo']);
 $fromDate = date('Y-m-d',strtotime($_POST['fromDate']));
 $toDate = date('Y-m-d',strtotime($_POST['toDate']));
 // $productType = trim($_GET['productType']);
-  
+
 $jsonData = '{
   	"branchCode":"'.$branchCode.'",
     "voucherNo":"'.$voucherNo.'",
@@ -73,7 +73,7 @@ $jsonData = '{
     "toDate":"'.$toDate.'"
 }';
 
-$url = $serverurlapi."General/listBranchRechargeAPI.php";
+$url = $serverurlapi."vouchers/listBranchRechargeAPI.php";
 $resultData = postCurlData($url,$jsonData);
 logger('Response return from listBranchRechargeAPI: '.$resultData);
 $accountData = json_decode($resultData);
@@ -81,7 +81,7 @@ $accountData = json_decode($resultData);
 }
 /*else{
 
-  
+
 $jsonData = '{
 		"branchCode":"'.$branchCode.'"
 }';
@@ -129,7 +129,7 @@ include 'header.php';
   	<div class="hk-pg-wrapper"  style="">
   		<div class="container-fluid">
       <form action="" method="POST" autocomplete="nope" id="exportfrm" />
-	   
+
         <div class="row gy-bvc">
 		<!-- <div class="col-md-2">
           <div >
@@ -178,7 +178,7 @@ include 'header.php';
         </div>
 		</div>
       </form>
-	  
+
 	  <?php if($loginType=="BRANCH"){ ?>
 	  <div class="row gy-bvc nn-mb">
         <div class="col-md-12">
@@ -189,9 +189,9 @@ include 'header.php';
       </div>
 	  <?php } ?>
     </div>
-    
+
 		<div class="container-fluid" style="margin-top:20px">
-		<div id="tabledata" style="padding: 10px;"> 
+		<div id="tabledata" style="padding: 10px;">
 	<?php  if(isset($_SESSION['error'])!=''){ ?>
 	<div class="bs-example" id="messageDiv">
 	<!-- Success Alert -->
@@ -232,7 +232,7 @@ include 'header.php';
           <tbody id="tablesearch">
             <?php
     if(isset($accountData->status)=='true'){
-    if(isset($accountData->WalletData)){                    
+    if(isset($accountData->WalletData)){
     $no=1;
     foreach($accountData->WalletData as $resultList){
 
@@ -253,16 +253,16 @@ include 'header.php';
 			 <td><strong><a href="uploads/<?php echo $resultList->Attachment; ?>" target="_blank">View</a></strong></td>
              <!--<td>
 				<div id="hide<?php echo $resultList->VoucherNo; ?>" onClick="funccheck(<?php echo $no; ?>,'<?php echo $resultList->VoucherNo; ?>');" style="cursor: pointer;color: white;background: #2f9e41;border: 1px solid #2f9e41;border-radius: 4px;padding: 3px 0px; <?php  if($resultList->WalletFlag == 0){ ?>display: block; <?php }else{ ?>display: none;<?php } ?>">Approve</div>
-             
+
                 <div id="show<?php echo $resultList->VoucherNo; ?>" style="color: white;font-size: 13px;background: #1f7140;width: fit-content;padding: 1px 5px;border-radius: 50%;display: block;margin: auto; <?php  if($resultList->WalletFlag == 0){ ?>display: none; <?php }else{ ?>display: block;<?php } ?>"><i class="fa fa-check"></i></div>
-            
+
               </td>-->
 			  <td><a  style="color:#0000FF; " href="#" data-toggle="modal" data-target="#modalpop" onClick="opmodalpop('Narration','modelpop.php?action=showNarration&ndetail=<?php echo htmlentities($resultList->Narration); ?>','100%','auto');"><?php echo substr($resultList->Narration,0,10); ?>...</a></td>
 			   <?php if($loginType=="BRANCH"){ ?>
 			  <td>Pending</td>
-			 
+
 			  <td>
-			  <a href="addBankVoucherEntry.php"><i class="fa fa-pencil" style="font-size: 18px; color:#0000FF;"></i></a> 
+			  <a href="addBankVoucherEntry.php"><i class="fa fa-pencil" style="font-size: 18px; color:#0000FF;"></i></a>
 			  <a href="listBankVoucherEntry.php?type=<?php echo encode("delete"); ?>&did=<?php echo encode($resultList->Id); ?>&action=searchaction&branchCode=<?php echo $_GET['branchCode']; ?>&productType=<?php echo $_GET['productType']; ?>" onClick="return  confirm('are you sure you want to delete?');"><i class="fa fa-trash" style="font-size: 18px; color:#FF0000;"></i></a>
 			  </td>
 			  <?php } ?>
@@ -274,7 +274,7 @@ include 'header.php';
   }
   else{?>
     <tr class="uyt hgte">
-<td colspan="14"><div align="center"><?php echo 'You Can Search...'; ?></div></td>    
+<td colspan="14"><div align="center"><?php echo 'You Can Search...'; ?></div></td>
     </tr>
     <?php }
     ?>
@@ -309,17 +309,17 @@ include 'header.php';
       })
     }
     });
-    
+
     });
 
-    window.setInterval(function(){ 
+    window.setInterval(function(){
       checked = $("#tabledata input[type=checkbox]:checked").length;
-      if(!checked) { 
+      if(!checked) {
     $("#approvebutton").hide();
       } else {
-	  
+
     $("#approvebutton").show();
-    } 
+    }
 }, 100);
 </script>
 <?php include 'footer.php'; ?>
@@ -327,7 +327,7 @@ include 'header.php';
 </html>
 <script>
 $( function() {
-  $( ".datepicker" ).datepicker({ 
+  $( ".datepicker" ).datepicker({
     dateFormat: 'dd-mm-yy',
     maxDate: 0
   });
@@ -339,7 +339,7 @@ function funccheck(no,voucher){
 	var confirmed = confirm("Do you want to Approve Voucher no "+voucher);
 	if(confirmed){
 		$('#hide'+voucher).load('frmaction.php?act=walletApprove&voucher='+voucher);
-		
+
 	}
 
 }
