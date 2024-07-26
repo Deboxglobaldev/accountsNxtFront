@@ -230,11 +230,7 @@ var credit = $('#credit_'+rowid).val();
 
 		}
 
-	$("table tr:nth-child(2) td:last-child input").keyup(function(){
-  for(var w =0;w < 20;w++){
-  $("#narration_"+w).val(this.value);
-}
-});
+
     </script>
    <!--  <section class="">
       <div class="container-fluid full-bd">
