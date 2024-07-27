@@ -179,7 +179,7 @@ include 'header.php';
 		</div>
       </form>
 
-	  <?php if($loginType=="BRANCH"){ ?>
+
 	  <div class="row gy-bvc nn-mb">
         <div class="col-md-12">
           <div class="row lk-kl">
@@ -187,7 +187,7 @@ include 'header.php';
           </div>
         </div>
       </div>
-	  <?php } ?>
+
     </div>
 
 		<div class="container-fluid" style="margin-top:20px">

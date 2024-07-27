@@ -1,10 +1,10 @@
-<?php  
+<?php
 // get url
 include 'inc.php';
 include "logincheck.php";
 $InfoMessage = "[Info] - File location ".$_SERVER['PHP_SELF']." Message:- " ;
 logger($InfoMessage."At begining of Call");
- 
+
 //insert bank voucher entry
 if(isset($_POST['addbranchinfo'])){
 logger($InfoMessage." Data Save .." );
@@ -36,7 +36,7 @@ $jsonData = array(
 
 $insertData = http_build_query($jsonData);
 
-$url = $serverurlapi."General/addBranchRechargeAPI.php";
+$url = $serverurlapi."vouchers/addBranchRechargeAPI.php";
 $ch = curl_init();
 logger($InfoMessage." Saving Data URL  .. ".$url );
 logger($InfoMessage." Saving Data as  .. ".$insertData );
@@ -107,7 +107,7 @@ label {
 					// curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 					// $stateresult = curl_exec($ch);
 					// $stateData = json_decode($stateresult, true);
-					// curl_close($ch); 
+					// curl_close($ch);
 					// if(isset($stateData['branchlist'])){
 					// foreach($stateData['branchlist'] as $stateList){
 					// if(trim($stateList['BranchCode'])!=''){
@@ -119,7 +119,7 @@ label {
 					// }
 					?>
                   </select>-->
-            <input type="text" name="branchAc" id="branchAc"  class="inp-t" value="<?php echo trim($_SESSION['BID']); ?>" readonly="readonly" style="background:#d5d5d5;">
+            <input type="text" name="branchAc" id="branchAc"  class="inp-t" value="">
           </div>
           <div class="col-md-2">
             <h6>Payment&nbsp;Type<span class="mandat">*</span></h6>
@@ -176,7 +176,7 @@ label {
             <input type="text" name="credit" id="credit"  class="inp-t" value="">
           </div>
           <div class="col-md-2">
-            <h6>Religare&nbsp;Bank&nbsp;Name</h6>
+            <h6>Company&nbsp;Bank&nbsp;Name</h6>
           </div>
           <div class="col-md-2">
           	<select class="inp-w ui-select wd-tr" name="religareBankName" id="religareBankName" required>
@@ -184,21 +184,21 @@ label {
 			 <?php
        $jsonData = '{
         "AccountName":"",
-        "GroupId":"LB0004",
+        "GroupId":"",
         "Status":"1"
       }';
-			$result = postCurlData($serverurlapi."General/accountNameAPI.php",$jsonData);
-      logger('data return: '.$result);
+			$result = postCurlData($serverurlapi."masters/accountNameAPI.php",$jsonData);
+      //logger('data return: '.$result);
 			$accountNameData = json_decode($result, true);
 			if(isset($accountNameData['status'])=='true'){
-			if(isset($accountNameData['AccountNameData'])){                    
+			if(isset($accountNameData['AccountNameData'])){
 			$no=1;
 			foreach($accountNameData['AccountNameData'] as $resultList){
 				//if($resultList['SubGroupId'] == 3){
 			?>
             <option value="<?php echo $resultList['Id']; ?>" <?php if($resultList['Id']==$editresult['religareBankName']){ echo "selected"; }?>><?php echo $resultList['AccountName']; ?></option>
-			<?php } //} 
-    } 
+			<?php } //}
+    }
     } ?>
             </select>
            </div>
@@ -218,21 +218,21 @@ label {
 			// $result = postCurlData($serverurlapi."General/productinfoList.php","");
 			// $regionData = json_decode($result, true);
 			// if(isset($regionData['status'])=='true'){
-			// if(isset($regionData['productlist'])){                    
+			// if(isset($regionData['productlist'])){
 			// $no=1;
 			// foreach($regionData['productlist'] as $resultList){
 			?>
             <!-- <option value="<?php // echo $resultList['Id']; ?>" <?php // if($resultList['ProductType']==$editresult['ProductId']){ echo "selected"; }?>><?php // echo $resultList['ProductType']; ?></option> -->
 			<?php // } } } ?>
             <!-- </select> -->
-            
+
           <!-- </div> -->
         </div>
       </div>
     </section>
     <section class="">
       <div class="container-fluid full-bd">
-        <div class="row">      
+        <div class="row">
           <div class="col-md-2">
             <h6>Narration<span class="mandat">*</span></h6>
           </div>
@@ -310,9 +310,9 @@ label {
 $( function() {
 	//var today = new Date();
 	//var tomorrow = new Date();
-	$( ".datepicker" ).datepicker({ 
+	$( ".datepicker" ).datepicker({
 		dateFormat: 'dd-mm-yy',
-		
+
 	});
 });
 
@@ -336,7 +336,7 @@ $(document).ready(function(){
 			}
 		},
 		messages :{
-		   
+
 		},
 		submitHandler: function(form) {
 		  form.submit();
